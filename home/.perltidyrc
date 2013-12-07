@@ -1,0 +1,21 @@
+#
+#   "Enforce your chosen layout style mechanically."
+#       -Damian Conway, Perl Best Practices
+#
+#   These are the perltidyrc settings that Conway recommends.
+#   (Some of these values are the defaults; why he chose to list those
+#   defaults explicitly, but not the dozens of others, I do not know.)
+
+--maximum-line-length=78
+--indent-columns=4             # default
+--continuation-indentation=4
+--vertical-tightness=2
+--closing-token-indentation=0  # default
+--paren-tightness=1            # default
+--brace-tightness=1            # default
+--square-bracket-tightness=1   # default
+--block-brace-tightness=1
+--no-space-for-semicolon
+--no-outdent-long-quotes
+--want-break-before="% + - * / x != == >= <= =~ !~ < > | & >= < = **= += *= &= <<= &&= -= /= |= >>= ||= .= %= ^= x="
+
