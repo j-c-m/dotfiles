@@ -25,7 +25,11 @@ fi
 
 # Set MANPATH so it includes users' private man if it exists
 if [ -d "${HOME}/man" ]; then
-   export MANPATH=${HOME}/man:${MANPATH}
+    export MANPATH=${HOME}/man:${MANPATH}
+fi
+# private bin
+if [ -d "${HOME}/bin" ]; then
+    export PATH=${HOME}/bin:${PATH}
 fi
 
 if [ $(type -P vim) ]; then
@@ -34,4 +38,8 @@ if [ $(type -P vim) ]; then
 elif [ $(type -P ee) ]; then
     export EDITOR=ee
     export VISUAL=ee
+fi
+
+if [ -f "${HOME}/.bashrc.local" ]; then
+    source "${HOME}/.bashrc.local"
 fi
