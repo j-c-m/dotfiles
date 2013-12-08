@@ -23,7 +23,10 @@ if [ -f "${HOME}/.bash_aliases" ]; then
     source "${HOME}/.bash_aliases"
 fi
 
-if [ -x `which vim` ]; then
-    EDITOR=vim
-    VISUAL=vim
+if [ $(type -P vim) ]; then
+    export EDITOR=vim
+    export VISUAL=vim
+elif [ $(type -P ee) ]; then
+    export EDITOR=ee
+    export VISUAL=ee
 fi
