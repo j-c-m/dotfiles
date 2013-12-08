@@ -23,6 +23,7 @@ if [ -f "${HOME}/.bash_aliases" ]; then
     source "${HOME}/.bash_aliases"
 fi
 
-if [ -f `which vim` ]; then
+if [ -x `which vim` ]; then
     EDITOR=vim
+    VISUAL=vim
 fi
