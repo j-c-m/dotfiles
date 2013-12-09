@@ -46,6 +46,11 @@ elif [ $(type -P ee) ]; then
     export VISUAL=ee
 fi
 
+# FreeBSD bash-completion
+[[ $PS1 && -f /usr/local/share/bash-completion/bash_completion.sh ]] && \
+    source /usr/local/share/bash-completion/bash_completion.sh
+
+
 if [ -f "${HOME}/.bashrc.local" ]; then
     source "${HOME}/.bashrc.local"
 fi
