@@ -4,9 +4,11 @@
 
 case $TERM in
     xterm* | screen* )
-        PS1="\[\e]2;\H \w \u@\h\a\][\[\e[1;37m\]\@\\[\e[m\]] \! [\[\e[44m\e[1;36m\]\w\[\e[m\]]:\[\e[44m\e[1;37m\]\u@\h\[\e[m\]\n\$ "
+        TITLEBAR="\[\e]2;\H \w \u@\h\a\]"
         ;;
     *)
-        PS1="[\u@\h \w]\\$ "
+        TITLEBAR=""
         ;;
 esac
+
+PS1="${TITLEBAR}[\[\e[1;37m\]\@\\[\e[m\]] \! [\[\e[44m\e[1;36m\]\w\[\e[m\]]:\[\e[44m\e[1;37m\]\u@\h\[\e[m\]\n\$ "
