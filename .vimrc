@@ -52,3 +52,11 @@ endif
 colorscheme kolor
 
 set pastetoggle=<F2>
+
+" for go
+filetype off
+filetype plugin indent off
+set runtimepath+=/usr/local/go/misc/vim
+filetype plugin indent on
+syntax on
+" end go
