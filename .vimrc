@@ -56,7 +56,10 @@ set pastetoggle=<F2>
 " for go
 filetype off
 filetype plugin indent off
-set runtimepath+=/usr/local/go/misc/vim
+if empty($GOROOT)
+    let $GOROOT='/usr/local/go/misc/vim'
+endif
+set runtimepath+=$GOROOT
 filetype plugin indent on
 syntax on
 " end go
