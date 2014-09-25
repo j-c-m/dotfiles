@@ -1,9 +1,9 @@
 if type -p less &> /dev/null
 then
-    export EDITOR=less
-    export EDITOR=less
+    export PAGER=less
+    export PAGER=less
 elif type -p more &> /dev/null
 then
-    export EDITOR=more
-    export EDITOR=more
+    export PAGER=more
+    export PAGER=more
 fi
