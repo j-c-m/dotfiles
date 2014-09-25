@@ -1,3 +1,9 @@
+# detect / install oh-my-zsh
+if [[ ! -f $HOME/.oh-my-zsh/MIT-LICENSE.txt ]]; then
+    echo "\033[0;34mCloning Oh My Zsh...\033[0m"
+    hash git >/dev/null 2>&1 && env git clone https://github.com/robbyrussell/oh-my-zsh.git $HOME/.oh-my-zsh
+fi
+
 # Path to your oh-my-zsh installation.
 export ZSH=$HOME/.oh-my-zsh
 
