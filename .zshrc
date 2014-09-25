@@ -69,11 +69,11 @@ if [[ -d "${HOME}/bin" ]]; then
     export PATH=${HOME}/bin:${PATH}
 fi
 
-if [ $(type -p vim) ]; then
+if [[ ($(type -p vim)) ]]; then
     export EDITOR=vim
     export EDITOR=vim
 elif
-    [ $(type -p ee) ]; then
+    [[ ($(type -p ee)) ]]; then
     export EDITOR=ee
     export EDITOR=ee
 fi
