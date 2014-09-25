@@ -11,7 +11,7 @@ export ZSH=$HOME/.oh-my-zsh
 # Look in ~/.oh-my-zsh/themes/
 # Optionally, if you set this to "random", it'll load a random theme each
 # time that oh-my-zsh is loaded.
-ZSH_THEME="my"
+ZSH_THEME=""
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -103,3 +103,20 @@ fi
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+#
+# my prompts
+
+# primary prompt
+PROMPT='[%{$FG[015]%}%t%{$reset_color%}] %w \
+[%{$FG[117]$BG[004]%}%~%{$reset_color%}]:\
+%{$FG[252]$BG[004]%}%n@%m%{$reset_color%}
+%(!.#.$) '
+# right
+RPROMPT='$(git_prompt_info)'
+
+# git settings
+ZSH_THEME_GIT_PROMPT_PREFIX="%{$FG[015]$BG[004]%}branch:"
+ZSH_THEME_GIT_PROMPT_CLEAN=""
+ZSH_THEME_GIT_PROMPT_DIRTY="%{$FG[163]%}*%{$reset_color%}"
+ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%}"
+
