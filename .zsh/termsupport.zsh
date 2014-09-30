@@ -16,11 +16,11 @@ function title {
 }
 
 ZSH_THEME_TERM_TAB_TITLE_IDLE="%15<..<%~%<<" #15 char left truncated PWD
-ZSH_THEME_TERM_TITLE_IDLE="%n@%m: %~"
+ZSH_THEME_TERM_TITLE_IDLE="%n@%m:"
 
 #Appears when you have the prompt
 function omz_termsupport_precmd {
-  title $ZSH_THEME_TERM_TAB_TITLE_IDLE $ZSH_THEME_TERM_TITLE_IDLE
+  title $ZSH_THEME_TERM_TAB_TITLE_IDLE "$ZSH_THEME_TERM_TITLE_IDLE %~"
 }
 
 #Appears at the beginning of (and during) of command execution
@@ -32,7 +32,7 @@ function omz_termsupport_preexec {
   local CMD=${1[(wr)^(*=*|sudo|ssh|rake|-*)]:gs/%/%%}
   local LINE="${2:gs/%/%%}"
 
-  title '$CMD' '%100>...>$LINE%<<'
+  title '$CMD' '$ZSH_THEME_TERM_TITLE_IDLE %100>...>$LINE%<<'
 }
 
 precmd_functions+=(omz_termsupport_precmd)
