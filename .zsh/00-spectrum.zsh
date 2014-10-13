@@ -33,7 +33,7 @@ function spectrum_ls() {
 # Show all 256 colors where the background is set to specific color
 function spectrum_bls() {
   for code in {000..255}; do
-    print -P -- "%K{$code}$code: $ZSH_SPECTRUM_TEXT %{$reset_color%}"
+    print -P -- "%K{$code}$code: $ZSH_SPECTRUM_TEXT %{%k%}"
   done
 }
 
