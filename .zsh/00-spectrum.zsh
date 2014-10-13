@@ -3,7 +3,7 @@
 # P.C. Shyamshankar <sykora@lucentbeing.com>
 # Copied from http://github.com/sykora/etc/blob/master/zsh/functions/spectrum/
 
-if [[ $(echotc Co) != 256 ]] exit
+if [[ $(echotc Co) != 256 ]] return
 
 typeset -Ag FX FG BG
 
