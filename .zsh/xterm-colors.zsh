@@ -1,7 +1,7 @@
 if [[ $TERM != xterm* ]] return
 
 echo -ne '\e]10;#AAAAAA\a'  # foreground
-echo -ne '\e]11;#202020\a'  # background
+echo -ne '\e]11;#1c1c1c\a'  # background
 echo -ne '\e]12;#AAAAAA\a'  # cursor
 
 echo -ne '\e]4;0;#000000\a'   # black
