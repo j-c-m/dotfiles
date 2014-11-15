@@ -14,3 +14,4 @@ ZSH_THEME_GIT_PROMPT_PREFIX="%{$fg_bold[white]$bg[blue]%}branch:"
 ZSH_THEME_GIT_PROMPT_CLEAN=""
 ZSH_THEME_GIT_PROMPT_DIRTY="%{$fg_no_bold[red]%}*%{$reset_color%}"
 ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%}"
+
