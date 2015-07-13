@@ -2,7 +2,7 @@ if type -p less &> /dev/null
 then
     export PAGER=less
     export PAGER=less
-    export LESS=-RX
+    export LESS=-RXE
 elif type -p more &> /dev/null
 then
     export PAGER=more
