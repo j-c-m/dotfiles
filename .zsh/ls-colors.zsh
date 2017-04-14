@@ -11,4 +11,8 @@ else
   ls --color -d . &>/dev/null 2>&1 && alias ls='ls --color=tty' || alias ls='ls -G'
 fi
 
-export LSCOLORS=Exfxcxdxbxegedabagacad
+if type -p dircolors &> /dev/null;then
+    eval `dircolors ~/.zsh/dircolors.256dark`
+else
+    export LSCOLORS=Exfxcxdxbxegedabagacad
+fi
