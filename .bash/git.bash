@@ -20,7 +20,7 @@ function git_echo_dirty() {
 
 function git_echo_prompt() {
     local GP
-    if (git rev-parse --is-inside-work-tree &> /dev/null); then
+    if (command git rev-parse --is-inside-work-tree &> /dev/null); then
         GP="${GIT_PROMPT_PREFIX}$(git_echo_ref)"
         if git_is_dirty; then
             GP+="${GIT_PROMPT_DIRTY}"
@@ -33,8 +33,22 @@ function git_echo_prompt() {
 }
 
 function git_is_dirty() {
-    (git diff-index --quiet HEAD 2> /dev/null)
-    if [ $? = 1 ]; then
+    local STATUS
+
+    if [[ "$(command git config --get oh-my-zsh.hide-dirty)" = "1" ]]; then
+        return 1
+    fi
+
+    if type -p git.exe &> /dev/null; then
+        STATUS=$(git.exe status --porcelain 2> /dev/null)
+        if [ $? != 0 ]; then
+            STATUS=$(command git status --porcelain)
+        fi
+        else
+        STATUS=$(command git status --porcelain)
+    fi
+
+    if [[ -n $STATUS ]]; then
         return 0
     else
         return 1
