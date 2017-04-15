@@ -13,6 +13,10 @@ fi
 autoload -U colors && colors
 autoload -U compinit && compinit
 
+for sh_file (~/.sh/*.sh); do
+    source $sh_file
+done
+
 for zsh_file (~/.zsh/*.zsh); do
   source $zsh_file
 done

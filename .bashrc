@@ -1,16 +1,5 @@
 [ -z "$PS1" ] && return
 
-# don't put duplicate lines in the history. See bash(1) for more options
-# ... or force ignoredups and ignorespace
-HISTCONTROL=ignoredups:ignorespace
-
-# append to the history file, don't overwrite it
-shopt -s histappend
-
-# for setting history length see HISTSIZE and HISTFILESIZE in bash(1)
-HISTSIZE=1000
-HISTFILESIZE=2000
-
 # check the window size after each command and, if necessary,
 # update the values of LINES and COLUMNS.
 shopt -s checkwinsize
@@ -21,14 +10,6 @@ shopt -s nocaseglob
 # Autocorrect typos in path names when using `cd`
 shopt -s cdspell
 
-if [ -f "${HOME}/.bash_prompt" ]; then
-    source "${HOME}/.bash_prompt"
-fi
-
-if [ -f "${HOME}/.bash_aliases" ]; then
-    source "${HOME}/.bash_aliases"
-fi
-
 # Set MANPATH so it includes users' private man if it exists
 if [ -d "${HOME}/man" ]; then
     export MANPATH=${HOME}/man:${MANPATH}
@@ -38,19 +19,17 @@ if [ -d "${HOME}/bin" ]; then
     export PATH=${HOME}/bin:${PATH}
 fi
 
-if [ $(type -P vim) ]; then
-    export EDITOR=vim
-    export VISUAL=vim
-elif [ $(type -P ee) ]; then
-    export EDITOR=ee
-    export VISUAL=ee
-fi
-
 # FreeBSD bash-completion
-[[ $PS1 && -f /usr/local/share/bash-completion/bash_completion.sh ]] && \
+[[ -f /usr/local/share/bash-completion/bash_completion.sh ]] && \
     source /usr/local/share/bash-completion/bash_completion.sh
+# Linux bash-completion
+[[ -f /usr/share/bash-completion/bash_completion ]] && \
+    source /usr/share/bash-completion/bash_completion
 
+for sh_file in ~/.sh/*.sh; do
+    source $sh_file
+done
 
-if [ -f "${HOME}/.bashrc.local" ]; then
-    source "${HOME}/.bashrc.local"
-fi
+for bash_file in ~/.bash/*.bash; do
+  source $bash_file
+done

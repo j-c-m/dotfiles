@@ -1,10 +1,8 @@
-if type -p less &> /dev/null
-then
+if type -p less &> /dev/null; then
     export PAGER=less
     export PAGER=less
     export LESS=FRX
-elif type -p more &> /dev/null
-then
+elif type -p more &> /dev/null; then
     export PAGER=more
     export PAGER=more
 fi

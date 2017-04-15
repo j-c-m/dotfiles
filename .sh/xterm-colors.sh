@@ -1,4 +1,10 @@
-if [[ $TERM != xterm* ]] return
+case "$TERM" in
+    xterm*)
+        ;;
+    *)
+        return
+        ;;
+esac
 
 echo -ne '\e]10;#AAAAAA\a'  # foreground
 echo -ne '\e]11;#1c1c1c\a'  # background
