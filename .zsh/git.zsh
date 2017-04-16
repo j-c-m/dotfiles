@@ -14,6 +14,7 @@ function git_prompt_info() {
 function parse_git_dirty() {
   local STATUS=''
   local FLAGS
+
   FLAGS=('--porcelain')
   if [[ "$(command git config --get oh-my-zsh.hide-dirty)" != "1" ]]; then
     if [[ $POST_1_7_2_GIT -gt 0 ]]; then
@@ -22,7 +23,15 @@ function parse_git_dirty() {
     if [[ "$DISABLE_UNTRACKED_FILES_DIRTY" == "true" ]]; then
       FLAGS+='--untracked-files=no'
     fi
-    STATUS=$(command git status ${FLAGS} 2> /dev/null | tail -n1)
+    #WSL
+    if type -p git.exe &> /dev/null; then
+      STATUS=$(git.exe status ${FLAGS} 2> /dev/null | tail -n1)
+        if [ $? != 0 ]; then
+        STATUS=$(command git status ${FLAGS} 2> /dev/null | tail -n1)
+      fi
+    else
+      STATUS=$(command git status ${FLAGS} 2> /dev/null | tail -n1)
+    fi
   fi
   if [[ -n $STATUS ]]; then
     echo "$ZSH_THEME_GIT_PROMPT_DIRTY"
