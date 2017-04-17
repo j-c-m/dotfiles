@@ -7,7 +7,7 @@ case $TERM in
         ;;
 esac
 
-PS1="${TITLEBAR}[\[\e[1;37m\]\@\\[\e[m\]] \! [\[\e[44m\e[1;36m\]\w\$(git_echo_prompt)\[\e[m\]]:\[\e[44m\e[37m\]\u@\h\[\e[m\]\n\$ "
+PS1="${TITLEBAR}[\[\e[1;34m\]\D{%F %T}\\[\e[m\]] \[\e[44m\e[1;36m\]\w\$(git_echo_prompt)\[\e[m\]:\[\e[44m\e[37m\]\u@\h\[\e[m\]\n\$ "
 
 GIT_PROMPT_PREFIX=":"
 GIT_PROMPT_SUFFIX=
