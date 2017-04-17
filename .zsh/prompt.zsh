@@ -1,8 +1,8 @@
 setopt PROMPT_SUBST
 
 # primary prompt (standard color)
-PROMPT='[%{$fg_bold[blue]%}%D{%F %T}%{$reset_color%}] \
-%{$fg_bold[cyan]$bg[blue]%}%~$(git_echo_prompt)%{$reset_color%}:\
+PROMPT='[%{$fg_bold[white]%}%*%{$reset_color%}] %D{%a %b %d} \
+[%{$fg_bold[cyan]$bg[blue]%}%~$(git_echo_prompt)%{$reset_color%}]:\
 %(!.%{$fg[red]%}.%{$fg[white]%})%{$bg[blue]%}%n@%m%{$reset_color%}
 %(!.#.$) '
 
