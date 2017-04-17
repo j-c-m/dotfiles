@@ -3,7 +3,7 @@
 # P.C. Shyamshankar <sykora@lucentbeing.com>
 # Copied from http://github.com/sykora/etc/blob/master/zsh/functions/spectrum/
 
-if [[ $(echotc Co) != 256 ]] return
+if [[ $(echotc Co 2> /dev/null) != 256 ]] return
 
 typeset -Ag FX FG BG
 
@@ -42,17 +42,17 @@ function spectrum()
     local b=0
     local m=0
     typeset -A grid
-    
+
     for color in {000..255}; do
         # Current line in a block
         m=$((($color)%8))
-    
+
         # Appending the displayed color to the line
         grid[$m]=$grid[$m]"%F{$color}#${color}%f %K{$color}        %k  "
-    
+
         # Counting how many blocks are filled
         [[ $m = 7 ]] && b=$(($b+1))
-    
+
         # Enough blocks for this line, display them
         if [[ $b = 4 ]]; then
             # Reset block counter
