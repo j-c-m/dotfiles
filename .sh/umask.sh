@@ -1,4 +1,6 @@
-if [ "$(umask)" = "0000" ]; then
-    umask 022
-fi
+case $(umask) in
+    000*)
+        umask 022
+        ;;
+esac
 
