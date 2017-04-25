@@ -1,5 +1,5 @@
 if type -p dircolors &> /dev/null;then
-    eval `dircolors ~/.sh/dircolors.256dark`
+    eval $(dircolors ~/.sh/dircolors.256dark)
 fi
 
 export LSCOLORS=Exfxcxdxbxegedabagacad
