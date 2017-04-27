@@ -10,8 +10,9 @@ if [[ -d "${HOME}/bin" ]]; then
     export PATH=${HOME}/bin:${PATH}
 fi
 
-fpath=(~/.zsh/compdef $fpath)
-zstyle ':completion:*' use-cache on
+if [[ -O "~/.zsh/compdef" ]]; then
+    fpath=(~/.zsh/compdef $fpath)
+fi
 
 autoload -U colors && colors
 autoload -U compinit && compinit
