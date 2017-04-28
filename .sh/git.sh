@@ -35,13 +35,13 @@ function git_echo_prompt() {
 function git_is_dirty() {
     local STATUS
 
-    if [[ "$(command git config --get oh-my-zsh.hide-dirty)" = "1" ]]; then
+    if [[ "$(command git config --get oh-my-zsh.hide-dirty)" -eq 1 ]]; then
         return 1
     fi
 
     if type -p git.exe &> /dev/null; then
         STATUS=$(git.exe status --porcelain 2> /dev/null)
-        if [ $? != 0 ]; then
+        if [[ $? -ne 0 ]]; then
             STATUS=$(command git status --porcelain)
         fi
         else
