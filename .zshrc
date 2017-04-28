@@ -10,7 +10,7 @@ if [[ -d "${HOME}/bin" ]]; then
     export PATH=${HOME}/bin:${PATH}
 fi
 
-if [[ -O "~/.zsh/compdef" ]]; then
+if [[ -O ~/.zsh/compdef ]]; then
     fpath=(~/.zsh/compdef $fpath)
 fi
 
