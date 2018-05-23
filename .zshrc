@@ -14,8 +14,13 @@ if [[ -O ~/.zsh/compdef ]]; then
     fpath=(~/.zsh/compdef $fpath)
 fi
 
+if [[ -O ~/.zsh/libs ]]; then
+    fpath=(~/.zsh/libs $fpath)
+fi
+
 autoload -U colors && colors
 autoload -U compinit && compinit
+autoload -Uz async && async
 
 for sh_file (~/.sh/*.sh); do
     source $sh_file
