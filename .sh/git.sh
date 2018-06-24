@@ -18,9 +18,17 @@ function git_echo_dirty() {
     fi
 }
 
+function git_in_tree() {
+    if [[ $(command git rev-parse --is-inside-work-tree 2> /dev/null) = "true" ]]; then
+        return 0
+    else
+        return 1
+    fi
+}
+
 function git_echo_prompt() {
     local GP
-    if [[ $(command git rev-parse --is-inside-work-tree 2> /dev/null) = "true" ]]; then
+    if git_in_tree; then
         GP="${GIT_PROMPT_PREFIX}$(git_echo_ref)"
         if [[ $1 != "no_dirty_check" ]]; then
             if git_is_dirty; then

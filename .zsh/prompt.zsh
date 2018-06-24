@@ -2,6 +2,16 @@ setopt PROMPT_SUBST
 
 # primary prompt (standard color)
 function update_prompt() {
+    GP=''
+    PROMPT='[%{$fg_bold[white]%}%*%{$reset_color%}] %D{%a %b %d} \
+[%{$fg_bold[cyan]$bg[blue]%}%~${GP}%{$reset_color%}]:\
+%(!.%{$fg[red]%}.%{$fg[white]%})%{$bg[blue]%}%n@%m%{$reset_color%}
+%(!.#.$) '
+
+    if ! git_in_tree; then
+        return
+    fi
+
     if [[ $# -eq 0 ]]; then
         GP=$(git_echo_prompt no_dirty_check)
         async_stop_worker git_prompt
@@ -14,11 +24,6 @@ function update_prompt() {
         fi
         GP=$3
     fi
-
-    PROMPT='[%{$fg_bold[white]%}%*%{$reset_color%}] %D{%a %b %d} \
-[%{$fg_bold[cyan]$bg[blue]%}%~${GP}%{$reset_color%}]:\
-%(!.%{$fg[red]%}.%{$fg[white]%})%{$bg[blue]%}%n@%m%{$reset_color%}
-%(!.#.$) '
 
     zle && zle reset-prompt
 }
