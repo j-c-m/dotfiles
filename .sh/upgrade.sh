@@ -15,4 +15,6 @@ function upgrade_dotfiles() {
         echo "curl or wget not found."
     fi
     cd $OPWD
+
+    rm $HOME/.zsh/compdef/_go
 }
