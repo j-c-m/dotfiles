@@ -16,5 +16,8 @@ function upgrade_dotfiles() {
     fi
     cd $OPWD
 
-    rm $HOME/.zsh/compdef/_go
+    if [ -f $HOME/.sh/post_upgrade.sh ]; then
+        source $HOME/.sh/post_upgrade.sh
+        rm $HOME/.sh/post_upgrade.sh
+    fi
 }
