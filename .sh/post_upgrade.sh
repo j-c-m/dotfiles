@@ -1,2 +1,2 @@
 # _go rename _golang
-rm $HOME/.zsh/compdef/_go
+rm -f $HOME/.zsh/compdef/_go
