@@ -25,6 +25,9 @@ fi
 # Linux bash-completion
 [[ -f /usr/share/bash-completion/bash_completion ]] && \
     source /usr/share/bash-completion/bash_completion
+# SmartOS bash-completion
+[[ -f /etc/bash/bash_completion ]] && \
+    source /etc/bash/bash_completion
 
 for sh_file in ~/.sh/*.sh; do
     source $sh_file
