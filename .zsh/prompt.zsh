@@ -14,9 +14,6 @@ function update_prompt() {
 
     if [[ $# -eq 0 ]]; then
         GP=$(git_echo_prompt no_dirty_check)
-        async_stop_worker git_prompt
-        async_start_worker git_prompt -n
-        async_register_callback git_prompt update_prompt
         async_job git_prompt cd_call $PWD git_echo_prompt
     else
         if [[ $GP == $3 ]]; then
@@ -43,3 +40,6 @@ GIT_PROMPT_DIRTY="%{$fg_no_bold[red]%}*"
 GIT_PROMPT_SUFFIX=
 
 precmd_functions+=(update_prompt)
+
+async_start_worker git_prompt -n
+async_register_callback git_prompt update_prompt
