@@ -17,12 +17,13 @@ function title {
   : ${2=$1}
 
   case "$TERM" in
+    screen*)
+      print -Pn "\ek$1:q\e\\" # set screen hardstatus
+      [[ -z "$TMUX" ]] && return
+      ;&
     cygwin|xterm*|putty*|rxvt*|ansi)
       print -Pn "\e]2;$2:q\a" # set window name
       print -Pn "\e]1;$1:q\a" # set tab name
-      ;;
-    screen*)
-      print -Pn "\ek$1:q\e\\" # set screen hardstatus
       ;;
     *)
       if [[ "$TERM_PROGRAM" == "iTerm.app" ]]; then
@@ -72,7 +73,7 @@ function omz_termsupport_preexec {
   local CMD=${1[(wr)^(*=*|sudo|ssh|mosh|rake|-*)]:gs/%/%%}
   local LINE="${2:gs/%/%%}"
 
-  title '$CMD' '%100>...>$LINE%<<'
+  title '$CMD:' '%100>...>$LINE%<<'
 }
 
 precmd_functions+=(omz_termsupport_precmd)
