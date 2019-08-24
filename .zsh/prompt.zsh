@@ -3,10 +3,18 @@ setopt PROMPT_SUBST
 # primary prompt (standard color)
 function update_prompt() {
     GP=''
-    PROMPT='[%{$fg_bold[white]%}%*%{$reset_color%}] %D{%a %b %d} \
+
+    if [[ $terminfo[colors] -eq 256 ]]; then
+        PROMPT='[%F{015}%*%f] %D{%a %b %d} \
+[%F{014}%K{004}%~${GP}%f%k]:\
+%(!.%F{001}.%F{007})%K{004}%n@%m%f%k
+%(!.#.$) '
+    else
+        PROMPT='[%{$fg_bold[white]%}%*%{$reset_color%}] %D{%a %b %d} \
 [%{$fg_bold[cyan]$bg[blue]%}%~${GP}%{$reset_color%}]:\
 %(!.%{$fg[red]%}.%{$fg[white]%})%{$bg[blue]%}%n@%m%{$reset_color%}
 %(!.#.$) '
+    fi
 
     if ! git_in_tree; then
         return
