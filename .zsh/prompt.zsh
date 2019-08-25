@@ -5,9 +5,9 @@ function update_prompt() {
     GP=''
 
     if [[ $terminfo[colors] -eq 256 ]]; then
-        PROMPT='[%F{015}%*%f] %D{%a %b %d} \
+        PROMPT='[%F{0254}%*%f] %D{%a %b %d} \
 [%F{014}%K{004}%~${GP}%f%k]:\
-%(!.%F{001}.%F{007})%K{004}%n@%m%f%k
+%(!.%F{001}.%F{252})%K{019}%n@%m%f%k
 %(!.#.$) '
     else
         PROMPT='[%{$fg_bold[white]%}%*%{$reset_color%}] %D{%a %b %d} \
