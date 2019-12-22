@@ -49,6 +49,9 @@ if &term =~ "^xterm"
     set t_Co=256
 endif
 
-colorscheme kolor
+if filereadable(expand("~/.vimrc_background"))
+  let base16colorspace=256
+  source ~/.vimrc_background
+endif
 
 set pastetoggle=<F2>
