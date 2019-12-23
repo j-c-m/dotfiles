@@ -4,7 +4,12 @@ setopt PROMPT_SUBST
 function update_prompt() {
     GP=''
 
-    if [[ $terminfo[colors] -eq 256 ]]; then
+    if [[ -n "$BASE16_THEME" ]]; then
+        PROMPT='[%F{15}%*%f] %D{%a %b %d} \
+[%F{14}%K{19}%~${GP}%f%k]:\
+%(!.%F{9}.%F{15})%K{12}%n@%m%f%k
+%(!.#.$) '
+    elif [[ $terminfo[colors] -eq 256 ]]; then
         PROMPT='[%F{0254}%*%f] %D{%a %b %d} \
 [%F{014}%K{004}%~${GP}%f%k]:\
 %(!.%F{001}.%F{250})%K{019}%n@%m%f%k

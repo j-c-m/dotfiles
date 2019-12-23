@@ -19,3 +19,8 @@ else
 		ls -G . &>/dev/null && alias ls='ls -G'
 	fi
 fi
+
+if [[ -n "$BASE16_THEME" ]]; then
+    unset LSCOLORS
+    unset LS_COLORS
+fi
