@@ -55,3 +55,4 @@ if filereadable(expand("~/.vimrc_background"))
 endif
 
 set pastetoggle=<F2>
+set number
