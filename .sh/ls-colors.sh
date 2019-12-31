@@ -8,13 +8,17 @@ _ls_lazy()
     elif type -p gls &> /dev/null; then
         alias ls='gls --color=auto'
         gls --color=auto $@
-    elif command ls --color -d / . &>/dev/null; then
+    elif command ls --color -d / &> /dev/null; then
         alias ls='ls --color=auto'
         command ls --color=auto $@
+    elif command ls -G -d / &> /dev/null; then
+        alias ls='ls -G'
+        command ls -G $@
     else
         unalias ls
         command ls $@
     fi
+    unset -f _ls_lazy
 }
 
 if [[ -z "$BASE16_THEME" ]]; then
