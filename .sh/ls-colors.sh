@@ -1,13 +1,10 @@
-export COLORTERM=1
-export CLICOLOR=1
-
 alias ls='_ls_lazy'
 
 _ls_lazy()
 {
     if type -p colorls &> /dev/null; then
-        alias ls='colorls'
-        colorls $@
+        alias ls='colorls -G'
+        colorls -G $@
     elif type -p gls &> /dev/null; then
         alias ls='gls --color=auto'
         gls --color=auto $@
