@@ -1,26 +1,30 @@
-if type -p dircolors &> /dev/null;then
-    eval $(dircolors ~/.sh/dircolors.256dark)
-elif type -p gdircolors &> /dev/null;then
-    eval $(gdircolors ~/.sh/dircolors.256dark)
-fi
+export COLORTERM=1
+export CLICOLOR=1
 
-export LSCOLORS=Exfxcxdxbxegedabagacad
+alias ls='_ls_lazy'
 
-if [[ -n "$LS_COLORS" ]]; then
-	if type -p gls &> /dev/null; then
-		gls --color -d . &>/dev/null && alias ls='gls --color=tty'
-	else
-		ls --color -d . &>/dev/null && alias ls='ls --color=tty'
-	fi
-else
-	if type -p colorls &> /dev/null; then
-		colorls -G -d . &>/dev/null && alias ls='colorls -G'
-	else
-		ls -G . &>/dev/null && alias ls='ls -G'
-	fi
-fi
+_ls_lazy()
+{
+    if type -p colorls &> /dev/null; then
+        alias ls='colorls'
+        colorls $@
+    elif type -p gls &> /dev/null; then
+        alias ls='gls --color=auto'
+        gls --color=auto $@
+    elif command ls --color -d / . &>/dev/null; then
+        alias ls='ls --color=auto'
+        command ls --color=auto $@
+    else
+        unalias ls
+        command ls $@
+    fi
+}
 
-if [[ -n "$BASE16_THEME" ]]; then
-    unset LSCOLORS
-    unset LS_COLORS
+if [[ -z "$BASE16_THEME" ]]; then
+    export LSCOLORS=Exfxcxdxbxegedabagacad
+    if type -p dircolors &> /dev/null;then
+        eval $(dircolors ~/.sh/dircolors.256dark)
+    elif type -p gdircolors &> /dev/null;then
+        eval $(gdircolors ~/.sh/dircolors.256dark)
+    fi
 fi
