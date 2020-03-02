@@ -1,3 +1,5 @@
+export CLICOLOR=1
+
 alias ls='_ls_lazy'
 
 _ls_lazy()
