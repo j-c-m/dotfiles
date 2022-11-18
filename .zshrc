@@ -19,7 +19,6 @@ if [[ -O ~/.zsh/libs ]]; then
 fi
 
 autoload -U colors && colors
-autoload -U compinit && compinit
 autoload -Uz async && async
 
 for sh_file (~/.sh/*.sh); do
@@ -29,3 +28,5 @@ done
 for zsh_file (~/.zsh/*.zsh); do
   source $zsh_file
 done
+
+autoload -U compinit && compinit
