@@ -21,7 +21,7 @@ function title {
       print -Pn "\ek$1:q\e\\" # set screen hardstatus
       [[ -z "$TMUX" ]] && return
       ;&
-    cygwin|xterm*|putty*|rxvt*|ansi)
+    cygwin|xterm*|putty*|rxvt*|ansi|alacritty)
       print -Pn "\e]2;$2:q\a" # set window name
       print -Pn "\e]1;$1:q\a" # set tab name
       ;;
