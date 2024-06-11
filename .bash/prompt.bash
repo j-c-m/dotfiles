@@ -1,5 +1,5 @@
 case $TERM in
-    cygwin|xterm*|putty*|rxvt*|ansi|alacritty)
+    cygwin|xterm*|putty*|rxvt*|ansi|alacritty|tmux*|screen*)
         TITLEBAR="\[\e]2;\u@\h: \w\a\]"
         ;;
     *)

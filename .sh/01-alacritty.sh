@@ -1,5 +1,3 @@
 if [ "$TERM" = "alacritty" ]; then
-    if ! tset - &> /dev/null; then
-        export TERM=xterm-256color
-    fi
+    tset - &> /dev/null || export TERM=xterm-256color
 fi

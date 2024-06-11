@@ -17,7 +17,7 @@ function title {
   : ${2=$1}
 
   case "$TERM" in
-    screen*)
+    screen*|tmux*)
       print -Pn "\ek$1:q\e\\" # set screen hardstatus
       [[ -z "$TMUX" ]] && return
       ;&
