@@ -7,8 +7,8 @@ function update_prompt() {
     if [[ $(echotc Co 2> /dev/null) -ge 256 ]]; then
         if [[ -n "$BASE16_THEME" ]]; then
             PROMPT='[%F{15}%*%f] %D{%a %b %d} \
-[%F{14}%K{19}%~${GP}%f%k]:\
-%(!.%F{9}.%F{15})%K{12}%n@%m%f%k
+[%F{6}%K{19}%~${GP}%f%k]:\
+%(!.%F{9}.%F{15})%K{4}%n@%m%f%k
 %(!.#.$) '
         else
             PROMPT='[%F{253}%*%f] %D{%a %b %d} \
@@ -18,7 +18,7 @@ function update_prompt() {
         fi
     else
         PROMPT='[%B%F{7}%B%*%f%b] %D{%a %b %d} \
-[%B%F{6}%~${GP}%f%b]:\
+[%F{6}%~${GP}%f]:\
 %(!.%F{1}.%F{7})%K{4}%n@%m%k%f
 %(!.#.$) '
     fi
