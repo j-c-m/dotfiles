@@ -4,20 +4,22 @@ setopt PROMPT_SUBST
 function update_prompt() {
     GP=''
 
-    if [[ -n "$BASE16_THEME" ]]; then
-        PROMPT='[%F{15}%*%f] %D{%a %b %d} \
+    if [[ $(echotc Co 2> /dev/null) -ge 256 ]]; then
+        if [[ -n "$BASE16_THEME" ]]; then
+            PROMPT='[%F{15}%*%f] %D{%a %b %d} \
 [%F{14}%K{19}%~${GP}%f%k]:\
 %(!.%F{9}.%F{15})%K{12}%n@%m%f%k
 %(!.#.$) '
-    elif [[ $terminfo[colors] -eq 256 ]]; then
-        PROMPT='[%F{0254}%*%f] %D{%a %b %d} \
-[%F{014}%K{004}%~${GP}%f%k]:\
-%(!.%F{001}.%F{250})%K{019}%n@%m%f%k
+        else
+            PROMPT='[%F{253}%*%f] %D{%a %b %d} \
+[%F{116}%K{239}%~${GP}%f%k]:\
+%(!.%F{1}.%F{253})%K{25}%n@%m%f%k
 %(!.#.$) '
+        fi
     else
-        PROMPT='[%{$fg_bold[white]%}%*%{$reset_color%}] %D{%a %b %d} \
-[%{$fg_bold[cyan]$bg[blue]%}%~${GP}%{$reset_color%}]:\
-%(!.%{$fg[red]%}.%{$fg[white]%})%{$bg[blue]%}%n@%m%{$reset_color%}
+        PROMPT='[%B%F{7}%B%*%f%b] %D{%a %b %d} \
+[%B%F{6}%~${GP}%f%b]:\
+%(!.%F{1}.%F{7})%K{4}%n@%m%k%f
 %(!.#.$) '
     fi
 
