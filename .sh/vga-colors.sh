@@ -1,13 +1,13 @@
 function vga_colors() {
     case "$TERM" in
-        xterm*)
+        xterm*|alacritty*|screen*)
             ;;
         *)
             return
             ;;
     esac
 
-    reset
+    command reset
 
     echo -ne '\e]10;#AAAAAA\a'  # foreground
     echo -ne '\e]11;#1c1c1c\a'  # background
