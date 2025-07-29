@@ -1,0 +1,18 @@
+[window]
+dimensions = { columns = 100, lines = 33 }
+opacity = 0.9
+option_as_alt = "Both"
+resize_increments = true
+
+[font]
+normal = { family = "Hack", style = "Regular" }
+size = 18
+offset = { x = 1, y = 0 }
+[mouse]
+bindings = [
+ { mouse = "Right", action = "Paste" },
+ { mouse = "Middle", action = "ExpandSelection" },
+]
+
+[selection]
+save_to_clipboard = true
