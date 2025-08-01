@@ -11,9 +11,9 @@ function update_prompt() {
 %(!.%F{9}.%F{15})%K{4}%n@%m%f%k
 %(!.#.$) '
         else
-            PROMPT='[%F{253}%*%f] %D{%a %b %d} \
+            PROMPT='[%F{254}%*%f] %D{%a %b %d} \
 [%F{116}%K{239}%~${GP}%f%k]:\
-%(!.%F{1}.%F{253})%K{25}%n@%m%f%k
+%(!.%F{1}.%F{254})%K{25}%n@%m%f%k
 %(!.#.$) '
         fi
     else
