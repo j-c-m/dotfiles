@@ -8,7 +8,7 @@ function update_prompt() {
         if [[ -n "$BASE16_THEME" ]]; then
             PROMPT='[%F{15}%*%f] %D{%a %b %d} \
 [%F{6}%K{19}%~${GP}%f%k]:\
-%(!.%F{9}.%F{15})%K{4}%n@%m%f%k
+%(!.%F{1}.%F{15})%K{4}%n@%m%f%k
 %(!.#.$) '
         else
             PROMPT='[%F{254}%*%f] %D{%a %b %d} \
