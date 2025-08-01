@@ -18,7 +18,7 @@ function update_prompt() {
         fi
     else
         PROMPT='[%B%F{7}%B%*%f%b] %D{%a %b %d} \
-[%F{6}%~${GP}%f]:\
+[%B%F{6}%K{4}%~${GP}%k%f%b]:\
 %(!.%F{1}.%F{7})%K{4}%n@%m%k%f
 %(!.#.$) '
     fi
