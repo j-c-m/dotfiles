@@ -14,7 +14,7 @@ else
 fi
 
 if [[ -n "$BASE16_THEME" ]]; then
-    PS1="${TITLEBAR}[\[\e[1;37m\]\t\\[\e[m\]] \d [\[\e[0;36m\e[48;5;19m\]\w\$(git_echo_prompt)\[\e[m\]]:\[${UCOLOR}\e[44m\e[48;5;12m\]\u@\h\[\e[m\]\n\$ "
+    PS1="${TITLEBAR}[\[\e[1;37m\]\t\\[\e[m\]] \d [\[\e[0;36m\e[48;5;19m\]\w\$(git_echo_prompt)\[\e[m\]]:\[${UCOLOR}\e[44m\]\u@\h\[\e[m\]\n\$ "
 else
     PS1="${TITLEBAR}[\[\e[1;37m\]\t\\[\e[m\]] \d [\[\e[0;36m\]\w\$(git_echo_prompt)\[\e[m\]]:\[${UCOLOR}\e[44m\]\u@\h\[\e[m\]\n\$ "
 fi
