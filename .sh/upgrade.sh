@@ -8,6 +8,11 @@ function upgrade_dotfiles() {
         TAR=gtar
     fi
 
+    echo removing base16-shell themes...
+    rm -r $HOME/.config/base16-shell/scripts
+    echo removing vim themes...
+    rm -r $HOME/.vim/colors
+
     cd $HOME
     if type -p curl &> /dev/null; then
         curl -k -L https://github.com/j-c-m/dotfiles/tarball/master | \
