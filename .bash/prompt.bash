@@ -13,7 +13,7 @@ else
     UCOLOR="\e[97m"
 fi
 
-PS1="${TITLEBAR}[\[\e[97m\]\t\\[\e[m\]] \d [\[\e[0;36m\]\w\$(git_echo_prompt)\[\e[m\]]:\[${UCOLOR}\e[44m\]\u@\h\[\e[m\]\n\$ "
+PS1="${TITLEBAR}[\[\e[97m\]\t\\[\e[m\]] \d [\[\e[0;36;100m\]\w\$(git_echo_prompt)\[\e[m\]]:\[${UCOLOR}\e[44m\]\u@\h\[\e[m\]\n\$ "
 
 GIT_PROMPT_PREFIX=":"
 GIT_PROMPT_SUFFIX=
