@@ -1,4 +1,4 @@
-VERSION=0.0.1
+VERSION=0.0.2
 
 check_and_upgrade_dotfiles() {
     if [ -z "$ZSH_VERSION" ]; then
@@ -16,7 +16,6 @@ check_and_upgrade_dotfiles() {
     fi
 
     if [ $((CURRENT_TIME - LAST_CHECK_TIME)) -lt $CHECK_INTERVAL ]; then
-        echo "Last checked less than 1 day ago. Skipping update check."
         return 0
     fi
 
