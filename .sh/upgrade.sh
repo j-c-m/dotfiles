@@ -1,4 +1,4 @@
-VERSION=0.0.2
+VERSION=0.0.3
 
 check_and_upgrade_dotfiles() {
     if [ -z "$ZSH_VERSION" ]; then
@@ -7,7 +7,7 @@ check_and_upgrade_dotfiles() {
 
     local LOCAL_VERSION="$VERSION"  # Replace with your actual local version
     local LAST_CHECK_FILE="$HOME/.sh/upgrade_last_check"
-    local CURRENT_TIME=$(strftime +%s)
+    local CURRENT_TIME=$(strftime %s)
     local LAST_CHECK_TIME=0
     local CHECK_INTERVAL=86400  # 1 day in seconds
 
