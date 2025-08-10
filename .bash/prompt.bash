@@ -8,16 +8,12 @@ case $TERM in
 esac
 
 if [[ $EUID -eq 0 ]]; then
-    UCOLOR="\e[1;31m"
+    UCOLOR="\e[91m"
 else
-    UCOLOR="\e[1;37m"
+    UCOLOR="\e[97m"
 fi
 
-if [[ -n "$BASE16_THEME" ]]; then
-    PS1="${TITLEBAR}[\[\e[1;37m\]\t\\[\e[m\]] \d [\[\e[0;36m\e[48;5;19m\]\w\$(git_echo_prompt)\[\e[m\]]:\[${UCOLOR}\e[44m\]\u@\h\[\e[m\]\n\$ "
-else
-    PS1="${TITLEBAR}[\[\e[1;37m\]\t\\[\e[m\]] \d [\[\e[0;36m\]\w\$(git_echo_prompt)\[\e[m\]]:\[${UCOLOR}\e[44m\]\u@\h\[\e[m\]\n\$ "
-fi
+PS1="${TITLEBAR}[\[\e[97m\]\t\\[\e[m\]] \d [\[\e[0;36m\]\w\$(git_echo_prompt)\[\e[m\]]:\[${UCOLOR}\e[44m\]\u@\h\[\e[m\]\n\$ "
 
 GIT_PROMPT_PREFIX=":"
 GIT_PROMPT_SUFFIX=
