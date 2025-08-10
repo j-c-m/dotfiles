@@ -8,7 +8,7 @@ case $TERM in
 esac
 
 if [[ $EUID -eq 0 ]]; then
-    UCOLOR="\e[0;31m"
+    UCOLOR="\e[1;31m"
 else
     UCOLOR="\e[1;37m"
 fi
