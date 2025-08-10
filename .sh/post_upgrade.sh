@@ -3,4 +3,4 @@ rm -f $HOME/.zsh/compdef/_go
 rm -f $HOME/.sh/xterm-colors.sh
 rm -f $HOME/.sh/umask.sh
 rm -f $HOME/.sh/base16.sh
-rm -r $HOME/.zsh/00-spectrum.zsh
+rm -f $HOME/.zsh/00-spectrum.zsh
