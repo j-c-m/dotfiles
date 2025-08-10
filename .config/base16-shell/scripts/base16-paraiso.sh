@@ -5,9 +5,17 @@
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 export TINTED_THEME="base16-paraiso"
 
-if [ "base16" = "base16" ]; then
-  export BASE16_THEME="paraiso"
-fi
+case "base16" in
+  base16)
+    export BASE16_THEME="paraiso"
+    ;;
+  base24)
+    export BASE24_THEME="paraiso"
+    ;;
+  ansi8)
+    export ANSI8_THEME="paraiso"
+    ;;
+esac
 
 color00="2f/1e/2e" # Base 00 - Black
 color01="ef/61/55" # Base 08 - Red
@@ -100,9 +108,9 @@ else
 fi
 
 # clean up
-unset put_template
-unset put_template_var
-unset put_template_custom
+unset -f put_template
+unset -f put_template_var
+unset -f put_template_custom
 unset color00
 unset color01
 unset color02
@@ -128,36 +136,29 @@ unset color21
 unset color_foreground
 unset color_background
 
-export TINTED_COLOR_00_RGB="2f1e2e"
-export TINTED_COLOR_01_RGB="41323f"
-export TINTED_COLOR_02_RGB="4f424c"
-export TINTED_COLOR_03_RGB="776e71"
-export TINTED_COLOR_04_RGB="8d8687"
-export TINTED_COLOR_05_RGB="a39e9b"
-export TINTED_COLOR_06_RGB="b9b6b0"
-export TINTED_COLOR_07_RGB="e7e9db"
-export TINTED_COLOR_08_RGB="ef6155"
-export TINTED_COLOR_09_RGB="f99b15"
-export TINTED_COLOR_0A_RGB="fec418"
-export TINTED_COLOR_0B_RGB="48b685"
-export TINTED_COLOR_0C_RGB="5bc4bf"
-export TINTED_COLOR_0D_RGB="06b6ef"
-export TINTED_COLOR_0E_RGB="815ba4"
-export TINTED_COLOR_0F_RGB="e96ba8"
-export TINTED_COLOR_10_RGB="2f1e2e"
-export TINTED_COLOR_11_RGB="2f1e2e"
-export TINTED_COLOR_12_RGB="f3887f"
-export TINTED_COLOR_13_RGB="fed352"
-export TINTED_COLOR_14_RGB="75c9a4"
-export TINTED_COLOR_15_RGB="84d3cf"
-export TINTED_COLOR_16_RGB="3dccfa"
-export TINTED_COLOR_17_RGB="a184bb"
-
-export TINTED_COLOR_BRIGHT08_RGB="f3887f"
-export TINTED_COLOR_BRIGHT09_RGB="fab450"
-export TINTED_COLOR_BRIGHT0A_RGB="fed352"
-export TINTED_COLOR_BRIGHT0B_RGB="75c9a4"
-export TINTED_COLOR_BRIGHT0C_RGB="84d3cf"
-export TINTED_COLOR_BRIGHT0D_RGB="3dccfa"
-export TINTED_COLOR_BRIGHT0E_RGB="a184bb"
-export TINTED_COLOR_BRIGHT0F_RGB="ef90be"
+if [ -n "$BASE16_SHELL_ENABLE_VARS" ]; then
+  export BASE16_00_RGB="2f1e2e"
+  export BASE16_01_RGB="41323f"
+  export BASE16_02_RGB="4f424c"
+  export BASE16_03_RGB="776e71"
+  export BASE16_04_RGB="8d8687"
+  export BASE16_05_RGB="a39e9b"
+  export BASE16_06_RGB="b9b6b0"
+  export BASE16_07_RGB="e7e9db"
+  export BASE16_08_RGB="ef6155"
+  export BASE16_09_RGB="f99b15"
+  export BASE16_0A_RGB="fec418"
+  export BASE16_0B_RGB="48b685"
+  export BASE16_0C_RGB="5bc4bf"
+  export BASE16_0D_RGB="06b6ef"
+  export BASE16_0E_RGB="815ba4"
+  export BASE16_0F_RGB="e96ba8"
+  export BASE16_B08_RGB="f3887f"
+  export BASE16_B09_RGB="fab450"
+  export BASE16_B0A_RGB="fed352"
+  export BASE16_B0B_RGB="75c9a4"
+  export BASE16_B0C_RGB="84d3cf"
+  export BASE16_B0D_RGB="3dccfa"
+  export BASE16_B0E_RGB="a184bb"
+  export BASE16_B0F_RGB="ef90be"
+fi

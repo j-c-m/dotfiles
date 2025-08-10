@@ -5,9 +5,17 @@
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 export TINTED_THEME="base16-horizon-terminal-dark"
 
-if [ "base16" = "base16" ]; then
-  export BASE16_THEME="horizon-terminal-dark"
-fi
+case "base16" in
+  base16)
+    export BASE16_THEME="horizon-terminal-dark"
+    ;;
+  base24)
+    export BASE24_THEME="horizon-terminal-dark"
+    ;;
+  ansi8)
+    export ANSI8_THEME="horizon-terminal-dark"
+    ;;
+esac
 
 color00="1c/1e/26" # Base 00 - Black
 color01="e9/56/78" # Base 08 - Red
@@ -100,9 +108,9 @@ else
 fi
 
 # clean up
-unset put_template
-unset put_template_var
-unset put_template_custom
+unset -f put_template
+unset -f put_template_var
+unset -f put_template_custom
 unset color00
 unset color01
 unset color02
@@ -128,36 +136,29 @@ unset color21
 unset color_foreground
 unset color_background
 
-export TINTED_COLOR_00_RGB="1c1e26"
-export TINTED_COLOR_01_RGB="232530"
-export TINTED_COLOR_02_RGB="2e303e"
-export TINTED_COLOR_03_RGB="6f6f70"
-export TINTED_COLOR_04_RGB="9da0a2"
-export TINTED_COLOR_05_RGB="cbced0"
-export TINTED_COLOR_06_RGB="dcdfe4"
-export TINTED_COLOR_07_RGB="e3e6ee"
-export TINTED_COLOR_08_RGB="e95678"
-export TINTED_COLOR_09_RGB="fab795"
-export TINTED_COLOR_0A_RGB="fac29a"
-export TINTED_COLOR_0B_RGB="29d398"
-export TINTED_COLOR_0C_RGB="59e1e3"
-export TINTED_COLOR_0D_RGB="26bbd9"
-export TINTED_COLOR_0E_RGB="ee64ac"
-export TINTED_COLOR_0F_RGB="f09383"
-export TINTED_COLOR_10_RGB="1c1e26"
-export TINTED_COLOR_11_RGB="1c1e26"
-export TINTED_COLOR_12_RGB="ef809a"
-export TINTED_COLOR_13_RGB="fbd1b3"
-export TINTED_COLOR_14_RGB="5de0b2"
-export TINTED_COLOR_15_RGB="82e9ea"
-export TINTED_COLOR_16_RGB="5ccce3"
-export TINTED_COLOR_17_RGB="f28bc1"
-
-export TINTED_COLOR_BRIGHT08_RGB="ef809a"
-export TINTED_COLOR_BRIGHT09_RGB="fbc9af"
-export TINTED_COLOR_BRIGHT0A_RGB="fbd1b3"
-export TINTED_COLOR_BRIGHT0B_RGB="5de0b2"
-export TINTED_COLOR_BRIGHT0C_RGB="82e9ea"
-export TINTED_COLOR_BRIGHT0D_RGB="5ccce3"
-export TINTED_COLOR_BRIGHT0E_RGB="f28bc1"
-export TINTED_COLOR_BRIGHT0F_RGB="f4aea2"
+if [ -n "$BASE16_SHELL_ENABLE_VARS" ]; then
+  export BASE16_00_RGB="1c1e26"
+  export BASE16_01_RGB="232530"
+  export BASE16_02_RGB="2e303e"
+  export BASE16_03_RGB="6f6f70"
+  export BASE16_04_RGB="9da0a2"
+  export BASE16_05_RGB="cbced0"
+  export BASE16_06_RGB="dcdfe4"
+  export BASE16_07_RGB="e3e6ee"
+  export BASE16_08_RGB="e95678"
+  export BASE16_09_RGB="fab795"
+  export BASE16_0A_RGB="fac29a"
+  export BASE16_0B_RGB="29d398"
+  export BASE16_0C_RGB="59e1e3"
+  export BASE16_0D_RGB="26bbd9"
+  export BASE16_0E_RGB="ee64ac"
+  export BASE16_0F_RGB="f09383"
+  export BASE16_B08_RGB="ef809a"
+  export BASE16_B09_RGB="fbc9af"
+  export BASE16_B0A_RGB="fbd1b3"
+  export BASE16_B0B_RGB="5de0b2"
+  export BASE16_B0C_RGB="82e9ea"
+  export BASE16_B0D_RGB="5ccce3"
+  export BASE16_B0E_RGB="f28bc1"
+  export BASE16_B0F_RGB="f4aea2"
+fi

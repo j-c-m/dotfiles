@@ -5,9 +5,17 @@
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 export TINTED_THEME="base16-da-one-white"
 
-if [ "base16" = "base16" ]; then
-  export BASE16_THEME="da-one-white"
-fi
+case "base16" in
+  base16)
+    export BASE16_THEME="da-one-white"
+    ;;
+  base24)
+    export BASE24_THEME="da-one-white"
+    ;;
+  ansi8)
+    export ANSI8_THEME="da-one-white"
+    ;;
+esac
 
 color00="ff/ff/ff" # Base 00 - Black
 color01="de/5d/6e" # Base 08 - Red
@@ -100,9 +108,9 @@ else
 fi
 
 # clean up
-unset put_template
-unset put_template_var
-unset put_template_custom
+unset -f put_template
+unset -f put_template_var
+unset -f put_template_custom
 unset color00
 unset color01
 unset color02
@@ -128,36 +136,29 @@ unset color21
 unset color_foreground
 unset color_background
 
-export TINTED_COLOR_00_RGB="ffffff"
-export TINTED_COLOR_01_RGB="c8c8c8"
-export TINTED_COLOR_02_RGB="888888"
-export TINTED_COLOR_03_RGB="585858"
-export TINTED_COLOR_04_RGB="282828"
-export TINTED_COLOR_05_RGB="181818"
-export TINTED_COLOR_06_RGB="000000"
-export TINTED_COLOR_07_RGB="000000"
-export TINTED_COLOR_08_RGB="de5d6e"
-export TINTED_COLOR_09_RGB="ff9470"
-export TINTED_COLOR_0A_RGB="b3684f"
-export TINTED_COLOR_0B_RGB="76a85d"
-export TINTED_COLOR_0C_RGB="64b5a7"
-export TINTED_COLOR_0D_RGB="5890f8"
-export TINTED_COLOR_0E_RGB="c173d1"
-export TINTED_COLOR_0F_RGB="b3684f"
-export TINTED_COLOR_10_RGB="ffffff"
-export TINTED_COLOR_11_RGB="ffffff"
-export TINTED_COLOR_12_RGB="ce1e35"
-export TINTED_COLOR_13_RGB="96462c"
-export TINTED_COLOR_14_RGB="529033"
-export TINTED_COLOR_15_RGB="33a08d"
-export TINTED_COLOR_16_RGB="085af4"
-export TINTED_COLOR_17_RGB="ac2dc6"
-
-export TINTED_COLOR_BRIGHT08_RGB="ce1e35"
-export TINTED_COLOR_BRIGHT09_RGB="ff4f14"
-export TINTED_COLOR_BRIGHT0A_RGB="96462c"
-export TINTED_COLOR_BRIGHT0B_RGB="529033"
-export TINTED_COLOR_BRIGHT0C_RGB="33a08d"
-export TINTED_COLOR_BRIGHT0D_RGB="085af4"
-export TINTED_COLOR_BRIGHT0E_RGB="ac2dc6"
-export TINTED_COLOR_BRIGHT0F_RGB="96462c"
+if [ -n "$BASE16_SHELL_ENABLE_VARS" ]; then
+  export BASE16_00_RGB="ffffff"
+  export BASE16_01_RGB="c8c8c8"
+  export BASE16_02_RGB="888888"
+  export BASE16_03_RGB="585858"
+  export BASE16_04_RGB="282828"
+  export BASE16_05_RGB="181818"
+  export BASE16_06_RGB="000000"
+  export BASE16_07_RGB="000000"
+  export BASE16_08_RGB="de5d6e"
+  export BASE16_09_RGB="ff9470"
+  export BASE16_0A_RGB="b3684f"
+  export BASE16_0B_RGB="76a85d"
+  export BASE16_0C_RGB="64b5a7"
+  export BASE16_0D_RGB="5890f8"
+  export BASE16_0E_RGB="c173d1"
+  export BASE16_0F_RGB="b3684f"
+  export BASE16_B08_RGB="ce1e35"
+  export BASE16_B09_RGB="ff4f14"
+  export BASE16_B0A_RGB="96462c"
+  export BASE16_B0B_RGB="529033"
+  export BASE16_B0C_RGB="33a08d"
+  export BASE16_B0D_RGB="085af4"
+  export BASE16_B0E_RGB="ac2dc6"
+  export BASE16_B0F_RGB="96462c"
+fi

@@ -5,9 +5,17 @@
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 export TINTED_THEME="base16-twilight"
 
-if [ "base16" = "base16" ]; then
-  export BASE16_THEME="twilight"
-fi
+case "base16" in
+  base16)
+    export BASE16_THEME="twilight"
+    ;;
+  base24)
+    export BASE24_THEME="twilight"
+    ;;
+  ansi8)
+    export ANSI8_THEME="twilight"
+    ;;
+esac
 
 color00="1e/1e/1e" # Base 00 - Black
 color01="cf/6a/4c" # Base 08 - Red
@@ -100,9 +108,9 @@ else
 fi
 
 # clean up
-unset put_template
-unset put_template_var
-unset put_template_custom
+unset -f put_template
+unset -f put_template_var
+unset -f put_template_custom
 unset color00
 unset color01
 unset color02
@@ -128,36 +136,29 @@ unset color21
 unset color_foreground
 unset color_background
 
-export TINTED_COLOR_00_RGB="1e1e1e"
-export TINTED_COLOR_01_RGB="323537"
-export TINTED_COLOR_02_RGB="464b50"
-export TINTED_COLOR_03_RGB="5f5a60"
-export TINTED_COLOR_04_RGB="838184"
-export TINTED_COLOR_05_RGB="a7a7a7"
-export TINTED_COLOR_06_RGB="c3c3c3"
-export TINTED_COLOR_07_RGB="ffffff"
-export TINTED_COLOR_08_RGB="cf6a4c"
-export TINTED_COLOR_09_RGB="cda869"
-export TINTED_COLOR_0A_RGB="f9ee98"
-export TINTED_COLOR_0B_RGB="8f9d6a"
-export TINTED_COLOR_0C_RGB="afc4db"
-export TINTED_COLOR_0D_RGB="7587a6"
-export TINTED_COLOR_0E_RGB="9b859d"
-export TINTED_COLOR_0F_RGB="9b703f"
-export TINTED_COLOR_10_RGB="1e1e1e"
-export TINTED_COLOR_11_RGB="1e1e1e"
-export TINTED_COLOR_12_RGB="db8f79"
-export TINTED_COLOR_13_RGB="fbf2b2"
-export TINTED_COLOR_14_RGB="abb68f"
-export TINTED_COLOR_15_RGB="c3d3e4"
-export TINTED_COLOR_16_RGB="98a5bc"
-export TINTED_COLOR_17_RGB="b4a4b6"
-
-export TINTED_COLOR_BRIGHT08_RGB="db8f79"
-export TINTED_COLOR_BRIGHT09_RGB="dabe8f"
-export TINTED_COLOR_BRIGHT0A_RGB="fbf2b2"
-export TINTED_COLOR_BRIGHT0B_RGB="abb68f"
-export TINTED_COLOR_BRIGHT0C_RGB="c3d3e4"
-export TINTED_COLOR_BRIGHT0D_RGB="98a5bc"
-export TINTED_COLOR_BRIGHT0E_RGB="b4a4b6"
-export TINTED_COLOR_BRIGHT0F_RGB="c09563"
+if [ -n "$BASE16_SHELL_ENABLE_VARS" ]; then
+  export BASE16_00_RGB="1e1e1e"
+  export BASE16_01_RGB="323537"
+  export BASE16_02_RGB="464b50"
+  export BASE16_03_RGB="5f5a60"
+  export BASE16_04_RGB="838184"
+  export BASE16_05_RGB="a7a7a7"
+  export BASE16_06_RGB="c3c3c3"
+  export BASE16_07_RGB="ffffff"
+  export BASE16_08_RGB="cf6a4c"
+  export BASE16_09_RGB="cda869"
+  export BASE16_0A_RGB="f9ee98"
+  export BASE16_0B_RGB="8f9d6a"
+  export BASE16_0C_RGB="afc4db"
+  export BASE16_0D_RGB="7587a6"
+  export BASE16_0E_RGB="9b859d"
+  export BASE16_0F_RGB="9b703f"
+  export BASE16_B08_RGB="db8f79"
+  export BASE16_B09_RGB="dabe8f"
+  export BASE16_B0A_RGB="fbf2b2"
+  export BASE16_B0B_RGB="abb68f"
+  export BASE16_B0C_RGB="c3d3e4"
+  export BASE16_B0D_RGB="98a5bc"
+  export BASE16_B0E_RGB="b4a4b6"
+  export BASE16_B0F_RGB="c09563"
+fi
