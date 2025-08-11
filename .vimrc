@@ -53,6 +53,8 @@ if exists('$BASE16_THEME')
     \ && (!exists('g:colors_name') || g:colors_name != 'base16-$BASE16_THEME')
   if has("termguicolors") && ($COLORTERM ==# "truecolor")
     set termguicolors
+  else
+    let base16colorspace=16
   endif
   colorscheme base16-$BASE16_THEME
 endif
