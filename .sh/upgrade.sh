@@ -44,8 +44,8 @@ function upgrade_dotfiles() {
         TAR=gtar
     fi
 
-    echo removing base16-shell themes...
-    rm -r $HOME/.config/base16-shell/scripts
+    echo removing theme-stache build...
+    rm -r $HOME/.config/theme-stache/build
     echo removing vim themes...
     rm -r $HOME/.vim/colors
 
