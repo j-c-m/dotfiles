@@ -1,6 +1,6 @@
 [window]
 dimensions = { columns = 100, lines = 33 }
-opacity = 0.9
+opacity = 0.97
 option_as_alt = "Both"
 resize_increments = true
 
