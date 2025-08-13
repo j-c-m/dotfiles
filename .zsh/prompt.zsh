@@ -4,18 +4,11 @@ setopt PROMPT_SUBST
 function update_prompt() {
     GP=''
 
-    if [[ $(echotc Co 2> /dev/null) -ge 256 ]]; then
-        if [[ -n "$BASE16_THEME" ]]; then
-            PROMPT='[%F{15}%*%f] %D{%a %b %d} \
+    if [[ $(echotc Co 2> /dev/null) -ge 16 ]]; then
+        PROMPT='[%F{15}%*%f] %D{%a %b %d} \
 [%F{6}%K{8}%~${GP}%k%f]:\
 %(!.%F{9}.%F{15})%K{4}%n@%m%k%f
 %(!.#.$) '
-        else
-            PROMPT='[%F{254}%*%f] %D{%a %b %d} \
-[%F{116}%K{239}%~${GP}%f%k]:\
-%(!.%F{9}.%F{254})%K{25}%n@%m%f%k
-%(!.#.$) '
-        fi
     else
         PROMPT='[%B%F{7}%B%*%f%b] %D{%a %b %d} \
 [%F{6}%~${GP}%f]:\
