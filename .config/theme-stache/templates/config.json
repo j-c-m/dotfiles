@@ -1,0 +1,14 @@
+{
+  "shell.sh": {
+    "directory": "shell",
+    "filename": "{{theme-source-slug}}-{{theme-slug}}.sh"
+  },
+  "alacritty.toml": {
+    "directory": "alacritty",
+    "filename": "{{theme-source-slug}}-{{theme-slug}}.toml"
+  },
+  "json.json": {
+    "directory": "json",
+    "filename": "{{theme-source-slug}}-{{theme-slug}}.json"
+  }
+}
