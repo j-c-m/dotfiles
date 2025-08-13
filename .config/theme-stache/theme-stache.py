@@ -329,7 +329,7 @@ def main(stdscr, themes):
             if current_idx >= offset + max_themes:
                 offset = min(len(themes) - max_themes, offset + max_themes)
         elif key == ord('a'):
-            script_path = Path(__file__).parent / "build" / "shell" / f"{themes[current_idx]['source-slug']}-{themes[current_idx]['slug']}.sh"
+            script_path = Path(__file__).resolve().parent / "build" / "shell" / f"{themes[current_idx]['source-slug']}-{themes[current_idx]['slug']}.sh"
             if script_path.is_file():
                 subprocess.run(["bash", str(script_path)])
                 last_activated_script = script_path  # Track activated theme
@@ -339,7 +339,7 @@ def main(stdscr, themes):
                 curses.doupdate()
                 stdscr.refresh()
         elif key == ord('i'):
-            script_path = Path(__file__).parent / "build" / "shell" / f"{themes[current_idx]['source-slug']}-{themes[current_idx]['slug']}.sh"
+            script_path = Path(__file__).resolve().parent / "build" / "shell" / f"{themes[current_idx]['source-slug']}-{themes[current_idx]['slug']}.sh"
             symlink_path = Path.home() / ".shell_theme.sh"
             if script_path.is_file():
                 try:
@@ -365,7 +365,7 @@ def main(stdscr, themes):
     return last_activated_script
 
 if __name__ == "__main__":
-    default_dir = Path(__file__).parent / "build" / "json"
+    default_dir = Path(__file__).resolve().parent / "build" / "json"
     if len(sys.argv) > 2:
         print("Usage: python preview.py [directory]")
         sys.exit(1)
