@@ -6,6 +6,7 @@ if [ ! -f "${HOME}/.shell_theme.sh" ]; then
 fi
 
 if [ ! -f "${HOME}/bin/theme-stache" ]; then
+    mkdir -p "${HOME}/bin"
     ln -s "${THEME_STACHE}/theme-stache.py" "${HOME}/bin/theme-stache"
 fi
 
