@@ -1,4 +1,4 @@
-[ -n "$COLORTERM" ] && return
+[[ -n "$COLORTERM" ]] && return
 
 case $TERM in
     xterm-256color|vte-256color|konsole*|iterm2*|alacritty*|xterm-kitty|\
