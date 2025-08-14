@@ -34,28 +34,12 @@ cursor="#d0d0d0"                 # Cursor
 selection="#444444"           # Selection Background
 selection_text="#c5c8c6" # Selection Text
 
-function tolower()
-{
-    local input="$1"
-
-    typeset -l lower
-    lower="$input"
-    echo "$lower"
-}
-
 # Function to convert hex color (#RRGGBB) to rr/gg/bb format
 hex_to_hexs() {
     local hex_color="$1"
 
-    # Validate input (must start with # and have 6 hex digits)
-    if [[ ! $hex_color =~ ^#[0-9a-fA-F]{6}$ ]]; then
-        echo "Error: Invalid hex color format. Use #RRGGBB (e.g., #c0c0c0)." >&2
-        exit 1
-    fi
-
-    # Remove the leading '#' and convert to lowercase
+    # Remove the leading '#'
     local hex_clean=${hex_color#\#}
-    hex_clean=$(tolower "$hex_clean")
 
     # Extract red, green, and blue components
     local red=${hex_clean:0:2}
@@ -140,7 +124,6 @@ case "$TERM" in
         ;;
 esac
 
-unset -f tolower
 unset -f hex_to_hexs
 unset -f print_osc4
 unset -f print_osc_rgb
