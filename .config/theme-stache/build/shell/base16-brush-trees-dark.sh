@@ -18,20 +18,20 @@ color03="#aab386"    # Yellow (Command second)
 color04="#868cb3"    # Blue (Path)
 color05="#b386b2"    # Magenta (Syntax var)
 color06="#86b3b3"    # Cyan (Prompt)
-color07="#B0C5C8"    # White
-color08="#8299A1"    # Bright Black
+color07="#b0c5c8"    # White
+color08="#8299a1"    # Bright Black
 color09="#b38686"    # Bright Red (Command error)
 color10="#87b386"   # Bright Green (Exec)
 color11="#aab386"   # Bright Yellow
 color12="#868cb3"   # Bright Blue (Folder)
 color13="#b386b2"   # Bright Magenta
 color14="#86b3b3"   # Bright Cyan
-color15="#E3EFEF"   # Bright White
+color15="#e3efef"   # Bright White
 
-foreground="#B0C5C8"         # Foreground (Text)
+foreground="#b0c5c8"         # Foreground (Text)
 background="#485867"         # Background
-cursor="#B0C5C8"                 # Cursor
-selection="#C9DBDC"           # Selection Background
+cursor="#b0c5c8"                 # Cursor
+selection="#c9dbdc"           # Selection Background
 selection_text="#362423" # Selection Text
 
 function tolower()

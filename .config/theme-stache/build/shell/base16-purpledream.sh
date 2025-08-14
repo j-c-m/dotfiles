@@ -12,20 +12,20 @@ if [[ ! -t 0 ]]; then
 fi
 
 color00="#100510"    # Black (Host)
-color01="#FF1D0D"    # Red (Syntax string)
-color02="#14CC64"    # Green (Command)
-color03="#F000A0"    # Yellow (Command second)
-color04="#00A0F0"    # Blue (Path)
-color05="#B000D0"    # Magenta (Syntax var)
-color06="#0075B0"    # Cyan (Prompt)
+color01="#ff1d0d"    # Red (Syntax string)
+color02="#14cc64"    # Green (Command)
+color03="#f000a0"    # Yellow (Command second)
+color04="#00a0f0"    # Blue (Path)
+color05="#b000d0"    # Magenta (Syntax var)
+color06="#0075b0"    # Cyan (Prompt)
 color07="#ddd0dd"    # White
 color08="#605060"    # Bright Black
-color09="#FF1D0D"    # Bright Red (Command error)
-color10="#14CC64"   # Bright Green (Exec)
-color11="#F000A0"   # Bright Yellow
-color12="#00A0F0"   # Bright Blue (Folder)
-color13="#B000D0"   # Bright Magenta
-color14="#0075B0"   # Bright Cyan
+color09="#ff1d0d"    # Bright Red (Command error)
+color10="#14cc64"   # Bright Green (Exec)
+color11="#f000a0"   # Bright Yellow
+color12="#00a0f0"   # Bright Blue (Folder)
+color13="#b000d0"   # Bright Magenta
+color14="#0075b0"   # Bright Cyan
 color15="#fff0ff"   # Bright White
 
 foreground="#ddd0dd"         # Foreground (Text)

@@ -13,25 +13,25 @@ fi
 
 color00="#000000"    # Black (Host)
 color01="#800000"    # Red (Syntax string)
-color02="#61CE3C"    # Green (Command)
-color03="#FBDE2D"    # Yellow (Command second)
-color04="#253B76"    # Blue (Path)
-color05="#FF0080"    # Magenta (Syntax var)
-color06="#8DA6CE"    # Cyan (Prompt)
-color07="#F8F8F8"    # White
+color02="#61ce3c"    # Green (Command)
+color03="#fbde2d"    # Yellow (Command second)
+color04="#253b76"    # Blue (Path)
+color05="#ff0080"    # Magenta (Syntax var)
+color06="#8da6ce"    # Cyan (Prompt)
+color07="#f8f8f8"    # White
 color08="#000000"    # Bright Black
 color09="#800000"    # Bright Red (Command error)
-color10="#61CE3C"   # Bright Green (Exec)
-color11="#FBDE2D"   # Bright Yellow
-color12="#253B76"   # Bright Blue (Folder)
-color13="#FF0080"   # Bright Magenta
-color14="#8DA6CE"   # Bright Cyan
-color15="#F8F8F8"   # Bright White
+color10="#61ce3c"   # Bright Green (Exec)
+color11="#fbde2d"   # Bright Yellow
+color12="#253b76"   # Bright Blue (Folder)
+color13="#ff0080"   # Bright Magenta
+color14="#8da6ce"   # Bright Cyan
+color15="#f8f8f8"   # Bright White
 
-foreground="#FFFFFF"         # Foreground (Text)
-background="#271F19"         # Background
-cursor="#FFFFFF"                 # Cursor
-selection="#F8F8F8"           # Selection Background
+foreground="#ffffff"         # Foreground (Text)
+background="#271f19"         # Background
+cursor="#ffffff"                 # Cursor
+selection="#f8f8f8"           # Selection Background
 selection_text="#070707" # Selection Text
 
 function tolower()

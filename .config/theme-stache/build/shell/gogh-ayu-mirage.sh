@@ -11,27 +11,27 @@ if [[ ! -t 0 ]]; then
     exit 0
 fi
 
-color00="#1F2430"    # Black (Host)
-color01="#FF3333"    # Red (Syntax string)
-color02="#BAE67E"    # Green (Command)
-color03="#FFA759"    # Yellow (Command second)
-color04="#73D0FF"    # Blue (Path)
-color05="#D4BFFF"    # Magenta (Syntax var)
-color06="#95E6CB"    # Cyan (Prompt)
-color07="#CBCCC6"    # White
-color08="#707A8C"    # Bright Black
-color09="#FF3333"    # Bright Red (Command error)
-color10="#BAE67E"   # Bright Green (Exec)
-color11="#FFA759"   # Bright Yellow
-color12="#73D0FF"   # Bright Blue (Folder)
-color13="#D4BFFF"   # Bright Magenta
-color14="#95E6CB"   # Bright Cyan
-color15="#CBCCC6"   # Bright White
+color00="#1f2430"    # Black (Host)
+color01="#ff3333"    # Red (Syntax string)
+color02="#bae67e"    # Green (Command)
+color03="#ffa759"    # Yellow (Command second)
+color04="#73d0ff"    # Blue (Path)
+color05="#d4bfff"    # Magenta (Syntax var)
+color06="#95e6cb"    # Cyan (Prompt)
+color07="#cbccc6"    # White
+color08="#707a8c"    # Bright Black
+color09="#ff3333"    # Bright Red (Command error)
+color10="#bae67e"   # Bright Green (Exec)
+color11="#ffa759"   # Bright Yellow
+color12="#73d0ff"   # Bright Blue (Folder)
+color13="#d4bfff"   # Bright Magenta
+color14="#95e6cb"   # Bright Cyan
+color15="#cbccc6"   # Bright White
 
-foreground="#CBCCC6"         # Foreground (Text)
-background="#1F2430"         # Background
-cursor="#FFCC66"                 # Cursor
-selection="#CBCCC6"           # Selection Background
+foreground="#cbccc6"         # Foreground (Text)
+background="#1f2430"         # Background
+cursor="#ffcc66"                 # Cursor
+selection="#cbccc6"           # Selection Background
 selection_text="#343339" # Selection Text
 
 function tolower()

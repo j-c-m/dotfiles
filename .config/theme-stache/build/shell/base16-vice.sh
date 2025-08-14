@@ -11,7 +11,7 @@ if [[ ! -t 0 ]]; then
     exit 0
 fi
 
-color00="#17191E"    # Black (Host)
+color00="#17191e"    # Black (Host)
 color01="#ff29a8"    # Red (Syntax string)
 color02="#0badff"    # Green (Command)
 color03="#f0ffaa"    # Yellow (Command second)
@@ -29,7 +29,7 @@ color14="#8265ff"   # Bright Cyan
 color15="#f4f4f7"   # Bright White
 
 foreground="#8b9cbe"         # Foreground (Text)
-background="#17191E"         # Background
+background="#17191e"         # Background
 cursor="#8b9cbe"                 # Cursor
 selection="#b2bfd9"           # Selection Background
 selection_text="#4d4026" # Selection Text

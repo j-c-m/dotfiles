@@ -1,5 +1,5 @@
 {
-    "ansi-0-hex": "#17191E",
+    "ansi-0-hex": "#17191e",
     "ansi-1-hex": "#ff29a8",
     "ansi-10-hex": "#0badff",
     "ansi-11-hex": "#f0ffaa",
@@ -15,7 +15,7 @@
     "ansi-7-hex": "#8b9cbe",
     "ansi-8-hex": "#383a47",
     "ansi-9-hex": "#ff29a8",
-    "background-hex": "#17191E",
+    "background-hex": "#17191e",
     "cursor-hex": "#8b9cbe",
     "foreground-hex": "#8b9cbe",
     "selection-hex": "#b2bfd9",

@@ -11,22 +11,22 @@ if [[ ! -t 0 ]]; then
     exit 0
 fi
 
-color00="#241F2B"    # Black (Host)
-color01="#91284C"    # Red (Syntax string)
-color02="#23801C"    # Green (Command)
-color03="#B49D27"    # Yellow (Command second)
-color04="#6580B0"    # Blue (Path)
-color05="#674D96"    # Magenta (Syntax var)
-color06="#8AAABE"    # Cyan (Prompt)
+color00="#241f2b"    # Black (Host)
+color01="#91284c"    # Red (Syntax string)
+color02="#23801c"    # Green (Command)
+color03="#b49d27"    # Yellow (Command second)
+color04="#6580b0"    # Blue (Path)
+color05="#674d96"    # Magenta (Syntax var)
+color06="#8aaabe"    # Cyan (Prompt)
 color07="#524966"    # White
-color08="#312D3D"    # Bright Black
-color09="#D5356C"    # Bright Red (Command error)
-color10="#2CD946"   # Bright Green (Exec)
-color11="#FDE83B"   # Bright Yellow
-color12="#90BAF9"   # Bright Blue (Folder)
-color13="#A479E3"   # Bright Magenta
-color14="#ACD4EB"   # Bright Cyan
-color15="#9E8CBD"   # Bright White
+color08="#312d3d"    # Bright Black
+color09="#d5356c"    # Bright Red (Command error)
+color10="#2cd946"   # Bright Green (Exec)
+color11="#fde83b"   # Bright Yellow
+color12="#90baf9"   # Bright Blue (Folder)
+color13="#a479e3"   # Bright Magenta
+color14="#acd4eb"   # Bright Cyan
+color15="#9e8cbd"   # Bright White
 
 foreground="#514968"         # Foreground (Text)
 background="#100815"         # Background

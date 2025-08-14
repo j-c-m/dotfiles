@@ -14,18 +14,18 @@ fi
 color00="#e0e0e0"    # Black (Host)
 color01="#840000"    # Red (Syntax string)
 color02="#730073"    # Green (Command)
-color03="#755B00"    # Yellow (Command second)
+color03="#755b00"    # Yellow (Command second)
 color04="#007300"    # Blue (Path)
 color05="#000090"    # Magenta (Syntax var)
-color06="#755B00"    # Cyan (Prompt)
+color06="#755b00"    # Cyan (Prompt)
 color07="#000000"    # White
 color08="#707070"    # Bright Black
 color09="#840000"    # Bright Red (Command error)
 color10="#730073"   # Bright Green (Exec)
-color11="#755B00"   # Bright Yellow
+color11="#755b00"   # Bright Yellow
 color12="#007300"   # Bright Blue (Folder)
 color13="#000090"   # Bright Magenta
-color14="#755B00"   # Bright Cyan
+color14="#755b00"   # Bright Cyan
 color15="#c4d9c4"   # Bright White
 
 foreground="#000000"         # Foreground (Text)

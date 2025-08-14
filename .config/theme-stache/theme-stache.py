@@ -37,21 +37,6 @@ def choose_readable_foreground(fg_hex, bg_hex):
     white_ratio = contrast_ratio('#FFFFFF', bg_hex)
     return '#000000' if black_ratio > white_ratio else '#FFFFFF'
 
-def activate_theme(script_path):
-    """Run the shell script to apply theme colors, passing output to stdout/stderr."""
-    if script_path.is_file():
-        try:
-            curses.reset_shell_mode()
-            result = subprocess.run(["bash", "--noprofile", "--norc", str(script_path)], capture_output=True, text=True)
-            sys.stdout.write(result.stdout)
-            sys.stderr.write(result.stderr)
-            sys.stdout.flush()
-            sys.stderr.flush()
-            return True
-        except subprocess.SubprocessError:
-            pass  # Silently ignore errors
-    return False
-
 def load_themes(directory):
     """Load metadata from all JSON files in the directory."""
     themes = []

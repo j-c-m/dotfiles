@@ -405,6 +405,11 @@ def main():
                 print(f"Validation error for {theme_path}: {e}")
                 continue
 
+            # Normalize all -hex fields to lowercase
+            for key in context:
+                if key.endswith('-hex') and isinstance(context[key], str):
+                    context[key] = context[key].lower()
+
             # Add the entire context as a JSON string
             context['theme-json'] = json.dumps(context, sort_keys=True, ensure_ascii=False, indent=4)
 

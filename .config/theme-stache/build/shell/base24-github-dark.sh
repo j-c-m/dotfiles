@@ -17,7 +17,7 @@ color02="#2ea043"    # Green (Command)
 color03="#bb8009"    # Yellow (Command second)
 color04="#388bfd"    # Blue (Path)
 color05="#a371f7"    # Magenta (Syntax var)
-color06="#2A9D9A"    # Cyan (Prompt)
+color06="#2a9d9a"    # Cyan (Prompt)
 color07="#c9d1d9"    # White
 color08="#6e7681"    # Bright Black
 color09="#ff7b72"    # Bright Red (Command error)
@@ -25,7 +25,7 @@ color10="#3fb950"   # Bright Green (Exec)
 color11="#d29922"   # Bright Yellow
 color12="#58a6ff"   # Bright Blue (Folder)
 color13="#bc8cff"   # Bright Magenta
-color14="#33B3AE"   # Bright Cyan
+color14="#33b3ae"   # Bright Cyan
 color15="#ffffff"   # Bright White
 
 foreground="#c9d1d9"         # Foreground (Text)
