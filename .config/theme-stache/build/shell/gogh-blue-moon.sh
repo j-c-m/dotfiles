@@ -34,41 +34,25 @@ cursor="#676e96"                 # Cursor
 selection="#ffffff"           # Selection Background
 selection_text="#000000" # Selection Text
 
-# Function to convert hex color (#RRGGBB) to rr/gg/bb format
-hex_to_hexs() {
-    local hex_color="$1"
-
-    # Remove the leading '#'
-    local hex_clean=${hex_color#\#}
-
-    # Extract red, green, and blue components
-    local red=${hex_clean:0:2}
-    local green=${hex_clean:2:2}
-    local blue=${hex_clean:4:2}
-
-    # Format as rr/gg/bb and output
-    echo "$red/$green/$blue"
-}
-
 print_osc4() {
     local color="$1"
     local hex="$2"
 
-    printf "\033]4;%d;rgb:%s\033\\" "$color" $(hex_to_hexs "$hex")
+    printf "\033]4;%d;rgb:%s\033\\" "$color" "${hex:1:2}/${hex:3:2}/${hex:5:2}"
 }
 
 print_osc_rgb() {
     local osc="$1"
     local hex="$2"
 
-    printf "\033]%d;rgb:%s\033\\" "$osc" $(hex_to_hexs "$hex")
+    printf "\033]%d;rgb:%s\033\\" "$osc" "${hex:1:2}/${hex:3:2}/${hex:5:2}"
 }
 
 print_linux() {
     local color="$1"
     local hex="$2"
 
-    printf "\033]P%x%s" "$color" ${hex_color#\#}
+    printf "\033]P%x%s" "$color" ${hex:1:6}
 }
 
 do_osc() {
@@ -124,7 +108,6 @@ case "$TERM" in
         ;;
 esac
 
-unset -f hex_to_hexs
 unset -f print_osc4
 unset -f print_osc_rgb
 unset -f print_linux
