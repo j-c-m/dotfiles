@@ -2,7 +2,7 @@
 
 # Source:   gogh
 # Theme:    Atelier Seaside
-# Author:   
+# Author:   Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/seaside)
 # Variant:  
 
 # Exit if not on a tty
@@ -88,7 +88,7 @@ do_linux() {
     print_linux 4 "$color04"
     print_linux 5 "$color05"
     print_linux 6 "$color06"
-    print_linux 7 "$color07"
+    print_linux 7 "$foreground"
     print_linux 8 "$color08"
     print_linux 9 "$color09"
     print_linux 10 "$color10"

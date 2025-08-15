@@ -11,28 +11,28 @@ if [[ ! -t 0 ]]; then
     exit 0
 fi
 
-color00="#15161e"    # Black (Host)
-color01="#f7768e"    # Red (Syntax string)
-color02="#58ffc7"    # Green (Command)
-color03="#ffd9af"    # Yellow (Command second)
-color04="#82aaff"    # Blue (Path)
-color05="#d2a6ef"    # Magenta (Syntax var)
-color06="#57f9ff"    # Cyan (Prompt)
-color07="#7c8eac"    # White
-color08="#506686"    # Bright Black
-color09="#f7768e"    # Bright Red (Command error)
-color10="#58ffc7"   # Bright Green (Exec)
-color11="#ffd9af"   # Bright Yellow
-color12="#82aaff"   # Bright Blue (Folder)
-color13="#d2a6ef"   # Bright Magenta
-color14="#57f9ff"   # Bright Cyan
-color15="#c5cee0"   # Bright White
+color00="#14161e"    # Black (Host)
+color01="#fe6b8c"    # Red (Syntax string)
+color02="#00fec3"    # Green (Command)
+color03="#fed7a8"    # Yellow (Command second)
+color04="#76abfe"    # Blue (Path)
+color05="#daa3f4"    # Magenta (Syntax var)
+color06="#00fdfe"    # Cyan (Prompt)
+color07="#778eae"    # White
+color08="#496688"    # Bright Black
+color09="#fe6b8c"    # Bright Red (Command error)
+color10="#00fec3"   # Bright Green (Exec)
+color11="#fed7a8"   # Bright Yellow
+color12="#76abfe"   # Bright Blue (Folder)
+color13="#daa3f4"   # Bright Magenta
+color14="#00fdfe"   # Bright Cyan
+color15="#c2cee1"   # Bright White
 
-foreground="#a8b5d1"         # Foreground (Text)
-background="#24283b"         # Background
-cursor="#a8b5d1"                 # Cursor
-selection="#283457"           # Selection Background
-selection_text="#a8b5d1" # Selection Text
+foreground="#a4b5d3"         # Foreground (Text)
+background="#23283c"         # Background
+cursor="#a4b5d3"                 # Cursor
+selection="#243459"           # Selection Background
+selection_text="#a4b5d3" # Selection Text
 
 print_osc4() {
     local color="$1"
@@ -88,7 +88,7 @@ do_linux() {
     print_linux 4 "$color04"
     print_linux 5 "$color05"
     print_linux 6 "$color06"
-    print_linux 7 "$color07"
+    print_linux 7 "$foreground"
     print_linux 8 "$color08"
     print_linux 9 "$color09"
     print_linux 10 "$color10"

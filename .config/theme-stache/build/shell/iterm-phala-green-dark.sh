@@ -12,27 +12,27 @@ if [[ ! -t 0 ]]; then
 fi
 
 color00="#000000"    # Black (Host)
-color01="#9d2713"    # Red (Syntax string)
-color02="#49ad31"    # Green (Command)
-color03="#a8a633"    # Yellow (Command second)
-color04="#0b22b8"    # Blue (Path)
-color05="#b23bb9"    # Magenta (Syntax var)
-color06="#4bb0bd"    # Cyan (Prompt)
+color01="#ab1500"    # Red (Syntax string)
+color02="#00b000"    # Green (Command)
+color03="#a9a600"    # Yellow (Command second)
+color04="#0223bf"    # Blue (Path)
+color05="#c12dbf"    # Magenta (Syntax var)
+color06="#00b3bf"    # Cyan (Prompt)
 color07="#cacaca"    # White
 color08="#797979"    # Bright Black
-color09="#d93a1f"    # Bright Red (Command error)
-color10="#5dd73f"   # Bright Green (Exec)
-color11="#e9e64a"   # Bright Yellow
-color12="#1331f5"   # Bright Blue (Folder)
-color13="#da4ae3"   # Bright Magenta
-color14="#63e4e8"   # Bright Cyan
+color09="#ec2200"    # Bright Red (Command error)
+color10="#00db00"   # Bright Green (Exec)
+color11="#eae600"   # Bright Yellow
+color12="#0432fe"   # Bright Blue (Folder)
+color13="#ec3aea"   # Bright Magenta
+color14="#00e8ea"   # Bright Cyan
 color15="#eaeaea"   # Bright White
 
-foreground="#cdfa50"         # Foreground (Text)
+foreground="#c0fb03"         # Foreground (Text)
 background="#000000"         # Background
-cursor="#cdfa50"                 # Cursor
-selection="#1b4611"           # Selection Background
-selection_text="#feffff" # Selection Text
+cursor="#c0fb03"                 # Cursor
+selection="#004703"           # Selection Background
+selection_text="#fefefe" # Selection Text
 
 print_osc4() {
     local color="$1"
@@ -88,7 +88,7 @@ do_linux() {
     print_linux 4 "$color04"
     print_linux 5 "$color05"
     print_linux 6 "$color06"
-    print_linux 7 "$color07"
+    print_linux 7 "$foreground"
     print_linux 8 "$color08"
     print_linux 9 "$color09"
     print_linux 10 "$color10"
