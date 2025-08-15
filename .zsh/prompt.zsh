@@ -7,7 +7,7 @@ function update_prompt() {
 
     PROMPT='[%B%*%b] %D{%a %b %d} \
 [%F{6}%K{8}%~${GP}%k%f]:\
-%(!.%F{9}.%B)%K{4}%n@%m%k%f%b
+%(!.%F{9}.%F{15})%K{4}%n@%m%k%f
 %(!.#.$) '
 
     if ! git_in_tree; then
