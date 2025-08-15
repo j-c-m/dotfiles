@@ -53,7 +53,6 @@ hi Pmenu ctermbg=0 ctermfg=15
 hi PmenuSbar ctermbg=8 ctermfg=7
 hi PmenuSel ctermbg=8 ctermfg=15 cterm=bold
 hi PmenuThumb ctermbg=7 ctermfg=NONE
-hi FoldColumn ctermfg=7
 hi Folded ctermfg=12
 hi WildMenu ctermbg=0 ctermfg=15 cterm=NONE
 hi SpecialKey ctermfg=0
@@ -67,7 +66,6 @@ hi SpellCap cterm=undercurl
 hi SpellLocal cterm=undercurl
 hi SpellRare cterm=undercurl
 hi ColorColumn ctermbg=8
-hi SignColumn ctermfg=7
 hi ModeMsg ctermbg=15 ctermfg=0 cterm=bold
 hi MoreMsg ctermfg=4
 hi Question ctermfg=4
@@ -75,7 +73,6 @@ hi QuickFixLine ctermbg=0 ctermfg=14
 hi Conceal ctermfg=8
 hi ToolbarLine ctermbg=0 ctermfg=15
 hi ToolbarButton ctermbg=8 ctermfg=15
-hi debugPC ctermfg=7
 hi debugBreakpoint ctermfg=8
 hi ErrorMsg ctermfg=1 cterm=bold,italic
 hi WarningMsg ctermfg=11
@@ -89,7 +86,6 @@ hi diffChanged ctermfg=12
 hi diffOldFile ctermfg=11
 hi diffNewFile ctermfg=13
 hi diffFile ctermfg=12
-hi diffLine ctermfg=7
 hi diffIndexLine ctermfg=14
 hi healthError ctermfg=1
 hi healthSuccess ctermfg=2
