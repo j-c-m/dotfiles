@@ -4,17 +4,11 @@ setopt PROMPT_SUBST
 function update_prompt() {
     GP=''
 
-    if [[ $(echotc Co 2> /dev/null) -ge 16 ]]; then
-        PROMPT='[%F{15}%*%f] %D{%a %b %d} \
+
+    PROMPT='[%B%*%b] %D{%a %b %d} \
 [%F{6}%K{8}%~${GP}%k%f]:\
-%(!.%F{9}.%F{15})%K{4}%n@%m%k%f
+%(!.%F{9}.%B)%K{4}%n@%m%k%f%b
 %(!.#.$) '
-    else
-        PROMPT='[%B%F{7}%B%*%f%b] %D{%a %b %d} \
-[%F{6}%~${GP}%f]:\
-%(!.%F{1}%B.%F{7}%B)%K{4}%n@%m%k%b%f
-%(!.#.$) '
-    fi
 
     if ! git_in_tree; then
         return

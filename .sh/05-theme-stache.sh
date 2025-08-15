@@ -1,4 +1,4 @@
-THEME_STACHE="${HOME}/.config/theme-stache"         # Directory for theme-stache configuration
+THEME_STACHE="${HOME}/.config/theme-stache"         # Directory for theme-stache
 DEFAULT_THEME="iterm-spacegray-eighties"            # Default theme name
 SHELL_THEME="${HOME}/.shell_theme.sh"               # Path to shell theme symlink
 THEME_STACHE_BIN="${HOME}/bin/theme-stache"         # Path to theme-stache binary symlink

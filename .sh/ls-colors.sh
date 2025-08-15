@@ -23,11 +23,11 @@ _ls_lazy()
     unset -f _ls_lazy
 }
 
-if [[ -z "$BASE16_THEME" ]]; then
-    export LSCOLORS=Exfxcxdxbxegedabagacad
-    if type -p dircolors &> /dev/null;then
-        eval $(dircolors ~/.sh/dircolors.256dark)
-    elif type -p gdircolors &> /dev/null;then
-        eval $(gdircolors ~/.sh/dircolors.256dark)
-    fi
-fi
+#if [[ -z "$BASE16_THEME" ]]; then
+#    export LSCOLORS=Exfxcxdxbxegedabagacad
+#    if type -p dircolors &> /dev/null;then
+#        eval $(dircolors ~/.sh/dircolors.256dark)
+#    elif type -p gdircolors &> /dev/null;then
+#        eval $(gdircolors ~/.sh/dircolors.256dark)
+#    fi
+#fi

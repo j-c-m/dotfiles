@@ -61,7 +61,7 @@ if &t_Co > 16
   set t_Co=16
 endif
 
-colorscheme habamax
+colorscheme default
 
 set pastetoggle=<F2>
 set number
