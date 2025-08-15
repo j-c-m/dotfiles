@@ -57,7 +57,11 @@ else
   set autoindent                " always set autoindenting on
 endif " has("autocmd")
 
-colorscheme ansi
+if &t_Co > 16
+  set t_Co=16
+endif
+
+colorscheme ansi-dim
 
 set pastetoggle=<F2>
 set number
