@@ -61,7 +61,7 @@ if &t_Co > 16
   set t_Co=16
 endif
 
-colorscheme default
+colorscheme ansi
 
 set pastetoggle=<F2>
 set number
