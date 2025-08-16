@@ -41,7 +41,9 @@ GIT_PROMPT_CLEAN=
 GIT_PROMPT_DIRTY="%{$fg_no_bold[red]%}*"
 GIT_PROMPT_SUFFIX=
 
-precmd_functions+=(update_prompt)
+autoload -U add-zsh-hook
+
+add-zsh-hook precmd update_prompt
 
 async_start_worker git_prompt -n
 async_register_callback git_prompt update_prompt

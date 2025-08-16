@@ -42,6 +42,8 @@ function title {
   esac
 }
 
+autoload -U add-zsh-hook
+
 ZSH_THEME_TERM_TAB_TITLE_IDLE="%15<..<%~%<<" #15 char left truncated PWD
 ZSH_THEME_TERM_TITLE_IDLE="%n@%m: %~"
 # Avoid duplication of directory in terminals with independent dir display
@@ -76,8 +78,8 @@ function omz_termsupport_preexec {
   title '$CMD:' '%100>...>$LINE%<<'
 }
 
-precmd_functions+=(omz_termsupport_precmd)
-preexec_functions+=(omz_termsupport_preexec)
+add-zsh-hook precmd omz_termsupport_precmd
+add-zsh-hook preexec omz_termsupport_preexec
 
 
 # Keep Apple Terminal.app's current working directory updated
