@@ -2,8 +2,6 @@ THEME_STACHE="${HOME}/.config/theme-stache"         # Directory for theme-stache
 DEFAULT_THEME="iterm-spacegray-eighties"            # Default theme name
 THEME_STACHE_BIN="${HOME}/bin/theme-stache"         # Path to theme-stache binary symlink
 
-autoload -U add-zsh-hook
-
 if [[ ! -f ${HOME}/.shell_theme.sh ]]; then
     ln -sf "${THEME_STACHE}/build/shell/${DEFAULT_THEME}.sh" "${HOME}/.shell_theme.sh"
 fi
@@ -27,7 +25,10 @@ function precmd_reset_theme() {
     fi
 }
 
-add-zsh-hook precmd precmd_reset_theme
+if [[ -n $ZSH_VERSION ]]; then
+    autoload -U add-zsh-hook
+    add-zsh-hook precmd precmd_reset_theme
+fi
 
 alias reset="command reset && reset_theme"
 
