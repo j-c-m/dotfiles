@@ -32,7 +32,7 @@ foreground="#586e75"         # Foreground (Text)
 background="#fdf6e3"         # Background
 cursor="#586e75"                 # Cursor
 selection="#073642"           # Selection Background
-selection_text="#f8c9bd" # Selection Text
+selection_text="#eee8d5" # Selection Text
 
 print_osc4() {
     local color="$1"

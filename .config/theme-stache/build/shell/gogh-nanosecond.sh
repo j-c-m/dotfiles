@@ -31,8 +31,8 @@ color15="#ffffff"   # Bright White
 foreground="#fafafa"         # Foreground (Text)
 background="#112233"         # Background
 cursor="#fafafa"                 # Cursor
-selection="#aaaaaa"           # Selection Background
-selection_text="#555555" # Selection Text
+selection="#fafafa"           # Selection Background
+selection_text="#112233" # Selection Text
 
 print_osc4() {
     local color="$1"
