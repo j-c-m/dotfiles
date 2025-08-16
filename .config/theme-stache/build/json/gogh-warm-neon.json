@@ -18,12 +18,12 @@
     "background-hex": "#404040",
     "cursor-hex": "#afdab6",
     "foreground-hex": "#afdab6",
-    "selection-hex": "#d0b8a3",
-    "selection-text-hex": "#2f475c",
+    "selection-hex": "#afdab6",
+    "selection-text-hex": "#404040",
     "theme-author": "",
     "theme-name": "Warm Neon",
     "theme-slug": "warm-neon",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

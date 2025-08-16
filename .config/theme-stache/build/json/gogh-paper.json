@@ -18,12 +18,12 @@
     "background-hex": "#f2eede",
     "cursor-hex": "#000000",
     "foreground-hex": "#000000",
-    "selection-hex": "#aaaaaa",
-    "selection-text-hex": "#555555",
+    "selection-hex": "#000000",
+    "selection-text-hex": "#f2eede",
     "theme-author": "",
     "theme-name": "Paper",
     "theme-slug": "paper",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "light"
 }

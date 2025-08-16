@@ -18,12 +18,12 @@
     "background-hex": "#131513",
     "cursor-hex": "#809980",
     "foreground-hex": "#809980",
-    "selection-hex": "#8ca68c",
-    "selection-text-hex": "#735973",
-    "theme-author": "",
+    "selection-hex": "#809980",
+    "selection-text-hex": "#131513",
+    "theme-author": "Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/seaside)",
     "theme-name": "Atelier Seaside",
     "theme-slug": "atelier-seaside",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

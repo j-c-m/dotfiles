@@ -3,7 +3,7 @@
 # Source:   gogh
 # Theme:    Red Alert
 # Author:   
-# Variant:  
+# Variant:  dark
 
 # Exit if not on a tty
 

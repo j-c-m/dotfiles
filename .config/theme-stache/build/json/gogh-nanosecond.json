@@ -18,12 +18,12 @@
     "background-hex": "#112233",
     "cursor-hex": "#fafafa",
     "foreground-hex": "#fafafa",
-    "selection-hex": "#aaaaaa",
-    "selection-text-hex": "#555555",
+    "selection-hex": "#fafafa",
+    "selection-text-hex": "#112233",
     "theme-author": "",
     "theme-name": "Nanosecond",
     "theme-slug": "nanosecond",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

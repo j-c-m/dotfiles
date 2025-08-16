@@ -18,12 +18,12 @@
     "background-hex": "#fafafa",
     "cursor-hex": "#ff9940",
     "foreground-hex": "#575f66",
-    "selection-hex": "#fafafa",
-    "selection-text-hex": "#050505",
+    "selection-hex": "#575f66",
+    "selection-text-hex": "#fafafa",
     "theme-author": "",
     "theme-name": "Ayu Light",
     "theme-slug": "ayu-light",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "light"
 }

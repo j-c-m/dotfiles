@@ -19,7 +19,7 @@
     "cursor-hex": "#bcbcbc",
     "foreground-hex": "#bcbcbc",
     "selection-hex": "#dfdfdf",
-    "selection-text-hex": "#202020",
+    "selection-text-hex": "#000000",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "deep",
     "theme-slug": "deep",

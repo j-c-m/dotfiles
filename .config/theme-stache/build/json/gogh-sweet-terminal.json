@@ -18,12 +18,12 @@
     "background-hex": "#222235",
     "cursor-hex": "#ffffff",
     "foreground-hex": "#ffffff",
-    "selection-hex": "#abb2bf",
-    "selection-text-hex": "#544d40",
+    "selection-hex": "#ffffff",
+    "selection-text-hex": "#222235",
     "theme-author": "",
     "theme-name": "Sweet Terminal",
     "theme-slug": "sweet-terminal",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

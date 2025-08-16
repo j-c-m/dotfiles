@@ -19,7 +19,7 @@
     "cursor-hex": "#768488",
     "foreground-hex": "#768488",
     "selection-hex": "#899ca1",
-    "selection-text-hex": "#76635e",
+    "selection-text-hex": "#333333",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Wryan",
     "theme-slug": "wryan",

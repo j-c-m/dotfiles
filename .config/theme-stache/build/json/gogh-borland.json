@@ -18,12 +18,12 @@
     "background-hex": "#0000a4",
     "cursor-hex": "#ffff4e",
     "foreground-hex": "#ffff4e",
-    "selection-hex": "#eeeeee",
-    "selection-text-hex": "#111111",
+    "selection-hex": "#ffff4e",
+    "selection-text-hex": "#0000a4",
     "theme-author": "",
     "theme-name": "Borland",
     "theme-slug": "borland",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

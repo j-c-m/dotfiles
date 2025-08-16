@@ -19,7 +19,7 @@
     "cursor-hex": "#cdd6f4",
     "foreground-hex": "#cdd6f4",
     "selection-hex": "#f5e0dc",
-    "selection-text-hex": "#0a1f23",
+    "selection-text-hex": "#181825",
     "theme-author": "https://github.com/catppuccin/catppuccin",
     "theme-name": "Catppuccin Mocha",
     "theme-slug": "catppuccin-mocha",

@@ -3,7 +3,7 @@
 # Source:   iterm
 # Theme:    iTerm2 Pastel Dark Background
 # Author:   unknown
-# Variant:  unknown
+# Variant:  dark
 
 # Exit if not on a tty
 

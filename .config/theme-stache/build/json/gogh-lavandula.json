@@ -19,11 +19,11 @@
     "cursor-hex": "#736e7d",
     "foreground-hex": "#736e7d",
     "selection-hex": "#736e7d",
-    "selection-text-hex": "#8c9182",
+    "selection-text-hex": "#050014",
     "theme-author": "",
     "theme-name": "Lavandula",
     "theme-slug": "lavandula",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

@@ -18,12 +18,12 @@
     "background-hex": "#0e100a",
     "cursor-hex": "#f7f7f7",
     "foreground-hex": "#f7f7f7",
-    "selection-hex": "#e2d1e3",
-    "selection-text-hex": "#1d2e1c",
+    "selection-hex": "#f7f7f7",
+    "selection-text-hex": "#0e100a",
     "theme-author": "",
     "theme-name": "Kibble",
     "theme-slug": "kibble",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

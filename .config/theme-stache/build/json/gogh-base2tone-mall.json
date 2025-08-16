@@ -19,11 +19,11 @@
     "cursor-hex": "#3692e2",
     "foreground-hex": "#97959d",
     "selection-hex": "#97959d",
-    "selection-text-hex": "#686a62",
+    "selection-text-hex": "#1e1e1f",
     "theme-author": "",
     "theme-name": "Base2Tone Mall",
     "theme-slug": "base2tone-mall",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

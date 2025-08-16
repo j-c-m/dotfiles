@@ -19,7 +19,7 @@
     "cursor-hex": "#979797",
     "foreground-hex": "#979797",
     "selection-hex": "#adadad",
-    "selection-text-hex": "#525252",
+    "selection-text-hex": "#000000",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Jet Brains Darcula",
     "theme-slug": "jet-brains-darcula",

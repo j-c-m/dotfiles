@@ -3,7 +3,7 @@
 # Source:   gogh
 # Theme:    Pixiefloss
 # Author:   
-# Variant:  
+# Variant:  dark
 
 # Exit if not on a tty
 

@@ -19,11 +19,11 @@
     "cursor-hex": "#c46731",
     "foreground-hex": "#9f95a3",
     "selection-hex": "#9f95a3",
-    "selection-text-hex": "#606a5c",
+    "selection-text-hex": "#221e24",
     "theme-author": "",
     "theme-name": "Base2Tone Porch",
     "theme-slug": "base2tone-porch",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

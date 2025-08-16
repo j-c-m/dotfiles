@@ -19,7 +19,7 @@
     "cursor-hex": "#bbbbbb",
     "foreground-hex": "#bbbbbb",
     "selection-hex": "#dddddd",
-    "selection-text-hex": "#222222",
+    "selection-text-hex": "#333333",
     "theme-author": "mrmrs (http://clrs.cc)",
     "theme-name": "Colors",
     "theme-slug": "colors",

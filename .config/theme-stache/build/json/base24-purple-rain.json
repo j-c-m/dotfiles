@@ -19,7 +19,7 @@
     "cursor-hex": "#d3d4d4",
     "foreground-hex": "#d3d4d4",
     "selection-hex": "#feffff",
-    "selection-text-hex": "#010000",
+    "selection-text-hex": "#000000",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Purple Rain",
     "theme-slug": "purple-rain",

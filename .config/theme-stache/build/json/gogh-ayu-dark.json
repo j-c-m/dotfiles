@@ -19,11 +19,11 @@
     "cursor-hex": "#e6b450",
     "foreground-hex": "#b3b1ad",
     "selection-hex": "#b3b1ad",
-    "selection-text-hex": "#4c4e52",
+    "selection-text-hex": "#0a0e14",
     "theme-author": "",
     "theme-name": "Ayu Dark",
     "theme-slug": "ayu-dark",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

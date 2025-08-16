@@ -3,7 +3,7 @@
 # Source:   gogh
 # Theme:    Base4Tone Modern N
 # Author:   
-# Variant:  
+# Variant:  dark
 
 # Exit if not on a tty
 

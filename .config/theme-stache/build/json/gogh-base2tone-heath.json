@@ -19,11 +19,11 @@
     "cursor-hex": "#995900",
     "foreground-hex": "#9e999f",
     "selection-hex": "#9e999f",
-    "selection-text-hex": "#616660",
+    "selection-text-hex": "#222022",
     "theme-author": "",
     "theme-name": "Base2Tone Heath",
     "theme-slug": "base2tone-heath",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

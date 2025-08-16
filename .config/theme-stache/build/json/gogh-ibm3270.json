@@ -18,12 +18,12 @@
     "background-hex": "#000000",
     "cursor-hex": "#fdfdfd",
     "foreground-hex": "#fdfdfd",
-    "selection-hex": "#a5a5a5",
-    "selection-text-hex": "#5a5a5a",
+    "selection-hex": "#fdfdfd",
+    "selection-text-hex": "#000000",
     "theme-author": "",
     "theme-name": "Ibm3270",
     "theme-slug": "ibm3270",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

@@ -18,12 +18,12 @@
     "background-hex": "#000000",
     "cursor-hex": "#ffffff",
     "foreground-hex": "#ffffff",
-    "selection-hex": "#f5f5f5",
-    "selection-text-hex": "#0a0a0a",
+    "selection-hex": "#ffffff",
+    "selection-text-hex": "#000000",
     "theme-author": "",
     "theme-name": "Vibrant Ink",
     "theme-slug": "vibrant-ink",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

@@ -19,7 +19,7 @@
     "cursor-hex": "#b8bbc2",
     "foreground-hex": "#b8bbc2",
     "selection-hex": "#dbdde0",
-    "selection-text-hex": "#24221f",
+    "selection-text-hex": "#2a3448",
     "theme-author": "Hennig Hasemann (http://leetless.de/vim.html)",
     "theme-name": "PhD",
     "theme-slug": "phd",

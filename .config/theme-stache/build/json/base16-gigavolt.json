@@ -19,7 +19,7 @@
     "cursor-hex": "#e9e7e1",
     "foreground-hex": "#e9e7e1",
     "selection-hex": "#eff0f9",
-    "selection-text-hex": "#100f06",
+    "selection-text-hex": "#2d303d",
     "theme-author": "Aidan Swope (http://github.com/Whillikers)",
     "theme-name": "Gigavolt",
     "theme-slug": "gigavolt",

@@ -19,7 +19,7 @@
     "cursor-hex": "#cccccc",
     "foreground-hex": "#cccccc",
     "selection-hex": "#dcdcdc",
-    "selection-text-hex": "#232323",
+    "selection-text-hex": "#000000",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Pro Light",
     "theme-slug": "pro-light",

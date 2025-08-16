@@ -18,12 +18,12 @@
     "background-hex": "#2b2b2b",
     "cursor-hex": "#ffffff",
     "foreground-hex": "#ffffff",
-    "selection-hex": "#bfbfbf",
-    "selection-text-hex": "#404040",
+    "selection-hex": "#ffffff",
+    "selection-text-hex": "#2b2b2b",
     "theme-author": "",
     "theme-name": "Rippedcasts",
     "theme-slug": "rippedcasts",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

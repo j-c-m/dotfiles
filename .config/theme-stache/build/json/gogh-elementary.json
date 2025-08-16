@@ -19,11 +19,11 @@
     "cursor-hex": "#f2f2f2",
     "foreground-hex": "#f2f2f2",
     "selection-hex": "#f2f2f2",
-    "selection-text-hex": "#0d0d0d",
+    "selection-text-hex": "#101010",
     "theme-author": "",
     "theme-name": "Elementary",
     "theme-slug": "elementary",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

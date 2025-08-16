@@ -19,11 +19,11 @@
     "cursor-hex": "#ffffff",
     "foreground-hex": "#ffffff",
     "selection-hex": "#ffffff",
-    "selection-text-hex": "#000000",
+    "selection-text-hex": "#2e2e35",
     "theme-author": "",
     "theme-name": "Tin",
     "theme-slug": "tin",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

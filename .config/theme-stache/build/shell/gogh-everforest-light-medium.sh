@@ -3,7 +3,7 @@
 # Source:   gogh
 # Theme:    Everforest Light Medium
 # Author:   
-# Variant:  
+# Variant:  light
 
 # Exit if not on a tty
 

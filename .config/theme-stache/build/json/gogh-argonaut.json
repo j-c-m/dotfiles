@@ -18,12 +18,12 @@
     "background-hex": "#0e1019",
     "cursor-hex": "#fffaf4",
     "foreground-hex": "#fffaf4",
-    "selection-hex": "#ffffff",
-    "selection-text-hex": "#000000",
+    "selection-hex": "#fffaf4",
+    "selection-text-hex": "#0e1019",
     "theme-author": "",
     "theme-name": "Argonaut",
     "theme-slug": "argonaut",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

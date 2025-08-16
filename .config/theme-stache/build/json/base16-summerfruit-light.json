@@ -19,7 +19,7 @@
     "cursor-hex": "#101010",
     "foreground-hex": "#101010",
     "selection-hex": "#151515",
-    "selection-text-hex": "#eaeaea",
+    "selection-text-hex": "#e0e0e0",
     "theme-author": "Christopher Corley (http://christop.club/)",
     "theme-name": "Summerfruit Light",
     "theme-slug": "summerfruit-light",

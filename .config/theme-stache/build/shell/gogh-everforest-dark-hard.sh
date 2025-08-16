@@ -3,7 +3,7 @@
 # Source:   gogh
 # Theme:    Everforest Dark Hard
 # Author:   
-# Variant:  
+# Variant:  dark
 
 # Exit if not on a tty
 

@@ -19,11 +19,11 @@
     "cursor-hex": "#e1e1e0",
     "foreground-hex": "#e1e1e0",
     "selection-hex": "#e1e1e0",
-    "selection-text-hex": "#1e1e1f",
+    "selection-text-hex": "#2d3743",
     "theme-author": "",
     "theme-name": "Misterioso",
     "theme-slug": "misterioso",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

@@ -18,12 +18,12 @@
     "background-hex": "#2a211c",
     "cursor-hex": "#b8a898",
     "foreground-hex": "#b8a898",
-    "selection-hex": "#d3d7cf",
-    "selection-text-hex": "#2c2830",
+    "selection-hex": "#b8a898",
+    "selection-text-hex": "#2a211c",
     "theme-author": "",
     "theme-name": "Espresso Libre",
     "theme-slug": "espresso-libre",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

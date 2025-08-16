@@ -19,11 +19,11 @@
     "cursor-hex": "#d6dbe5",
     "foreground-hex": "#d6dbe5",
     "selection-hex": "#d6dbe5",
-    "selection-text-hex": "#29241a",
+    "selection-text-hex": "#131313",
     "theme-author": "",
     "theme-name": "Brogrammer",
     "theme-slug": "brogrammer",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

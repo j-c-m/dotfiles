@@ -19,7 +19,7 @@
     "cursor-hex": "#d5d5d5",
     "foreground-hex": "#d5d5d5",
     "selection-hex": "#dddddd",
-    "selection-text-hex": "#222222",
+    "selection-text-hex": "#383c3e",
     "theme-author": "Alex Meyer (https://github.com/reyemxela)",
     "theme-name": "Helios",
     "theme-slug": "helios",

@@ -18,12 +18,12 @@
     "background-hex": "#232537",
     "cursor-hex": "#ecf0fe",
     "foreground-hex": "#ecf0fe",
-    "selection-hex": "#ecf0fc",
-    "selection-text-hex": "#130f03",
+    "selection-hex": "#ecf0fe",
+    "selection-text-hex": "#232537",
     "theme-author": "",
     "theme-name": "Fishtank",
     "theme-slug": "fishtank",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

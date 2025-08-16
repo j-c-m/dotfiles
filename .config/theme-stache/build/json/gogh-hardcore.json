@@ -18,12 +18,12 @@
     "background-hex": "#121212",
     "cursor-hex": "#a0a0a0",
     "foreground-hex": "#a0a0a0",
-    "selection-hex": "#ccccc6",
-    "selection-text-hex": "#333339",
+    "selection-hex": "#a0a0a0",
+    "selection-text-hex": "#121212",
     "theme-author": "",
     "theme-name": "Hardcore",
     "theme-slug": "hardcore",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

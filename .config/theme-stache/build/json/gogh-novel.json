@@ -18,12 +18,12 @@
     "background-hex": "#dfdbc3",
     "cursor-hex": "#3b2322",
     "foreground-hex": "#3b2322",
-    "selection-hex": "#cccccc",
-    "selection-text-hex": "#333333",
+    "selection-hex": "#3b2322",
+    "selection-text-hex": "#dfdbc3",
     "theme-author": "",
     "theme-name": "Novel",
     "theme-slug": "novel",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "light"
 }

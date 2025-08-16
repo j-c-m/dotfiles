@@ -18,12 +18,12 @@
     "background-hex": "#09111a",
     "cursor-hex": "#d9e6f2",
     "foreground-hex": "#d9e6f2",
-    "selection-hex": "#808080",
-    "selection-text-hex": "#7f7f7f",
+    "selection-hex": "#d9e6f2",
+    "selection-text-hex": "#09111a",
     "theme-author": "",
     "theme-name": "Cai",
     "theme-slug": "cai",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

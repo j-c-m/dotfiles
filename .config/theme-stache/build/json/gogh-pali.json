@@ -18,12 +18,12 @@
     "background-hex": "#232e37",
     "cursor-hex": "#d9e6f2",
     "foreground-hex": "#d9e6f2",
-    "selection-hex": "#f2f2f2",
-    "selection-text-hex": "#0d0d0d",
+    "selection-hex": "#d9e6f2",
+    "selection-text-hex": "#232e37",
     "theme-author": "",
     "theme-name": "Pali",
     "theme-slug": "pali",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

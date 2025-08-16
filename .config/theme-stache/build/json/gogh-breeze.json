@@ -19,11 +19,11 @@
     "cursor-hex": "#fcfcfc",
     "foreground-hex": "#fcfcfc",
     "selection-hex": "#fcfcfc",
-    "selection-text-hex": "#030303",
+    "selection-text-hex": "#232627",
     "theme-author": "",
     "theme-name": "Breeze",
     "theme-slug": "breeze",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

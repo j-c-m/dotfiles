@@ -19,7 +19,7 @@
     "cursor-hex": "#808080",
     "foreground-hex": "#808080",
     "selection-hex": "#404040",
-    "selection-text-hex": "#bfbfbf",
+    "selection-text-hex": "#eaeaea",
     "theme-author": "Fergus Collins (https://github.com/ferguscollins)",
     "theme-name": "Windows NT Light",
     "theme-slug": "windows-nt-light",

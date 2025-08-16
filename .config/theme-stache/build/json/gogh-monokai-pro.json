@@ -19,11 +19,11 @@
     "cursor-hex": "#fcfcfa",
     "foreground-hex": "#fcfcfa",
     "selection-hex": "#fcfcfa",
-    "selection-text-hex": "#030305",
+    "selection-text-hex": "#2d2a2e",
     "theme-author": "",
     "theme-name": "Monokai Pro",
     "theme-slug": "monokai-pro",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

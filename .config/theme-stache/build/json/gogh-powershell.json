@@ -18,12 +18,12 @@
     "background-hex": "#052454",
     "cursor-hex": "#f6f6f7",
     "foreground-hex": "#f6f6f7",
-    "selection-hex": "#7f7c7f",
-    "selection-text-hex": "#808380",
+    "selection-hex": "#f6f6f7",
+    "selection-text-hex": "#052454",
     "theme-author": "",
     "theme-name": "Powershell",
     "theme-slug": "powershell",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

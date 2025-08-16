@@ -3,7 +3,7 @@
 # Source:   gogh
 # Theme:    Google Light
 # Author:   
-# Variant:  
+# Variant:  light
 
 # Exit if not on a tty
 

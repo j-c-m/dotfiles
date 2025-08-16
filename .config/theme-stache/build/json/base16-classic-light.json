@@ -19,7 +19,7 @@
     "cursor-hex": "#303030",
     "foreground-hex": "#303030",
     "selection-hex": "#202020",
-    "selection-text-hex": "#dfdfdf",
+    "selection-text-hex": "#e0e0e0",
     "theme-author": "Jason Heeris (http://heeris.id.au)",
     "theme-name": "Classic Light",
     "theme-slug": "classic-light",

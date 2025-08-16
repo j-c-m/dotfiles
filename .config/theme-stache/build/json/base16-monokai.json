@@ -19,7 +19,7 @@
     "cursor-hex": "#f8f8f2",
     "foreground-hex": "#f8f8f2",
     "selection-hex": "#f5f4f1",
-    "selection-text-hex": "#0a0b0e",
+    "selection-text-hex": "#383830",
     "theme-author": "Wimer Hazenberg (http://www.monokai.nl)",
     "theme-name": "Monokai",
     "theme-slug": "monokai",

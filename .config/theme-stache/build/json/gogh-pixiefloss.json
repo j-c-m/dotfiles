@@ -18,12 +18,12 @@
     "background-hex": "#241f33",
     "cursor-hex": "#d1cae8",
     "foreground-hex": "#d1cae8",
-    "selection-hex": "#f8f8f2",
-    "selection-text-hex": "#07070d",
+    "selection-hex": "#d1cae8",
+    "selection-text-hex": "#241f33",
     "theme-author": "",
     "theme-name": "Pixiefloss",
     "theme-slug": "pixiefloss",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

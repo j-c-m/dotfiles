@@ -19,7 +19,7 @@
     "cursor-hex": "#a0a8cd",
     "foreground-hex": "#a0a8cd",
     "selection-hex": "#abb2bf",
-    "selection-text-hex": "#544d40",
+    "selection-text-hex": "#212234",
     "theme-author": "Jamy Golden (https://github.com/JamyGolden), Based on Tokyodark.nvim (https://github.com/tiagovla/tokyodark.nvim)",
     "theme-name": "Tokyodark",
     "theme-slug": "tokyodark",

@@ -19,11 +19,11 @@
     "cursor-hex": "#dedede",
     "foreground-hex": "#dedede",
     "selection-hex": "#dedede",
-    "selection-text-hex": "#212121",
+    "selection-text-hex": "#121212",
     "theme-author": "",
     "theme-name": "Jellybeans",
     "theme-slug": "jellybeans",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

@@ -18,12 +18,12 @@
     "background-hex": "#1b1b23",
     "cursor-hex": "#877a9b",
     "foreground-hex": "#877a9b",
-    "selection-hex": "#87799c",
-    "selection-text-hex": "#788663",
+    "selection-hex": "#877a9b",
+    "selection-text-hex": "#1b1b23",
     "theme-author": "",
     "theme-name": "Urple",
     "theme-slug": "urple",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

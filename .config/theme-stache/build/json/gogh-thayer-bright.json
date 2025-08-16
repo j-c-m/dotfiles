@@ -18,12 +18,12 @@
     "background-hex": "#1b1d1e",
     "cursor-hex": "#f8f8f8",
     "foreground-hex": "#f8f8f8",
-    "selection-hex": "#ccccc6",
-    "selection-text-hex": "#333339",
+    "selection-hex": "#f8f8f8",
+    "selection-text-hex": "#1b1d1e",
     "theme-author": "",
     "theme-name": "Thayer Bright",
     "theme-slug": "thayer-bright",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

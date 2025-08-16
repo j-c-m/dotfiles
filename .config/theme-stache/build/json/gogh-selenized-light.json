@@ -18,12 +18,12 @@
     "background-hex": "#fbf3db",
     "cursor-hex": "#3a4d53",
     "foreground-hex": "#53676d",
-    "selection-hex": "#909995",
-    "selection-text-hex": "#6f666a",
+    "selection-hex": "#53676d",
+    "selection-text-hex": "#fbf3db",
     "theme-author": "",
     "theme-name": "Selenized Light",
     "theme-slug": "selenized-light",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "light"
 }

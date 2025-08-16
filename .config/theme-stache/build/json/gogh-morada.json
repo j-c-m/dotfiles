@@ -18,12 +18,12 @@
     "background-hex": "#211f46",
     "cursor-hex": "#ffffff",
     "foreground-hex": "#ffffff",
-    "selection-hex": "#f5dcbe",
-    "selection-text-hex": "#0a2341",
+    "selection-hex": "#ffffff",
+    "selection-text-hex": "#211f46",
     "theme-author": "",
     "theme-name": "Morada",
     "theme-slug": "morada",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

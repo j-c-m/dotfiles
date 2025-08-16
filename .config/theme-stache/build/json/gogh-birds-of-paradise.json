@@ -19,11 +19,11 @@
     "cursor-hex": "#e0dbb7",
     "foreground-hex": "#e0dbb7",
     "selection-hex": "#e0dbb7",
-    "selection-text-hex": "#1f2448",
+    "selection-text-hex": "#2a1f1d",
     "theme-author": "",
     "theme-name": "Birds Of Paradise",
     "theme-slug": "birds-of-paradise",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

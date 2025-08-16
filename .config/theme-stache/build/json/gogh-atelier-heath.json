@@ -18,12 +18,12 @@
     "background-hex": "#1b181b",
     "cursor-hex": "#9e8f9e",
     "foreground-hex": "#9e8f9e",
-    "selection-hex": "#ab9bab",
-    "selection-text-hex": "#546454",
-    "theme-author": "",
+    "selection-hex": "#9e8f9e",
+    "selection-text-hex": "#1b181b",
+    "theme-author": "Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/heath)",
     "theme-name": "Atelier Heath",
     "theme-slug": "atelier-heath",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

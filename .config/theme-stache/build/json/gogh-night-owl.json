@@ -18,12 +18,12 @@
     "background-hex": "#011627",
     "cursor-hex": "#d6deeb",
     "foreground-hex": "#d6deeb",
-    "selection-hex": "#ffffff",
-    "selection-text-hex": "#000000",
+    "selection-hex": "#d6deeb",
+    "selection-text-hex": "#011627",
     "theme-author": "",
     "theme-name": "Night Owl",
     "theme-slug": "night-owl",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

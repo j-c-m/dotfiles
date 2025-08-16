@@ -19,11 +19,11 @@
     "cursor-hex": "#968c83",
     "foreground-hex": "#968c83",
     "selection-hex": "#968c83",
-    "selection-text-hex": "#69737c",
+    "selection-text-hex": "#20111b",
     "theme-author": "",
     "theme-name": "Belafonte Night",
     "theme-slug": "belafonte-night",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

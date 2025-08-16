@@ -19,11 +19,11 @@
     "cursor-hex": "#ffffff",
     "foreground-hex": "#ffffff",
     "selection-hex": "#ffffff",
-    "selection-text-hex": "#000000",
+    "selection-text-hex": "#1f1e1f",
     "theme-author": "",
     "theme-name": "Geohot",
     "theme-slug": "geohot",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

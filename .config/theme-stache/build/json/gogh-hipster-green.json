@@ -18,12 +18,12 @@
     "background-hex": "#100b05",
     "cursor-hex": "#84c138",
     "foreground-hex": "#84c138",
-    "selection-hex": "#bfbfbf",
-    "selection-text-hex": "#404040",
+    "selection-hex": "#84c138",
+    "selection-text-hex": "#100b05",
     "theme-author": "",
     "theme-name": "Hipster Green",
     "theme-slug": "hipster-green",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

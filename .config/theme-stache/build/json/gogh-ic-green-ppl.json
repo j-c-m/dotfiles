@@ -18,12 +18,12 @@
     "background-hex": "#3a3d3f",
     "cursor-hex": "#d9efd3",
     "foreground-hex": "#d9efd3",
-    "selection-hex": "#e0ffef",
-    "selection-text-hex": "#1f0010",
+    "selection-hex": "#d9efd3",
+    "selection-text-hex": "#3a3d3f",
     "theme-author": "",
     "theme-name": "Ic Green Ppl",
     "theme-slug": "ic-green-ppl",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

@@ -19,7 +19,7 @@
     "cursor-hex": "#a3a3a3",
     "foreground-hex": "#a3a3a3",
     "selection-hex": "#e8e8e8",
-    "selection-text-hex": "#171717",
+    "selection-text-hex": "#282828",
     "theme-author": "Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)",
     "theme-name": "Spacemacs",
     "theme-slug": "spacemacs",

@@ -3,7 +3,7 @@
 # Source:   gogh
 # Theme:    Atelier Forest
 # Author:   Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/forest)
-# Variant:  
+# Variant:  dark
 
 # Exit if not on a tty
 

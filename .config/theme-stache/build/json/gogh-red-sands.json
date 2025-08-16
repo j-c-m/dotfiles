@@ -18,12 +18,12 @@
     "background-hex": "#7a251e",
     "cursor-hex": "#d7c9a7",
     "foreground-hex": "#d7c9a7",
-    "selection-hex": "#bbbbbb",
-    "selection-text-hex": "#444444",
+    "selection-hex": "#d7c9a7",
+    "selection-text-hex": "#7a251e",
     "theme-author": "",
     "theme-name": "Red Sands",
     "theme-slug": "red-sands",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

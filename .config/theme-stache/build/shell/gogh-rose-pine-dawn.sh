@@ -3,7 +3,7 @@
 # Source:   gogh
 # Theme:    Rosé Pine Dawn
 # Author:   
-# Variant:  
+# Variant:  light
 
 # Exit if not on a tty
 

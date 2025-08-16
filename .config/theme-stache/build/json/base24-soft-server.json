@@ -19,7 +19,7 @@
     "cursor-hex": "#8c9594",
     "foreground-hex": "#8c9594",
     "selection-hex": "#99a3a2",
-    "selection-text-hex": "#665c5d",
+    "selection-text-hex": "#000000",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Soft Server",
     "theme-slug": "soft-server",

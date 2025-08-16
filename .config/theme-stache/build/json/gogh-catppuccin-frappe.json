@@ -18,12 +18,12 @@
     "background-hex": "#303446",
     "cursor-hex": "#c6d0f5",
     "foreground-hex": "#c6d0f5",
-    "selection-hex": "#b5bfe2",
-    "selection-text-hex": "#4a401d",
+    "selection-hex": "#c6d0f5",
+    "selection-text-hex": "#303446",
     "theme-author": "",
     "theme-name": "Catppuccin Frappé",
     "theme-slug": "catppuccin-frappe",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

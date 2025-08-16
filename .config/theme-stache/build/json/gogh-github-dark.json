@@ -18,12 +18,12 @@
     "background-hex": "#101216",
     "cursor-hex": "#c9d1d9",
     "foreground-hex": "#8b949e",
-    "selection-hex": "#ffffff",
-    "selection-text-hex": "#000000",
+    "selection-hex": "#8b949e",
+    "selection-text-hex": "#101216",
     "theme-author": "",
     "theme-name": "Github Dark",
     "theme-slug": "github-dark",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

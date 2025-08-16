@@ -19,11 +19,11 @@
     "cursor-hex": "#d0d0d0",
     "foreground-hex": "#d0d0d0",
     "selection-hex": "#d0d0d0",
-    "selection-text-hex": "#2f2f2f",
+    "selection-text-hex": "#1c1c1c",
     "theme-author": "",
     "theme-name": "Pnevma",
     "theme-slug": "pnevma",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

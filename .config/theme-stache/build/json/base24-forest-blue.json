@@ -19,7 +19,7 @@
     "cursor-hex": "#b8b1a9",
     "foreground-hex": "#b8b1a9",
     "selection-hex": "#e2d8cd",
-    "selection-text-hex": "#1d2732",
+    "selection-text-hex": "#333333",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Forest Blue",
     "theme-slug": "forest-blue",

@@ -19,7 +19,7 @@
     "cursor-hex": "#c5ab60",
     "foreground-hex": "#c5ab60",
     "selection-hex": "#ddc165",
-    "selection-text-hex": "#223e9a",
+    "selection-text-hex": "#000000",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Fun Forrest",
     "theme-slug": "fun-forrest",

@@ -19,11 +19,11 @@
     "cursor-hex": "#dedacf",
     "foreground-hex": "#dedacf",
     "selection-hex": "#dedacf",
-    "selection-text-hex": "#212530",
+    "selection-text-hex": "#171717",
     "theme-author": "",
     "theme-name": "Wombat",
     "theme-slug": "wombat",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

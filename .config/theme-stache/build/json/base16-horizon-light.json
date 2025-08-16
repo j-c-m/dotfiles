@@ -19,7 +19,7 @@
     "cursor-hex": "#403c3d",
     "foreground-hex": "#403c3d",
     "selection-hex": "#302c2d",
-    "selection-text-hex": "#cfd3d2",
+    "selection-text-hex": "#fadad1",
     "theme-author": "Michaël Ball (http://github.com/michael-ball/)",
     "theme-name": "Horizon Light",
     "theme-slug": "horizon-light",

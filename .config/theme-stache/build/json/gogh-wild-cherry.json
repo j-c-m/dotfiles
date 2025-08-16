@@ -18,12 +18,12 @@
     "background-hex": "#1f1726",
     "cursor-hex": "#dafaff",
     "foreground-hex": "#dafaff",
-    "selection-hex": "#fff8de",
-    "selection-text-hex": "#000721",
+    "selection-hex": "#dafaff",
+    "selection-text-hex": "#1f1726",
     "theme-author": "",
     "theme-name": "Wild Cherry",
     "theme-slug": "wild-cherry",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

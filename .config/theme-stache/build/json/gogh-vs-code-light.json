@@ -18,12 +18,12 @@
     "background-hex": "#f9f9f9",
     "cursor-hex": "#020202",
     "foreground-hex": "#020202",
-    "selection-hex": "#343434",
-    "selection-text-hex": "#cbcbcb",
+    "selection-hex": "#020202",
+    "selection-text-hex": "#f9f9f9",
     "theme-author": "",
     "theme-name": "Vs Code Light+",
     "theme-slug": "vs-code-light",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "light"
 }

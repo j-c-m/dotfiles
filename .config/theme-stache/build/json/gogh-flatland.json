@@ -18,12 +18,12 @@
     "background-hex": "#1d1f21",
     "cursor-hex": "#b8dbef",
     "foreground-hex": "#b8dbef",
-    "selection-hex": "#ffffff",
-    "selection-text-hex": "#000000",
+    "selection-hex": "#b8dbef",
+    "selection-text-hex": "#1d1f21",
     "theme-author": "",
     "theme-name": "Flatland",
     "theme-slug": "flatland",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

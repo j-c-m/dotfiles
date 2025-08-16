@@ -19,11 +19,11 @@
     "cursor-hex": "#d2d8d9",
     "foreground-hex": "#d2d8d9",
     "selection-hex": "#d2d8d9",
-    "selection-text-hex": "#2d2726",
+    "selection-text-hex": "#3d3f41",
     "theme-author": "",
     "theme-name": "Solarized Darcula",
     "theme-slug": "solarized-darcula",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

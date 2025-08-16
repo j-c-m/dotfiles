@@ -18,12 +18,12 @@
     "background-hex": "#000000",
     "cursor-hex": "#ffffff",
     "foreground-hex": "#ffffff",
-    "selection-hex": "#bbbbbb",
-    "selection-text-hex": "#444444",
+    "selection-hex": "#ffffff",
+    "selection-text-hex": "#000000",
     "theme-author": "",
     "theme-name": "Dark Pastel",
     "theme-slug": "dark-pastel",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

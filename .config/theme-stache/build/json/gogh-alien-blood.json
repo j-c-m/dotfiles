@@ -18,12 +18,12 @@
     "background-hex": "#0f1610",
     "cursor-hex": "#637d75",
     "foreground-hex": "#637d75",
-    "selection-hex": "#647d75",
-    "selection-text-hex": "#9b828a",
+    "selection-hex": "#637d75",
+    "selection-text-hex": "#0f1610",
     "theme-author": "",
     "theme-name": "Alien Blood",
     "theme-slug": "alien-blood",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

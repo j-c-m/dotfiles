@@ -18,12 +18,12 @@
     "background-hex": "#012849",
     "cursor-hex": "#a9bed8",
     "foreground-hex": "#a9bed8",
-    "selection-hex": "#918988",
-    "selection-text-hex": "#6e7677",
+    "selection-hex": "#a9bed8",
+    "selection-text-hex": "#012849",
     "theme-author": "",
     "theme-name": "Bim",
     "theme-slug": "bim",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

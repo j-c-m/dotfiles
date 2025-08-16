@@ -18,12 +18,12 @@
     "background-hex": "#2a2a2e",
     "cursor-hex": "#d7d7db",
     "foreground-hex": "#d7d7db",
-    "selection-hex": "#ffffff",
-    "selection-text-hex": "#000000",
+    "selection-hex": "#d7d7db",
+    "selection-text-hex": "#2a2a2e",
     "theme-author": "",
     "theme-name": "Foxnightly",
     "theme-slug": "foxnightly",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

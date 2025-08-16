@@ -19,11 +19,11 @@
     "cursor-hex": "#c9c9c9",
     "foreground-hex": "#c9c9c9",
     "selection-hex": "#c9c9c9",
-    "selection-text-hex": "#363636",
+    "selection-text-hex": "#1a1818",
     "theme-author": "",
     "theme-name": "Sundried",
     "theme-slug": "sundried",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

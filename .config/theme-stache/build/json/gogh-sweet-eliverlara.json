@@ -18,12 +18,12 @@
     "background-hex": "#282c34",
     "cursor-hex": "#c3c7d1",
     "foreground-hex": "#c3c7d1",
-    "selection-hex": "#dcdfe4",
-    "selection-text-hex": "#23201b",
+    "selection-hex": "#c3c7d1",
+    "selection-text-hex": "#282c34",
     "theme-author": "",
     "theme-name": "Sweet Eliverlara",
     "theme-slug": "sweet-eliverlara",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

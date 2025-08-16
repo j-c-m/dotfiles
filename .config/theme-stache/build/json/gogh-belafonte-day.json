@@ -18,12 +18,12 @@
     "background-hex": "#d5ccba",
     "cursor-hex": "#45373c",
     "foreground-hex": "#45373c",
-    "selection-hex": "#968c83",
-    "selection-text-hex": "#69737c",
+    "selection-hex": "#45373c",
+    "selection-text-hex": "#d5ccba",
     "theme-author": "",
     "theme-name": "Belafonte Day",
     "theme-slug": "belafonte-day",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "light"
 }

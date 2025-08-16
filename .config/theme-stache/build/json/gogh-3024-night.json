@@ -19,11 +19,11 @@
     "cursor-hex": "#a5a2a2",
     "foreground-hex": "#a5a2a2",
     "selection-hex": "#a5a2a2",
-    "selection-text-hex": "#5a5d5d",
+    "selection-text-hex": "#090300",
     "theme-author": "",
     "theme-name": "3024 Night",
     "theme-slug": "3024-night",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

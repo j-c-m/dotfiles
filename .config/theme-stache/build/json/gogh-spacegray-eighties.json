@@ -18,12 +18,12 @@
     "background-hex": "#222222",
     "cursor-hex": "#bdbaae",
     "foreground-hex": "#bdbaae",
-    "selection-hex": "#efece7",
-    "selection-text-hex": "#101318",
+    "selection-hex": "#bdbaae",
+    "selection-text-hex": "#222222",
     "theme-author": "",
     "theme-name": "Spacegray Eighties",
     "theme-slug": "spacegray-eighties",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

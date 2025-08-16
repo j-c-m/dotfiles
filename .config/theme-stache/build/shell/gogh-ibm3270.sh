@@ -3,7 +3,7 @@
 # Source:   gogh
 # Theme:    Ibm3270
 # Author:   
-# Variant:  
+# Variant:  dark
 
 # Exit if not on a tty
 

@@ -19,7 +19,7 @@
     "cursor-hex": "#2e3440",
     "foreground-hex": "#2e3440",
     "selection-hex": "#3b4252",
-    "selection-text-hex": "#c4bdad",
+    "selection-text-hex": "#c2d0e7",
     "theme-author": "threddast, based on fuxialexander's doom-nord-light-theme (Doom Emacs)",
     "theme-name": "Nord Light",
     "theme-slug": "nord-light",

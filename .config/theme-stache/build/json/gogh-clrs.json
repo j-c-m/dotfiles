@@ -18,12 +18,12 @@
     "background-hex": "#ffffff",
     "cursor-hex": "#262626",
     "foreground-hex": "#262626",
-    "selection-hex": "#b3b3b3",
-    "selection-text-hex": "#4c4c4c",
+    "selection-hex": "#262626",
+    "selection-text-hex": "#ffffff",
     "theme-author": "",
     "theme-name": "Clrs",
     "theme-slug": "clrs",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "light"
 }

@@ -19,7 +19,7 @@
     "cursor-hex": "#808080",
     "foreground-hex": "#808080",
     "selection-hex": "#d7875f",
-    "selection-text-hex": "#2878a0",
+    "selection-text-hex": "#af005f",
     "theme-author": "Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)",
     "theme-name": "PaperColor Dark",
     "theme-slug": "papercolor-dark",

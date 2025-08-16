@@ -3,7 +3,7 @@
 # Source:   iterm
 # Theme:    HaX0R_R3D
 # Author:   unknown
-# Variant:  unknown
+# Variant:  dark
 
 # Exit if not on a tty
 

@@ -19,7 +19,7 @@
     "cursor-hex": "#383a42",
     "foreground-hex": "#383a42",
     "selection-hex": "#202227",
-    "selection-text-hex": "#dfddd8",
+    "selection-text-hex": "#f0f0f1",
     "theme-author": "Daniel Pfeifer (http://github.com/purpleKarrot)",
     "theme-name": "One Light",
     "theme-slug": "one-light",

@@ -18,12 +18,12 @@
     "background-hex": "#f8f8f8",
     "cursor-hex": "#2a2b32",
     "foreground-hex": "#2a2b32",
-    "selection-hex": "#8e8f96",
-    "selection-text-hex": "#717069",
+    "selection-hex": "#2a2b32",
+    "selection-text-hex": "#f8f8f8",
     "theme-author": "",
     "theme-name": "One Light",
     "theme-slug": "one-light",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "light"
 }

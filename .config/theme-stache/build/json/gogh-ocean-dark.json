@@ -18,12 +18,12 @@
     "background-hex": "#1c1f27",
     "cursor-hex": "#979cac",
     "foreground-hex": "#979cac",
-    "selection-hex": "#eeedee",
-    "selection-text-hex": "#111211",
+    "selection-hex": "#979cac",
+    "selection-text-hex": "#1c1f27",
     "theme-author": "",
     "theme-name": "Ocean Dark",
     "theme-slug": "ocean-dark",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

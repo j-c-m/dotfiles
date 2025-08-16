@@ -18,12 +18,12 @@
     "background-hex": "#181616",
     "cursor-hex": "#c8c093",
     "foreground-hex": "#c5c9c5",
-    "selection-hex": "#c8c093",
-    "selection-text-hex": "#373f6c",
+    "selection-hex": "#c5c9c5",
+    "selection-text-hex": "#181616",
     "theme-author": "",
     "theme-name": "Kanagawa Dragon",
     "theme-slug": "kanagawa-dragon",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

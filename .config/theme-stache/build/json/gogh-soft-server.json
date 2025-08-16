@@ -19,11 +19,11 @@
     "cursor-hex": "#99a3a2",
     "foreground-hex": "#99a3a2",
     "selection-hex": "#99a3a2",
-    "selection-text-hex": "#665c5d",
+    "selection-text-hex": "#242626",
     "theme-author": "",
     "theme-name": "Soft Server",
     "theme-slug": "soft-server",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

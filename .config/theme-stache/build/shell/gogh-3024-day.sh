@@ -3,7 +3,7 @@
 # Source:   gogh
 # Theme:    3024 Day
 # Author:   
-# Variant:  
+# Variant:  light
 
 # Exit if not on a tty
 

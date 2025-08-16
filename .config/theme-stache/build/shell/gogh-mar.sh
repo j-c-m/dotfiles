@@ -3,7 +3,7 @@
 # Source:   gogh
 # Theme:    Mar
 # Author:   
-# Variant:  
+# Variant:  light
 
 # Exit if not on a tty
 

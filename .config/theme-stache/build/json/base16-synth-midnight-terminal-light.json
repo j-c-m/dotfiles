@@ -19,7 +19,7 @@
     "cursor-hex": "#28292a",
     "foreground-hex": "#28292a",
     "selection-hex": "#1a1b1c",
-    "selection-text-hex": "#e5e4e3",
+    "selection-text-hex": "#cfd1d2",
     "theme-author": "Michaël Ball (http://github.com/michael-ball/)",
     "theme-name": "Synth Midnight Terminal Light",
     "theme-slug": "synth-midnight-terminal-light",

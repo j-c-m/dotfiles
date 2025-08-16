@@ -19,7 +19,7 @@
     "cursor-hex": "#c9d1d9",
     "foreground-hex": "#c9d1d9",
     "selection-hex": "#f0f6fc",
-    "selection-text-hex": "#0f0903",
+    "selection-text-hex": "#30363d",
     "theme-author": "Tinted Theming (https://github.com/tinted-theming)",
     "theme-name": "Github Dark",
     "theme-slug": "github-dark",

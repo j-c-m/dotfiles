@@ -18,12 +18,12 @@
     "background-hex": "#243435",
     "cursor-hex": "#d4e7d4",
     "foreground-hex": "#d4e7d4",
-    "selection-hex": "#e0e0e0",
-    "selection-text-hex": "#1f1f1f",
+    "selection-hex": "#d4e7d4",
+    "selection-text-hex": "#243435",
     "theme-author": "",
     "theme-name": "Seafoam Pastel",
     "theme-slug": "seafoam-pastel",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

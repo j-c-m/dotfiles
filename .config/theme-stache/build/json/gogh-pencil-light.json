@@ -18,12 +18,12 @@
     "background-hex": "#f1f1f1",
     "cursor-hex": "#424242",
     "foreground-hex": "#424242",
-    "selection-hex": "#d9d9d9",
-    "selection-text-hex": "#262626",
+    "selection-hex": "#424242",
+    "selection-text-hex": "#f1f1f1",
     "theme-author": "",
     "theme-name": "Pencil Light",
     "theme-slug": "pencil-light",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "light"
 }

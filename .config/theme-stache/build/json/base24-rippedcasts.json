@@ -19,7 +19,7 @@
     "cursor-hex": "#a8a8a8",
     "foreground-hex": "#a8a8a8",
     "selection-hex": "#bfbfbf",
-    "selection-text-hex": "#404040",
+    "selection-text-hex": "#000000",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Rippedcasts",
     "theme-slug": "rippedcasts",

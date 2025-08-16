@@ -18,12 +18,12 @@
     "background-hex": "#1f1926",
     "cursor-hex": "#c7c7c7",
     "foreground-hex": "#e0e0e0",
-    "selection-hex": "#91889b",
-    "selection-text-hex": "#6e7764",
+    "selection-hex": "#e0e0e0",
+    "selection-text-hex": "#1f1926",
     "theme-author": "",
     "theme-name": "Laserwave",
     "theme-slug": "laserwave",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

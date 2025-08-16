@@ -19,11 +19,11 @@
     "cursor-hex": "#d2d4de",
     "foreground-hex": "#c6c8d1",
     "selection-hex": "#c6c8d1",
-    "selection-text-hex": "#39372e",
+    "selection-text-hex": "#161821",
     "theme-author": "",
     "theme-name": "Iceberg",
     "theme-slug": "iceberg",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

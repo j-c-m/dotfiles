@@ -19,11 +19,11 @@
     "cursor-hex": "#dcdfe4",
     "foreground-hex": "#dcdfe4",
     "selection-hex": "#dcdfe4",
-    "selection-text-hex": "#23201b",
+    "selection-text-hex": "#000000",
     "theme-author": "",
     "theme-name": "One Half Black",
     "theme-slug": "one-half-black",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

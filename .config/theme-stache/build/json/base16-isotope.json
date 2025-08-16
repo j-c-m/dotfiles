@@ -19,7 +19,7 @@
     "cursor-hex": "#d0d0d0",
     "foreground-hex": "#d0d0d0",
     "selection-hex": "#e0e0e0",
-    "selection-text-hex": "#1f1f1f",
+    "selection-text-hex": "#404040",
     "theme-author": "Jan T. Sott",
     "theme-name": "Isotope",
     "theme-slug": "isotope",

@@ -3,7 +3,7 @@
 # Source:   gogh
 # Theme:    Base2Tone Meadow
 # Author:   
-# Variant:  
+# Variant:  dark
 
 # Exit if not on a tty
 

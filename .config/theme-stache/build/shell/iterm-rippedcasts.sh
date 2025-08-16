@@ -3,7 +3,7 @@
 # Source:   iterm
 # Theme:    Rippedcasts
 # Author:   unknown
-# Variant:  unknown
+# Variant:  dark
 
 # Exit if not on a tty
 

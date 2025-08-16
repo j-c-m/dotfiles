@@ -19,7 +19,7 @@
     "cursor-hex": "#eeffff",
     "foreground-hex": "#eeffff",
     "selection-hex": "#eeffff",
-    "selection-text-hex": "#110000",
+    "selection-text-hex": "#303030",
     "theme-author": "Nate Peterson",
     "theme-name": "Material Darker",
     "theme-slug": "material-darker",

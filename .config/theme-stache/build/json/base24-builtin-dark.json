@@ -19,7 +19,7 @@
     "cursor-hex": "#a1a1a1",
     "foreground-hex": "#a1a1a1",
     "selection-hex": "#bbbbbb",
-    "selection-text-hex": "#444444",
+    "selection-text-hex": "#000000",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Builtin Dark",
     "theme-slug": "builtin-dark",

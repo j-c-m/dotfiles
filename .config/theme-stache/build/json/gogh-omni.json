@@ -19,11 +19,11 @@
     "cursor-hex": "#abb2bf",
     "foreground-hex": "#abb2bf",
     "selection-hex": "#abb2bf",
-    "selection-text-hex": "#544d40",
+    "selection-text-hex": "#191622",
     "theme-author": "",
     "theme-name": "Omni",
     "theme-slug": "omni",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

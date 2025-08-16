@@ -19,7 +19,7 @@
     "cursor-hex": "#636363",
     "foreground-hex": "#636363",
     "selection-hex": "#303338",
-    "selection-text-hex": "#cfccc7",
+    "selection-text-hex": "#fff7ed",
     "theme-author": "Zachary Weiss (https://github.com/zacharyweiss)",
     "theme-name": "Penumbra Light",
     "theme-slug": "penumbra-light",

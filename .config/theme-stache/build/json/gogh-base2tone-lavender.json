@@ -19,11 +19,11 @@
     "cursor-hex": "#b042ff",
     "foreground-hex": "#9992b0",
     "selection-hex": "#9992b0",
-    "selection-text-hex": "#666d4f",
+    "selection-text-hex": "#201d2a",
     "theme-author": "",
     "theme-name": "Base2Tone Lavender",
     "theme-slug": "base2tone-lavender",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

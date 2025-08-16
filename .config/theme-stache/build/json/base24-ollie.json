@@ -19,7 +19,7 @@
     "cursor-hex": "#7e7789",
     "foreground-hex": "#7e7789",
     "selection-hex": "#8a8dab",
-    "selection-text-hex": "#757254",
+    "selection-text-hex": "#000000",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Ollie",
     "theme-slug": "ollie",

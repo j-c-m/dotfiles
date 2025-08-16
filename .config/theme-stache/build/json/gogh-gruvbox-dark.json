@@ -18,12 +18,12 @@
     "background-hex": "#282828",
     "cursor-hex": "#ebdbb2",
     "foreground-hex": "#ebdbb2",
-    "selection-hex": "#a89984",
-    "selection-text-hex": "#57667b",
+    "selection-hex": "#ebdbb2",
+    "selection-text-hex": "#282828",
     "theme-author": "",
     "theme-name": "Gruvbox Dark",
     "theme-slug": "gruvbox-dark",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

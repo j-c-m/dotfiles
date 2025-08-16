@@ -19,7 +19,7 @@
     "cursor-hex": "#afafaf",
     "foreground-hex": "#afafaf",
     "selection-hex": "#d9d9d9",
-    "selection-text-hex": "#262626",
+    "selection-text-hex": "#000000",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Chalkboard",
     "theme-slug": "chalkboard",

@@ -19,7 +19,7 @@
     "cursor-hex": "#4d4d4c",
     "foreground-hex": "#4d4d4c",
     "selection-hex": "#4d4d4c",
-    "selection-text-hex": "#b2b2b3",
+    "selection-text-hex": "#ffffff",
     "theme-author": "Chris Kempson (http://chriskempson.com)",
     "theme-name": "Tomorrow",
     "theme-slug": "tomorrow",

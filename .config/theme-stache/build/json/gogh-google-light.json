@@ -18,12 +18,12 @@
     "background-hex": "#ffffff",
     "cursor-hex": "#5f6368",
     "foreground-hex": "#5f6368",
-    "selection-hex": "#e8eaed",
-    "selection-text-hex": "#171512",
+    "selection-hex": "#5f6368",
+    "selection-text-hex": "#ffffff",
     "theme-author": "",
     "theme-name": "Google Light",
     "theme-slug": "google-light",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "light"
 }

@@ -19,11 +19,11 @@
     "cursor-hex": "#c9cdd7",
     "foreground-hex": "#c9cdd7",
     "selection-hex": "#c9cdd7",
-    "selection-text-hex": "#363228",
+    "selection-text-hex": "#323f46",
     "theme-author": "",
     "theme-name": "Lunaria Eclipse",
     "theme-slug": "lunaria-eclipse",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

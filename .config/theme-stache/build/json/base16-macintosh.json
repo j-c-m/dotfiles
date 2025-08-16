@@ -19,7 +19,7 @@
     "cursor-hex": "#c0c0c0",
     "foreground-hex": "#c0c0c0",
     "selection-hex": "#c0c0c0",
-    "selection-text-hex": "#3f3f3f",
+    "selection-text-hex": "#404040",
     "theme-author": "Rebecca Bettencourt (http://www.kreativekorp.com)",
     "theme-name": "Macintosh",
     "theme-slug": "macintosh",

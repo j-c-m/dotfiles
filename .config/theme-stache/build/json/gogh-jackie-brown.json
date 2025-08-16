@@ -18,12 +18,12 @@
     "background-hex": "#2c1d16",
     "cursor-hex": "#ffcc2f",
     "foreground-hex": "#ffcc2f",
-    "selection-hex": "#bfbfbf",
-    "selection-text-hex": "#404040",
+    "selection-hex": "#ffcc2f",
+    "selection-text-hex": "#2c1d16",
     "theme-author": "",
     "theme-name": "Jackie Brown",
     "theme-slug": "jackie-brown",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

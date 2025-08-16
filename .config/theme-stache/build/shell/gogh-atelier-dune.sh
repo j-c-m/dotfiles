@@ -3,7 +3,7 @@
 # Source:   gogh
 # Theme:    Atelier Dune
 # Author:   Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/dune)
-# Variant:  
+# Variant:  dark
 
 # Exit if not on a tty
 

@@ -19,11 +19,11 @@
     "cursor-hex": "#03edf9",
     "foreground-hex": "#ffffff",
     "selection-hex": "#ffffff",
-    "selection-text-hex": "#000000",
+    "selection-text-hex": "#262335",
     "theme-author": "",
     "theme-name": "Synthwave",
     "theme-slug": "synthwave",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

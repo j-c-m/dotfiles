@@ -18,12 +18,12 @@
     "background-hex": "#001e27",
     "cursor-hex": "#9cc2c3",
     "foreground-hex": "#9cc2c3",
-    "selection-hex": "#eae3cb",
-    "selection-text-hex": "#151c34",
+    "selection-hex": "#9cc2c3",
+    "selection-text-hex": "#001e27",
     "theme-author": "",
     "theme-name": "Solarized Dark Higher Contrast",
     "theme-slug": "solarized-dark-higher-contrast",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

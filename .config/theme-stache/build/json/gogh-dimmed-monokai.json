@@ -19,11 +19,11 @@
     "cursor-hex": "#b9bcba",
     "foreground-hex": "#b9bcba",
     "selection-hex": "#b9bcba",
-    "selection-text-hex": "#464345",
+    "selection-text-hex": "#1f1f1f",
     "theme-author": "",
     "theme-name": "Dimmed Monokai",
     "theme-slug": "dimmed-monokai",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

@@ -3,7 +3,7 @@
 # Source:   gogh
 # Theme:    Selenized White
 # Author:   
-# Variant:  
+# Variant:  light
 
 # Exit if not on a tty
 

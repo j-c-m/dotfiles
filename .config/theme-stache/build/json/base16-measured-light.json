@@ -19,7 +19,7 @@
     "cursor-hex": "#292929",
     "foreground-hex": "#292929",
     "selection-hex": "#181818",
-    "selection-text-hex": "#e7e7e7",
+    "selection-text-hex": "#f9f5f1",
     "theme-author": "Measured (https://measured.co)",
     "theme-name": "Measured Light",
     "theme-slug": "measured-light",

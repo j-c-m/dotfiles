@@ -19,7 +19,7 @@
     "cursor-hex": "#636363",
     "foreground-hex": "#636363",
     "selection-hex": "#24272b",
-    "selection-text-hex": "#dbd8d4",
+    "selection-text-hex": "#fff7ed",
     "theme-author": "Zachary Weiss (https://github.com/zacharyweiss)",
     "theme-name": "Penumbra Light Contrast Plus",
     "theme-slug": "penumbra-light-contrast-plus",

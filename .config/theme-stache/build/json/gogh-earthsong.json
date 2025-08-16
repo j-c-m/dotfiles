@@ -18,12 +18,12 @@
     "background-hex": "#292520",
     "cursor-hex": "#e5c7a9",
     "foreground-hex": "#e5c7a9",
-    "selection-hex": "#e5c6aa",
-    "selection-text-hex": "#1a3955",
+    "selection-hex": "#e5c7a9",
+    "selection-text-hex": "#292520",
     "theme-author": "",
     "theme-name": "Earthsong",
     "theme-slug": "earthsong",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

@@ -18,12 +18,12 @@
     "background-hex": "#300a24",
     "cursor-hex": "#ffffff",
     "foreground-hex": "#ffffff",
-    "selection-hex": "#d3d7cf",
-    "selection-text-hex": "#2c2830",
+    "selection-hex": "#ffffff",
+    "selection-text-hex": "#300a24",
     "theme-author": "",
     "theme-name": "Clone Of Ubuntu",
     "theme-slug": "clone-of-ubuntu",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

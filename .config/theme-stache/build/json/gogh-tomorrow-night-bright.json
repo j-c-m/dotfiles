@@ -19,7 +19,7 @@
     "cursor-hex": "#eaeaea",
     "foreground-hex": "#eaeaea",
     "selection-hex": "#eaeaea",
-    "selection-text-hex": "#151515",
+    "selection-text-hex": "#000000",
     "theme-author": "Chris Kempson (http://chriskempson.com)",
     "theme-name": "Tomorrow Night Bright",
     "theme-slug": "tomorrow-night-bright",

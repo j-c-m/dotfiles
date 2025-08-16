@@ -19,7 +19,7 @@
     "cursor-hex": "#ceced3",
     "foreground-hex": "#ceced3",
     "selection-hex": "#fdfdfd",
-    "selection-text-hex": "#020202",
+    "selection-text-hex": "#282a36",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Lovelace",
     "theme-slug": "lovelace",

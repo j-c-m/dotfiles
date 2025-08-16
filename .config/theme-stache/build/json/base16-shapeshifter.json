@@ -19,7 +19,7 @@
     "cursor-hex": "#102015",
     "foreground-hex": "#102015",
     "selection-hex": "#040404",
-    "selection-text-hex": "#fbfbfb",
+    "selection-text-hex": "#e0e0e0",
     "theme-author": "Tyler Benziger (http://tybenz.com)",
     "theme-name": "Shapeshifter",
     "theme-slug": "shapeshifter",

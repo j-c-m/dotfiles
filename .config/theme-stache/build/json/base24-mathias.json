@@ -19,7 +19,7 @@
     "cursor-hex": "#cacaca",
     "foreground-hex": "#cacaca",
     "selection-hex": "#f2f2f2",
-    "selection-text-hex": "#0d0d0d",
+    "selection-text-hex": "#000000",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Mathias",
     "theme-slug": "mathias",

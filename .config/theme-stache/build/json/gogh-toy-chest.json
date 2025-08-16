@@ -18,12 +18,12 @@
     "background-hex": "#24364b",
     "cursor-hex": "#31d07b",
     "foreground-hex": "#31d07b",
-    "selection-hex": "#23d183",
-    "selection-text-hex": "#dc2e7c",
+    "selection-hex": "#31d07b",
+    "selection-text-hex": "#24364b",
     "theme-author": "",
     "theme-name": "Toy Chest",
     "theme-slug": "toy-chest",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

@@ -19,7 +19,7 @@
     "cursor-hex": "#444444",
     "foreground-hex": "#444444",
     "selection-hex": "#333333",
-    "selection-text-hex": "#cccccc",
+    "selection-text-hex": "#eeeeee",
     "theme-author": "ali (https://github.com/ali-githb/base16-standardized-scheme)",
     "theme-name": "standardized-light",
     "theme-slug": "standardized-light",

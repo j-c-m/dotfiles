@@ -19,7 +19,7 @@
     "cursor-hex": "#eeeeee",
     "foreground-hex": "#eeeeee",
     "selection-hex": "#e8e8e8",
-    "selection-text-hex": "#171717",
+    "selection-text-hex": "#383838",
     "theme-author": "Jacobo Tabernero (https://github/com/jacoborus/tender.vim)",
     "theme-name": "tender",
     "theme-slug": "tender",

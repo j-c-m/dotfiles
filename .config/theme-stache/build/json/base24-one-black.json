@@ -19,7 +19,7 @@
     "cursor-hex": "#abb2bf",
     "foreground-hex": "#abb2bf",
     "selection-hex": "#e6e6e6",
-    "selection-text-hex": "#191919",
+    "selection-text-hex": "#000000",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "One Black",
     "theme-slug": "one-black",

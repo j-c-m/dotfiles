@@ -3,7 +3,7 @@
 # Source:   gogh
 # Theme:    Tokyo Night Light
 # Author:   
-# Variant:  
+# Variant:  light
 
 # Exit if not on a tty
 

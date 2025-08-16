@@ -18,12 +18,12 @@
     "background-hex": "#1e2229",
     "cursor-hex": "#bbbbbb",
     "foreground-hex": "#bbbbbb",
-    "selection-hex": "#fcfcfc",
-    "selection-text-hex": "#030303",
+    "selection-hex": "#bbbbbb",
+    "selection-text-hex": "#1e2229",
     "theme-author": "",
     "theme-name": "Breath Silverfox",
     "theme-slug": "breath-silverfox",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

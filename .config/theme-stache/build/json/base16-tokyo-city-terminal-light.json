@@ -19,7 +19,7 @@
     "cursor-hex": "#28323a",
     "foreground-hex": "#28323a",
     "selection-hex": "#1d252c",
-    "selection-text-hex": "#e2dad3",
+    "selection-text-hex": "#f6f6f8",
     "theme-author": "Michaël Ball",
     "theme-name": "Tokyo City Terminal Light",
     "theme-slug": "tokyo-city-terminal-light",

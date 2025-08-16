@@ -19,7 +19,7 @@
     "cursor-hex": "#c0c4c0",
     "foreground-hex": "#c0c4c0",
     "selection-hex": "#cdd3cd",
-    "selection-text-hex": "#322c32",
+    "selection-text-hex": "#5a5a5a",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Operator Mono Dark",
     "theme-slug": "operator-mono-dark",

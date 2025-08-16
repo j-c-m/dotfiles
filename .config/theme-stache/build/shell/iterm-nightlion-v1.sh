@@ -3,7 +3,7 @@
 # Source:   iterm
 # Theme:    NightLion v1
 # Author:   unknown
-# Variant:  unknown
+# Variant:  dark
 
 # Exit if not on a tty
 

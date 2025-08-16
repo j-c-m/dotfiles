@@ -18,12 +18,12 @@
     "background-hex": "#272822",
     "cursor-hex": "#f8f8f2",
     "foreground-hex": "#f8f8f2",
-    "selection-hex": "#f9f8f5",
-    "selection-text-hex": "#06070a",
+    "selection-hex": "#f8f8f2",
+    "selection-text-hex": "#272822",
     "theme-author": "",
     "theme-name": "Monokai Dark",
     "theme-slug": "monokai-dark",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

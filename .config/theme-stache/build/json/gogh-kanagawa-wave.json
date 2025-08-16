@@ -18,12 +18,12 @@
     "background-hex": "#1f1f28",
     "cursor-hex": "#dcd7ba",
     "foreground-hex": "#dcd7ba",
-    "selection-hex": "#c8c093",
-    "selection-text-hex": "#373f6c",
+    "selection-hex": "#dcd7ba",
+    "selection-text-hex": "#1f1f28",
     "theme-author": "",
     "theme-name": "Kanagawa Wave",
     "theme-slug": "kanagawa-wave",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

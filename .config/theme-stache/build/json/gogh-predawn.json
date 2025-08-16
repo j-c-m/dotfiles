@@ -18,12 +18,12 @@
     "background-hex": "#282828",
     "cursor-hex": "#f1f1f1",
     "foreground-hex": "#f1f1f1",
-    "selection-hex": "#eaeaea",
-    "selection-text-hex": "#151515",
+    "selection-hex": "#f1f1f1",
+    "selection-text-hex": "#282828",
     "theme-author": "",
     "theme-name": "Predawn",
     "theme-slug": "predawn",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

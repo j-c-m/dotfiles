@@ -19,7 +19,7 @@
     "cursor-hex": "#383a42",
     "foreground-hex": "#383a42",
     "selection-hex": "#202227",
-    "selection-text-hex": "#dfddd8",
+    "selection-text-hex": "#dfdfe1",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "One Light",
     "theme-slug": "one-light",

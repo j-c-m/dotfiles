@@ -18,12 +18,12 @@
     "background-hex": "#262626",
     "cursor-hex": "#bcbcbc",
     "foreground-hex": "#bcbcbc",
-    "selection-hex": "#6c6c6c",
-    "selection-text-hex": "#939393",
+    "selection-hex": "#bcbcbc",
+    "selection-text-hex": "#262626",
     "theme-author": "",
     "theme-name": "Apprentice",
     "theme-slug": "apprentice",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

@@ -19,7 +19,7 @@
     "cursor-hex": "#c7c7c7",
     "foreground-hex": "#c7c7c7",
     "selection-hex": "#ff77ff",
-    "selection-text-hex": "#008800",
+    "selection-text-hex": "#43d426",
     "theme-author": "Iolar Demartini Junior (http://github.com/demartini), based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode)",
     "theme-name": "Shades of Purple",
     "theme-slug": "shades-of-purple",

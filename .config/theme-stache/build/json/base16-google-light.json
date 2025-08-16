@@ -19,7 +19,7 @@
     "cursor-hex": "#373b41",
     "foreground-hex": "#373b41",
     "selection-hex": "#282a2e",
-    "selection-text-hex": "#d7d5d1",
+    "selection-text-hex": "#e0e0e0",
     "theme-author": "Seth Wright (http://sethawright.com)",
     "theme-name": "Google Light",
     "theme-slug": "google-light",

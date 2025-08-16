@@ -3,7 +3,7 @@
 # Source:   gogh
 # Theme:    Sweet Terminal
 # Author:   
-# Variant:  
+# Variant:  dark
 
 # Exit if not on a tty
 

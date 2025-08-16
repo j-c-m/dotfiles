@@ -18,12 +18,12 @@
     "background-hex": "#201d20",
     "cursor-hex": "#7c7481",
     "foreground-hex": "#9e949d",
-    "selection-hex": "#ede8ed",
-    "selection-text-hex": "#121712",
+    "selection-hex": "#9e949d",
+    "selection-text-hex": "#201d20",
     "theme-author": "",
     "theme-name": "Base4Tone Classic U",
     "theme-slug": "base4tone-classic-u",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

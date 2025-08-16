@@ -3,7 +3,7 @@
 # Source:   gogh
 # Theme:    Atelier Heath
 # Author:   Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/heath)
-# Variant:  
+# Variant:  dark
 
 # Exit if not on a tty
 

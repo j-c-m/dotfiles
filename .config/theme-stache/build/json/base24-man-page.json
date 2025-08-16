@@ -19,7 +19,7 @@
     "cursor-hex": "#b2b2b2",
     "foreground-hex": "#b2b2b2",
     "selection-hex": "#cccccc",
-    "selection-text-hex": "#333333",
+    "selection-text-hex": "#000000",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Man Page",
     "theme-slug": "man-page",

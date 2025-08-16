@@ -19,11 +19,11 @@
     "cursor-hex": "#a8a49d",
     "foreground-hex": "#a8a49d",
     "selection-hex": "#a8a49d",
-    "selection-text-hex": "#575b62",
+    "selection-text-hex": "#010101",
     "theme-author": "",
     "theme-name": "Harper",
     "theme-slug": "harper",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

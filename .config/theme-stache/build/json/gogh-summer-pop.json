@@ -18,12 +18,12 @@
     "background-hex": "#272822",
     "cursor-hex": "#ffffff",
     "foreground-hex": "#ffffff",
-    "selection-hex": "#e5e5e5",
-    "selection-text-hex": "#1a1a1a",
+    "selection-hex": "#ffffff",
+    "selection-text-hex": "#272822",
     "theme-author": "",
     "theme-name": "Summer Pop",
     "theme-slug": "summer-pop",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

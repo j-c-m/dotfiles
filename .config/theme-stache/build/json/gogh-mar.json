@@ -18,12 +18,12 @@
     "background-hex": "#ffffff",
     "cursor-hex": "#23476a",
     "foreground-hex": "#23476a",
-    "selection-hex": "#f8f8f8",
-    "selection-text-hex": "#070707",
+    "selection-hex": "#23476a",
+    "selection-text-hex": "#ffffff",
     "theme-author": "",
     "theme-name": "Mar",
     "theme-slug": "mar",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "light"
 }

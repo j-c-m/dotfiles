@@ -19,7 +19,7 @@
     "cursor-hex": "#e2e4e5",
     "foreground-hex": "#e2e4e5",
     "selection-hex": "#eff0eb",
-    "selection-text-hex": "#100f14",
+    "selection-text-hex": "#34353e",
     "theme-author": "Chawye Hsu (https://github.com/chawyehsu), based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)",
     "theme-name": "Snazzy",
     "theme-slug": "snazzy",

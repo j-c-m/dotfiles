@@ -18,12 +18,12 @@
     "background-hex": "#42395d",
     "cursor-hex": "#ffb8d1",
     "foreground-hex": "#c2ffdf",
-    "selection-hex": "#f8f8f2",
-    "selection-text-hex": "#07070d",
+    "selection-hex": "#c2ffdf",
+    "selection-text-hex": "#42395d",
     "theme-author": "",
     "theme-name": "Fairy Floss Dark",
     "theme-slug": "fairy-floss-dark",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

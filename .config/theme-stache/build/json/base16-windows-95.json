@@ -19,7 +19,7 @@
     "cursor-hex": "#a8a8a8",
     "foreground-hex": "#a8a8a8",
     "selection-hex": "#d2d2d2",
-    "selection-text-hex": "#2d2d2d",
+    "selection-text-hex": "#1c1c1c",
     "theme-author": "Fergus Collins (https://github.com/ferguscollins)",
     "theme-name": "Windows 95",
     "theme-slug": "windows-95",

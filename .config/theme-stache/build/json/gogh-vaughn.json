@@ -18,12 +18,12 @@
     "background-hex": "#25234f",
     "cursor-hex": "#dcdccc",
     "foreground-hex": "#dcdccc",
-    "selection-hex": "#709080",
-    "selection-text-hex": "#8f6f7f",
+    "selection-hex": "#dcdccc",
+    "selection-text-hex": "#25234f",
     "theme-author": "",
     "theme-name": "Vaughn",
     "theme-slug": "vaughn",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

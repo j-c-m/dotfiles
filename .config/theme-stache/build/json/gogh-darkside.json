@@ -19,11 +19,11 @@
     "cursor-hex": "#bababa",
     "foreground-hex": "#bababa",
     "selection-hex": "#bababa",
-    "selection-text-hex": "#454545",
+    "selection-text-hex": "#222324",
     "theme-author": "",
     "theme-name": "Darkside",
     "theme-slug": "darkside",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

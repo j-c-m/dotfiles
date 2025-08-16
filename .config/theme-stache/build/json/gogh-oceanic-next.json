@@ -18,12 +18,12 @@
     "background-hex": "#121b21",
     "cursor-hex": "#b3b8c3",
     "foreground-hex": "#b3b8c3",
-    "selection-hex": "#ffffff",
-    "selection-text-hex": "#000000",
+    "selection-hex": "#b3b8c3",
+    "selection-text-hex": "#121b21",
     "theme-author": "",
     "theme-name": "Oceanic Next",
     "theme-slug": "oceanic-next",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

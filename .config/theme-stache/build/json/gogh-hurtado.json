@@ -18,12 +18,12 @@
     "background-hex": "#000000",
     "cursor-hex": "#dbdbdb",
     "foreground-hex": "#dbdbdb",
-    "selection-hex": "#cbcccb",
-    "selection-text-hex": "#343334",
+    "selection-hex": "#dbdbdb",
+    "selection-text-hex": "#000000",
     "theme-author": "",
     "theme-name": "Hurtado",
     "theme-slug": "hurtado",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

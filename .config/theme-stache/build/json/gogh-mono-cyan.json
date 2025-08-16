@@ -19,11 +19,11 @@
     "cursor-hex": "#00ccff",
     "foreground-hex": "#00ccff",
     "selection-hex": "#00ccff",
-    "selection-text-hex": "#ff3300",
+    "selection-text-hex": "#00222b",
     "theme-author": "",
     "theme-name": "Mono Cyan",
     "theme-slug": "mono-cyan",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

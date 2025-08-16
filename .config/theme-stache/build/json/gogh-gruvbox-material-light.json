@@ -19,11 +19,11 @@
     "cursor-hex": "#654735",
     "foreground-hex": "#654735",
     "selection-hex": "#654735",
-    "selection-text-hex": "#9ab8ca",
+    "selection-text-hex": "#fbf1c7",
     "theme-author": "",
     "theme-name": "Gruvbox Material Light",
     "theme-slug": "gruvbox-material-light",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "light"
 }

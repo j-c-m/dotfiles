@@ -3,7 +3,7 @@
 # Source:   gogh
 # Theme:    Vibrant Ink
 # Author:   
-# Variant:  
+# Variant:  dark
 
 # Exit if not on a tty
 

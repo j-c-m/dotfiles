@@ -18,12 +18,12 @@
     "background-hex": "#0d1926",
     "cursor-hex": "#b4e1fd",
     "foreground-hex": "#b4e1fd",
-    "selection-hex": "#b6b6b6",
-    "selection-text-hex": "#494949",
+    "selection-hex": "#b4e1fd",
+    "selection-text-hex": "#0d1926",
     "theme-author": "",
     "theme-name": "Aci",
     "theme-slug": "aci",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

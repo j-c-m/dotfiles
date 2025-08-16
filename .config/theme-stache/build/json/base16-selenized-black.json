@@ -19,7 +19,7 @@
     "cursor-hex": "#b9b9b9",
     "foreground-hex": "#b9b9b9",
     "selection-hex": "#dedede",
-    "selection-text-hex": "#212121",
+    "selection-text-hex": "#252525",
     "theme-author": "Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali",
     "theme-name": "selenized-black",
     "theme-slug": "selenized-black",

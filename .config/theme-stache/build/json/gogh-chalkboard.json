@@ -18,12 +18,12 @@
     "background-hex": "#29262f",
     "cursor-hex": "#d9e6f2",
     "foreground-hex": "#d9e6f2",
-    "selection-hex": "#d9d9d9",
-    "selection-text-hex": "#262626",
+    "selection-hex": "#d9e6f2",
+    "selection-text-hex": "#29262f",
     "theme-author": "",
     "theme-name": "Chalkboard",
     "theme-slug": "chalkboard",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

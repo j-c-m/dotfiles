@@ -19,7 +19,7 @@
     "cursor-hex": "#969696",
     "foreground-hex": "#969696",
     "selection-hex": "#a0a0a0",
-    "selection-text-hex": "#5f5f5f",
+    "selection-text-hex": "#000000",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Smyck",
     "theme-slug": "smyck",

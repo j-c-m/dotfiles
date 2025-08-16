@@ -19,11 +19,11 @@
     "cursor-hex": "#e0def4",
     "foreground-hex": "#e0def4",
     "selection-hex": "#e0def4",
-    "selection-text-hex": "#1f210b",
+    "selection-text-hex": "#191724",
     "theme-author": "",
     "theme-name": "Rosé Pine",
     "theme-slug": "rose-pine",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

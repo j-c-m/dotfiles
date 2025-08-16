@@ -19,11 +19,11 @@
     "cursor-hex": "#008b94",
     "foreground-hex": "#ffffff",
     "selection-hex": "#ffffff",
-    "selection-text-hex": "#000000",
+    "selection-text-hex": "#171d23",
     "theme-author": "",
     "theme-name": "City Lights",
     "theme-slug": "city-lights",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

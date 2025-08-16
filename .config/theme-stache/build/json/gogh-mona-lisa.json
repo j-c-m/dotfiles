@@ -18,12 +18,12 @@
     "background-hex": "#120b0d",
     "cursor-hex": "#f7d66a",
     "foreground-hex": "#f7d66a",
-    "selection-hex": "#f7d75c",
-    "selection-text-hex": "#0828a3",
+    "selection-hex": "#f7d66a",
+    "selection-text-hex": "#120b0d",
     "theme-author": "",
     "theme-name": "Mona Lisa",
     "theme-slug": "mona-lisa",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

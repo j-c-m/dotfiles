@@ -19,11 +19,11 @@
     "cursor-hex": "#ffffd4",
     "foreground-hex": "#ffffd4",
     "selection-hex": "#ffffd4",
-    "selection-text-hex": "#00002b",
+    "selection-text-hex": "#141414",
     "theme-author": "",
     "theme-name": "Twilight",
     "theme-slug": "twilight",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

@@ -19,7 +19,7 @@
     "cursor-hex": "#dcc9ba",
     "foreground-hex": "#dcc9ba",
     "selection-hex": "#d0b8a3",
-    "selection-text-hex": "#2f475c",
+    "selection-text-hex": "#000000",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Warm Neon",
     "theme-slug": "warm-neon",

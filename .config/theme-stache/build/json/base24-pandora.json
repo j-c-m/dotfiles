@@ -19,7 +19,7 @@
     "cursor-hex": "#b8beba",
     "foreground-hex": "#b8beba",
     "selection-hex": "#e1e1e1",
-    "selection-text-hex": "#1e1e1e",
+    "selection-text-hex": "#000000",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Pandora",
     "theme-slug": "pandora",

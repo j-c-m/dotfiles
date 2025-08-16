@@ -18,12 +18,12 @@
     "background-hex": "#fffbef",
     "cursor-hex": "#5c6a72",
     "foreground-hex": "#5c6a72",
-    "selection-hex": "#dfddc8",
-    "selection-text-hex": "#202237",
+    "selection-hex": "#5c6a72",
+    "selection-text-hex": "#fffbef",
     "theme-author": "",
     "theme-name": "Everforest Light Hard",
     "theme-slug": "everforest-light-hard",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "light"
 }

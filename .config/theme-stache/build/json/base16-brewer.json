@@ -19,7 +19,7 @@
     "cursor-hex": "#b7b8b9",
     "foreground-hex": "#b7b8b9",
     "selection-hex": "#dadbdc",
-    "selection-text-hex": "#252423",
+    "selection-text-hex": "#2e2f30",
     "theme-author": "Timothée Poisot (http://github.com/tpoisot)",
     "theme-name": "Brewer",
     "theme-slug": "brewer",

@@ -3,7 +3,7 @@
 # Source:   iterm
 # Theme:    Night Owlish Light
 # Author:   unknown
-# Variant:  unknown
+# Variant:  light
 
 # Exit if not on a tty
 

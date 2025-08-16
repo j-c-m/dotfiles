@@ -3,7 +3,7 @@
 # Source:   gogh
 # Theme:    Ura
 # Author:   
-# Variant:  
+# Variant:  light
 
 # Exit if not on a tty
 

@@ -19,11 +19,11 @@
     "cursor-hex": "#c0caf5",
     "foreground-hex": "#c0caf5",
     "selection-hex": "#c0caf5",
-    "selection-text-hex": "#3f350a",
+    "selection-text-hex": "#24283b",
     "theme-author": "",
     "theme-name": "Tokyo Night Storm",
     "theme-slug": "tokyo-night-storm",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

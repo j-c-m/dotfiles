@@ -18,12 +18,12 @@
     "background-hex": "#091116",
     "cursor-hex": "#868a8c",
     "foreground-hex": "#868a8c",
-    "selection-hex": "#777777",
-    "selection-text-hex": "#888888",
+    "selection-hex": "#868a8c",
+    "selection-text-hex": "#091116",
     "theme-author": "",
     "theme-name": "Terminix Dark",
     "theme-slug": "terminix-dark",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

@@ -19,7 +19,7 @@
     "cursor-hex": "#bebebd",
     "foreground-hex": "#bebebd",
     "selection-hex": "#e1e1e0",
-    "selection-text-hex": "#1e1e1f",
+    "selection-text-hex": "#000000",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Misterioso",
     "theme-slug": "misterioso",

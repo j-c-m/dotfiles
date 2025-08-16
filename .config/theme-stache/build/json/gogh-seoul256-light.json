@@ -18,12 +18,12 @@
     "background-hex": "#dadada",
     "cursor-hex": "#4e4e4e",
     "foreground-hex": "#4e4e4e",
-    "selection-hex": "#e4e4e4",
-    "selection-text-hex": "#1b1b1b",
+    "selection-hex": "#4e4e4e",
+    "selection-text-hex": "#dadada",
     "theme-author": "",
     "theme-name": "Seoul256 Light",
     "theme-slug": "seoul256-light",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "light"
 }

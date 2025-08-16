@@ -19,11 +19,11 @@
     "cursor-hex": "#ededed",
     "foreground-hex": "#ededed",
     "selection-hex": "#ededed",
-    "selection-text-hex": "#121212",
+    "selection-text-hex": "#222225",
     "theme-author": "",
     "theme-name": "Highway",
     "theme-slug": "highway",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

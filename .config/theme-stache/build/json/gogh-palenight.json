@@ -18,12 +18,12 @@
     "background-hex": "#292d3e",
     "cursor-hex": "#bfc7d5",
     "foreground-hex": "#bfc7d5",
-    "selection-hex": "#abb2bf",
-    "selection-text-hex": "#544d40",
+    "selection-hex": "#bfc7d5",
+    "selection-text-hex": "#292d3e",
     "theme-author": "",
     "theme-name": "Palenight",
     "theme-slug": "palenight",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

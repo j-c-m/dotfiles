@@ -19,11 +19,11 @@
     "cursor-hex": "#adadad",
     "foreground-hex": "#adadad",
     "selection-hex": "#adadad",
-    "selection-text-hex": "#525252",
+    "selection-text-hex": "#1b1c1d",
     "theme-author": "",
     "theme-name": "Frontend Delight",
     "theme-slug": "frontend-delight",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

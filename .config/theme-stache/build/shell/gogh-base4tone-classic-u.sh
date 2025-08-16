@@ -3,7 +3,7 @@
 # Source:   gogh
 # Theme:    Base4Tone Classic U
 # Author:   
-# Variant:  
+# Variant:  dark
 
 # Exit if not on a tty
 

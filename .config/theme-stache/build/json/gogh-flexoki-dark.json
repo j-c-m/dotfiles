@@ -18,12 +18,12 @@
     "background-hex": "#100f0f",
     "cursor-hex": "#cecdc3",
     "foreground-hex": "#878580",
-    "selection-hex": "#e6e4d9",
-    "selection-text-hex": "#191b26",
+    "selection-hex": "#878580",
+    "selection-text-hex": "#100f0f",
     "theme-author": "",
     "theme-name": "Flexoki Dark",
     "theme-slug": "flexoki-dark",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

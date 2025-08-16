@@ -18,12 +18,12 @@
     "background-hex": "#1c1b19",
     "cursor-hex": "#fbb829",
     "foreground-hex": "#fce8c3",
-    "selection-hex": "#baa67f",
-    "selection-text-hex": "#455980",
+    "selection-hex": "#fce8c3",
+    "selection-text-hex": "#1c1b19",
     "theme-author": "",
     "theme-name": "Srcery",
     "theme-slug": "srcery",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

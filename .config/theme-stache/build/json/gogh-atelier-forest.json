@@ -18,12 +18,12 @@
     "background-hex": "#1b1918",
     "cursor-hex": "#9c9491",
     "foreground-hex": "#9c9491",
-    "selection-hex": "#a8a19f",
-    "selection-text-hex": "#575e60",
-    "theme-author": "",
+    "selection-hex": "#9c9491",
+    "selection-text-hex": "#1b1918",
+    "theme-author": "Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/forest)",
     "theme-name": "Atelier Forest",
     "theme-slug": "atelier-forest",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

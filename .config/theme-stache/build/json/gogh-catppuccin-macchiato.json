@@ -18,12 +18,12 @@
     "background-hex": "#24273a",
     "cursor-hex": "#cad3f5",
     "foreground-hex": "#cad3f5",
-    "selection-hex": "#b8c0e0",
-    "selection-text-hex": "#473f1f",
+    "selection-hex": "#cad3f5",
+    "selection-text-hex": "#24273a",
     "theme-author": "",
     "theme-name": "Catppuccin Macchiato",
     "theme-slug": "catppuccin-macchiato",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

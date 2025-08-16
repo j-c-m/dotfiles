@@ -19,7 +19,7 @@
     "cursor-hex": "#cfd0d0",
     "foreground-hex": "#cfd0d0",
     "selection-hex": "#feffff",
-    "selection-text-hex": "#010000",
+    "selection-text-hex": "#2e2e2e",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Lab Fox",
     "theme-slug": "lab-fox",

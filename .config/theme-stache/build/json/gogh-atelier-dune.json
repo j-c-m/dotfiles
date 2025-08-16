@@ -18,12 +18,12 @@
     "background-hex": "#20201d",
     "cursor-hex": "#999580",
     "foreground-hex": "#999580",
-    "selection-hex": "#a6a28c",
-    "selection-text-hex": "#595d73",
-    "theme-author": "",
+    "selection-hex": "#999580",
+    "selection-text-hex": "#20201d",
+    "theme-author": "Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/dune)",
     "theme-name": "Atelier Dune",
     "theme-slug": "atelier-dune",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

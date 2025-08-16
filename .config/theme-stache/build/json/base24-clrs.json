@@ -19,7 +19,7 @@
     "cursor-hex": "#9a9b9a",
     "foreground-hex": "#9a9b9a",
     "selection-hex": "#b2b2b2",
-    "selection-text-hex": "#4d4d4d",
+    "selection-text-hex": "#000000",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "CLRS",
     "theme-slug": "clrs",

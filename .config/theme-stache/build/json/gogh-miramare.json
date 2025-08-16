@@ -18,12 +18,12 @@
     "background-hex": "#2a2426",
     "cursor-hex": "#e6d6ac",
     "foreground-hex": "#e6d6ac",
-    "selection-hex": "#d8caac",
-    "selection-text-hex": "#273553",
+    "selection-hex": "#e6d6ac",
+    "selection-text-hex": "#2a2426",
     "theme-author": "",
     "theme-name": "Miramare",
     "theme-slug": "miramare",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

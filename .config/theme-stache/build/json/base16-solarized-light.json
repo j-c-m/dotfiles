@@ -19,7 +19,7 @@
     "cursor-hex": "#586e75",
     "foreground-hex": "#586e75",
     "selection-hex": "#073642",
-    "selection-text-hex": "#f8c9bd",
+    "selection-text-hex": "#eee8d5",
     "theme-author": "Ethan Schoonover (modified by aramisgithub)",
     "theme-name": "Solarized Light",
     "theme-slug": "solarized-light",

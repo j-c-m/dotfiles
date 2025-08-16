@@ -18,12 +18,12 @@
     "background-hex": "#4a453e",
     "cursor-hex": "#f2f2f2",
     "foreground-hex": "#f2f2f2",
-    "selection-hex": "#2aa7e7",
-    "selection-text-hex": "#d55818",
+    "selection-hex": "#f2f2f2",
+    "selection-text-hex": "#4a453e",
     "theme-author": "",
     "theme-name": "Elic",
     "theme-slug": "elic",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

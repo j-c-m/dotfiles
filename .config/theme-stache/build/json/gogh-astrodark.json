@@ -18,12 +18,12 @@
     "background-hex": "#1a1d23",
     "cursor-hex": "#caccd3",
     "foreground-hex": "#9b9fa9",
-    "selection-hex": "#adb0bb",
-    "selection-text-hex": "#524f44",
+    "selection-hex": "#9b9fa9",
+    "selection-text-hex": "#1a1d23",
     "theme-author": "",
     "theme-name": "Astrodark",
     "theme-slug": "astrodark",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

@@ -18,12 +18,12 @@
     "background-hex": "#251200",
     "cursor-hex": "#dec165",
     "foreground-hex": "#dec165",
-    "selection-hex": "#ddc265",
-    "selection-text-hex": "#223d9a",
+    "selection-hex": "#dec165",
+    "selection-text-hex": "#251200",
     "theme-author": "",
     "theme-name": "Frontend Fun Forrest",
     "theme-slug": "frontend-fun-forrest",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

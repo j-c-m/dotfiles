@@ -18,12 +18,12 @@
     "background-hex": "#09111a",
     "cursor-hex": "#d9e6f2",
     "foreground-hex": "#d9e6f2",
-    "selection-hex": "#e6e6e6",
-    "selection-text-hex": "#191919",
+    "selection-hex": "#d9e6f2",
+    "selection-text-hex": "#09111a",
     "theme-author": "",
     "theme-name": "Azu",
     "theme-slug": "azu",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

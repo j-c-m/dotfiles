@@ -18,12 +18,12 @@
     "background-hex": "#1b1818",
     "cursor-hex": "#7e7777",
     "foreground-hex": "#7e7777",
-    "selection-hex": "#8a8585",
-    "selection-text-hex": "#757a7a",
-    "theme-author": "",
+    "selection-hex": "#7e7777",
+    "selection-text-hex": "#1b1818",
+    "theme-author": "Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/plateau)",
     "theme-name": "Atelier Plateau",
     "theme-slug": "atelier-plateau",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

@@ -18,12 +18,12 @@
     "background-hex": "#2c2c2c",
     "cursor-hex": "#dedede",
     "foreground-hex": "#dedede",
-    "selection-hex": "#c8bb97",
-    "selection-text-hex": "#374468",
+    "selection-hex": "#dedede",
+    "selection-text-hex": "#2c2c2c",
     "theme-author": "",
     "theme-name": "Chameleon",
     "theme-slug": "chameleon",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

@@ -19,7 +19,7 @@
     "cursor-hex": "#cccccc",
     "foreground-hex": "#cccccc",
     "selection-hex": "#dfdfdf",
-    "selection-text-hex": "#202020",
+    "selection-text-hex": "#2f2f2f",
     "theme-author": "Fergus Collins (https://github.com/ferguscollins)",
     "theme-name": "Windows 10",
     "theme-slug": "windows-10",

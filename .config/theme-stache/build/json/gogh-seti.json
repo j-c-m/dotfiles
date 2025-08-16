@@ -18,12 +18,12 @@
     "background-hex": "#111213",
     "cursor-hex": "#cacecd",
     "foreground-hex": "#cacecd",
-    "selection-hex": "#eeeeee",
-    "selection-text-hex": "#111111",
+    "selection-hex": "#cacecd",
+    "selection-text-hex": "#111213",
     "theme-author": "",
     "theme-name": "Seti",
     "theme-slug": "seti",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

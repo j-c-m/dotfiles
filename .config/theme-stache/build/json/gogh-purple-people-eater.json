@@ -19,11 +19,11 @@
     "cursor-hex": "#c9d1d9",
     "foreground-hex": "#c9d1d9",
     "selection-hex": "#c9d1d9",
-    "selection-text-hex": "#362e26",
+    "selection-text-hex": "#161b22",
     "theme-author": "",
     "theme-name": "Purple People Eater",
     "theme-slug": "purple-people-eater",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

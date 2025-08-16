@@ -19,11 +19,11 @@
     "cursor-hex": "#c4c5b5",
     "foreground-hex": "#c4c5b5",
     "selection-hex": "#c4c5b5",
-    "selection-text-hex": "#3b3a4a",
+    "selection-text-hex": "#1a1a1a",
     "theme-author": "",
     "theme-name": "Monokai Soda",
     "theme-slug": "monokai-soda",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

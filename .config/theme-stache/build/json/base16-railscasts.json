@@ -19,7 +19,7 @@
     "cursor-hex": "#e6e1dc",
     "foreground-hex": "#e6e1dc",
     "selection-hex": "#f4f1ed",
-    "selection-text-hex": "#0b0e12",
+    "selection-text-hex": "#272935",
     "theme-author": "Ryan Bates (http://railscasts.com)",
     "theme-name": "Railscasts",
     "theme-slug": "railscasts",

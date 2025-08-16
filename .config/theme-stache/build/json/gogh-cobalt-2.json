@@ -18,12 +18,12 @@
     "background-hex": "#132738",
     "cursor-hex": "#ffffff",
     "foreground-hex": "#ffffff",
-    "selection-hex": "#bbbbbb",
-    "selection-text-hex": "#444444",
+    "selection-hex": "#ffffff",
+    "selection-text-hex": "#132738",
     "theme-author": "",
     "theme-name": "Cobalt 2",
     "theme-slug": "cobalt-2",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

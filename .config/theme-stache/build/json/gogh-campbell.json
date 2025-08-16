@@ -19,11 +19,11 @@
     "cursor-hex": "#ffffff",
     "foreground-hex": "#cccccc",
     "selection-hex": "#cccccc",
-    "selection-text-hex": "#333333",
+    "selection-text-hex": "#0c0c0c",
     "theme-author": "",
     "theme-name": "Campbell",
     "theme-slug": "campbell",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

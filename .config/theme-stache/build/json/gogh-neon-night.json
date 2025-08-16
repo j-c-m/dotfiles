@@ -18,12 +18,12 @@
     "background-hex": "#20242d",
     "cursor-hex": "#c7c8ff",
     "foreground-hex": "#c7c8ff",
-    "selection-hex": "#c9cccd",
-    "selection-text-hex": "#363332",
+    "selection-hex": "#c7c8ff",
+    "selection-text-hex": "#20242d",
     "theme-author": "",
     "theme-name": "Neon Night",
     "theme-slug": "neon-night",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

@@ -19,7 +19,7 @@
     "cursor-hex": "#ffffff",
     "foreground-hex": "#ffffff",
     "selection-hex": "#ffffff",
-    "selection-text-hex": "#000000",
+    "selection-text-hex": "#282828",
     "theme-author": "NNB (https://github.com/NNBnh)",
     "theme-name": "Da One Gray",
     "theme-slug": "da-one-gray",

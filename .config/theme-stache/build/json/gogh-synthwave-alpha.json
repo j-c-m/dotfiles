@@ -18,12 +18,12 @@
     "background-hex": "#241b30",
     "cursor-hex": "#f2f2e3",
     "foreground-hex": "#f2f2e3",
-    "selection-hex": "#b9b1bc",
-    "selection-text-hex": "#464e43",
+    "selection-hex": "#f2f2e3",
+    "selection-text-hex": "#241b30",
     "theme-author": "",
     "theme-name": "Synthwave Alpha",
     "theme-slug": "synthwave-alpha",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

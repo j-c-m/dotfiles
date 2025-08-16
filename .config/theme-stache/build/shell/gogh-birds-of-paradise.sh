@@ -3,7 +3,7 @@
 # Source:   gogh
 # Theme:    Birds Of Paradise
 # Author:   
-# Variant:  
+# Variant:  dark
 
 # Exit if not on a tty
 

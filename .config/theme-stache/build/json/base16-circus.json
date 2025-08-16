@@ -19,7 +19,7 @@
     "cursor-hex": "#a7a7a7",
     "foreground-hex": "#a7a7a7",
     "selection-hex": "#808080",
-    "selection-text-hex": "#7f7f7f",
+    "selection-text-hex": "#202020",
     "theme-author": "Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)",
     "theme-name": "Circus",
     "theme-slug": "circus",

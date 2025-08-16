@@ -19,11 +19,11 @@
     "cursor-hex": "#deb88d",
     "foreground-hex": "#deb88d",
     "selection-hex": "#deb88d",
-    "selection-text-hex": "#214772",
+    "selection-text-hex": "#09141b",
     "theme-author": "",
     "theme-name": "Sea Shells",
     "theme-slug": "sea-shells",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

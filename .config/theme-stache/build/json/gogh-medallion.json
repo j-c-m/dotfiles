@@ -18,12 +18,12 @@
     "background-hex": "#1d1908",
     "cursor-hex": "#cac296",
     "foreground-hex": "#cac296",
-    "selection-hex": "#cac29a",
-    "selection-text-hex": "#353d65",
+    "selection-hex": "#cac296",
+    "selection-text-hex": "#1d1908",
     "theme-author": "",
     "theme-name": "Medallion",
     "theme-slug": "medallion",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

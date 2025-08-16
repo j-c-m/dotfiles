@@ -19,7 +19,7 @@
     "cursor-hex": "#d1d1d1",
     "foreground-hex": "#d1d1d1",
     "selection-hex": "#eeeeee",
-    "selection-text-hex": "#111111",
+    "selection-text-hex": "#4e4e4e",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Borland",
     "theme-slug": "borland",

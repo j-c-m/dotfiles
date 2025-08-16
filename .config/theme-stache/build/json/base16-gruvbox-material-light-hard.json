@@ -19,7 +19,7 @@
     "cursor-hex": "#654735",
     "foreground-hex": "#654735",
     "selection-hex": "#3c3836",
-    "selection-text-hex": "#c3c7c9",
+    "selection-text-hex": "#fbf1c7",
     "theme-author": "Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)",
     "theme-name": "Gruvbox Material Light, Hard",
     "theme-slug": "gruvbox-material-light-hard",

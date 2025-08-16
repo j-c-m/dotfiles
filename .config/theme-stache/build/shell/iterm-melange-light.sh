@@ -3,7 +3,7 @@
 # Source:   iterm
 # Theme:    Melange_light
 # Author:   unknown
-# Variant:  unknown
+# Variant:  light
 
 # Exit if not on a tty
 

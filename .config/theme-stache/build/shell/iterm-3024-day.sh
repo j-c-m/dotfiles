@@ -3,7 +3,7 @@
 # Source:   iterm
 # Theme:    3024 Day
 # Author:   unknown
-# Variant:  unknown
+# Variant:  light
 
 # Exit if not on a tty
 

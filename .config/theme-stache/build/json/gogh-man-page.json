@@ -18,12 +18,12 @@
     "background-hex": "#fef49c",
     "cursor-hex": "#000000",
     "foreground-hex": "#000000",
-    "selection-hex": "#cccccc",
-    "selection-text-hex": "#333333",
+    "selection-hex": "#000000",
+    "selection-text-hex": "#fef49c",
     "theme-author": "",
     "theme-name": "Man Page",
     "theme-slug": "man-page",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "light"
 }

@@ -19,11 +19,11 @@
     "cursor-hex": "#ffffff",
     "foreground-hex": "#ffffff",
     "selection-hex": "#ffffff",
-    "selection-text-hex": "#000000",
+    "selection-text-hex": "#0d0e1c",
     "theme-author": "",
     "theme-name": "Modus Vivendi Tinted",
     "theme-slug": "modus-vivendi-tinted",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

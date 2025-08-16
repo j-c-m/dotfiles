@@ -19,7 +19,7 @@
     "cursor-hex": "#f8f8f2",
     "foreground-hex": "#f8f8f2",
     "selection-hex": "#fcfcf6",
-    "selection-text-hex": "#030309",
+    "selection-text-hex": "#333b3d",
     "theme-author": "Thomas (tasmo) Friese",
     "theme-name": "Humanoid dark",
     "theme-slug": "humanoid-dark",

@@ -3,7 +3,7 @@
 # Source:   iterm
 # Theme:    Tango Adapted
 # Author:   unknown
-# Variant:  unknown
+# Variant:  light
 
 # Exit if not on a tty
 

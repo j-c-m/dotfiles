@@ -18,12 +18,12 @@
     "background-hex": "#f1ebe6",
     "cursor-hex": "#362c24",
     "foreground-hex": "#362c24",
-    "selection-hex": "#d4c3b7",
-    "selection-text-hex": "#2b3c48",
+    "selection-hex": "#362c24",
+    "selection-text-hex": "#f1ebe6",
     "theme-author": "",
     "theme-name": "Breadog",
     "theme-slug": "breadog",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "light"
 }

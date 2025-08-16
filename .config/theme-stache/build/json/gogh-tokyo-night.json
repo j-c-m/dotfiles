@@ -18,12 +18,12 @@
     "background-hex": "#1a1b26",
     "cursor-hex": "#c0caf5",
     "foreground-hex": "#c0caf5",
-    "selection-hex": "#a9b1d6",
-    "selection-text-hex": "#564e29",
+    "selection-hex": "#c0caf5",
+    "selection-text-hex": "#1a1b26",
     "theme-author": "",
     "theme-name": "Tokyo Night",
     "theme-slug": "tokyo-night",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

@@ -19,7 +19,7 @@
     "cursor-hex": "#00bb00",
     "foreground-hex": "#00bb00",
     "selection-hex": "#00dd00",
-    "selection-text-hex": "#ff22ff",
+    "selection-text-hex": "#003300",
     "theme-author": "Chris Kempson (http://chriskempson.com)",
     "theme-name": "Green Screen",
     "theme-slug": "green-screen",

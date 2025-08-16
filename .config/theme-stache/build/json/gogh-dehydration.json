@@ -18,12 +18,12 @@
     "background-hex": "#333333",
     "cursor-hex": "#cccccc",
     "foreground-hex": "#cccccc",
-    "selection-hex": "#999999",
-    "selection-text-hex": "#666666",
+    "selection-hex": "#cccccc",
+    "selection-text-hex": "#333333",
     "theme-author": "",
     "theme-name": "Dehydration",
     "theme-slug": "dehydration",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

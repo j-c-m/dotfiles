@@ -18,12 +18,12 @@
     "background-hex": "#eff1f5",
     "cursor-hex": "#4c4f69",
     "foreground-hex": "#4c4f69",
-    "selection-hex": "#acb0be",
-    "selection-text-hex": "#534f41",
+    "selection-hex": "#4c4f69",
+    "selection-text-hex": "#eff1f5",
     "theme-author": "",
     "theme-name": "Catppuccin Latte",
     "theme-slug": "catppuccin-latte",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "light"
 }

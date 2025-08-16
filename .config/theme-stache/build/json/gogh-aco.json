@@ -18,12 +18,12 @@
     "background-hex": "#1f1305",
     "cursor-hex": "#b4e1fd",
     "foreground-hex": "#b4e1fd",
-    "selection-hex": "#bebebe",
-    "selection-text-hex": "#414141",
+    "selection-hex": "#b4e1fd",
+    "selection-text-hex": "#1f1305",
     "theme-author": "",
     "theme-name": "Aco",
     "theme-slug": "aco",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

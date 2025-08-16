@@ -19,7 +19,7 @@
     "cursor-hex": "#504945",
     "foreground-hex": "#504945",
     "selection-hex": "#3c3836",
-    "selection-text-hex": "#c3c7c9",
+    "selection-text-hex": "#ebdbb2",
     "theme-author": "Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)",
     "theme-name": "Gruvbox light, soft",
     "theme-slug": "gruvbox-light-soft",

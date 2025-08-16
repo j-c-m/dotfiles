@@ -3,7 +3,7 @@
 # Source:   gogh
 # Theme:    Gruvbox Material Light
 # Author:   
-# Variant:  
+# Variant:  light
 
 # Exit if not on a tty
 

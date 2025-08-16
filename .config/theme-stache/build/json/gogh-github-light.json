@@ -18,12 +18,12 @@
     "background-hex": "#f6f8fa",
     "cursor-hex": "#1f2328",
     "foreground-hex": "#1f2328",
-    "selection-hex": "#6e7781",
-    "selection-text-hex": "#91887e",
+    "selection-hex": "#1f2328",
+    "selection-text-hex": "#f6f8fa",
     "theme-author": "",
     "theme-name": "Github Light",
     "theme-slug": "github-light",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "light"
 }

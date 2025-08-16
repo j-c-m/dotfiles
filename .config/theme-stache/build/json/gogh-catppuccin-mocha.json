@@ -18,12 +18,12 @@
     "background-hex": "#1e1e2e",
     "cursor-hex": "#cdd6f4",
     "foreground-hex": "#cdd6f4",
-    "selection-hex": "#bac2de",
-    "selection-text-hex": "#453d21",
+    "selection-hex": "#cdd6f4",
+    "selection-text-hex": "#1e1e2e",
     "theme-author": "",
     "theme-name": "Catppuccin Mocha",
     "theme-slug": "catppuccin-mocha",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

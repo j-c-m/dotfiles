@@ -19,7 +19,7 @@
     "cursor-hex": "#b2b8ad",
     "foreground-hex": "#b2b8ad",
     "selection-hex": "#eee8d5",
-    "selection-text-hex": "#11172a",
+    "selection-text-hex": "#073642",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Builtin Solarized Light",
     "theme-slug": "builtin-solarized-light",

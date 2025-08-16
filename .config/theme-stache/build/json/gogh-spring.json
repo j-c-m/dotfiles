@@ -18,12 +18,12 @@
     "background-hex": "#0a1e24",
     "cursor-hex": "#ecf0c1",
     "foreground-hex": "#ecf0c1",
-    "selection-hex": "#ffffff",
-    "selection-text-hex": "#000000",
+    "selection-hex": "#ecf0c1",
+    "selection-text-hex": "#0a1e24",
     "theme-author": "",
     "theme-name": "Spring",
     "theme-slug": "spring",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

@@ -18,12 +18,12 @@
     "background-hex": "#000000",
     "cursor-hex": "#f2f2f2",
     "foreground-hex": "#f2f2f2",
-    "selection-hex": "#bbbbbb",
-    "selection-text-hex": "#444444",
+    "selection-hex": "#f2f2f2",
+    "selection-text-hex": "#000000",
     "theme-author": "",
     "theme-name": "Paul Millr",
     "theme-slug": "paul-millr",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

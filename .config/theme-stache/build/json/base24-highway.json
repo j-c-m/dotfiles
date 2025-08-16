@@ -19,7 +19,7 @@
     "cursor-hex": "#c8c5c4",
     "foreground-hex": "#c8c5c4",
     "selection-hex": "#ededed",
-    "selection-text-hex": "#121212",
+    "selection-text-hex": "#000000",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Highway",
     "theme-slug": "highway",

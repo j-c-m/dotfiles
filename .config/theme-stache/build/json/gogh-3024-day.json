@@ -18,12 +18,12 @@
     "background-hex": "#f7f7f7",
     "cursor-hex": "#4a4543",
     "foreground-hex": "#4a4543",
-    "selection-hex": "#a5a2a2",
-    "selection-text-hex": "#5a5d5d",
+    "selection-hex": "#4a4543",
+    "selection-text-hex": "#f7f7f7",
     "theme-author": "",
     "theme-name": "3024 Day",
     "theme-slug": "3024-day",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "light"
 }

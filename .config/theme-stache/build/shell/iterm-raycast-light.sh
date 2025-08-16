@@ -3,7 +3,7 @@
 # Source:   iterm
 # Theme:    Raycast_Light
 # Author:   unknown
-# Variant:  unknown
+# Variant:  light
 
 # Exit if not on a tty
 

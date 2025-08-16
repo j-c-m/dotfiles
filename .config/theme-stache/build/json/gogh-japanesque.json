@@ -18,12 +18,12 @@
     "background-hex": "#1e1e1e",
     "cursor-hex": "#f7f6ec",
     "foreground-hex": "#f7f6ec",
-    "selection-hex": "#fafaf6",
-    "selection-text-hex": "#050509",
+    "selection-hex": "#f7f6ec",
+    "selection-text-hex": "#1e1e1e",
     "theme-author": "",
     "theme-name": "Japanesque",
     "theme-slug": "japanesque",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

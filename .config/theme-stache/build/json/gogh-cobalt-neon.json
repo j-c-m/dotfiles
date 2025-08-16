@@ -18,12 +18,12 @@
     "background-hex": "#142838",
     "cursor-hex": "#8ff586",
     "foreground-hex": "#8ff586",
-    "selection-hex": "#ba46b2",
-    "selection-text-hex": "#45b94d",
+    "selection-hex": "#8ff586",
+    "selection-text-hex": "#142838",
     "theme-author": "",
     "theme-name": "Cobalt Neon",
     "theme-slug": "cobalt-neon",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

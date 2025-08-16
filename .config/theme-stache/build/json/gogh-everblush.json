@@ -18,12 +18,12 @@
     "background-hex": "#141b1e",
     "cursor-hex": "#dadada",
     "foreground-hex": "#dadada",
-    "selection-hex": "#b3b9b8",
-    "selection-text-hex": "#4c4647",
+    "selection-hex": "#dadada",
+    "selection-text-hex": "#141b1e",
     "theme-author": "",
     "theme-name": "Everblush",
     "theme-slug": "everblush",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

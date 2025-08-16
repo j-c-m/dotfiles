@@ -18,12 +18,12 @@
     "background-hex": "#242424",
     "cursor-hex": "#f7f7f7",
     "foreground-hex": "#f7f7f7",
-    "selection-hex": "#b0b0b0",
-    "selection-text-hex": "#4f4f4f",
+    "selection-hex": "#f7f7f7",
+    "selection-text-hex": "#242424",
     "theme-author": "",
     "theme-name": "Smyck",
     "theme-slug": "smyck",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

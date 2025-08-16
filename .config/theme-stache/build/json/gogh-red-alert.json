@@ -18,12 +18,12 @@
     "background-hex": "#762423",
     "cursor-hex": "#ffffff",
     "foreground-hex": "#ffffff",
-    "selection-hex": "#d6d6d6",
-    "selection-text-hex": "#292929",
+    "selection-hex": "#ffffff",
+    "selection-text-hex": "#762423",
     "theme-author": "",
     "theme-name": "Red Alert",
     "theme-slug": "red-alert",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

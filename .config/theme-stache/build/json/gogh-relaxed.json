@@ -19,11 +19,11 @@
     "cursor-hex": "#d9d9d9",
     "foreground-hex": "#d9d9d9",
     "selection-hex": "#d9d9d9",
-    "selection-text-hex": "#262626",
+    "selection-text-hex": "#353a44",
     "theme-author": "",
     "theme-name": "Relaxed",
     "theme-slug": "relaxed",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

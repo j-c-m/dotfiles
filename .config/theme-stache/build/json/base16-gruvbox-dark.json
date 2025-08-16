@@ -19,7 +19,7 @@
     "cursor-hex": "#ebdbb2",
     "foreground-hex": "#ebdbb2",
     "selection-hex": "#fbf1c7",
-    "selection-text-hex": "#040e38",
+    "selection-text-hex": "#3c3836",
     "theme-author": "Tinted Theming (https://github.com/tinted-theming), morhetz (https://github.com/morhetz/gruvbox)",
     "theme-name": "Gruvbox dark",
     "theme-slug": "gruvbox-dark",

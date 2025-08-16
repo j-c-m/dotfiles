@@ -18,12 +18,12 @@
     "background-hex": "#2e3440",
     "cursor-hex": "#d8dee9",
     "foreground-hex": "#d8dee9",
-    "selection-hex": "#e5e9f0",
-    "selection-text-hex": "#1a160f",
+    "selection-hex": "#d8dee9",
+    "selection-text-hex": "#2e3440",
     "theme-author": "",
     "theme-name": "Nord",
     "theme-slug": "nord",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

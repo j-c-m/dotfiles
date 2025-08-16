@@ -19,11 +19,11 @@
     "cursor-hex": "#786b53",
     "foreground-hex": "#786b53",
     "selection-hex": "#786b53",
-    "selection-text-hex": "#8794ac",
+    "selection-text-hex": "#191919",
     "theme-author": "",
     "theme-name": "Treehouse",
     "theme-slug": "treehouse",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

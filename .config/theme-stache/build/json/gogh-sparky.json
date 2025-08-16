@@ -18,12 +18,12 @@
     "background-hex": "#072b31",
     "cursor-hex": "#f4f5f0",
     "foreground-hex": "#f4f5f0",
-    "selection-hex": "#dee6de",
-    "selection-text-hex": "#211921",
+    "selection-hex": "#f4f5f0",
+    "selection-text-hex": "#072b31",
     "theme-author": "",
     "theme-name": "Sparky",
     "theme-slug": "sparky",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

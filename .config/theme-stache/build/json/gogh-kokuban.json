@@ -19,11 +19,11 @@
     "cursor-hex": "#d8e2d7",
     "foreground-hex": "#d8e2d7",
     "selection-hex": "#d8e2d7",
-    "selection-text-hex": "#271d28",
+    "selection-text-hex": "#0d4a08",
     "theme-author": "",
     "theme-name": "Kokuban",
     "theme-slug": "kokuban",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

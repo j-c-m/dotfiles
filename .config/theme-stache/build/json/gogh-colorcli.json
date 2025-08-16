@@ -18,12 +18,12 @@
     "background-hex": "#ffffff",
     "cursor-hex": "#005f87",
     "foreground-hex": "#005f87",
-    "selection-hex": "#e4e4e4",
-    "selection-text-hex": "#1b1b1b",
+    "selection-hex": "#005f87",
+    "selection-text-hex": "#ffffff",
     "theme-author": "",
     "theme-name": "Colorcli",
     "theme-slug": "colorcli",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "light"
 }

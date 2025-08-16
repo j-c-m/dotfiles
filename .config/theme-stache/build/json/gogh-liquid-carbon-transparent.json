@@ -18,12 +18,12 @@
     "background-hex": "#000000",
     "cursor-hex": "#afc2c2",
     "foreground-hex": "#afc2c2",
-    "selection-hex": "#bccccc",
-    "selection-text-hex": "#433333",
+    "selection-hex": "#afc2c2",
+    "selection-text-hex": "#000000",
     "theme-author": "",
     "theme-name": "Liquid Carbon Transparent",
     "theme-slug": "liquid-carbon-transparent",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

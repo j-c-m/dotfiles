@@ -19,11 +19,11 @@
     "cursor-hex": "#a39e9b",
     "foreground-hex": "#a39e9b",
     "selection-hex": "#a39e9b",
-    "selection-text-hex": "#5c6164",
+    "selection-text-hex": "#2f1e2e",
     "theme-author": "",
     "theme-name": "Paraiso Dark",
     "theme-slug": "paraiso-dark",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

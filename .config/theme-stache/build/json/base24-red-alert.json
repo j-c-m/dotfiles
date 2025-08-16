@@ -19,7 +19,7 @@
     "cursor-hex": "#aaaaaa",
     "foreground-hex": "#aaaaaa",
     "selection-hex": "#d6d6d6",
-    "selection-text-hex": "#292929",
+    "selection-text-hex": "#000000",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Red Alert",
     "theme-slug": "red-alert",

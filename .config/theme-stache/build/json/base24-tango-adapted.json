@@ -19,7 +19,7 @@
     "cursor-hex": "#d0d4cb",
     "foreground-hex": "#d0d4cb",
     "selection-hex": "#e6eae1",
-    "selection-text-hex": "#19151e",
+    "selection-text-hex": "#000000",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Tango Adapted",
     "theme-slug": "tango-adapted",

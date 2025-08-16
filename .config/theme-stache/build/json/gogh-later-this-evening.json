@@ -18,12 +18,12 @@
     "background-hex": "#222222",
     "cursor-hex": "#959595",
     "foreground-hex": "#959595",
-    "selection-hex": "#3c3d3d",
-    "selection-text-hex": "#c3c2c2",
+    "selection-hex": "#959595",
+    "selection-text-hex": "#222222",
     "theme-author": "",
     "theme-name": "Later This Evening",
     "theme-slug": "later-this-evening",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

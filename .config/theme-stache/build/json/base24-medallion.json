@@ -19,7 +19,7 @@
     "cursor-hex": "#aea578",
     "foreground-hex": "#aea578",
     "selection-hex": "#c9c199",
-    "selection-text-hex": "#363e66",
+    "selection-text-hex": "#000000",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Medallion",
     "theme-slug": "medallion",

@@ -3,7 +3,7 @@
 # Source:   gogh
 # Theme:    Solarized Light
 # Author:   
-# Variant:  
+# Variant:  light
 
 # Exit if not on a tty
 

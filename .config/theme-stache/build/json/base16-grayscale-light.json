@@ -19,7 +19,7 @@
     "cursor-hex": "#464646",
     "foreground-hex": "#464646",
     "selection-hex": "#252525",
-    "selection-text-hex": "#dadada",
+    "selection-text-hex": "#e3e3e3",
     "theme-author": "Alexandre Gavioli (https://github.com/Alexx2/)",
     "theme-name": "Grayscale Light",
     "theme-slug": "grayscale-light",

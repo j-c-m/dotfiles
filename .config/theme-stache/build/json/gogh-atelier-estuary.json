@@ -18,12 +18,12 @@
     "background-hex": "#22221b",
     "cursor-hex": "#878573",
     "foreground-hex": "#878573",
-    "selection-hex": "#929181",
-    "selection-text-hex": "#6d6e7e",
-    "theme-author": "",
+    "selection-hex": "#878573",
+    "selection-text-hex": "#22221b",
+    "theme-author": "Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/estuary)",
     "theme-name": "Atelier Estuary",
     "theme-slug": "atelier-estuary",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

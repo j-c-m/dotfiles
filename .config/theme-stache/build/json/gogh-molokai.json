@@ -19,11 +19,11 @@
     "cursor-hex": "#bbbbbb",
     "foreground-hex": "#bbbbbb",
     "selection-hex": "#bbbbbb",
-    "selection-text-hex": "#444444",
+    "selection-text-hex": "#1b1d1e",
     "theme-author": "",
     "theme-name": "Molokai",
     "theme-slug": "molokai",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

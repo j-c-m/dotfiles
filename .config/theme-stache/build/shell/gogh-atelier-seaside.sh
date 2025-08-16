@@ -3,7 +3,7 @@
 # Source:   gogh
 # Theme:    Atelier Seaside
 # Author:   Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/seaside)
-# Variant:  
+# Variant:  dark
 
 # Exit if not on a tty
 

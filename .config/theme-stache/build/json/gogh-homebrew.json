@@ -18,12 +18,12 @@
     "background-hex": "#000000",
     "cursor-hex": "#00ff00",
     "foreground-hex": "#00ff00",
-    "selection-hex": "#bfbfbf",
-    "selection-text-hex": "#404040",
+    "selection-hex": "#00ff00",
+    "selection-text-hex": "#000000",
     "theme-author": "",
     "theme-name": "Homebrew",
     "theme-slug": "homebrew",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

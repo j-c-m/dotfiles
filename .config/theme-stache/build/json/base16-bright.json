@@ -19,7 +19,7 @@
     "cursor-hex": "#e0e0e0",
     "foreground-hex": "#e0e0e0",
     "selection-hex": "#f5f5f5",
-    "selection-text-hex": "#0a0a0a",
+    "selection-text-hex": "#303030",
     "theme-author": "Chris Kempson (http://chriskempson.com)",
     "theme-name": "Bright",
     "theme-slug": "bright",

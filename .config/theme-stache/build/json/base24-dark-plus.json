@@ -19,7 +19,7 @@
     "cursor-hex": "#c5c5c5",
     "foreground-hex": "#c5c5c5",
     "selection-hex": "#e5e5e5",
-    "selection-text-hex": "#1a1a1a",
+    "selection-text-hex": "#000000",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Dark Plus",
     "theme-slug": "dark-plus",

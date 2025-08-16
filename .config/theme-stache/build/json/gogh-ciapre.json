@@ -18,12 +18,12 @@
     "background-hex": "#191c27",
     "cursor-hex": "#aea47a",
     "foreground-hex": "#aea47a",
-    "selection-hex": "#aea47f",
-    "selection-text-hex": "#515b80",
+    "selection-hex": "#aea47a",
+    "selection-text-hex": "#191c27",
     "theme-author": "",
     "theme-name": "Ciapre",
     "theme-slug": "ciapre",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

@@ -19,11 +19,11 @@
     "cursor-hex": "#eeeeee",
     "foreground-hex": "#eeeeee",
     "selection-hex": "#eeeeee",
-    "selection-text-hex": "#111111",
+    "selection-text-hex": "#282828",
     "theme-author": "",
     "theme-name": "Tender",
     "theme-slug": "tender",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

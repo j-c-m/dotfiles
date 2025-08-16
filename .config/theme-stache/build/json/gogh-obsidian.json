@@ -18,12 +18,12 @@
     "background-hex": "#283033",
     "cursor-hex": "#cdcdcd",
     "foreground-hex": "#cdcdcd",
-    "selection-hex": "#bbbbbb",
-    "selection-text-hex": "#444444",
+    "selection-hex": "#cdcdcd",
+    "selection-text-hex": "#283033",
     "theme-author": "",
     "theme-name": "Obsidian",
     "theme-slug": "obsidian",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

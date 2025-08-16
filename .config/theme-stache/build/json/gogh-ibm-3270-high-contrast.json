@@ -18,12 +18,12 @@
     "background-hex": "#000000",
     "cursor-hex": "#fdfdfd",
     "foreground-hex": "#fdfdfd",
-    "selection-hex": "#bebebe",
-    "selection-text-hex": "#414141",
+    "selection-hex": "#fdfdfd",
+    "selection-text-hex": "#000000",
     "theme-author": "",
     "theme-name": "Ibm 3270 (High Contrast)",
     "theme-slug": "ibm-3270-high-contrast",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

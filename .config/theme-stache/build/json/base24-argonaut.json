@@ -19,7 +19,7 @@
     "cursor-hex": "#d0d0d0",
     "foreground-hex": "#d0d0d0",
     "selection-hex": "#ffffff",
-    "selection-text-hex": "#000000",
+    "selection-text-hex": "#222222",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Argonaut",
     "theme-slug": "argonaut",

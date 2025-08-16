@@ -18,12 +18,12 @@
     "background-hex": "#000000",
     "cursor-hex": "#baffaa",
     "foreground-hex": "#ffffff",
-    "selection-hex": "#ededed",
-    "selection-text-hex": "#121212",
+    "selection-hex": "#ffffff",
+    "selection-text-hex": "#000000",
     "theme-author": "",
     "theme-name": "Hemisu Dark",
     "theme-slug": "hemisu-dark",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

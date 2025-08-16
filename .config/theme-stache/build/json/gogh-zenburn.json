@@ -18,12 +18,12 @@
     "background-hex": "#3a3a3a",
     "cursor-hex": "#dcdccc",
     "foreground-hex": "#dcdccc",
-    "selection-hex": "#f0efd0",
-    "selection-text-hex": "#0f102f",
+    "selection-hex": "#dcdccc",
+    "selection-text-hex": "#3a3a3a",
     "theme-author": "",
     "theme-name": "Zenburn",
     "theme-slug": "zenburn",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

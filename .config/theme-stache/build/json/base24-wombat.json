@@ -19,7 +19,7 @@
     "cursor-hex": "#b2afa6",
     "foreground-hex": "#b2afa6",
     "selection-hex": "#ded9ce",
-    "selection-text-hex": "#212631",
+    "selection-text-hex": "#000000",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Wombat",
     "theme-slug": "wombat",

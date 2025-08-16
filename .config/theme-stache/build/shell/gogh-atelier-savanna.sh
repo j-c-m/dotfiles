@@ -3,7 +3,7 @@
 # Source:   gogh
 # Theme:    Atelier Savanna
 # Author:   Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/savanna)
-# Variant:  
+# Variant:  dark
 
 # Exit if not on a tty
 

@@ -18,12 +18,12 @@
     "background-hex": "#1c1e26",
     "cursor-hex": "#fdf0ed",
     "foreground-hex": "#fdf0ed",
-    "selection-hex": "#fadad1",
-    "selection-text-hex": "#05252e",
+    "selection-hex": "#fdf0ed",
+    "selection-text-hex": "#1c1e26",
     "theme-author": "",
     "theme-name": "Horizon Dark",
     "theme-slug": "horizon-dark",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

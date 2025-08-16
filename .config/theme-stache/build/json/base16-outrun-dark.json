@@ -19,7 +19,7 @@
     "cursor-hex": "#d0d0fa",
     "foreground-hex": "#d0d0fa",
     "selection-hex": "#e0e0ff",
-    "selection-text-hex": "#1f1f00",
+    "selection-text-hex": "#20204a",
     "theme-author": "Hugo Delahousse (http://github.com/hugodelahousse/)",
     "theme-name": "Outrun Dark",
     "theme-slug": "outrun-dark",

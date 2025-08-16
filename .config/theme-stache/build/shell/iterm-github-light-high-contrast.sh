@@ -3,7 +3,7 @@
 # Source:   iterm
 # Theme:    GitHub-Light-High-Contrast
 # Author:   unknown
-# Variant:  unknown
+# Variant:  light
 
 # Exit if not on a tty
 

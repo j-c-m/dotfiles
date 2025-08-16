@@ -18,12 +18,12 @@
     "background-hex": "#ebe4e1",
     "cursor-hex": "#484646",
     "foreground-hex": "#484646",
-    "selection-hex": "#d5cfcc",
-    "selection-text-hex": "#2a3033",
+    "selection-hex": "#484646",
+    "selection-text-hex": "#ebe4e1",
     "theme-author": "",
     "theme-name": "Lunaria Light",
     "theme-slug": "lunaria-light",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "light"
 }

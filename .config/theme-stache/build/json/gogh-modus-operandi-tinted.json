@@ -19,11 +19,11 @@
     "cursor-hex": "#000000",
     "foreground-hex": "#000000",
     "selection-hex": "#000000",
-    "selection-text-hex": "#ffffff",
+    "selection-text-hex": "#fbf7f0",
     "theme-author": "",
     "theme-name": "Modus Operandi Tinted",
     "theme-slug": "modus-operandi-tinted",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "light"
 }

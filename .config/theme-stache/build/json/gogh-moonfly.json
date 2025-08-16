@@ -18,12 +18,12 @@
     "background-hex": "#080808",
     "cursor-hex": "#9e9e9e",
     "foreground-hex": "#bdbdbd",
-    "selection-hex": "#c6c6c6",
-    "selection-text-hex": "#393939",
+    "selection-hex": "#bdbdbd",
+    "selection-text-hex": "#080808",
     "theme-author": "",
     "theme-name": "Moonfly",
     "theme-slug": "moonfly",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

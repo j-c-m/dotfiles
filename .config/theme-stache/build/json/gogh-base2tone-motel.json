@@ -19,11 +19,11 @@
     "cursor-hex": "#e24f32",
     "foreground-hex": "#a5979a",
     "selection-hex": "#a5979a",
-    "selection-text-hex": "#5a6865",
+    "selection-text-hex": "#242323",
     "theme-author": "",
     "theme-name": "Base2Tone Motel",
     "theme-slug": "base2tone-motel",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

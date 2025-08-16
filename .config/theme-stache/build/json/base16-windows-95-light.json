@@ -19,7 +19,7 @@
     "cursor-hex": "#545454",
     "foreground-hex": "#545454",
     "selection-hex": "#2a2a2a",
-    "selection-text-hex": "#d5d5d5",
+    "selection-text-hex": "#e0e0e0",
     "theme-author": "Fergus Collins (https://github.com/ferguscollins)",
     "theme-name": "Windows 95 Light",
     "theme-slug": "windows-95-light",

@@ -19,7 +19,7 @@
     "cursor-hex": "#dcdccc",
     "foreground-hex": "#dcdccc",
     "selection-hex": "#c0c0c0",
-    "selection-text-hex": "#3f3f3f",
+    "selection-text-hex": "#404040",
     "theme-author": "elnawe",
     "theme-name": "Zenburn",
     "theme-slug": "zenburn",

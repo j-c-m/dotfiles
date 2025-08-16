@@ -18,12 +18,12 @@
     "background-hex": "#171423",
     "cursor-hex": "#9f9fa1",
     "foreground-hex": "#9f9fa1",
-    "selection-hex": "#9e9ea0",
-    "selection-text-hex": "#61615f",
+    "selection-hex": "#9f9fa1",
+    "selection-text-hex": "#171423",
     "theme-author": "",
     "theme-name": "Grape",
     "theme-slug": "grape",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

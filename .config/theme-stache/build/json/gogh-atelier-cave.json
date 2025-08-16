@@ -18,12 +18,12 @@
     "background-hex": "#19171c",
     "cursor-hex": "#7e7887",
     "foreground-hex": "#7e7887",
-    "selection-hex": "#8b8792",
-    "selection-text-hex": "#74786d",
-    "theme-author": "",
+    "selection-hex": "#7e7887",
+    "selection-text-hex": "#19171c",
+    "theme-author": "Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/cave)",
     "theme-name": "Atelier Cave",
     "theme-slug": "atelier-cave",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

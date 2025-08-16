@@ -18,12 +18,12 @@
     "background-hex": "#101010",
     "cursor-hex": "#999993",
     "foreground-hex": "#999993",
-    "selection-hex": "#899ca1",
-    "selection-text-hex": "#76635e",
+    "selection-hex": "#999993",
+    "selection-text-hex": "#101010",
     "theme-author": "",
     "theme-name": "Wryan",
     "theme-slug": "wryan",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

@@ -18,12 +18,12 @@
     "background-hex": "#282a36",
     "cursor-hex": "#97979b",
     "foreground-hex": "#eff0eb",
-    "selection-hex": "#f1f1f0",
-    "selection-text-hex": "#0e0e0f",
+    "selection-hex": "#eff0eb",
+    "selection-text-hex": "#282a36",
     "theme-author": "",
     "theme-name": "Snazzy",
     "theme-slug": "snazzy",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

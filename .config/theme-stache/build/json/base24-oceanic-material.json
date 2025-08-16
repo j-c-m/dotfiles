@@ -19,7 +19,7 @@
     "cursor-hex": "#989898",
     "foreground-hex": "#989898",
     "selection-hex": "#a4a4a4",
-    "selection-text-hex": "#5b5b5b",
+    "selection-text-hex": "#000000",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Oceanic Material",
     "theme-slug": "oceanic-material",

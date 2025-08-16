@@ -19,7 +19,7 @@
     "cursor-hex": "#aeaeae",
     "foreground-hex": "#aeaeae",
     "selection-hex": "#cccccc",
-    "selection-text-hex": "#333333",
+    "selection-text-hex": "#000000",
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Wez",
     "theme-slug": "wez",

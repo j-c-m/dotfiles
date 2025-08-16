@@ -19,7 +19,7 @@
     "cursor-hex": "#cccccc",
     "foreground-hex": "#cccccc",
     "selection-hex": "#cccccc",
-    "selection-text-hex": "#333333",
+    "selection-text-hex": "#2d2d2d",
     "theme-author": "Chris Kempson (http://chriskempson.com)",
     "theme-name": "Tomorrow Night Eighties",
     "theme-slug": "tomorrow-night-eighties",

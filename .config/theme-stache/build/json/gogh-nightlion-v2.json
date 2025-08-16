@@ -19,11 +19,11 @@
     "cursor-hex": "#bbbbbb",
     "foreground-hex": "#bbbbbb",
     "selection-hex": "#bbbbbb",
-    "selection-text-hex": "#444444",
+    "selection-text-hex": "#171717",
     "theme-author": "",
     "theme-name": "Nightlion V2",
     "theme-slug": "nightlion-v2",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

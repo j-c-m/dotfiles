@@ -19,7 +19,7 @@
     "cursor-hex": "#767676",
     "foreground-hex": "#767676",
     "selection-hex": "#414141",
-    "selection-text-hex": "#bebebe",
+    "selection-text-hex": "#e5e5e5",
     "theme-author": "Fergus Collins (https://github.com/ferguscollins)",
     "theme-name": "Windows 10 Light",
     "theme-slug": "windows-10-light",

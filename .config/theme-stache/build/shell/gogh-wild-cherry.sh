@@ -3,7 +3,7 @@
 # Source:   gogh
 # Theme:    Wild Cherry
 # Author:   
-# Variant:  
+# Variant:  dark
 
 # Exit if not on a tty
 

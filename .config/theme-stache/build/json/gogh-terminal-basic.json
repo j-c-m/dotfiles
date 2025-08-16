@@ -18,12 +18,12 @@
     "background-hex": "#ffffff",
     "cursor-hex": "#7f7f7f",
     "foreground-hex": "#000000",
-    "selection-hex": "#bfbfbf",
-    "selection-text-hex": "#404040",
+    "selection-hex": "#000000",
+    "selection-text-hex": "#ffffff",
     "theme-author": "",
     "theme-name": "Terminal Basic",
     "theme-slug": "terminal-basic",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "light"
 }

@@ -18,12 +18,12 @@
     "background-hex": "#011627",
     "cursor-hex": "#9ca1aa",
     "foreground-hex": "#bdc1c6",
-    "selection-hex": "#a1aab8",
-    "selection-text-hex": "#5e5547",
+    "selection-hex": "#bdc1c6",
+    "selection-text-hex": "#011627",
     "theme-author": "",
     "theme-name": "Nightfly",
     "theme-slug": "nightfly",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

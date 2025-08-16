@@ -18,12 +18,12 @@
     "background-hex": "#000000",
     "cursor-hex": "#bbbbbb",
     "foreground-hex": "#c7c7c7",
-    "selection-hex": "#b3b3b3",
-    "selection-text-hex": "#4c4c4c",
+    "selection-hex": "#c7c7c7",
+    "selection-text-hex": "#000000",
     "theme-author": "",
     "theme-name": "Peppermint",
     "theme-slug": "peppermint",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

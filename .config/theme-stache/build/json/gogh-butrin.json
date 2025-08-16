@@ -18,12 +18,12 @@
     "background-hex": "#4b3b3c",
     "cursor-hex": "#e39d93",
     "foreground-hex": "#f2f2f2",
-    "selection-hex": "#e2cebe",
-    "selection-text-hex": "#1d3141",
+    "selection-hex": "#f2f2f2",
+    "selection-text-hex": "#4b3b3c",
     "theme-author": "",
     "theme-name": "Butrin",
     "theme-slug": "butrin",
     "theme-source": "gogh",
     "theme-source-slug": "gogh",
-    "theme-variant": ""
+    "theme-variant": "dark"
 }

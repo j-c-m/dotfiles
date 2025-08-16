@@ -3,7 +3,7 @@
 # Source:   iterm
 # Theme:    AtomOneLight
 # Author:   unknown
-# Variant:  unknown
+# Variant:  light
 
 # Exit if not on a tty
 
