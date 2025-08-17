@@ -13,14 +13,14 @@ cmd - f4 : yabai -m space --focus 4
 cmd - f5 : yabai -m space --focus 5
 cmd - f6 : yabai -m space --focus 6
 
-ctrl + cmd - t : Applications/kitty.app/Contents/MacOS/kitty -1 -d ${HOME}
+ctrl + cmd - t : /opt/homebrew/bin/kitty -1 -d ${HOME}
 ctrl + cmd - a : /opt/homebrew/bin/alacritty msg create-window || /opt/homebrew/bin/alacritty
 #ctrl + cmd - t : osascript -e 'tell application "iTerm" to create window with default profile' \
 #    -e 'activate application "iTerm"'
 
 ctrl + cmd - g : open -a "Microsoft Edge.app" -n
 #ctrl + cmd - g : open -a "Google Chrome.app" -n
-#ctrl + cmd - g : osascript -e 'tell application "Safari" to make new document' \
-#    -e 'activate application "Safari"'
+ctrl + cmd - s : osascript -e 'tell application "Safari" to make new document' \
+    -e 'activate application "Safari"'
 
 ctrl + cmd - m : open -a "Mail.app"
