@@ -1,0 +1,26 @@
+ctrl - right : yabai -m space --focus next
+ctrl - left : yabai -m space --focus prev
+ctrl - 1 : yabai -m space --focus 1
+ctrl - 2 : yabai -m space --focus 2
+ctrl - 3 : yabai -m space --focus 3
+ctrl - 4 : yabai -m space --focus 4
+ctrl - 5 : yabai -m space --focus 4
+ctrl - 6 : yabai -m space --focus 4
+cmd - f1 : yabai -m space --focus 1
+cmd - f2 : yabai -m space --focus 2
+cmd - f3 : yabai -m space --focus 3
+cmd - f4 : yabai -m space --focus 4
+cmd - f5 : yabai -m space --focus 5
+cmd - f6 : yabai -m space --focus 6
+
+ctrl + cmd - t : /opt/homebrew/bin/kitty -1 --detach -d ${HOME}
+#ctrl + cmd - t : /opt/homebrew/bin/alacritty msg create-window || /opt/homebrew/bin/alacritty
+#ctrl + cmd - t : osascript -e 'tell application "iTerm" to create window with default profile' \
+#    -e 'activate application "iTerm"'
+
+ctrl + cmd - g : open -a "Microsoft Edge.app" -n
+#ctrl + cmd - g : open -a "Google Chrome.app" -n
+#ctrl + cmd - g : osascript -e 'tell application "Safari" to make new document' \
+#    -e 'activate application "Safari"'
+
+ctrl + cmd - m : open -a "Mail.app"

@@ -1,0 +1,25 @@
+# for this to work you must configure sudo such that
+# it will be able to run the command without password
+
+yabai -m signal --add event=dock_did_restart action="sudo yabai --load-sa"
+sudo yabai --load-sa
+
+function setup_space {
+  local idx="$1"
+  local name="$2"
+  local space=
+  echo "setup space $idx : $name"
+
+  space=$(yabai -m query --spaces --space "${idx}")
+  if [ -z "$space" ]; then
+    yabai -m space --create
+  fi
+
+  yabai -m space "${idx}" --label "${name}"
+}
+
+setup_space 2 "Desktop 2"
+setup_space 3 "Desktop 3"
+setup_space 4 "Desktop 4"
+
+# yabai -m signal --add event=space_created action="~/.config/yabai/scripts/move_fullscreen_to_last.sh \$YABAI_SPACE_INDEX"
