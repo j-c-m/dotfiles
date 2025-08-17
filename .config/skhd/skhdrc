@@ -13,8 +13,8 @@ cmd - f4 : yabai -m space --focus 4
 cmd - f5 : yabai -m space --focus 5
 cmd - f6 : yabai -m space --focus 6
 
-ctrl + cmd - t : /opt/homebrew/bin/kitty -1 --detach -d ${HOME}
-#ctrl + cmd - t : /opt/homebrew/bin/alacritty msg create-window || /opt/homebrew/bin/alacritty
+ctrl + cmd - t : Applications/kitty.app/Contents/MacOS/kitty -1 -d ${HOME}
+ctrl + cmd - a : /opt/homebrew/bin/alacritty msg create-window || /opt/homebrew/bin/alacritty
 #ctrl + cmd - t : osascript -e 'tell application "iTerm" to create window with default profile' \
 #    -e 'activate application "iTerm"'
 
