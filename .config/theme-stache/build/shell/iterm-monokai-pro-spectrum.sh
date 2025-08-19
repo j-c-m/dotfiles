@@ -29,7 +29,7 @@ print_linux() {
     local color="$1"
     local hex="$2"
 
-    printf "\033]P%x%s" "$color" ${hex:#\#}
+    printf "\033]P%x%s" "$color" "${hex#\#}"
 }
 
 do_osc() {
