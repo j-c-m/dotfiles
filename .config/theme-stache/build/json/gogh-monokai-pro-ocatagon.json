@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#3a3d4b",
-    "ansi-1-hex": "#ff657a",
-    "ansi-10-hex": "#bad761",
-    "ansi-11-hex": "#ffd76d",
-    "ansi-12-hex": "#ff9b5e",
-    "ansi-13-hex": "#c39ac9",
-    "ansi-14-hex": "#9cd1bb",
-    "ansi-15-hex": "#eaf2f1",
-    "ansi-2-hex": "#bad761",
-    "ansi-3-hex": "#ffd76d",
-    "ansi-4-hex": "#ff9b5e",
-    "ansi-5-hex": "#c39ac9",
-    "ansi-6-hex": "#9cd1bb",
-    "ansi-7-hex": "#eaf2f1",
-    "ansi-8-hex": "#adaeb4",
-    "ansi-9-hex": "#ff657a",
-    "background-hex": "#3a3d4b",
-    "cursor-hex": "#eaf2f1",
-    "foreground-hex": "#eaf2f1",
-    "selection-hex": "#eaf2f1",
-    "selection-text-hex": "#3a3d4b",
+    "ansi-0": {
+        "hex": "#3a3d4b",
+        "hexterm": "3a/3d/4b"
+    },
+    "ansi-1": {
+        "hex": "#ff657a",
+        "hexterm": "ff/65/7a"
+    },
+    "ansi-10": {
+        "hex": "#bad761",
+        "hexterm": "ba/d7/61"
+    },
+    "ansi-11": {
+        "hex": "#ffd76d",
+        "hexterm": "ff/d7/6d"
+    },
+    "ansi-12": {
+        "hex": "#ff9b5e",
+        "hexterm": "ff/9b/5e"
+    },
+    "ansi-13": {
+        "hex": "#c39ac9",
+        "hexterm": "c3/9a/c9"
+    },
+    "ansi-14": {
+        "hex": "#9cd1bb",
+        "hexterm": "9c/d1/bb"
+    },
+    "ansi-15": {
+        "hex": "#eaf2f1",
+        "hexterm": "ea/f2/f1"
+    },
+    "ansi-2": {
+        "hex": "#bad761",
+        "hexterm": "ba/d7/61"
+    },
+    "ansi-3": {
+        "hex": "#ffd76d",
+        "hexterm": "ff/d7/6d"
+    },
+    "ansi-4": {
+        "hex": "#ff9b5e",
+        "hexterm": "ff/9b/5e"
+    },
+    "ansi-5": {
+        "hex": "#c39ac9",
+        "hexterm": "c3/9a/c9"
+    },
+    "ansi-6": {
+        "hex": "#9cd1bb",
+        "hexterm": "9c/d1/bb"
+    },
+    "ansi-7": {
+        "hex": "#eaf2f1",
+        "hexterm": "ea/f2/f1"
+    },
+    "ansi-8": {
+        "hex": "#adaeb4",
+        "hexterm": "ad/ae/b4"
+    },
+    "ansi-9": {
+        "hex": "#ff657a",
+        "hexterm": "ff/65/7a"
+    },
+    "background": {
+        "hex": "#3a3d4b",
+        "hexterm": "3a/3d/4b"
+    },
+    "cursor": {
+        "hex": "#eaf2f1",
+        "hexterm": "ea/f2/f1"
+    },
+    "foreground": {
+        "hex": "#eaf2f1",
+        "hexterm": "ea/f2/f1"
+    },
+    "selection": {
+        "hex": "#eaf2f1",
+        "hexterm": "ea/f2/f1"
+    },
+    "selection-text": {
+        "hex": "#3a3d4b",
+        "hexterm": "3a/3d/4b"
+    },
     "theme-author": "",
     "theme-name": "Monokai Pro Ocatagon",
     "theme-slug": "monokai-pro-ocatagon",

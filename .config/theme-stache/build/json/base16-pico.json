@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#ff004d",
-    "ansi-10-hex": "#00e756",
-    "ansi-11-hex": "#fff024",
-    "ansi-12-hex": "#83769c",
-    "ansi-13-hex": "#ff77a8",
-    "ansi-14-hex": "#29adff",
-    "ansi-15-hex": "#fff1e8",
-    "ansi-2-hex": "#00e756",
-    "ansi-3-hex": "#fff024",
-    "ansi-4-hex": "#83769c",
-    "ansi-5-hex": "#ff77a8",
-    "ansi-6-hex": "#29adff",
-    "ansi-7-hex": "#5f574f",
-    "ansi-8-hex": "#008751",
-    "ansi-9-hex": "#ff004d",
-    "background-hex": "#000000",
-    "cursor-hex": "#5f574f",
-    "foreground-hex": "#5f574f",
-    "selection-hex": "#c2c3c7",
-    "selection-text-hex": "#1d2b53",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#ff004d",
+        "hexterm": "ff/00/4d"
+    },
+    "ansi-10": {
+        "hex": "#00e756",
+        "hexterm": "00/e7/56"
+    },
+    "ansi-11": {
+        "hex": "#fff024",
+        "hexterm": "ff/f0/24"
+    },
+    "ansi-12": {
+        "hex": "#83769c",
+        "hexterm": "83/76/9c"
+    },
+    "ansi-13": {
+        "hex": "#ff77a8",
+        "hexterm": "ff/77/a8"
+    },
+    "ansi-14": {
+        "hex": "#29adff",
+        "hexterm": "29/ad/ff"
+    },
+    "ansi-15": {
+        "hex": "#fff1e8",
+        "hexterm": "ff/f1/e8"
+    },
+    "ansi-2": {
+        "hex": "#00e756",
+        "hexterm": "00/e7/56"
+    },
+    "ansi-3": {
+        "hex": "#fff024",
+        "hexterm": "ff/f0/24"
+    },
+    "ansi-4": {
+        "hex": "#83769c",
+        "hexterm": "83/76/9c"
+    },
+    "ansi-5": {
+        "hex": "#ff77a8",
+        "hexterm": "ff/77/a8"
+    },
+    "ansi-6": {
+        "hex": "#29adff",
+        "hexterm": "29/ad/ff"
+    },
+    "ansi-7": {
+        "hex": "#5f574f",
+        "hexterm": "5f/57/4f"
+    },
+    "ansi-8": {
+        "hex": "#008751",
+        "hexterm": "00/87/51"
+    },
+    "ansi-9": {
+        "hex": "#ff004d",
+        "hexterm": "ff/00/4d"
+    },
+    "background": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "cursor": {
+        "hex": "#5f574f",
+        "hexterm": "5f/57/4f"
+    },
+    "foreground": {
+        "hex": "#5f574f",
+        "hexterm": "5f/57/4f"
+    },
+    "selection": {
+        "hex": "#c2c3c7",
+        "hexterm": "c2/c3/c7"
+    },
+    "selection-text": {
+        "hex": "#1d2b53",
+        "hexterm": "1d/2b/53"
+    },
     "theme-author": "PICO-8 (http://www.lexaloffle.com/pico-8.php)",
     "theme-name": "Pico",
     "theme-slug": "pico",

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#191919",
-    "ansi-1-hex": "#dc657d",
-    "ansi-10-hex": "#84b97c",
-    "ansi-11-hex": "#c3ba63",
-    "ansi-12-hex": "#639ee4",
-    "ansi-13-hex": "#b888e2",
-    "ansi-14-hex": "#4bb1a7",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#84b97c",
-    "ansi-3-hex": "#c3ba63",
-    "ansi-4-hex": "#639ee4",
-    "ansi-5-hex": "#b888e2",
-    "ansi-6-hex": "#4bb1a7",
-    "ansi-7-hex": "#a7a7a7",
-    "ansi-8-hex": "#5f5a60",
-    "ansi-9-hex": "#dc657d",
-    "background-hex": "#191919",
-    "cursor-hex": "#a7a7a7",
-    "foreground-hex": "#a7a7a7",
-    "selection-hex": "#808080",
-    "selection-text-hex": "#202020",
+    "ansi-0": {
+        "hex": "#191919",
+        "hexterm": "19/19/19"
+    },
+    "ansi-1": {
+        "hex": "#dc657d",
+        "hexterm": "dc/65/7d"
+    },
+    "ansi-10": {
+        "hex": "#84b97c",
+        "hexterm": "84/b9/7c"
+    },
+    "ansi-11": {
+        "hex": "#c3ba63",
+        "hexterm": "c3/ba/63"
+    },
+    "ansi-12": {
+        "hex": "#639ee4",
+        "hexterm": "63/9e/e4"
+    },
+    "ansi-13": {
+        "hex": "#b888e2",
+        "hexterm": "b8/88/e2"
+    },
+    "ansi-14": {
+        "hex": "#4bb1a7",
+        "hexterm": "4b/b1/a7"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#84b97c",
+        "hexterm": "84/b9/7c"
+    },
+    "ansi-3": {
+        "hex": "#c3ba63",
+        "hexterm": "c3/ba/63"
+    },
+    "ansi-4": {
+        "hex": "#639ee4",
+        "hexterm": "63/9e/e4"
+    },
+    "ansi-5": {
+        "hex": "#b888e2",
+        "hexterm": "b8/88/e2"
+    },
+    "ansi-6": {
+        "hex": "#4bb1a7",
+        "hexterm": "4b/b1/a7"
+    },
+    "ansi-7": {
+        "hex": "#a7a7a7",
+        "hexterm": "a7/a7/a7"
+    },
+    "ansi-8": {
+        "hex": "#5f5a60",
+        "hexterm": "5f/5a/60"
+    },
+    "ansi-9": {
+        "hex": "#dc657d",
+        "hexterm": "dc/65/7d"
+    },
+    "background": {
+        "hex": "#191919",
+        "hexterm": "19/19/19"
+    },
+    "cursor": {
+        "hex": "#a7a7a7",
+        "hexterm": "a7/a7/a7"
+    },
+    "foreground": {
+        "hex": "#a7a7a7",
+        "hexterm": "a7/a7/a7"
+    },
+    "selection": {
+        "hex": "#808080",
+        "hexterm": "80/80/80"
+    },
+    "selection-text": {
+        "hex": "#202020",
+        "hexterm": "20/20/20"
+    },
     "theme-author": "Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)",
     "theme-name": "Circus",
     "theme-slug": "circus",

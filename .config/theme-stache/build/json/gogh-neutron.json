@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#23252b",
-    "ansi-1-hex": "#b54036",
-    "ansi-10-hex": "#5ab977",
-    "ansi-11-hex": "#deb566",
-    "ansi-12-hex": "#6a7c93",
-    "ansi-13-hex": "#a4799d",
-    "ansi-14-hex": "#3f94a8",
-    "ansi-15-hex": "#ebedf2",
-    "ansi-2-hex": "#5ab977",
-    "ansi-3-hex": "#deb566",
-    "ansi-4-hex": "#6a7c93",
-    "ansi-5-hex": "#a4799d",
-    "ansi-6-hex": "#3f94a8",
-    "ansi-7-hex": "#e6e8ef",
-    "ansi-8-hex": "#23252b",
-    "ansi-9-hex": "#b54036",
-    "background-hex": "#1c1e22",
-    "cursor-hex": "#e6e8ef",
-    "foreground-hex": "#e6e8ef",
-    "selection-hex": "#e6e8ef",
-    "selection-text-hex": "#1c1e22",
+    "ansi-0": {
+        "hex": "#23252b",
+        "hexterm": "23/25/2b"
+    },
+    "ansi-1": {
+        "hex": "#b54036",
+        "hexterm": "b5/40/36"
+    },
+    "ansi-10": {
+        "hex": "#5ab977",
+        "hexterm": "5a/b9/77"
+    },
+    "ansi-11": {
+        "hex": "#deb566",
+        "hexterm": "de/b5/66"
+    },
+    "ansi-12": {
+        "hex": "#6a7c93",
+        "hexterm": "6a/7c/93"
+    },
+    "ansi-13": {
+        "hex": "#a4799d",
+        "hexterm": "a4/79/9d"
+    },
+    "ansi-14": {
+        "hex": "#3f94a8",
+        "hexterm": "3f/94/a8"
+    },
+    "ansi-15": {
+        "hex": "#ebedf2",
+        "hexterm": "eb/ed/f2"
+    },
+    "ansi-2": {
+        "hex": "#5ab977",
+        "hexterm": "5a/b9/77"
+    },
+    "ansi-3": {
+        "hex": "#deb566",
+        "hexterm": "de/b5/66"
+    },
+    "ansi-4": {
+        "hex": "#6a7c93",
+        "hexterm": "6a/7c/93"
+    },
+    "ansi-5": {
+        "hex": "#a4799d",
+        "hexterm": "a4/79/9d"
+    },
+    "ansi-6": {
+        "hex": "#3f94a8",
+        "hexterm": "3f/94/a8"
+    },
+    "ansi-7": {
+        "hex": "#e6e8ef",
+        "hexterm": "e6/e8/ef"
+    },
+    "ansi-8": {
+        "hex": "#23252b",
+        "hexterm": "23/25/2b"
+    },
+    "ansi-9": {
+        "hex": "#b54036",
+        "hexterm": "b5/40/36"
+    },
+    "background": {
+        "hex": "#1c1e22",
+        "hexterm": "1c/1e/22"
+    },
+    "cursor": {
+        "hex": "#e6e8ef",
+        "hexterm": "e6/e8/ef"
+    },
+    "foreground": {
+        "hex": "#e6e8ef",
+        "hexterm": "e6/e8/ef"
+    },
+    "selection": {
+        "hex": "#e6e8ef",
+        "hexterm": "e6/e8/ef"
+    },
+    "selection-text": {
+        "hex": "#1c1e22",
+        "hexterm": "1c/1e/22"
+    },
     "theme-author": "",
     "theme-name": "Neutron",
     "theme-slug": "neutron",

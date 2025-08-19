@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#121c21",
-    "ansi-1-hex": "#e44754",
-    "ansi-10-hex": "#89bd82",
-    "ansi-11-hex": "#f7bd51",
-    "ansi-12-hex": "#5486c0",
-    "ansi-13-hex": "#b77eb8",
-    "ansi-14-hex": "#50a5a4",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#89bd82",
-    "ansi-3-hex": "#f7bd51",
-    "ansi-4-hex": "#5486c0",
-    "ansi-5-hex": "#b77eb8",
-    "ansi-6-hex": "#50a5a4",
-    "ansi-7-hex": "#ffffff",
-    "ansi-8-hex": "#52606b",
-    "ansi-9-hex": "#e44754",
-    "background-hex": "#121b21",
-    "cursor-hex": "#b3b8c3",
-    "foreground-hex": "#b3b8c3",
-    "selection-hex": "#b3b8c3",
-    "selection-text-hex": "#121b21",
+    "ansi-0": {
+        "hex": "#121c21",
+        "hexterm": "12/1c/21"
+    },
+    "ansi-1": {
+        "hex": "#e44754",
+        "hexterm": "e4/47/54"
+    },
+    "ansi-10": {
+        "hex": "#89bd82",
+        "hexterm": "89/bd/82"
+    },
+    "ansi-11": {
+        "hex": "#f7bd51",
+        "hexterm": "f7/bd/51"
+    },
+    "ansi-12": {
+        "hex": "#5486c0",
+        "hexterm": "54/86/c0"
+    },
+    "ansi-13": {
+        "hex": "#b77eb8",
+        "hexterm": "b7/7e/b8"
+    },
+    "ansi-14": {
+        "hex": "#50a5a4",
+        "hexterm": "50/a5/a4"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#89bd82",
+        "hexterm": "89/bd/82"
+    },
+    "ansi-3": {
+        "hex": "#f7bd51",
+        "hexterm": "f7/bd/51"
+    },
+    "ansi-4": {
+        "hex": "#5486c0",
+        "hexterm": "54/86/c0"
+    },
+    "ansi-5": {
+        "hex": "#b77eb8",
+        "hexterm": "b7/7e/b8"
+    },
+    "ansi-6": {
+        "hex": "#50a5a4",
+        "hexterm": "50/a5/a4"
+    },
+    "ansi-7": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-8": {
+        "hex": "#52606b",
+        "hexterm": "52/60/6b"
+    },
+    "ansi-9": {
+        "hex": "#e44754",
+        "hexterm": "e4/47/54"
+    },
+    "background": {
+        "hex": "#121b21",
+        "hexterm": "12/1b/21"
+    },
+    "cursor": {
+        "hex": "#b3b8c3",
+        "hexterm": "b3/b8/c3"
+    },
+    "foreground": {
+        "hex": "#b3b8c3",
+        "hexterm": "b3/b8/c3"
+    },
+    "selection": {
+        "hex": "#b3b8c3",
+        "hexterm": "b3/b8/c3"
+    },
+    "selection-text": {
+        "hex": "#121b21",
+        "hexterm": "12/1b/21"
+    },
     "theme-author": "",
     "theme-name": "Oceanic Next",
     "theme-slug": "oceanic-next",

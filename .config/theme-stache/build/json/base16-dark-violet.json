@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#a82ee6",
-    "ansi-10-hex": "#4595e6",
-    "ansi-11-hex": "#f29df2",
-    "ansi-12-hex": "#4136d9",
-    "ansi-13-hex": "#7e5ce6",
-    "ansi-14-hex": "#40dfff",
-    "ansi-15-hex": "#a366ff",
-    "ansi-2-hex": "#4595e6",
-    "ansi-3-hex": "#f29df2",
-    "ansi-4-hex": "#4136d9",
-    "ansi-5-hex": "#7e5ce6",
-    "ansi-6-hex": "#40dfff",
-    "ansi-7-hex": "#b08ae6",
-    "ansi-8-hex": "#593380",
-    "ansi-9-hex": "#a82ee6",
-    "background-hex": "#000000",
-    "cursor-hex": "#b08ae6",
-    "foreground-hex": "#b08ae6",
-    "selection-hex": "#9045e6",
-    "selection-text-hex": "#231a40",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#a82ee6",
+        "hexterm": "a8/2e/e6"
+    },
+    "ansi-10": {
+        "hex": "#4595e6",
+        "hexterm": "45/95/e6"
+    },
+    "ansi-11": {
+        "hex": "#f29df2",
+        "hexterm": "f2/9d/f2"
+    },
+    "ansi-12": {
+        "hex": "#4136d9",
+        "hexterm": "41/36/d9"
+    },
+    "ansi-13": {
+        "hex": "#7e5ce6",
+        "hexterm": "7e/5c/e6"
+    },
+    "ansi-14": {
+        "hex": "#40dfff",
+        "hexterm": "40/df/ff"
+    },
+    "ansi-15": {
+        "hex": "#a366ff",
+        "hexterm": "a3/66/ff"
+    },
+    "ansi-2": {
+        "hex": "#4595e6",
+        "hexterm": "45/95/e6"
+    },
+    "ansi-3": {
+        "hex": "#f29df2",
+        "hexterm": "f2/9d/f2"
+    },
+    "ansi-4": {
+        "hex": "#4136d9",
+        "hexterm": "41/36/d9"
+    },
+    "ansi-5": {
+        "hex": "#7e5ce6",
+        "hexterm": "7e/5c/e6"
+    },
+    "ansi-6": {
+        "hex": "#40dfff",
+        "hexterm": "40/df/ff"
+    },
+    "ansi-7": {
+        "hex": "#b08ae6",
+        "hexterm": "b0/8a/e6"
+    },
+    "ansi-8": {
+        "hex": "#593380",
+        "hexterm": "59/33/80"
+    },
+    "ansi-9": {
+        "hex": "#a82ee6",
+        "hexterm": "a8/2e/e6"
+    },
+    "background": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "cursor": {
+        "hex": "#b08ae6",
+        "hexterm": "b0/8a/e6"
+    },
+    "foreground": {
+        "hex": "#b08ae6",
+        "hexterm": "b0/8a/e6"
+    },
+    "selection": {
+        "hex": "#9045e6",
+        "hexterm": "90/45/e6"
+    },
+    "selection-text": {
+        "hex": "#231a40",
+        "hexterm": "23/1a/40"
+    },
     "theme-author": "ruler501 (https://github.com/ruler501/base16-darkviolet)",
     "theme-name": "Dark Violet",
     "theme-slug": "dark-violet",

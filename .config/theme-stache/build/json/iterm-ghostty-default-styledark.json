@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1c1f21",
-    "ansi-1-hex": "#cc6566",
-    "ansi-10-hex": "#b8c94a",
-    "ansi-11-hex": "#e6c447",
-    "ansi-12-hex": "#79a6da",
-    "ansi-13-hex": "#c297d8",
-    "ansi-14-hex": "#70bfb0",
-    "ansi-15-hex": "#eae9e9",
-    "ansi-2-hex": "#b5bd68",
-    "ansi-3-hex": "#efc674",
-    "ansi-4-hex": "#81a1bd",
-    "ansi-5-hex": "#b193ba",
-    "ansi-6-hex": "#89beb7",
-    "ansi-7-hex": "#c4c8c5",
-    "ansi-8-hex": "#666565",
-    "ansi-9-hex": "#d44d52",
-    "background-hex": "#282c33",
-    "cursor-hex": "#fefefe",
-    "foreground-hex": "#fefefe",
-    "selection-hex": "#fefefe",
-    "selection-text-hex": "#282c33",
+    "ansi-0": {
+        "hex": "#1c1f21",
+        "hexterm": "1c/1f/21"
+    },
+    "ansi-1": {
+        "hex": "#cc6566",
+        "hexterm": "cc/65/66"
+    },
+    "ansi-10": {
+        "hex": "#b8c94a",
+        "hexterm": "b8/c9/4a"
+    },
+    "ansi-11": {
+        "hex": "#e6c447",
+        "hexterm": "e6/c4/47"
+    },
+    "ansi-12": {
+        "hex": "#79a6da",
+        "hexterm": "79/a6/da"
+    },
+    "ansi-13": {
+        "hex": "#c297d8",
+        "hexterm": "c2/97/d8"
+    },
+    "ansi-14": {
+        "hex": "#70bfb0",
+        "hexterm": "70/bf/b0"
+    },
+    "ansi-15": {
+        "hex": "#eae9e9",
+        "hexterm": "ea/e9/e9"
+    },
+    "ansi-2": {
+        "hex": "#b5bd68",
+        "hexterm": "b5/bd/68"
+    },
+    "ansi-3": {
+        "hex": "#efc674",
+        "hexterm": "ef/c6/74"
+    },
+    "ansi-4": {
+        "hex": "#81a1bd",
+        "hexterm": "81/a1/bd"
+    },
+    "ansi-5": {
+        "hex": "#b193ba",
+        "hexterm": "b1/93/ba"
+    },
+    "ansi-6": {
+        "hex": "#89beb7",
+        "hexterm": "89/be/b7"
+    },
+    "ansi-7": {
+        "hex": "#c4c8c5",
+        "hexterm": "c4/c8/c5"
+    },
+    "ansi-8": {
+        "hex": "#666565",
+        "hexterm": "66/65/65"
+    },
+    "ansi-9": {
+        "hex": "#d44d52",
+        "hexterm": "d4/4d/52"
+    },
+    "background": {
+        "hex": "#282c33",
+        "hexterm": "28/2c/33"
+    },
+    "cursor": {
+        "hex": "#fefefe",
+        "hexterm": "fe/fe/fe"
+    },
+    "foreground": {
+        "hex": "#fefefe",
+        "hexterm": "fe/fe/fe"
+    },
+    "selection": {
+        "hex": "#fefefe",
+        "hexterm": "fe/fe/fe"
+    },
+    "selection-text": {
+        "hex": "#282c33",
+        "hexterm": "28/2c/33"
+    },
     "theme-author": "unknown",
     "theme-name": "Ghostty Default StyleDark",
     "theme-slug": "ghostty-default-styledark",

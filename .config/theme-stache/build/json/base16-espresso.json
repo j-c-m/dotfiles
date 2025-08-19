@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#2d2d2d",
-    "ansi-1-hex": "#d25252",
-    "ansi-10-hex": "#a5c261",
-    "ansi-11-hex": "#ffc66d",
-    "ansi-12-hex": "#6c99bb",
-    "ansi-13-hex": "#d197d9",
-    "ansi-14-hex": "#bed6ff",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#a5c261",
-    "ansi-3-hex": "#ffc66d",
-    "ansi-4-hex": "#6c99bb",
-    "ansi-5-hex": "#d197d9",
-    "ansi-6-hex": "#bed6ff",
-    "ansi-7-hex": "#cccccc",
-    "ansi-8-hex": "#777777",
-    "ansi-9-hex": "#d25252",
-    "background-hex": "#2d2d2d",
-    "cursor-hex": "#cccccc",
-    "foreground-hex": "#cccccc",
-    "selection-hex": "#e0e0e0",
-    "selection-text-hex": "#393939",
+    "ansi-0": {
+        "hex": "#2d2d2d",
+        "hexterm": "2d/2d/2d"
+    },
+    "ansi-1": {
+        "hex": "#d25252",
+        "hexterm": "d2/52/52"
+    },
+    "ansi-10": {
+        "hex": "#a5c261",
+        "hexterm": "a5/c2/61"
+    },
+    "ansi-11": {
+        "hex": "#ffc66d",
+        "hexterm": "ff/c6/6d"
+    },
+    "ansi-12": {
+        "hex": "#6c99bb",
+        "hexterm": "6c/99/bb"
+    },
+    "ansi-13": {
+        "hex": "#d197d9",
+        "hexterm": "d1/97/d9"
+    },
+    "ansi-14": {
+        "hex": "#bed6ff",
+        "hexterm": "be/d6/ff"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#a5c261",
+        "hexterm": "a5/c2/61"
+    },
+    "ansi-3": {
+        "hex": "#ffc66d",
+        "hexterm": "ff/c6/6d"
+    },
+    "ansi-4": {
+        "hex": "#6c99bb",
+        "hexterm": "6c/99/bb"
+    },
+    "ansi-5": {
+        "hex": "#d197d9",
+        "hexterm": "d1/97/d9"
+    },
+    "ansi-6": {
+        "hex": "#bed6ff",
+        "hexterm": "be/d6/ff"
+    },
+    "ansi-7": {
+        "hex": "#cccccc",
+        "hexterm": "cc/cc/cc"
+    },
+    "ansi-8": {
+        "hex": "#777777",
+        "hexterm": "77/77/77"
+    },
+    "ansi-9": {
+        "hex": "#d25252",
+        "hexterm": "d2/52/52"
+    },
+    "background": {
+        "hex": "#2d2d2d",
+        "hexterm": "2d/2d/2d"
+    },
+    "cursor": {
+        "hex": "#cccccc",
+        "hexterm": "cc/cc/cc"
+    },
+    "foreground": {
+        "hex": "#cccccc",
+        "hexterm": "cc/cc/cc"
+    },
+    "selection": {
+        "hex": "#e0e0e0",
+        "hexterm": "e0/e0/e0"
+    },
+    "selection-text": {
+        "hex": "#393939",
+        "hexterm": "39/39/39"
+    },
     "theme-author": "Unknown. Maintained by Alex Mirrington (https://github.com/alexmirrington)",
     "theme-name": "Espresso",
     "theme-slug": "espresso",

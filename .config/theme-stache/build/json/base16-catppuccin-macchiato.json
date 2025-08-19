@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#24273a",
-    "ansi-1-hex": "#ed8796",
-    "ansi-10-hex": "#a6da95",
-    "ansi-11-hex": "#eed49f",
-    "ansi-12-hex": "#8aadf4",
-    "ansi-13-hex": "#c6a0f6",
-    "ansi-14-hex": "#8bd5ca",
-    "ansi-15-hex": "#b7bdf8",
-    "ansi-2-hex": "#a6da95",
-    "ansi-3-hex": "#eed49f",
-    "ansi-4-hex": "#8aadf4",
-    "ansi-5-hex": "#c6a0f6",
-    "ansi-6-hex": "#8bd5ca",
-    "ansi-7-hex": "#cad3f5",
-    "ansi-8-hex": "#494d64",
-    "ansi-9-hex": "#ed8796",
-    "background-hex": "#24273a",
-    "cursor-hex": "#cad3f5",
-    "foreground-hex": "#cad3f5",
-    "selection-hex": "#f4dbd6",
-    "selection-text-hex": "#1e2030",
+    "ansi-0": {
+        "hex": "#24273a",
+        "hexterm": "24/27/3a"
+    },
+    "ansi-1": {
+        "hex": "#ed8796",
+        "hexterm": "ed/87/96"
+    },
+    "ansi-10": {
+        "hex": "#a6da95",
+        "hexterm": "a6/da/95"
+    },
+    "ansi-11": {
+        "hex": "#eed49f",
+        "hexterm": "ee/d4/9f"
+    },
+    "ansi-12": {
+        "hex": "#8aadf4",
+        "hexterm": "8a/ad/f4"
+    },
+    "ansi-13": {
+        "hex": "#c6a0f6",
+        "hexterm": "c6/a0/f6"
+    },
+    "ansi-14": {
+        "hex": "#8bd5ca",
+        "hexterm": "8b/d5/ca"
+    },
+    "ansi-15": {
+        "hex": "#b7bdf8",
+        "hexterm": "b7/bd/f8"
+    },
+    "ansi-2": {
+        "hex": "#a6da95",
+        "hexterm": "a6/da/95"
+    },
+    "ansi-3": {
+        "hex": "#eed49f",
+        "hexterm": "ee/d4/9f"
+    },
+    "ansi-4": {
+        "hex": "#8aadf4",
+        "hexterm": "8a/ad/f4"
+    },
+    "ansi-5": {
+        "hex": "#c6a0f6",
+        "hexterm": "c6/a0/f6"
+    },
+    "ansi-6": {
+        "hex": "#8bd5ca",
+        "hexterm": "8b/d5/ca"
+    },
+    "ansi-7": {
+        "hex": "#cad3f5",
+        "hexterm": "ca/d3/f5"
+    },
+    "ansi-8": {
+        "hex": "#494d64",
+        "hexterm": "49/4d/64"
+    },
+    "ansi-9": {
+        "hex": "#ed8796",
+        "hexterm": "ed/87/96"
+    },
+    "background": {
+        "hex": "#24273a",
+        "hexterm": "24/27/3a"
+    },
+    "cursor": {
+        "hex": "#cad3f5",
+        "hexterm": "ca/d3/f5"
+    },
+    "foreground": {
+        "hex": "#cad3f5",
+        "hexterm": "ca/d3/f5"
+    },
+    "selection": {
+        "hex": "#f4dbd6",
+        "hexterm": "f4/db/d6"
+    },
+    "selection-text": {
+        "hex": "#1e2030",
+        "hexterm": "1e/20/30"
+    },
     "theme-author": "https://github.com/catppuccin/catppuccin",
     "theme-name": "Catppuccin Macchiato",
     "theme-slug": "catppuccin-macchiato",

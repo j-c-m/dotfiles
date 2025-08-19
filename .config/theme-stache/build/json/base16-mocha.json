@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#3b3228",
-    "ansi-1-hex": "#cb6077",
-    "ansi-10-hex": "#beb55b",
-    "ansi-11-hex": "#f4bc87",
-    "ansi-12-hex": "#8ab3b5",
-    "ansi-13-hex": "#a89bb9",
-    "ansi-14-hex": "#7bbda4",
-    "ansi-15-hex": "#f5eeeb",
-    "ansi-2-hex": "#beb55b",
-    "ansi-3-hex": "#f4bc87",
-    "ansi-4-hex": "#8ab3b5",
-    "ansi-5-hex": "#a89bb9",
-    "ansi-6-hex": "#7bbda4",
-    "ansi-7-hex": "#d0c8c6",
-    "ansi-8-hex": "#7e705a",
-    "ansi-9-hex": "#cb6077",
-    "background-hex": "#3b3228",
-    "cursor-hex": "#d0c8c6",
-    "foreground-hex": "#d0c8c6",
-    "selection-hex": "#e9e1dd",
-    "selection-text-hex": "#534636",
+    "ansi-0": {
+        "hex": "#3b3228",
+        "hexterm": "3b/32/28"
+    },
+    "ansi-1": {
+        "hex": "#cb6077",
+        "hexterm": "cb/60/77"
+    },
+    "ansi-10": {
+        "hex": "#beb55b",
+        "hexterm": "be/b5/5b"
+    },
+    "ansi-11": {
+        "hex": "#f4bc87",
+        "hexterm": "f4/bc/87"
+    },
+    "ansi-12": {
+        "hex": "#8ab3b5",
+        "hexterm": "8a/b3/b5"
+    },
+    "ansi-13": {
+        "hex": "#a89bb9",
+        "hexterm": "a8/9b/b9"
+    },
+    "ansi-14": {
+        "hex": "#7bbda4",
+        "hexterm": "7b/bd/a4"
+    },
+    "ansi-15": {
+        "hex": "#f5eeeb",
+        "hexterm": "f5/ee/eb"
+    },
+    "ansi-2": {
+        "hex": "#beb55b",
+        "hexterm": "be/b5/5b"
+    },
+    "ansi-3": {
+        "hex": "#f4bc87",
+        "hexterm": "f4/bc/87"
+    },
+    "ansi-4": {
+        "hex": "#8ab3b5",
+        "hexterm": "8a/b3/b5"
+    },
+    "ansi-5": {
+        "hex": "#a89bb9",
+        "hexterm": "a8/9b/b9"
+    },
+    "ansi-6": {
+        "hex": "#7bbda4",
+        "hexterm": "7b/bd/a4"
+    },
+    "ansi-7": {
+        "hex": "#d0c8c6",
+        "hexterm": "d0/c8/c6"
+    },
+    "ansi-8": {
+        "hex": "#7e705a",
+        "hexterm": "7e/70/5a"
+    },
+    "ansi-9": {
+        "hex": "#cb6077",
+        "hexterm": "cb/60/77"
+    },
+    "background": {
+        "hex": "#3b3228",
+        "hexterm": "3b/32/28"
+    },
+    "cursor": {
+        "hex": "#d0c8c6",
+        "hexterm": "d0/c8/c6"
+    },
+    "foreground": {
+        "hex": "#d0c8c6",
+        "hexterm": "d0/c8/c6"
+    },
+    "selection": {
+        "hex": "#e9e1dd",
+        "hexterm": "e9/e1/dd"
+    },
+    "selection-text": {
+        "hex": "#534636",
+        "hexterm": "53/46/36"
+    },
     "theme-author": "Chris Kempson (http://chriskempson.com)",
     "theme-name": "Mocha",
     "theme-slug": "mocha",

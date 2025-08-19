@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#444b58",
-    "ansi-1-hex": "#f6473f",
-    "ansi-10-hex": "#00b90d",
-    "ansi-11-hex": "#eb9900",
-    "ansi-12-hex": "#1064dd",
-    "ansi-13-hex": "#e500d7",
-    "ansi-14-hex": "#00b4dc",
-    "ansi-15-hex": "#fefefe",
-    "ansi-2-hex": "#24a343",
-    "ansi-3-hex": "#cb8000",
-    "ansi-4-hex": "#0086c1",
-    "ansi-5-hex": "#b50da9",
-    "ansi-6-hex": "#0099b6",
-    "ansi-7-hex": "#ebd8d8",
-    "ansi-8-hex": "#0d131e",
-    "ansi-9-hex": "#fe3611",
-    "background-hex": "#faf9f9",
-    "cursor-hex": "#191919",
-    "foreground-hex": "#373a42",
-    "selection-hex": "#454e5e",
-    "selection-text-hex": "#191919",
+    "ansi-0": {
+        "hex": "#444b58",
+        "hexterm": "44/4b/58"
+    },
+    "ansi-1": {
+        "hex": "#f6473f",
+        "hexterm": "f6/47/3f"
+    },
+    "ansi-10": {
+        "hex": "#00b90d",
+        "hexterm": "00/b9/0d"
+    },
+    "ansi-11": {
+        "hex": "#eb9900",
+        "hexterm": "eb/99/00"
+    },
+    "ansi-12": {
+        "hex": "#1064dd",
+        "hexterm": "10/64/dd"
+    },
+    "ansi-13": {
+        "hex": "#e500d7",
+        "hexterm": "e5/00/d7"
+    },
+    "ansi-14": {
+        "hex": "#00b4dc",
+        "hexterm": "00/b4/dc"
+    },
+    "ansi-15": {
+        "hex": "#fefefe",
+        "hexterm": "fe/fe/fe"
+    },
+    "ansi-2": {
+        "hex": "#24a343",
+        "hexterm": "24/a3/43"
+    },
+    "ansi-3": {
+        "hex": "#cb8000",
+        "hexterm": "cb/80/00"
+    },
+    "ansi-4": {
+        "hex": "#0086c1",
+        "hexterm": "00/86/c1"
+    },
+    "ansi-5": {
+        "hex": "#b50da9",
+        "hexterm": "b5/0d/a9"
+    },
+    "ansi-6": {
+        "hex": "#0099b6",
+        "hexterm": "00/99/b6"
+    },
+    "ansi-7": {
+        "hex": "#ebd8d8",
+        "hexterm": "eb/d8/d8"
+    },
+    "ansi-8": {
+        "hex": "#0d131e",
+        "hexterm": "0d/13/1e"
+    },
+    "ansi-9": {
+        "hex": "#fe3611",
+        "hexterm": "fe/36/11"
+    },
+    "background": {
+        "hex": "#faf9f9",
+        "hexterm": "fa/f9/f9"
+    },
+    "cursor": {
+        "hex": "#191919",
+        "hexterm": "19/19/19"
+    },
+    "foreground": {
+        "hex": "#373a42",
+        "hexterm": "37/3a/42"
+    },
+    "selection": {
+        "hex": "#454e5e",
+        "hexterm": "45/4e/5e"
+    },
+    "selection-text": {
+        "hex": "#191919",
+        "hexterm": "19/19/19"
+    },
     "theme-author": "unknown",
     "theme-name": "One Double Light",
     "theme-slug": "one-double-light",

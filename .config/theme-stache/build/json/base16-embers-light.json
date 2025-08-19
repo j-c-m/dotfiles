@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#d1d6db",
-    "ansi-1-hex": "#576d82",
-    "ansi-10-hex": "#6d8257",
-    "ansi-11-hex": "#57826d",
-    "ansi-12-hex": "#82576d",
-    "ansi-13-hex": "#6d5782",
-    "ansi-14-hex": "#826d57",
-    "ansi-15-hex": "#0f1316",
-    "ansi-2-hex": "#6d8257",
-    "ansi-3-hex": "#57826d",
-    "ansi-4-hex": "#82576d",
-    "ansi-5-hex": "#6d5782",
-    "ansi-6-hex": "#826d57",
-    "ansi-7-hex": "#323b43",
-    "ansi-8-hex": "#75808a",
-    "ansi-9-hex": "#576d82",
-    "background-hex": "#d1d6db",
-    "cursor-hex": "#323b43",
-    "foreground-hex": "#323b43",
-    "selection-hex": "#20262c",
-    "selection-text-hex": "#aeb6be",
+    "ansi-0": {
+        "hex": "#d1d6db",
+        "hexterm": "d1/d6/db"
+    },
+    "ansi-1": {
+        "hex": "#576d82",
+        "hexterm": "57/6d/82"
+    },
+    "ansi-10": {
+        "hex": "#6d8257",
+        "hexterm": "6d/82/57"
+    },
+    "ansi-11": {
+        "hex": "#57826d",
+        "hexterm": "57/82/6d"
+    },
+    "ansi-12": {
+        "hex": "#82576d",
+        "hexterm": "82/57/6d"
+    },
+    "ansi-13": {
+        "hex": "#6d5782",
+        "hexterm": "6d/57/82"
+    },
+    "ansi-14": {
+        "hex": "#826d57",
+        "hexterm": "82/6d/57"
+    },
+    "ansi-15": {
+        "hex": "#0f1316",
+        "hexterm": "0f/13/16"
+    },
+    "ansi-2": {
+        "hex": "#6d8257",
+        "hexterm": "6d/82/57"
+    },
+    "ansi-3": {
+        "hex": "#57826d",
+        "hexterm": "57/82/6d"
+    },
+    "ansi-4": {
+        "hex": "#82576d",
+        "hexterm": "82/57/6d"
+    },
+    "ansi-5": {
+        "hex": "#6d5782",
+        "hexterm": "6d/57/82"
+    },
+    "ansi-6": {
+        "hex": "#826d57",
+        "hexterm": "82/6d/57"
+    },
+    "ansi-7": {
+        "hex": "#323b43",
+        "hexterm": "32/3b/43"
+    },
+    "ansi-8": {
+        "hex": "#75808a",
+        "hexterm": "75/80/8a"
+    },
+    "ansi-9": {
+        "hex": "#576d82",
+        "hexterm": "57/6d/82"
+    },
+    "background": {
+        "hex": "#d1d6db",
+        "hexterm": "d1/d6/db"
+    },
+    "cursor": {
+        "hex": "#323b43",
+        "hexterm": "32/3b/43"
+    },
+    "foreground": {
+        "hex": "#323b43",
+        "hexterm": "32/3b/43"
+    },
+    "selection": {
+        "hex": "#20262c",
+        "hexterm": "20/26/2c"
+    },
+    "selection-text": {
+        "hex": "#aeb6be",
+        "hexterm": "ae/b6/be"
+    },
     "theme-author": "Jannik Siebert (https://github.com/janniks)",
     "theme-name": "Embers Light",
     "theme-slug": "embers-light",

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#18262f",
-    "ansi-1-hex": "#ef5253",
-    "ansi-10-hex": "#7cc844",
-    "ansi-11-hex": "#e4b51c",
-    "ansi-12-hex": "#33b5e1",
-    "ansi-13-hex": "#a363d5",
-    "ansi-14-hex": "#52cbb0",
-    "ansi-15-hex": "#f5f7fa",
-    "ansi-2-hex": "#7cc844",
-    "ansi-3-hex": "#e4b51c",
-    "ansi-4-hex": "#33b5e1",
-    "ansi-5-hex": "#a363d5",
-    "ansi-6-hex": "#52cbb0",
-    "ansi-7-hex": "#a6afb8",
-    "ansi-8-hex": "#667581",
-    "ansi-9-hex": "#ef5253",
-    "background-hex": "#18262f",
-    "cursor-hex": "#a6afb8",
-    "foreground-hex": "#a6afb8",
-    "selection-hex": "#e8e9ed",
-    "selection-text-hex": "#222e38",
+    "ansi-0": {
+        "hex": "#18262f",
+        "hexterm": "18/26/2f"
+    },
+    "ansi-1": {
+        "hex": "#ef5253",
+        "hexterm": "ef/52/53"
+    },
+    "ansi-10": {
+        "hex": "#7cc844",
+        "hexterm": "7c/c8/44"
+    },
+    "ansi-11": {
+        "hex": "#e4b51c",
+        "hexterm": "e4/b5/1c"
+    },
+    "ansi-12": {
+        "hex": "#33b5e1",
+        "hexterm": "33/b5/e1"
+    },
+    "ansi-13": {
+        "hex": "#a363d5",
+        "hexterm": "a3/63/d5"
+    },
+    "ansi-14": {
+        "hex": "#52cbb0",
+        "hexterm": "52/cb/b0"
+    },
+    "ansi-15": {
+        "hex": "#f5f7fa",
+        "hexterm": "f5/f7/fa"
+    },
+    "ansi-2": {
+        "hex": "#7cc844",
+        "hexterm": "7c/c8/44"
+    },
+    "ansi-3": {
+        "hex": "#e4b51c",
+        "hexterm": "e4/b5/1c"
+    },
+    "ansi-4": {
+        "hex": "#33b5e1",
+        "hexterm": "33/b5/e1"
+    },
+    "ansi-5": {
+        "hex": "#a363d5",
+        "hexterm": "a3/63/d5"
+    },
+    "ansi-6": {
+        "hex": "#52cbb0",
+        "hexterm": "52/cb/b0"
+    },
+    "ansi-7": {
+        "hex": "#a6afb8",
+        "hexterm": "a6/af/b8"
+    },
+    "ansi-8": {
+        "hex": "#667581",
+        "hexterm": "66/75/81"
+    },
+    "ansi-9": {
+        "hex": "#ef5253",
+        "hexterm": "ef/52/53"
+    },
+    "background": {
+        "hex": "#18262f",
+        "hexterm": "18/26/2f"
+    },
+    "cursor": {
+        "hex": "#a6afb8",
+        "hexterm": "a6/af/b8"
+    },
+    "foreground": {
+        "hex": "#a6afb8",
+        "hexterm": "a6/af/b8"
+    },
+    "selection": {
+        "hex": "#e8e9ed",
+        "hexterm": "e8/e9/ed"
+    },
+    "selection-text": {
+        "hex": "#222e38",
+        "hexterm": "22/2e/38"
+    },
     "theme-author": "Chuck Harmston (https://chuck.harmston.ch)",
     "theme-name": "Solar Flare",
     "theme-slug": "solar-flare",

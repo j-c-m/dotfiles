@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#cc3e28",
-    "ansi-10-hex": "#216609",
-    "ansi-11-hex": "#b58900",
-    "ansi-12-hex": "#1e6fcc",
-    "ansi-13-hex": "#5c21a5",
-    "ansi-14-hex": "#158c86",
-    "ansi-15-hex": "#aaaaaa",
-    "ansi-2-hex": "#216609",
-    "ansi-3-hex": "#b58900",
-    "ansi-4-hex": "#1e6fcc",
-    "ansi-5-hex": "#5c21a5",
-    "ansi-6-hex": "#158c86",
-    "ansi-7-hex": "#aaaaaa",
-    "ansi-8-hex": "#555555",
-    "ansi-9-hex": "#cc3e28",
-    "background-hex": "#f2eede",
-    "cursor-hex": "#000000",
-    "foreground-hex": "#000000",
-    "selection-hex": "#000000",
-    "selection-text-hex": "#f2eede",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#cc3e28",
+        "hexterm": "cc/3e/28"
+    },
+    "ansi-10": {
+        "hex": "#216609",
+        "hexterm": "21/66/09"
+    },
+    "ansi-11": {
+        "hex": "#b58900",
+        "hexterm": "b5/89/00"
+    },
+    "ansi-12": {
+        "hex": "#1e6fcc",
+        "hexterm": "1e/6f/cc"
+    },
+    "ansi-13": {
+        "hex": "#5c21a5",
+        "hexterm": "5c/21/a5"
+    },
+    "ansi-14": {
+        "hex": "#158c86",
+        "hexterm": "15/8c/86"
+    },
+    "ansi-15": {
+        "hex": "#aaaaaa",
+        "hexterm": "aa/aa/aa"
+    },
+    "ansi-2": {
+        "hex": "#216609",
+        "hexterm": "21/66/09"
+    },
+    "ansi-3": {
+        "hex": "#b58900",
+        "hexterm": "b5/89/00"
+    },
+    "ansi-4": {
+        "hex": "#1e6fcc",
+        "hexterm": "1e/6f/cc"
+    },
+    "ansi-5": {
+        "hex": "#5c21a5",
+        "hexterm": "5c/21/a5"
+    },
+    "ansi-6": {
+        "hex": "#158c86",
+        "hexterm": "15/8c/86"
+    },
+    "ansi-7": {
+        "hex": "#aaaaaa",
+        "hexterm": "aa/aa/aa"
+    },
+    "ansi-8": {
+        "hex": "#555555",
+        "hexterm": "55/55/55"
+    },
+    "ansi-9": {
+        "hex": "#cc3e28",
+        "hexterm": "cc/3e/28"
+    },
+    "background": {
+        "hex": "#f2eede",
+        "hexterm": "f2/ee/de"
+    },
+    "cursor": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "foreground": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "selection": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "selection-text": {
+        "hex": "#f2eede",
+        "hexterm": "f2/ee/de"
+    },
     "theme-author": "",
     "theme-name": "Paper",
     "theme-slug": "paper",

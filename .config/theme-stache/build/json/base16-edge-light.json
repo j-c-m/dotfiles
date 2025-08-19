@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#fafafa",
-    "ansi-1-hex": "#db7070",
-    "ansi-10-hex": "#7c9f4b",
-    "ansi-11-hex": "#d69822",
-    "ansi-12-hex": "#6587bf",
-    "ansi-13-hex": "#b870ce",
-    "ansi-14-hex": "#509c93",
-    "ansi-15-hex": "#5e646f",
-    "ansi-2-hex": "#7c9f4b",
-    "ansi-3-hex": "#d69822",
-    "ansi-4-hex": "#6587bf",
-    "ansi-5-hex": "#b870ce",
-    "ansi-6-hex": "#509c93",
-    "ansi-7-hex": "#5e646f",
-    "ansi-8-hex": "#5e646f",
-    "ansi-9-hex": "#db7070",
-    "background-hex": "#fafafa",
-    "cursor-hex": "#5e646f",
-    "foreground-hex": "#5e646f",
-    "selection-hex": "#b870ce",
-    "selection-text-hex": "#7c9f4b",
+    "ansi-0": {
+        "hex": "#fafafa",
+        "hexterm": "fa/fa/fa"
+    },
+    "ansi-1": {
+        "hex": "#db7070",
+        "hexterm": "db/70/70"
+    },
+    "ansi-10": {
+        "hex": "#7c9f4b",
+        "hexterm": "7c/9f/4b"
+    },
+    "ansi-11": {
+        "hex": "#d69822",
+        "hexterm": "d6/98/22"
+    },
+    "ansi-12": {
+        "hex": "#6587bf",
+        "hexterm": "65/87/bf"
+    },
+    "ansi-13": {
+        "hex": "#b870ce",
+        "hexterm": "b8/70/ce"
+    },
+    "ansi-14": {
+        "hex": "#509c93",
+        "hexterm": "50/9c/93"
+    },
+    "ansi-15": {
+        "hex": "#5e646f",
+        "hexterm": "5e/64/6f"
+    },
+    "ansi-2": {
+        "hex": "#7c9f4b",
+        "hexterm": "7c/9f/4b"
+    },
+    "ansi-3": {
+        "hex": "#d69822",
+        "hexterm": "d6/98/22"
+    },
+    "ansi-4": {
+        "hex": "#6587bf",
+        "hexterm": "65/87/bf"
+    },
+    "ansi-5": {
+        "hex": "#b870ce",
+        "hexterm": "b8/70/ce"
+    },
+    "ansi-6": {
+        "hex": "#509c93",
+        "hexterm": "50/9c/93"
+    },
+    "ansi-7": {
+        "hex": "#5e646f",
+        "hexterm": "5e/64/6f"
+    },
+    "ansi-8": {
+        "hex": "#5e646f",
+        "hexterm": "5e/64/6f"
+    },
+    "ansi-9": {
+        "hex": "#db7070",
+        "hexterm": "db/70/70"
+    },
+    "background": {
+        "hex": "#fafafa",
+        "hexterm": "fa/fa/fa"
+    },
+    "cursor": {
+        "hex": "#5e646f",
+        "hexterm": "5e/64/6f"
+    },
+    "foreground": {
+        "hex": "#5e646f",
+        "hexterm": "5e/64/6f"
+    },
+    "selection": {
+        "hex": "#b870ce",
+        "hexterm": "b8/70/ce"
+    },
+    "selection-text": {
+        "hex": "#7c9f4b",
+        "hexterm": "7c/9f/4b"
+    },
     "theme-author": "cjayross (https://github.com/cjayross)",
     "theme-name": "Edge Light",
     "theme-slug": "edge-light",

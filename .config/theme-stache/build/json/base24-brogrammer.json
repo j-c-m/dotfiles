@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#131313",
-    "ansi-1-hex": "#f71118",
-    "ansi-10-hex": "#1dd260",
-    "ansi-11-hex": "#f2bd09",
-    "ansi-12-hex": "#509bdc",
-    "ansi-13-hex": "#524fb9",
-    "ansi-14-hex": "#289af0",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#2cc55d",
-    "ansi-3-hex": "#0f80d5",
-    "ansi-4-hex": "#2a84d2",
-    "ansi-5-hex": "#4e59b7",
-    "ansi-6-hex": "#0f80d5",
-    "ansi-7-hex": "#c1c8d7",
-    "ansi-8-hex": "#343d50",
-    "ansi-9-hex": "#de342e",
-    "background-hex": "#131313",
-    "cursor-hex": "#c1c8d7",
-    "foreground-hex": "#c1c8d7",
-    "selection-hex": "#e3e6ed",
-    "selection-text-hex": "#1f1f1f",
+    "ansi-0": {
+        "hex": "#131313",
+        "hexterm": "13/13/13"
+    },
+    "ansi-1": {
+        "hex": "#f71118",
+        "hexterm": "f7/11/18"
+    },
+    "ansi-10": {
+        "hex": "#1dd260",
+        "hexterm": "1d/d2/60"
+    },
+    "ansi-11": {
+        "hex": "#f2bd09",
+        "hexterm": "f2/bd/09"
+    },
+    "ansi-12": {
+        "hex": "#509bdc",
+        "hexterm": "50/9b/dc"
+    },
+    "ansi-13": {
+        "hex": "#524fb9",
+        "hexterm": "52/4f/b9"
+    },
+    "ansi-14": {
+        "hex": "#289af0",
+        "hexterm": "28/9a/f0"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#2cc55d",
+        "hexterm": "2c/c5/5d"
+    },
+    "ansi-3": {
+        "hex": "#0f80d5",
+        "hexterm": "0f/80/d5"
+    },
+    "ansi-4": {
+        "hex": "#2a84d2",
+        "hexterm": "2a/84/d2"
+    },
+    "ansi-5": {
+        "hex": "#4e59b7",
+        "hexterm": "4e/59/b7"
+    },
+    "ansi-6": {
+        "hex": "#0f80d5",
+        "hexterm": "0f/80/d5"
+    },
+    "ansi-7": {
+        "hex": "#c1c8d7",
+        "hexterm": "c1/c8/d7"
+    },
+    "ansi-8": {
+        "hex": "#343d50",
+        "hexterm": "34/3d/50"
+    },
+    "ansi-9": {
+        "hex": "#de342e",
+        "hexterm": "de/34/2e"
+    },
+    "background": {
+        "hex": "#131313",
+        "hexterm": "13/13/13"
+    },
+    "cursor": {
+        "hex": "#c1c8d7",
+        "hexterm": "c1/c8/d7"
+    },
+    "foreground": {
+        "hex": "#c1c8d7",
+        "hexterm": "c1/c8/d7"
+    },
+    "selection": {
+        "hex": "#e3e6ed",
+        "hexterm": "e3/e6/ed"
+    },
+    "selection-text": {
+        "hex": "#1f1f1f",
+        "hexterm": "1f/1f/1f"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Brogrammer",
     "theme-slug": "brogrammer",

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#212121",
-    "ansi-1-hex": "#c30771",
-    "ansi-10-hex": "#5fd7af",
-    "ansi-11-hex": "#f3e430",
-    "ansi-12-hex": "#20bbfc",
-    "ansi-13-hex": "#6855de",
-    "ansi-14-hex": "#4fb8cc",
-    "ansi-15-hex": "#f1f1f1",
-    "ansi-2-hex": "#10a778",
-    "ansi-3-hex": "#a89c14",
-    "ansi-4-hex": "#008ec4",
-    "ansi-5-hex": "#523c79",
-    "ansi-6-hex": "#20a5ba",
-    "ansi-7-hex": "#d9d9d9",
-    "ansi-8-hex": "#424242",
-    "ansi-9-hex": "#fb007a",
-    "background-hex": "#f1f1f1",
-    "cursor-hex": "#424242",
-    "foreground-hex": "#424242",
-    "selection-hex": "#424242",
-    "selection-text-hex": "#f1f1f1",
+    "ansi-0": {
+        "hex": "#212121",
+        "hexterm": "21/21/21"
+    },
+    "ansi-1": {
+        "hex": "#c30771",
+        "hexterm": "c3/07/71"
+    },
+    "ansi-10": {
+        "hex": "#5fd7af",
+        "hexterm": "5f/d7/af"
+    },
+    "ansi-11": {
+        "hex": "#f3e430",
+        "hexterm": "f3/e4/30"
+    },
+    "ansi-12": {
+        "hex": "#20bbfc",
+        "hexterm": "20/bb/fc"
+    },
+    "ansi-13": {
+        "hex": "#6855de",
+        "hexterm": "68/55/de"
+    },
+    "ansi-14": {
+        "hex": "#4fb8cc",
+        "hexterm": "4f/b8/cc"
+    },
+    "ansi-15": {
+        "hex": "#f1f1f1",
+        "hexterm": "f1/f1/f1"
+    },
+    "ansi-2": {
+        "hex": "#10a778",
+        "hexterm": "10/a7/78"
+    },
+    "ansi-3": {
+        "hex": "#a89c14",
+        "hexterm": "a8/9c/14"
+    },
+    "ansi-4": {
+        "hex": "#008ec4",
+        "hexterm": "00/8e/c4"
+    },
+    "ansi-5": {
+        "hex": "#523c79",
+        "hexterm": "52/3c/79"
+    },
+    "ansi-6": {
+        "hex": "#20a5ba",
+        "hexterm": "20/a5/ba"
+    },
+    "ansi-7": {
+        "hex": "#d9d9d9",
+        "hexterm": "d9/d9/d9"
+    },
+    "ansi-8": {
+        "hex": "#424242",
+        "hexterm": "42/42/42"
+    },
+    "ansi-9": {
+        "hex": "#fb007a",
+        "hexterm": "fb/00/7a"
+    },
+    "background": {
+        "hex": "#f1f1f1",
+        "hexterm": "f1/f1/f1"
+    },
+    "cursor": {
+        "hex": "#424242",
+        "hexterm": "42/42/42"
+    },
+    "foreground": {
+        "hex": "#424242",
+        "hexterm": "42/42/42"
+    },
+    "selection": {
+        "hex": "#424242",
+        "hexterm": "42/42/42"
+    },
+    "selection-text": {
+        "hex": "#f1f1f1",
+        "hexterm": "f1/f1/f1"
+    },
     "theme-author": "",
     "theme-name": "Pencil Light",
     "theme-slug": "pencil-light",

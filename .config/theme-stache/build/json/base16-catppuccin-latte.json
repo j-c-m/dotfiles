@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#eff1f5",
-    "ansi-1-hex": "#d20f39",
-    "ansi-10-hex": "#40a02b",
-    "ansi-11-hex": "#df8e1d",
-    "ansi-12-hex": "#1e66f5",
-    "ansi-13-hex": "#8839ef",
-    "ansi-14-hex": "#179299",
-    "ansi-15-hex": "#7287fd",
-    "ansi-2-hex": "#40a02b",
-    "ansi-3-hex": "#df8e1d",
-    "ansi-4-hex": "#1e66f5",
-    "ansi-5-hex": "#8839ef",
-    "ansi-6-hex": "#179299",
-    "ansi-7-hex": "#4c4f69",
-    "ansi-8-hex": "#bcc0cc",
-    "ansi-9-hex": "#d20f39",
-    "background-hex": "#eff1f5",
-    "cursor-hex": "#4c4f69",
-    "foreground-hex": "#4c4f69",
-    "selection-hex": "#dc8a78",
-    "selection-text-hex": "#e6e9ef",
+    "ansi-0": {
+        "hex": "#eff1f5",
+        "hexterm": "ef/f1/f5"
+    },
+    "ansi-1": {
+        "hex": "#d20f39",
+        "hexterm": "d2/0f/39"
+    },
+    "ansi-10": {
+        "hex": "#40a02b",
+        "hexterm": "40/a0/2b"
+    },
+    "ansi-11": {
+        "hex": "#df8e1d",
+        "hexterm": "df/8e/1d"
+    },
+    "ansi-12": {
+        "hex": "#1e66f5",
+        "hexterm": "1e/66/f5"
+    },
+    "ansi-13": {
+        "hex": "#8839ef",
+        "hexterm": "88/39/ef"
+    },
+    "ansi-14": {
+        "hex": "#179299",
+        "hexterm": "17/92/99"
+    },
+    "ansi-15": {
+        "hex": "#7287fd",
+        "hexterm": "72/87/fd"
+    },
+    "ansi-2": {
+        "hex": "#40a02b",
+        "hexterm": "40/a0/2b"
+    },
+    "ansi-3": {
+        "hex": "#df8e1d",
+        "hexterm": "df/8e/1d"
+    },
+    "ansi-4": {
+        "hex": "#1e66f5",
+        "hexterm": "1e/66/f5"
+    },
+    "ansi-5": {
+        "hex": "#8839ef",
+        "hexterm": "88/39/ef"
+    },
+    "ansi-6": {
+        "hex": "#179299",
+        "hexterm": "17/92/99"
+    },
+    "ansi-7": {
+        "hex": "#4c4f69",
+        "hexterm": "4c/4f/69"
+    },
+    "ansi-8": {
+        "hex": "#bcc0cc",
+        "hexterm": "bc/c0/cc"
+    },
+    "ansi-9": {
+        "hex": "#d20f39",
+        "hexterm": "d2/0f/39"
+    },
+    "background": {
+        "hex": "#eff1f5",
+        "hexterm": "ef/f1/f5"
+    },
+    "cursor": {
+        "hex": "#4c4f69",
+        "hexterm": "4c/4f/69"
+    },
+    "foreground": {
+        "hex": "#4c4f69",
+        "hexterm": "4c/4f/69"
+    },
+    "selection": {
+        "hex": "#dc8a78",
+        "hexterm": "dc/8a/78"
+    },
+    "selection-text": {
+        "hex": "#e6e9ef",
+        "hexterm": "e6/e9/ef"
+    },
     "theme-author": "https://github.com/catppuccin/catppuccin",
     "theme-name": "Catppuccin Latte",
     "theme-slug": "catppuccin-latte",

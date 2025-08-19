@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#aa0000",
-    "ansi-10-hex": "#00aa00",
-    "ansi-11-hex": "#ffff55",
-    "ansi-12-hex": "#5555ff",
-    "ansi-13-hex": "#ff55ff",
-    "ansi-14-hex": "#00aaaa",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#00aa00",
-    "ansi-3-hex": "#ffff55",
-    "ansi-4-hex": "#5555ff",
-    "ansi-5-hex": "#ff55ff",
-    "ansi-6-hex": "#00aaaa",
-    "ansi-7-hex": "#aaaaaa",
-    "ansi-8-hex": "#555555",
-    "ansi-9-hex": "#aa0000",
-    "background-hex": "#000000",
-    "cursor-hex": "#aaaaaa",
-    "foreground-hex": "#aaaaaa",
-    "selection-hex": "#cccccc",
-    "selection-text-hex": "#333333",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#aa0000",
+        "hexterm": "aa/00/00"
+    },
+    "ansi-10": {
+        "hex": "#00aa00",
+        "hexterm": "00/aa/00"
+    },
+    "ansi-11": {
+        "hex": "#ffff55",
+        "hexterm": "ff/ff/55"
+    },
+    "ansi-12": {
+        "hex": "#5555ff",
+        "hexterm": "55/55/ff"
+    },
+    "ansi-13": {
+        "hex": "#ff55ff",
+        "hexterm": "ff/55/ff"
+    },
+    "ansi-14": {
+        "hex": "#00aaaa",
+        "hexterm": "00/aa/aa"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#00aa00",
+        "hexterm": "00/aa/00"
+    },
+    "ansi-3": {
+        "hex": "#ffff55",
+        "hexterm": "ff/ff/55"
+    },
+    "ansi-4": {
+        "hex": "#5555ff",
+        "hexterm": "55/55/ff"
+    },
+    "ansi-5": {
+        "hex": "#ff55ff",
+        "hexterm": "ff/55/ff"
+    },
+    "ansi-6": {
+        "hex": "#00aaaa",
+        "hexterm": "00/aa/aa"
+    },
+    "ansi-7": {
+        "hex": "#aaaaaa",
+        "hexterm": "aa/aa/aa"
+    },
+    "ansi-8": {
+        "hex": "#555555",
+        "hexterm": "55/55/55"
+    },
+    "ansi-9": {
+        "hex": "#aa0000",
+        "hexterm": "aa/00/00"
+    },
+    "background": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "cursor": {
+        "hex": "#aaaaaa",
+        "hexterm": "aa/aa/aa"
+    },
+    "foreground": {
+        "hex": "#aaaaaa",
+        "hexterm": "aa/aa/aa"
+    },
+    "selection": {
+        "hex": "#cccccc",
+        "hexterm": "cc/cc/cc"
+    },
+    "selection-text": {
+        "hex": "#333333",
+        "hexterm": "33/33/33"
+    },
     "theme-author": "j-c-m (https://github.com/j-c-m/)",
     "theme-name": "Linux VT",
     "theme-slug": "linux-vt",

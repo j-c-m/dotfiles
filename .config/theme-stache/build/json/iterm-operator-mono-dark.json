@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#5a5a5a",
-    "ansi-1-hex": "#ca372d",
-    "ansi-10-hex": "#83d0a2",
-    "ansi-11-hex": "#fdfdc5",
-    "ansi-12-hex": "#89d3f6",
-    "ansi-13-hex": "#fe2c79",
-    "ansi-14-hex": "#82e9da",
-    "ansi-15-hex": "#fdfdf6",
-    "ansi-2-hex": "#4d7b3a",
-    "ansi-3-hex": "#d4d697",
-    "ansi-4-hex": "#4387cf",
-    "ansi-5-hex": "#b86cb4",
-    "ansi-6-hex": "#72d4c6",
-    "ansi-7-hex": "#cdd3cd",
-    "ansi-8-hex": "#9a9a99",
-    "ansi-9-hex": "#c37d62",
-    "background-hex": "#191919",
-    "cursor-hex": "#fcdc07",
-    "foreground-hex": "#c3cac2",
-    "selection-hex": "#19273b",
-    "selection-text-hex": "#dde5dc",
+    "ansi-0": {
+        "hex": "#5a5a5a",
+        "hexterm": "5a/5a/5a"
+    },
+    "ansi-1": {
+        "hex": "#ca372d",
+        "hexterm": "ca/37/2d"
+    },
+    "ansi-10": {
+        "hex": "#83d0a2",
+        "hexterm": "83/d0/a2"
+    },
+    "ansi-11": {
+        "hex": "#fdfdc5",
+        "hexterm": "fd/fd/c5"
+    },
+    "ansi-12": {
+        "hex": "#89d3f6",
+        "hexterm": "89/d3/f6"
+    },
+    "ansi-13": {
+        "hex": "#fe2c79",
+        "hexterm": "fe/2c/79"
+    },
+    "ansi-14": {
+        "hex": "#82e9da",
+        "hexterm": "82/e9/da"
+    },
+    "ansi-15": {
+        "hex": "#fdfdf6",
+        "hexterm": "fd/fd/f6"
+    },
+    "ansi-2": {
+        "hex": "#4d7b3a",
+        "hexterm": "4d/7b/3a"
+    },
+    "ansi-3": {
+        "hex": "#d4d697",
+        "hexterm": "d4/d6/97"
+    },
+    "ansi-4": {
+        "hex": "#4387cf",
+        "hexterm": "43/87/cf"
+    },
+    "ansi-5": {
+        "hex": "#b86cb4",
+        "hexterm": "b8/6c/b4"
+    },
+    "ansi-6": {
+        "hex": "#72d4c6",
+        "hexterm": "72/d4/c6"
+    },
+    "ansi-7": {
+        "hex": "#cdd3cd",
+        "hexterm": "cd/d3/cd"
+    },
+    "ansi-8": {
+        "hex": "#9a9a99",
+        "hexterm": "9a/9a/99"
+    },
+    "ansi-9": {
+        "hex": "#c37d62",
+        "hexterm": "c3/7d/62"
+    },
+    "background": {
+        "hex": "#191919",
+        "hexterm": "19/19/19"
+    },
+    "cursor": {
+        "hex": "#fcdc07",
+        "hexterm": "fc/dc/07"
+    },
+    "foreground": {
+        "hex": "#c3cac2",
+        "hexterm": "c3/ca/c2"
+    },
+    "selection": {
+        "hex": "#19273b",
+        "hexterm": "19/27/3b"
+    },
+    "selection-text": {
+        "hex": "#dde5dc",
+        "hexterm": "dd/e5/dc"
+    },
     "theme-author": "unknown",
     "theme-name": "Operator Mono Dark",
     "theme-slug": "operator-mono-dark",

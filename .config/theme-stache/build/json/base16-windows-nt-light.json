@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#ffffff",
-    "ansi-1-hex": "#800000",
-    "ansi-10-hex": "#008000",
-    "ansi-11-hex": "#808000",
-    "ansi-12-hex": "#000080",
-    "ansi-13-hex": "#800080",
-    "ansi-14-hex": "#008080",
-    "ansi-15-hex": "#000000",
-    "ansi-2-hex": "#008000",
-    "ansi-3-hex": "#808000",
-    "ansi-4-hex": "#000080",
-    "ansi-5-hex": "#800080",
-    "ansi-6-hex": "#008080",
-    "ansi-7-hex": "#808080",
-    "ansi-8-hex": "#c0c0c0",
-    "ansi-9-hex": "#800000",
-    "background-hex": "#ffffff",
-    "cursor-hex": "#808080",
-    "foreground-hex": "#808080",
-    "selection-hex": "#404040",
-    "selection-text-hex": "#eaeaea",
+    "ansi-0": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-1": {
+        "hex": "#800000",
+        "hexterm": "80/00/00"
+    },
+    "ansi-10": {
+        "hex": "#008000",
+        "hexterm": "00/80/00"
+    },
+    "ansi-11": {
+        "hex": "#808000",
+        "hexterm": "80/80/00"
+    },
+    "ansi-12": {
+        "hex": "#000080",
+        "hexterm": "00/00/80"
+    },
+    "ansi-13": {
+        "hex": "#800080",
+        "hexterm": "80/00/80"
+    },
+    "ansi-14": {
+        "hex": "#008080",
+        "hexterm": "00/80/80"
+    },
+    "ansi-15": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-2": {
+        "hex": "#008000",
+        "hexterm": "00/80/00"
+    },
+    "ansi-3": {
+        "hex": "#808000",
+        "hexterm": "80/80/00"
+    },
+    "ansi-4": {
+        "hex": "#000080",
+        "hexterm": "00/00/80"
+    },
+    "ansi-5": {
+        "hex": "#800080",
+        "hexterm": "80/00/80"
+    },
+    "ansi-6": {
+        "hex": "#008080",
+        "hexterm": "00/80/80"
+    },
+    "ansi-7": {
+        "hex": "#808080",
+        "hexterm": "80/80/80"
+    },
+    "ansi-8": {
+        "hex": "#c0c0c0",
+        "hexterm": "c0/c0/c0"
+    },
+    "ansi-9": {
+        "hex": "#800000",
+        "hexterm": "80/00/00"
+    },
+    "background": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "cursor": {
+        "hex": "#808080",
+        "hexterm": "80/80/80"
+    },
+    "foreground": {
+        "hex": "#808080",
+        "hexterm": "80/80/80"
+    },
+    "selection": {
+        "hex": "#404040",
+        "hexterm": "40/40/40"
+    },
+    "selection-text": {
+        "hex": "#eaeaea",
+        "hexterm": "ea/ea/ea"
+    },
     "theme-author": "Fergus Collins (https://github.com/ferguscollins)",
     "theme-name": "Windows NT Light",
     "theme-slug": "windows-nt-light",

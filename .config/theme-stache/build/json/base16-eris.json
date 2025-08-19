@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#0a0920",
-    "ansi-1-hex": "#f768a3",
-    "ansi-10-hex": "#faaea2",
-    "ansi-11-hex": "#faaea2",
-    "ansi-12-hex": "#258fc4",
-    "ansi-13-hex": "#f768a3",
-    "ansi-14-hex": "#258fc4",
-    "ansi-15-hex": "#9aaae5",
-    "ansi-2-hex": "#faaea2",
-    "ansi-3-hex": "#faaea2",
-    "ansi-4-hex": "#258fc4",
-    "ansi-5-hex": "#f768a3",
-    "ansi-6-hex": "#258fc4",
-    "ansi-7-hex": "#606bac",
-    "ansi-8-hex": "#333773",
-    "ansi-9-hex": "#f768a3",
-    "background-hex": "#0a0920",
-    "cursor-hex": "#606bac",
-    "foreground-hex": "#606bac",
-    "selection-hex": "#7986c5",
-    "selection-text-hex": "#13133a",
+    "ansi-0": {
+        "hex": "#0a0920",
+        "hexterm": "0a/09/20"
+    },
+    "ansi-1": {
+        "hex": "#f768a3",
+        "hexterm": "f7/68/a3"
+    },
+    "ansi-10": {
+        "hex": "#faaea2",
+        "hexterm": "fa/ae/a2"
+    },
+    "ansi-11": {
+        "hex": "#faaea2",
+        "hexterm": "fa/ae/a2"
+    },
+    "ansi-12": {
+        "hex": "#258fc4",
+        "hexterm": "25/8f/c4"
+    },
+    "ansi-13": {
+        "hex": "#f768a3",
+        "hexterm": "f7/68/a3"
+    },
+    "ansi-14": {
+        "hex": "#258fc4",
+        "hexterm": "25/8f/c4"
+    },
+    "ansi-15": {
+        "hex": "#9aaae5",
+        "hexterm": "9a/aa/e5"
+    },
+    "ansi-2": {
+        "hex": "#faaea2",
+        "hexterm": "fa/ae/a2"
+    },
+    "ansi-3": {
+        "hex": "#faaea2",
+        "hexterm": "fa/ae/a2"
+    },
+    "ansi-4": {
+        "hex": "#258fc4",
+        "hexterm": "25/8f/c4"
+    },
+    "ansi-5": {
+        "hex": "#f768a3",
+        "hexterm": "f7/68/a3"
+    },
+    "ansi-6": {
+        "hex": "#258fc4",
+        "hexterm": "25/8f/c4"
+    },
+    "ansi-7": {
+        "hex": "#606bac",
+        "hexterm": "60/6b/ac"
+    },
+    "ansi-8": {
+        "hex": "#333773",
+        "hexterm": "33/37/73"
+    },
+    "ansi-9": {
+        "hex": "#f768a3",
+        "hexterm": "f7/68/a3"
+    },
+    "background": {
+        "hex": "#0a0920",
+        "hexterm": "0a/09/20"
+    },
+    "cursor": {
+        "hex": "#606bac",
+        "hexterm": "60/6b/ac"
+    },
+    "foreground": {
+        "hex": "#606bac",
+        "hexterm": "60/6b/ac"
+    },
+    "selection": {
+        "hex": "#7986c5",
+        "hexterm": "79/86/c5"
+    },
+    "selection-text": {
+        "hex": "#13133a",
+        "hexterm": "13/13/3a"
+    },
     "theme-author": "ed (https://codeberg.org/ed)",
     "theme-name": "eris",
     "theme-slug": "eris",

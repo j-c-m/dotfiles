@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000507",
-    "ansi-1-hex": "#d94085",
-    "ansi-10-hex": "#f4dca5",
-    "ansi-11-hex": "#eac066",
-    "ansi-12-hex": "#308cba",
-    "ansi-13-hex": "#ae636b",
-    "ansi-14-hex": "#ff919d",
-    "ansi-15-hex": "#e4838d",
-    "ansi-2-hex": "#2ab250",
-    "ansi-3-hex": "#ffd16f",
-    "ansi-4-hex": "#883cdc",
-    "ansi-5-hex": "#ececec",
-    "ansi-6-hex": "#c1b8b7",
-    "ansi-7-hex": "#fff8de",
-    "ansi-8-hex": "#009cc9",
-    "ansi-9-hex": "#da6bac",
-    "background-hex": "#1f1726",
-    "cursor-hex": "#dafaff",
-    "foreground-hex": "#dafaff",
-    "selection-hex": "#dafaff",
-    "selection-text-hex": "#1f1726",
+    "ansi-0": {
+        "hex": "#000507",
+        "hexterm": "00/05/07"
+    },
+    "ansi-1": {
+        "hex": "#d94085",
+        "hexterm": "d9/40/85"
+    },
+    "ansi-10": {
+        "hex": "#f4dca5",
+        "hexterm": "f4/dc/a5"
+    },
+    "ansi-11": {
+        "hex": "#eac066",
+        "hexterm": "ea/c0/66"
+    },
+    "ansi-12": {
+        "hex": "#308cba",
+        "hexterm": "30/8c/ba"
+    },
+    "ansi-13": {
+        "hex": "#ae636b",
+        "hexterm": "ae/63/6b"
+    },
+    "ansi-14": {
+        "hex": "#ff919d",
+        "hexterm": "ff/91/9d"
+    },
+    "ansi-15": {
+        "hex": "#e4838d",
+        "hexterm": "e4/83/8d"
+    },
+    "ansi-2": {
+        "hex": "#2ab250",
+        "hexterm": "2a/b2/50"
+    },
+    "ansi-3": {
+        "hex": "#ffd16f",
+        "hexterm": "ff/d1/6f"
+    },
+    "ansi-4": {
+        "hex": "#883cdc",
+        "hexterm": "88/3c/dc"
+    },
+    "ansi-5": {
+        "hex": "#ececec",
+        "hexterm": "ec/ec/ec"
+    },
+    "ansi-6": {
+        "hex": "#c1b8b7",
+        "hexterm": "c1/b8/b7"
+    },
+    "ansi-7": {
+        "hex": "#fff8de",
+        "hexterm": "ff/f8/de"
+    },
+    "ansi-8": {
+        "hex": "#009cc9",
+        "hexterm": "00/9c/c9"
+    },
+    "ansi-9": {
+        "hex": "#da6bac",
+        "hexterm": "da/6b/ac"
+    },
+    "background": {
+        "hex": "#1f1726",
+        "hexterm": "1f/17/26"
+    },
+    "cursor": {
+        "hex": "#dafaff",
+        "hexterm": "da/fa/ff"
+    },
+    "foreground": {
+        "hex": "#dafaff",
+        "hexterm": "da/fa/ff"
+    },
+    "selection": {
+        "hex": "#dafaff",
+        "hexterm": "da/fa/ff"
+    },
+    "selection-text": {
+        "hex": "#1f1726",
+        "hexterm": "1f/17/26"
+    },
     "theme-author": "",
     "theme-name": "Wild Cherry",
     "theme-slug": "wild-cherry",

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#111413",
-    "ansi-1-hex": "#8f3232",
-    "ansi-10-hex": "#57a355",
-    "ansi-11-hex": "#dbbb60",
-    "ansi-12-hex": "#5183b8",
-    "ansi-13-hex": "#935fb8",
-    "ansi-14-hex": "#51b8b0",
-    "ansi-15-hex": "#f5fffd",
-    "ansi-2-hex": "#3b5c3b",
-    "ansi-3-hex": "#7a6322",
-    "ansi-4-hex": "#28405c",
-    "ansi-5-hex": "#46285c",
-    "ansi-6-hex": "#346666",
-    "ansi-7-hex": "#d1d1d1",
-    "ansi-8-hex": "#212927",
-    "ansi-9-hex": "#b84242",
-    "background-hex": "#010a08",
-    "cursor-hex": "#9df5e2",
-    "foreground-hex": "#f5fffd",
-    "selection-hex": "#f5fffd",
-    "selection-text-hex": "#010a08",
+    "ansi-0": {
+        "hex": "#111413",
+        "hexterm": "11/14/13"
+    },
+    "ansi-1": {
+        "hex": "#8f3232",
+        "hexterm": "8f/32/32"
+    },
+    "ansi-10": {
+        "hex": "#57a355",
+        "hexterm": "57/a3/55"
+    },
+    "ansi-11": {
+        "hex": "#dbbb60",
+        "hexterm": "db/bb/60"
+    },
+    "ansi-12": {
+        "hex": "#5183b8",
+        "hexterm": "51/83/b8"
+    },
+    "ansi-13": {
+        "hex": "#935fb8",
+        "hexterm": "93/5f/b8"
+    },
+    "ansi-14": {
+        "hex": "#51b8b0",
+        "hexterm": "51/b8/b0"
+    },
+    "ansi-15": {
+        "hex": "#f5fffd",
+        "hexterm": "f5/ff/fd"
+    },
+    "ansi-2": {
+        "hex": "#3b5c3b",
+        "hexterm": "3b/5c/3b"
+    },
+    "ansi-3": {
+        "hex": "#7a6322",
+        "hexterm": "7a/63/22"
+    },
+    "ansi-4": {
+        "hex": "#28405c",
+        "hexterm": "28/40/5c"
+    },
+    "ansi-5": {
+        "hex": "#46285c",
+        "hexterm": "46/28/5c"
+    },
+    "ansi-6": {
+        "hex": "#346666",
+        "hexterm": "34/66/66"
+    },
+    "ansi-7": {
+        "hex": "#d1d1d1",
+        "hexterm": "d1/d1/d1"
+    },
+    "ansi-8": {
+        "hex": "#212927",
+        "hexterm": "21/29/27"
+    },
+    "ansi-9": {
+        "hex": "#b84242",
+        "hexterm": "b8/42/42"
+    },
+    "background": {
+        "hex": "#010a08",
+        "hexterm": "01/0a/08"
+    },
+    "cursor": {
+        "hex": "#9df5e2",
+        "hexterm": "9d/f5/e2"
+    },
+    "foreground": {
+        "hex": "#f5fffd",
+        "hexterm": "f5/ff/fd"
+    },
+    "selection": {
+        "hex": "#f5fffd",
+        "hexterm": "f5/ff/fd"
+    },
+    "selection-text": {
+        "hex": "#010a08",
+        "hexterm": "01/0a/08"
+    },
     "theme-author": "Daniel Perez (https://www.github.com/sysaloe)",
     "theme-name": "Vaombe",
     "theme-slug": "vaombe",

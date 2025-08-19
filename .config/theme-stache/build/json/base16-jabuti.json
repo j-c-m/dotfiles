@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#292a37",
-    "ansi-1-hex": "#ec6a88",
-    "ansi-10-hex": "#3fdaa4",
-    "ansi-11-hex": "#e1c697",
-    "ansi-12-hex": "#3fc6de",
-    "ansi-13-hex": "#be95ff",
-    "ansi-14-hex": "#ff7eb6",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#3fdaa4",
-    "ansi-3-hex": "#e1c697",
-    "ansi-4-hex": "#3fc6de",
-    "ansi-5-hex": "#be95ff",
-    "ansi-6-hex": "#ff7eb6",
-    "ansi-7-hex": "#c0cbe3",
-    "ansi-8-hex": "#45475d",
-    "ansi-9-hex": "#ec6a88",
-    "background-hex": "#292a37",
-    "cursor-hex": "#c0cbe3",
-    "foreground-hex": "#c0cbe3",
-    "selection-hex": "#d9e0ee",
-    "selection-text-hex": "#343545",
+    "ansi-0": {
+        "hex": "#292a37",
+        "hexterm": "29/2a/37"
+    },
+    "ansi-1": {
+        "hex": "#ec6a88",
+        "hexterm": "ec/6a/88"
+    },
+    "ansi-10": {
+        "hex": "#3fdaa4",
+        "hexterm": "3f/da/a4"
+    },
+    "ansi-11": {
+        "hex": "#e1c697",
+        "hexterm": "e1/c6/97"
+    },
+    "ansi-12": {
+        "hex": "#3fc6de",
+        "hexterm": "3f/c6/de"
+    },
+    "ansi-13": {
+        "hex": "#be95ff",
+        "hexterm": "be/95/ff"
+    },
+    "ansi-14": {
+        "hex": "#ff7eb6",
+        "hexterm": "ff/7e/b6"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#3fdaa4",
+        "hexterm": "3f/da/a4"
+    },
+    "ansi-3": {
+        "hex": "#e1c697",
+        "hexterm": "e1/c6/97"
+    },
+    "ansi-4": {
+        "hex": "#3fc6de",
+        "hexterm": "3f/c6/de"
+    },
+    "ansi-5": {
+        "hex": "#be95ff",
+        "hexterm": "be/95/ff"
+    },
+    "ansi-6": {
+        "hex": "#ff7eb6",
+        "hexterm": "ff/7e/b6"
+    },
+    "ansi-7": {
+        "hex": "#c0cbe3",
+        "hexterm": "c0/cb/e3"
+    },
+    "ansi-8": {
+        "hex": "#45475d",
+        "hexterm": "45/47/5d"
+    },
+    "ansi-9": {
+        "hex": "#ec6a88",
+        "hexterm": "ec/6a/88"
+    },
+    "background": {
+        "hex": "#292a37",
+        "hexterm": "29/2a/37"
+    },
+    "cursor": {
+        "hex": "#c0cbe3",
+        "hexterm": "c0/cb/e3"
+    },
+    "foreground": {
+        "hex": "#c0cbe3",
+        "hexterm": "c0/cb/e3"
+    },
+    "selection": {
+        "hex": "#d9e0ee",
+        "hexterm": "d9/e0/ee"
+    },
+    "selection-text": {
+        "hex": "#343545",
+        "hexterm": "34/35/45"
+    },
     "theme-author": "https://github.com/notusknot",
     "theme-name": "Jabuti",
     "theme-slug": "jabuti",

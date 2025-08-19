@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#f7f7f7",
-    "ansi-1-hex": "#7c7c7c",
-    "ansi-10-hex": "#8e8e8e",
-    "ansi-11-hex": "#a0a0a0",
-    "ansi-12-hex": "#686868",
-    "ansi-13-hex": "#747474",
-    "ansi-14-hex": "#868686",
-    "ansi-15-hex": "#101010",
-    "ansi-2-hex": "#8e8e8e",
-    "ansi-3-hex": "#a0a0a0",
-    "ansi-4-hex": "#686868",
-    "ansi-5-hex": "#747474",
-    "ansi-6-hex": "#868686",
-    "ansi-7-hex": "#464646",
-    "ansi-8-hex": "#ababab",
-    "ansi-9-hex": "#7c7c7c",
-    "background-hex": "#f7f7f7",
-    "cursor-hex": "#464646",
-    "foreground-hex": "#464646",
-    "selection-hex": "#252525",
-    "selection-text-hex": "#e3e3e3",
+    "ansi-0": {
+        "hex": "#f7f7f7",
+        "hexterm": "f7/f7/f7"
+    },
+    "ansi-1": {
+        "hex": "#7c7c7c",
+        "hexterm": "7c/7c/7c"
+    },
+    "ansi-10": {
+        "hex": "#8e8e8e",
+        "hexterm": "8e/8e/8e"
+    },
+    "ansi-11": {
+        "hex": "#a0a0a0",
+        "hexterm": "a0/a0/a0"
+    },
+    "ansi-12": {
+        "hex": "#686868",
+        "hexterm": "68/68/68"
+    },
+    "ansi-13": {
+        "hex": "#747474",
+        "hexterm": "74/74/74"
+    },
+    "ansi-14": {
+        "hex": "#868686",
+        "hexterm": "86/86/86"
+    },
+    "ansi-15": {
+        "hex": "#101010",
+        "hexterm": "10/10/10"
+    },
+    "ansi-2": {
+        "hex": "#8e8e8e",
+        "hexterm": "8e/8e/8e"
+    },
+    "ansi-3": {
+        "hex": "#a0a0a0",
+        "hexterm": "a0/a0/a0"
+    },
+    "ansi-4": {
+        "hex": "#686868",
+        "hexterm": "68/68/68"
+    },
+    "ansi-5": {
+        "hex": "#747474",
+        "hexterm": "74/74/74"
+    },
+    "ansi-6": {
+        "hex": "#868686",
+        "hexterm": "86/86/86"
+    },
+    "ansi-7": {
+        "hex": "#464646",
+        "hexterm": "46/46/46"
+    },
+    "ansi-8": {
+        "hex": "#ababab",
+        "hexterm": "ab/ab/ab"
+    },
+    "ansi-9": {
+        "hex": "#7c7c7c",
+        "hexterm": "7c/7c/7c"
+    },
+    "background": {
+        "hex": "#f7f7f7",
+        "hexterm": "f7/f7/f7"
+    },
+    "cursor": {
+        "hex": "#464646",
+        "hexterm": "46/46/46"
+    },
+    "foreground": {
+        "hex": "#464646",
+        "hexterm": "46/46/46"
+    },
+    "selection": {
+        "hex": "#252525",
+        "hexterm": "25/25/25"
+    },
+    "selection-text": {
+        "hex": "#e3e3e3",
+        "hexterm": "e3/e3/e3"
+    },
     "theme-author": "Alexandre Gavioli (https://github.com/Alexx2/)",
     "theme-name": "Grayscale Light",
     "theme-slug": "grayscale-light",

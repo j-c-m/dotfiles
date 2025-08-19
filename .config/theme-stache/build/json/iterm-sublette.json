@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#253045",
-    "ansi-1-hex": "#ee5577",
-    "ansi-10-hex": "#99ee77",
-    "ansi-11-hex": "#ffff77",
-    "ansi-12-hex": "#77bbff",
-    "ansi-13-hex": "#aa88ff",
-    "ansi-14-hex": "#55ffbb",
-    "ansi-15-hex": "#ffffee",
-    "ansi-2-hex": "#55ee77",
-    "ansi-3-hex": "#ffdd88",
-    "ansi-4-hex": "#5588ff",
-    "ansi-5-hex": "#ff77cc",
-    "ansi-6-hex": "#44eeee",
-    "ansi-7-hex": "#f5f5da",
-    "ansi-8-hex": "#405570",
-    "ansi-9-hex": "#ee6655",
-    "background-hex": "#202535",
-    "cursor-hex": "#ccced0",
-    "foreground-hex": "#ccced0",
-    "selection-hex": "#ccced0",
-    "selection-text-hex": "#202535",
+    "ansi-0": {
+        "hex": "#253045",
+        "hexterm": "25/30/45"
+    },
+    "ansi-1": {
+        "hex": "#ee5577",
+        "hexterm": "ee/55/77"
+    },
+    "ansi-10": {
+        "hex": "#99ee77",
+        "hexterm": "99/ee/77"
+    },
+    "ansi-11": {
+        "hex": "#ffff77",
+        "hexterm": "ff/ff/77"
+    },
+    "ansi-12": {
+        "hex": "#77bbff",
+        "hexterm": "77/bb/ff"
+    },
+    "ansi-13": {
+        "hex": "#aa88ff",
+        "hexterm": "aa/88/ff"
+    },
+    "ansi-14": {
+        "hex": "#55ffbb",
+        "hexterm": "55/ff/bb"
+    },
+    "ansi-15": {
+        "hex": "#ffffee",
+        "hexterm": "ff/ff/ee"
+    },
+    "ansi-2": {
+        "hex": "#55ee77",
+        "hexterm": "55/ee/77"
+    },
+    "ansi-3": {
+        "hex": "#ffdd88",
+        "hexterm": "ff/dd/88"
+    },
+    "ansi-4": {
+        "hex": "#5588ff",
+        "hexterm": "55/88/ff"
+    },
+    "ansi-5": {
+        "hex": "#ff77cc",
+        "hexterm": "ff/77/cc"
+    },
+    "ansi-6": {
+        "hex": "#44eeee",
+        "hexterm": "44/ee/ee"
+    },
+    "ansi-7": {
+        "hex": "#f5f5da",
+        "hexterm": "f5/f5/da"
+    },
+    "ansi-8": {
+        "hex": "#405570",
+        "hexterm": "40/55/70"
+    },
+    "ansi-9": {
+        "hex": "#ee6655",
+        "hexterm": "ee/66/55"
+    },
+    "background": {
+        "hex": "#202535",
+        "hexterm": "20/25/35"
+    },
+    "cursor": {
+        "hex": "#ccced0",
+        "hexterm": "cc/ce/d0"
+    },
+    "foreground": {
+        "hex": "#ccced0",
+        "hexterm": "cc/ce/d0"
+    },
+    "selection": {
+        "hex": "#ccced0",
+        "hexterm": "cc/ce/d0"
+    },
+    "selection-text": {
+        "hex": "#202535",
+        "hexterm": "20/25/35"
+    },
     "theme-author": "unknown",
     "theme-name": "Sublette",
     "theme-slug": "sublette",

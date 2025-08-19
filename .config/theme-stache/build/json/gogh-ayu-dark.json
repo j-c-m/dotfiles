@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#0a0e14",
-    "ansi-1-hex": "#ff3333",
-    "ansi-10-hex": "#c2d94c",
-    "ansi-11-hex": "#ff8f40",
-    "ansi-12-hex": "#59c2ff",
-    "ansi-13-hex": "#ffee99",
-    "ansi-14-hex": "#95e6cb",
-    "ansi-15-hex": "#b3b1ad",
-    "ansi-2-hex": "#c2d94c",
-    "ansi-3-hex": "#ff8f40",
-    "ansi-4-hex": "#59c2ff",
-    "ansi-5-hex": "#ffee99",
-    "ansi-6-hex": "#95e6cb",
-    "ansi-7-hex": "#b3b1ad",
-    "ansi-8-hex": "#4d5566",
-    "ansi-9-hex": "#ff3333",
-    "background-hex": "#0a0e14",
-    "cursor-hex": "#e6b450",
-    "foreground-hex": "#b3b1ad",
-    "selection-hex": "#b3b1ad",
-    "selection-text-hex": "#0a0e14",
+    "ansi-0": {
+        "hex": "#0a0e14",
+        "hexterm": "0a/0e/14"
+    },
+    "ansi-1": {
+        "hex": "#ff3333",
+        "hexterm": "ff/33/33"
+    },
+    "ansi-10": {
+        "hex": "#c2d94c",
+        "hexterm": "c2/d9/4c"
+    },
+    "ansi-11": {
+        "hex": "#ff8f40",
+        "hexterm": "ff/8f/40"
+    },
+    "ansi-12": {
+        "hex": "#59c2ff",
+        "hexterm": "59/c2/ff"
+    },
+    "ansi-13": {
+        "hex": "#ffee99",
+        "hexterm": "ff/ee/99"
+    },
+    "ansi-14": {
+        "hex": "#95e6cb",
+        "hexterm": "95/e6/cb"
+    },
+    "ansi-15": {
+        "hex": "#b3b1ad",
+        "hexterm": "b3/b1/ad"
+    },
+    "ansi-2": {
+        "hex": "#c2d94c",
+        "hexterm": "c2/d9/4c"
+    },
+    "ansi-3": {
+        "hex": "#ff8f40",
+        "hexterm": "ff/8f/40"
+    },
+    "ansi-4": {
+        "hex": "#59c2ff",
+        "hexterm": "59/c2/ff"
+    },
+    "ansi-5": {
+        "hex": "#ffee99",
+        "hexterm": "ff/ee/99"
+    },
+    "ansi-6": {
+        "hex": "#95e6cb",
+        "hexterm": "95/e6/cb"
+    },
+    "ansi-7": {
+        "hex": "#b3b1ad",
+        "hexterm": "b3/b1/ad"
+    },
+    "ansi-8": {
+        "hex": "#4d5566",
+        "hexterm": "4d/55/66"
+    },
+    "ansi-9": {
+        "hex": "#ff3333",
+        "hexterm": "ff/33/33"
+    },
+    "background": {
+        "hex": "#0a0e14",
+        "hexterm": "0a/0e/14"
+    },
+    "cursor": {
+        "hex": "#e6b450",
+        "hexterm": "e6/b4/50"
+    },
+    "foreground": {
+        "hex": "#b3b1ad",
+        "hexterm": "b3/b1/ad"
+    },
+    "selection": {
+        "hex": "#b3b1ad",
+        "hexterm": "b3/b1/ad"
+    },
+    "selection-text": {
+        "hex": "#0a0e14",
+        "hexterm": "0a/0e/14"
+    },
     "theme-author": "",
     "theme-name": "Ayu Dark",
     "theme-slug": "ayu-dark",

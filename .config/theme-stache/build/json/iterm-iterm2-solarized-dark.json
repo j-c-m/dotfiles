@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#073642",
-    "ansi-1-hex": "#dc322f",
-    "ansi-10-hex": "#586e75",
-    "ansi-11-hex": "#657b83",
-    "ansi-12-hex": "#839496",
-    "ansi-13-hex": "#6c71c4",
-    "ansi-14-hex": "#93a1a1",
-    "ansi-15-hex": "#fdf6e3",
-    "ansi-2-hex": "#859900",
-    "ansi-3-hex": "#b58900",
-    "ansi-4-hex": "#268bd2",
-    "ansi-5-hex": "#d33682",
-    "ansi-6-hex": "#2aa198",
-    "ansi-7-hex": "#eee8d5",
-    "ansi-8-hex": "#002b36",
-    "ansi-9-hex": "#cb4b16",
-    "background-hex": "#002b36",
-    "cursor-hex": "#839496",
-    "foreground-hex": "#839496",
-    "selection-hex": "#073642",
-    "selection-text-hex": "#93a1a1",
+    "ansi-0": {
+        "hex": "#073642",
+        "hexterm": "07/36/42"
+    },
+    "ansi-1": {
+        "hex": "#dc322f",
+        "hexterm": "dc/32/2f"
+    },
+    "ansi-10": {
+        "hex": "#586e75",
+        "hexterm": "58/6e/75"
+    },
+    "ansi-11": {
+        "hex": "#657b83",
+        "hexterm": "65/7b/83"
+    },
+    "ansi-12": {
+        "hex": "#839496",
+        "hexterm": "83/94/96"
+    },
+    "ansi-13": {
+        "hex": "#6c71c4",
+        "hexterm": "6c/71/c4"
+    },
+    "ansi-14": {
+        "hex": "#93a1a1",
+        "hexterm": "93/a1/a1"
+    },
+    "ansi-15": {
+        "hex": "#fdf6e3",
+        "hexterm": "fd/f6/e3"
+    },
+    "ansi-2": {
+        "hex": "#859900",
+        "hexterm": "85/99/00"
+    },
+    "ansi-3": {
+        "hex": "#b58900",
+        "hexterm": "b5/89/00"
+    },
+    "ansi-4": {
+        "hex": "#268bd2",
+        "hexterm": "26/8b/d2"
+    },
+    "ansi-5": {
+        "hex": "#d33682",
+        "hexterm": "d3/36/82"
+    },
+    "ansi-6": {
+        "hex": "#2aa198",
+        "hexterm": "2a/a1/98"
+    },
+    "ansi-7": {
+        "hex": "#eee8d5",
+        "hexterm": "ee/e8/d5"
+    },
+    "ansi-8": {
+        "hex": "#002b36",
+        "hexterm": "00/2b/36"
+    },
+    "ansi-9": {
+        "hex": "#cb4b16",
+        "hexterm": "cb/4b/16"
+    },
+    "background": {
+        "hex": "#002b36",
+        "hexterm": "00/2b/36"
+    },
+    "cursor": {
+        "hex": "#839496",
+        "hexterm": "83/94/96"
+    },
+    "foreground": {
+        "hex": "#839496",
+        "hexterm": "83/94/96"
+    },
+    "selection": {
+        "hex": "#073642",
+        "hexterm": "07/36/42"
+    },
+    "selection-text": {
+        "hex": "#93a1a1",
+        "hexterm": "93/a1/a1"
+    },
     "theme-author": "unknown",
     "theme-name": "iTerm2 Solarized Dark",
     "theme-slug": "iterm2-solarized-dark",

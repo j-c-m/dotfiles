@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#00211f",
-    "ansi-1-hex": "#ce7e8e",
-    "ansi-10-hex": "#56c16f",
-    "ansi-11-hex": "#bfac4e",
-    "ansi-12-hex": "#88b0da",
-    "ansi-13-hex": "#b39be0",
-    "ansi-14-hex": "#62c0be",
-    "ansi-15-hex": "#f5f5f5",
-    "ansi-2-hex": "#56c16f",
-    "ansi-3-hex": "#bfac4e",
-    "ansi-4-hex": "#88b0da",
-    "ansi-5-hex": "#b39be0",
-    "ansi-6-hex": "#62c0be",
-    "ansi-7-hex": "#dcdcdc",
-    "ansi-8-hex": "#ababab",
-    "ansi-9-hex": "#ce7e8e",
-    "background-hex": "#00211f",
-    "cursor-hex": "#dcdcdc",
-    "foreground-hex": "#dcdcdc",
-    "selection-hex": "#efefef",
-    "selection-text-hex": "#003a38",
+    "ansi-0": {
+        "hex": "#00211f",
+        "hexterm": "00/21/1f"
+    },
+    "ansi-1": {
+        "hex": "#ce7e8e",
+        "hexterm": "ce/7e/8e"
+    },
+    "ansi-10": {
+        "hex": "#56c16f",
+        "hexterm": "56/c1/6f"
+    },
+    "ansi-11": {
+        "hex": "#bfac4e",
+        "hexterm": "bf/ac/4e"
+    },
+    "ansi-12": {
+        "hex": "#88b0da",
+        "hexterm": "88/b0/da"
+    },
+    "ansi-13": {
+        "hex": "#b39be0",
+        "hexterm": "b3/9b/e0"
+    },
+    "ansi-14": {
+        "hex": "#62c0be",
+        "hexterm": "62/c0/be"
+    },
+    "ansi-15": {
+        "hex": "#f5f5f5",
+        "hexterm": "f5/f5/f5"
+    },
+    "ansi-2": {
+        "hex": "#56c16f",
+        "hexterm": "56/c1/6f"
+    },
+    "ansi-3": {
+        "hex": "#bfac4e",
+        "hexterm": "bf/ac/4e"
+    },
+    "ansi-4": {
+        "hex": "#88b0da",
+        "hexterm": "88/b0/da"
+    },
+    "ansi-5": {
+        "hex": "#b39be0",
+        "hexterm": "b3/9b/e0"
+    },
+    "ansi-6": {
+        "hex": "#62c0be",
+        "hexterm": "62/c0/be"
+    },
+    "ansi-7": {
+        "hex": "#dcdcdc",
+        "hexterm": "dc/dc/dc"
+    },
+    "ansi-8": {
+        "hex": "#ababab",
+        "hexterm": "ab/ab/ab"
+    },
+    "ansi-9": {
+        "hex": "#ce7e8e",
+        "hexterm": "ce/7e/8e"
+    },
+    "background": {
+        "hex": "#00211f",
+        "hexterm": "00/21/1f"
+    },
+    "cursor": {
+        "hex": "#dcdcdc",
+        "hexterm": "dc/dc/dc"
+    },
+    "foreground": {
+        "hex": "#dcdcdc",
+        "hexterm": "dc/dc/dc"
+    },
+    "selection": {
+        "hex": "#efefef",
+        "hexterm": "ef/ef/ef"
+    },
+    "selection-text": {
+        "hex": "#003a38",
+        "hexterm": "00/3a/38"
+    },
     "theme-author": "Measured (https://measured.co)",
     "theme-name": "Measured Dark",
     "theme-slug": "measured-dark",

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#ff7092",
-    "ansi-10-hex": "#20f6bb",
-    "ansi-11-hex": "#fff687",
-    "ansi-12-hex": "#1bcbfc",
-    "ansi-13-hex": "#e5adfd",
-    "ansi-14-hex": "#99d6fc",
-    "ansi-15-hex": "#feffff",
-    "ansi-2-hex": "#00faac",
-    "ansi-3-hex": "#fef96a",
-    "ansi-4-hex": "#00beff",
-    "ansi-5-hex": "#de95ff",
-    "ansi-6-hex": "#85cbfd",
-    "ansi-7-hex": "#ffffff",
-    "ansi-8-hex": "#000000",
-    "ansi-9-hex": "#ff89a3",
-    "background-hex": "#322957",
-    "cursor-hex": "#20f6bb",
-    "foreground-hex": "#e5e5e5",
-    "selection-hex": "#c1ddff",
-    "selection-text-hex": "#000000",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#ff7092",
+        "hexterm": "ff/70/92"
+    },
+    "ansi-10": {
+        "hex": "#20f6bb",
+        "hexterm": "20/f6/bb"
+    },
+    "ansi-11": {
+        "hex": "#fff687",
+        "hexterm": "ff/f6/87"
+    },
+    "ansi-12": {
+        "hex": "#1bcbfc",
+        "hexterm": "1b/cb/fc"
+    },
+    "ansi-13": {
+        "hex": "#e5adfd",
+        "hexterm": "e5/ad/fd"
+    },
+    "ansi-14": {
+        "hex": "#99d6fc",
+        "hexterm": "99/d6/fc"
+    },
+    "ansi-15": {
+        "hex": "#feffff",
+        "hexterm": "fe/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#00faac",
+        "hexterm": "00/fa/ac"
+    },
+    "ansi-3": {
+        "hex": "#fef96a",
+        "hexterm": "fe/f9/6a"
+    },
+    "ansi-4": {
+        "hex": "#00beff",
+        "hexterm": "00/be/ff"
+    },
+    "ansi-5": {
+        "hex": "#de95ff",
+        "hexterm": "de/95/ff"
+    },
+    "ansi-6": {
+        "hex": "#85cbfd",
+        "hexterm": "85/cb/fd"
+    },
+    "ansi-7": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-8": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-9": {
+        "hex": "#ff89a3",
+        "hexterm": "ff/89/a3"
+    },
+    "background": {
+        "hex": "#322957",
+        "hexterm": "32/29/57"
+    },
+    "cursor": {
+        "hex": "#20f6bb",
+        "hexterm": "20/f6/bb"
+    },
+    "foreground": {
+        "hex": "#e5e5e5",
+        "hexterm": "e5/e5/e5"
+    },
+    "selection": {
+        "hex": "#c1ddff",
+        "hexterm": "c1/dd/ff"
+    },
+    "selection-text": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
     "theme-author": "unknown",
     "theme-name": "cyberpunk",
     "theme-slug": "cyberpunk",

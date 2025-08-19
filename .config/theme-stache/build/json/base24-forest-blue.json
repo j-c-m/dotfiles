@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#051519",
-    "ansi-1-hex": "#f8818e",
-    "ansi-10-hex": "#6bb48d",
-    "ansi-11-hex": "#2fc859",
-    "ansi-12-hex": "#39a7a2",
-    "ansi-13-hex": "#7e62b3",
-    "ansi-14-hex": "#6096bf",
-    "ansi-15-hex": "#e2d8cd",
-    "ansi-2-hex": "#92d3a2",
-    "ansi-3-hex": "#39a7a2",
-    "ansi-4-hex": "#8ed0ce",
-    "ansi-5-hex": "#5e468c",
-    "ansi-6-hex": "#31658c",
-    "ansi-7-hex": "#b8b1a9",
-    "ansi-8-hex": "#666361",
-    "ansi-9-hex": "#fb3d66",
-    "background-hex": "#051519",
-    "cursor-hex": "#b8b1a9",
-    "foreground-hex": "#b8b1a9",
-    "selection-hex": "#e2d8cd",
-    "selection-text-hex": "#333333",
+    "ansi-0": {
+        "hex": "#051519",
+        "hexterm": "05/15/19"
+    },
+    "ansi-1": {
+        "hex": "#f8818e",
+        "hexterm": "f8/81/8e"
+    },
+    "ansi-10": {
+        "hex": "#6bb48d",
+        "hexterm": "6b/b4/8d"
+    },
+    "ansi-11": {
+        "hex": "#2fc859",
+        "hexterm": "2f/c8/59"
+    },
+    "ansi-12": {
+        "hex": "#39a7a2",
+        "hexterm": "39/a7/a2"
+    },
+    "ansi-13": {
+        "hex": "#7e62b3",
+        "hexterm": "7e/62/b3"
+    },
+    "ansi-14": {
+        "hex": "#6096bf",
+        "hexterm": "60/96/bf"
+    },
+    "ansi-15": {
+        "hex": "#e2d8cd",
+        "hexterm": "e2/d8/cd"
+    },
+    "ansi-2": {
+        "hex": "#92d3a2",
+        "hexterm": "92/d3/a2"
+    },
+    "ansi-3": {
+        "hex": "#39a7a2",
+        "hexterm": "39/a7/a2"
+    },
+    "ansi-4": {
+        "hex": "#8ed0ce",
+        "hexterm": "8e/d0/ce"
+    },
+    "ansi-5": {
+        "hex": "#5e468c",
+        "hexterm": "5e/46/8c"
+    },
+    "ansi-6": {
+        "hex": "#31658c",
+        "hexterm": "31/65/8c"
+    },
+    "ansi-7": {
+        "hex": "#b8b1a9",
+        "hexterm": "b8/b1/a9"
+    },
+    "ansi-8": {
+        "hex": "#666361",
+        "hexterm": "66/63/61"
+    },
+    "ansi-9": {
+        "hex": "#fb3d66",
+        "hexterm": "fb/3d/66"
+    },
+    "background": {
+        "hex": "#051519",
+        "hexterm": "05/15/19"
+    },
+    "cursor": {
+        "hex": "#b8b1a9",
+        "hexterm": "b8/b1/a9"
+    },
+    "foreground": {
+        "hex": "#b8b1a9",
+        "hexterm": "b8/b1/a9"
+    },
+    "selection": {
+        "hex": "#e2d8cd",
+        "hexterm": "e2/d8/cd"
+    },
+    "selection-text": {
+        "hex": "#333333",
+        "hexterm": "33/33/33"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Forest Blue",
     "theme-slug": "forest-blue",

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1e2027",
-    "ansi-1-hex": "#f71041",
-    "ansi-10-hex": "#37bc58",
-    "ansi-11-hex": "#f6bd47",
-    "ansi-12-hex": "#189ffd",
-    "ansi-13-hex": "#fb57f6",
-    "ansi-14-hex": "#4fabad",
-    "ansi-15-hex": "#fefefe",
-    "ansi-2-hex": "#23974a",
-    "ansi-3-hex": "#189ffd",
-    "ansi-4-hex": "#285afe",
-    "ansi-5-hex": "#8c62fd",
-    "ansi-6-hex": "#366f99",
-    "ansi-7-hex": "#b1bac9",
-    "ansi-8-hex": "#7b8494",
-    "ansi-9-hex": "#fb496d",
-    "background-hex": "#1e2027",
-    "cursor-hex": "#b1bac9",
-    "foreground-hex": "#b1bac9",
-    "selection-hex": "#ccd5e4",
-    "selection-text-hex": "#494f5c",
+    "ansi-0": {
+        "hex": "#1e2027",
+        "hexterm": "1e/20/27"
+    },
+    "ansi-1": {
+        "hex": "#f71041",
+        "hexterm": "f7/10/41"
+    },
+    "ansi-10": {
+        "hex": "#37bc58",
+        "hexterm": "37/bc/58"
+    },
+    "ansi-11": {
+        "hex": "#f6bd47",
+        "hexterm": "f6/bd/47"
+    },
+    "ansi-12": {
+        "hex": "#189ffd",
+        "hexterm": "18/9f/fd"
+    },
+    "ansi-13": {
+        "hex": "#fb57f6",
+        "hexterm": "fb/57/f6"
+    },
+    "ansi-14": {
+        "hex": "#4fabad",
+        "hexterm": "4f/ab/ad"
+    },
+    "ansi-15": {
+        "hex": "#fefefe",
+        "hexterm": "fe/fe/fe"
+    },
+    "ansi-2": {
+        "hex": "#23974a",
+        "hexterm": "23/97/4a"
+    },
+    "ansi-3": {
+        "hex": "#189ffd",
+        "hexterm": "18/9f/fd"
+    },
+    "ansi-4": {
+        "hex": "#285afe",
+        "hexterm": "28/5a/fe"
+    },
+    "ansi-5": {
+        "hex": "#8c62fd",
+        "hexterm": "8c/62/fd"
+    },
+    "ansi-6": {
+        "hex": "#366f99",
+        "hexterm": "36/6f/99"
+    },
+    "ansi-7": {
+        "hex": "#b1bac9",
+        "hexterm": "b1/ba/c9"
+    },
+    "ansi-8": {
+        "hex": "#7b8494",
+        "hexterm": "7b/84/94"
+    },
+    "ansi-9": {
+        "hex": "#fb496d",
+        "hexterm": "fb/49/6d"
+    },
+    "background": {
+        "hex": "#1e2027",
+        "hexterm": "1e/20/27"
+    },
+    "cursor": {
+        "hex": "#b1bac9",
+        "hexterm": "b1/ba/c9"
+    },
+    "foreground": {
+        "hex": "#b1bac9",
+        "hexterm": "b1/ba/c9"
+    },
+    "selection": {
+        "hex": "#ccd5e4",
+        "hexterm": "cc/d5/e4"
+    },
+    "selection-text": {
+        "hex": "#494f5c",
+        "hexterm": "49/4f/5c"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Bluloco Dark",
     "theme-slug": "bluloco-dark",

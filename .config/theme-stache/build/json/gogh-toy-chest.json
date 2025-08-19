@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#2c3f58",
-    "ansi-1-hex": "#be2d26",
-    "ansi-10-hex": "#31d07b",
-    "ansi-11-hex": "#e7d84b",
-    "ansi-12-hex": "#34a6da",
-    "ansi-13-hex": "#ae6bdc",
-    "ansi-14-hex": "#42c3ae",
-    "ansi-15-hex": "#d5d5d5",
-    "ansi-2-hex": "#1a9172",
-    "ansi-3-hex": "#db8e27",
-    "ansi-4-hex": "#325d96",
-    "ansi-5-hex": "#8a5edc",
-    "ansi-6-hex": "#35a08f",
-    "ansi-7-hex": "#23d183",
-    "ansi-8-hex": "#336889",
-    "ansi-9-hex": "#dd5944",
-    "background-hex": "#24364b",
-    "cursor-hex": "#31d07b",
-    "foreground-hex": "#31d07b",
-    "selection-hex": "#31d07b",
-    "selection-text-hex": "#24364b",
+    "ansi-0": {
+        "hex": "#2c3f58",
+        "hexterm": "2c/3f/58"
+    },
+    "ansi-1": {
+        "hex": "#be2d26",
+        "hexterm": "be/2d/26"
+    },
+    "ansi-10": {
+        "hex": "#31d07b",
+        "hexterm": "31/d0/7b"
+    },
+    "ansi-11": {
+        "hex": "#e7d84b",
+        "hexterm": "e7/d8/4b"
+    },
+    "ansi-12": {
+        "hex": "#34a6da",
+        "hexterm": "34/a6/da"
+    },
+    "ansi-13": {
+        "hex": "#ae6bdc",
+        "hexterm": "ae/6b/dc"
+    },
+    "ansi-14": {
+        "hex": "#42c3ae",
+        "hexterm": "42/c3/ae"
+    },
+    "ansi-15": {
+        "hex": "#d5d5d5",
+        "hexterm": "d5/d5/d5"
+    },
+    "ansi-2": {
+        "hex": "#1a9172",
+        "hexterm": "1a/91/72"
+    },
+    "ansi-3": {
+        "hex": "#db8e27",
+        "hexterm": "db/8e/27"
+    },
+    "ansi-4": {
+        "hex": "#325d96",
+        "hexterm": "32/5d/96"
+    },
+    "ansi-5": {
+        "hex": "#8a5edc",
+        "hexterm": "8a/5e/dc"
+    },
+    "ansi-6": {
+        "hex": "#35a08f",
+        "hexterm": "35/a0/8f"
+    },
+    "ansi-7": {
+        "hex": "#23d183",
+        "hexterm": "23/d1/83"
+    },
+    "ansi-8": {
+        "hex": "#336889",
+        "hexterm": "33/68/89"
+    },
+    "ansi-9": {
+        "hex": "#dd5944",
+        "hexterm": "dd/59/44"
+    },
+    "background": {
+        "hex": "#24364b",
+        "hexterm": "24/36/4b"
+    },
+    "cursor": {
+        "hex": "#31d07b",
+        "hexterm": "31/d0/7b"
+    },
+    "foreground": {
+        "hex": "#31d07b",
+        "hexterm": "31/d0/7b"
+    },
+    "selection": {
+        "hex": "#31d07b",
+        "hexterm": "31/d0/7b"
+    },
+    "selection-text": {
+        "hex": "#24364b",
+        "hexterm": "24/36/4b"
+    },
     "theme-author": "",
     "theme-name": "Toy Chest",
     "theme-slug": "toy-chest",

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#101600",
-    "ansi-1-hex": "#ee2e00",
-    "ansi-10-hex": "#63d932",
-    "ansi-11-hex": "#eebb00",
-    "ansi-12-hex": "#5b4a9f",
-    "ansi-13-hex": "#883e9f",
-    "ansi-14-hex": "#3d94a5",
-    "ansi-15-hex": "#ffeba0",
-    "ansi-2-hex": "#63d932",
-    "ansi-3-hex": "#eebb00",
-    "ansi-4-hex": "#5b4a9f",
-    "ansi-5-hex": "#883e9f",
-    "ansi-6-hex": "#3d94a5",
-    "ansi-7-hex": "#ffda51",
-    "ansi-8-hex": "#2e2e05",
-    "ansi-9-hex": "#ee2e00",
-    "background-hex": "#101600",
-    "cursor-hex": "#ffda51",
-    "foreground-hex": "#ffda51",
-    "selection-hex": "#ffe178",
-    "selection-text-hex": "#1a1e01",
+    "ansi-0": {
+        "hex": "#101600",
+        "hexterm": "10/16/00"
+    },
+    "ansi-1": {
+        "hex": "#ee2e00",
+        "hexterm": "ee/2e/00"
+    },
+    "ansi-10": {
+        "hex": "#63d932",
+        "hexterm": "63/d9/32"
+    },
+    "ansi-11": {
+        "hex": "#eebb00",
+        "hexterm": "ee/bb/00"
+    },
+    "ansi-12": {
+        "hex": "#5b4a9f",
+        "hexterm": "5b/4a/9f"
+    },
+    "ansi-13": {
+        "hex": "#883e9f",
+        "hexterm": "88/3e/9f"
+    },
+    "ansi-14": {
+        "hex": "#3d94a5",
+        "hexterm": "3d/94/a5"
+    },
+    "ansi-15": {
+        "hex": "#ffeba0",
+        "hexterm": "ff/eb/a0"
+    },
+    "ansi-2": {
+        "hex": "#63d932",
+        "hexterm": "63/d9/32"
+    },
+    "ansi-3": {
+        "hex": "#eebb00",
+        "hexterm": "ee/bb/00"
+    },
+    "ansi-4": {
+        "hex": "#5b4a9f",
+        "hexterm": "5b/4a/9f"
+    },
+    "ansi-5": {
+        "hex": "#883e9f",
+        "hexterm": "88/3e/9f"
+    },
+    "ansi-6": {
+        "hex": "#3d94a5",
+        "hexterm": "3d/94/a5"
+    },
+    "ansi-7": {
+        "hex": "#ffda51",
+        "hexterm": "ff/da/51"
+    },
+    "ansi-8": {
+        "hex": "#2e2e05",
+        "hexterm": "2e/2e/05"
+    },
+    "ansi-9": {
+        "hex": "#ee2e00",
+        "hexterm": "ee/2e/00"
+    },
+    "background": {
+        "hex": "#101600",
+        "hexterm": "10/16/00"
+    },
+    "cursor": {
+        "hex": "#ffda51",
+        "hexterm": "ff/da/51"
+    },
+    "foreground": {
+        "hex": "#ffda51",
+        "hexterm": "ff/da/51"
+    },
+    "selection": {
+        "hex": "#ffe178",
+        "hexterm": "ff/e1/78"
+    },
+    "selection-text": {
+        "hex": "#1a1e01",
+        "hexterm": "1a/1e/01"
+    },
     "theme-author": "TheNeverMan (github.com/TheNeverMan)",
     "theme-name": "Aztec",
     "theme-slug": "aztec",

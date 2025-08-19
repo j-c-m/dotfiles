@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#353b52",
-    "ansi-1-hex": "#d06178",
-    "ansi-10-hex": "#acfab4",
-    "ansi-11-hex": "#dfdf9f",
-    "ansi-12-hex": "#b8bcf3",
-    "ansi-13-hex": "#b9a3eb",
-    "ansi-14-hex": "#89ddff",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#b4c4b4",
-    "ansi-3-hex": "#cfcfbf",
-    "ansi-4-hex": "#959dcb",
-    "ansi-5-hex": "#b9a3eb",
-    "ansi-6-hex": "#89bbdd",
-    "ansi-7-hex": "#ffffff",
-    "ansi-8-hex": "#8796b0",
-    "ansi-9-hex": "#e61f44",
-    "background-hex": "#1b1e2b",
-    "cursor-hex": "#676e96",
-    "foreground-hex": "#676e96",
-    "selection-hex": "#676e96",
-    "selection-text-hex": "#1b1e2b",
+    "ansi-0": {
+        "hex": "#353b52",
+        "hexterm": "35/3b/52"
+    },
+    "ansi-1": {
+        "hex": "#d06178",
+        "hexterm": "d0/61/78"
+    },
+    "ansi-10": {
+        "hex": "#acfab4",
+        "hexterm": "ac/fa/b4"
+    },
+    "ansi-11": {
+        "hex": "#dfdf9f",
+        "hexterm": "df/df/9f"
+    },
+    "ansi-12": {
+        "hex": "#b8bcf3",
+        "hexterm": "b8/bc/f3"
+    },
+    "ansi-13": {
+        "hex": "#b9a3eb",
+        "hexterm": "b9/a3/eb"
+    },
+    "ansi-14": {
+        "hex": "#89ddff",
+        "hexterm": "89/dd/ff"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#b4c4b4",
+        "hexterm": "b4/c4/b4"
+    },
+    "ansi-3": {
+        "hex": "#cfcfbf",
+        "hexterm": "cf/cf/bf"
+    },
+    "ansi-4": {
+        "hex": "#959dcb",
+        "hexterm": "95/9d/cb"
+    },
+    "ansi-5": {
+        "hex": "#b9a3eb",
+        "hexterm": "b9/a3/eb"
+    },
+    "ansi-6": {
+        "hex": "#89bbdd",
+        "hexterm": "89/bb/dd"
+    },
+    "ansi-7": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-8": {
+        "hex": "#8796b0",
+        "hexterm": "87/96/b0"
+    },
+    "ansi-9": {
+        "hex": "#e61f44",
+        "hexterm": "e6/1f/44"
+    },
+    "background": {
+        "hex": "#1b1e2b",
+        "hexterm": "1b/1e/2b"
+    },
+    "cursor": {
+        "hex": "#676e96",
+        "hexterm": "67/6e/96"
+    },
+    "foreground": {
+        "hex": "#676e96",
+        "hexterm": "67/6e/96"
+    },
+    "selection": {
+        "hex": "#676e96",
+        "hexterm": "67/6e/96"
+    },
+    "selection-text": {
+        "hex": "#1b1e2b",
+        "hexterm": "1b/1e/2b"
+    },
     "theme-author": "kyazdani42 (https://github.com/kyazdani42/blue-moon)",
     "theme-name": "Blue Moon",
     "theme-slug": "blue-moon",

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#f8282a",
-    "ansi-10-hex": "#2cc631",
-    "ansi-11-hex": "#fdd727",
-    "ansi-12-hex": "#1670ff",
-    "ansi-13-hex": "#e900b0",
-    "ansi-14-hex": "#3ad5ce",
-    "ansi-15-hex": "#eeeeec",
-    "ansi-2-hex": "#328a5d",
-    "ansi-3-hex": "#fa701d",
-    "ansi-4-hex": "#135cd0",
-    "ansi-5-hex": "#9f00bd",
-    "ansi-6-hex": "#33c3c1",
-    "ansi-7-hex": "#b3b3b3",
-    "ansi-8-hex": "#555753",
-    "ansi-9-hex": "#fb0416",
-    "background-hex": "#ffffff",
-    "cursor-hex": "#262626",
-    "foreground-hex": "#262626",
-    "selection-hex": "#262626",
-    "selection-text-hex": "#ffffff",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#f8282a",
+        "hexterm": "f8/28/2a"
+    },
+    "ansi-10": {
+        "hex": "#2cc631",
+        "hexterm": "2c/c6/31"
+    },
+    "ansi-11": {
+        "hex": "#fdd727",
+        "hexterm": "fd/d7/27"
+    },
+    "ansi-12": {
+        "hex": "#1670ff",
+        "hexterm": "16/70/ff"
+    },
+    "ansi-13": {
+        "hex": "#e900b0",
+        "hexterm": "e9/00/b0"
+    },
+    "ansi-14": {
+        "hex": "#3ad5ce",
+        "hexterm": "3a/d5/ce"
+    },
+    "ansi-15": {
+        "hex": "#eeeeec",
+        "hexterm": "ee/ee/ec"
+    },
+    "ansi-2": {
+        "hex": "#328a5d",
+        "hexterm": "32/8a/5d"
+    },
+    "ansi-3": {
+        "hex": "#fa701d",
+        "hexterm": "fa/70/1d"
+    },
+    "ansi-4": {
+        "hex": "#135cd0",
+        "hexterm": "13/5c/d0"
+    },
+    "ansi-5": {
+        "hex": "#9f00bd",
+        "hexterm": "9f/00/bd"
+    },
+    "ansi-6": {
+        "hex": "#33c3c1",
+        "hexterm": "33/c3/c1"
+    },
+    "ansi-7": {
+        "hex": "#b3b3b3",
+        "hexterm": "b3/b3/b3"
+    },
+    "ansi-8": {
+        "hex": "#555753",
+        "hexterm": "55/57/53"
+    },
+    "ansi-9": {
+        "hex": "#fb0416",
+        "hexterm": "fb/04/16"
+    },
+    "background": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "cursor": {
+        "hex": "#262626",
+        "hexterm": "26/26/26"
+    },
+    "foreground": {
+        "hex": "#262626",
+        "hexterm": "26/26/26"
+    },
+    "selection": {
+        "hex": "#262626",
+        "hexterm": "26/26/26"
+    },
+    "selection-text": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
     "theme-author": "",
     "theme-name": "Clrs",
     "theme-slug": "clrs",

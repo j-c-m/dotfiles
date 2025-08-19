@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#182430",
-    "ansi-1-hex": "#4ce587",
-    "ansi-10-hex": "#c3e88d",
-    "ansi-11-hex": "#82aaff",
-    "ansi-12-hex": "#82aaff",
-    "ansi-13-hex": "#ff84dd",
-    "ansi-14-hex": "#5fd1ff",
-    "ansi-15-hex": "#8f98a0",
-    "ansi-2-hex": "#c3e88d",
-    "ansi-3-hex": "#82aaff",
-    "ansi-4-hex": "#82aaff",
-    "ansi-5-hex": "#ff84dd",
-    "ansi-6-hex": "#5fd1ff",
-    "ansi-7-hex": "#c8e1f8",
-    "ansi-8-hex": "#616d78",
-    "ansi-9-hex": "#4ce587",
-    "background-hex": "#182430",
-    "cursor-hex": "#c8e1f8",
-    "foreground-hex": "#c8e1f8",
-    "selection-hex": "#ddeaf6",
-    "selection-text-hex": "#243c54",
+    "ansi-0": {
+        "hex": "#182430",
+        "hexterm": "18/24/30"
+    },
+    "ansi-1": {
+        "hex": "#4ce587",
+        "hexterm": "4c/e5/87"
+    },
+    "ansi-10": {
+        "hex": "#c3e88d",
+        "hexterm": "c3/e8/8d"
+    },
+    "ansi-11": {
+        "hex": "#82aaff",
+        "hexterm": "82/aa/ff"
+    },
+    "ansi-12": {
+        "hex": "#82aaff",
+        "hexterm": "82/aa/ff"
+    },
+    "ansi-13": {
+        "hex": "#ff84dd",
+        "hexterm": "ff/84/dd"
+    },
+    "ansi-14": {
+        "hex": "#5fd1ff",
+        "hexterm": "5f/d1/ff"
+    },
+    "ansi-15": {
+        "hex": "#8f98a0",
+        "hexterm": "8f/98/a0"
+    },
+    "ansi-2": {
+        "hex": "#c3e88d",
+        "hexterm": "c3/e8/8d"
+    },
+    "ansi-3": {
+        "hex": "#82aaff",
+        "hexterm": "82/aa/ff"
+    },
+    "ansi-4": {
+        "hex": "#82aaff",
+        "hexterm": "82/aa/ff"
+    },
+    "ansi-5": {
+        "hex": "#ff84dd",
+        "hexterm": "ff/84/dd"
+    },
+    "ansi-6": {
+        "hex": "#5fd1ff",
+        "hexterm": "5f/d1/ff"
+    },
+    "ansi-7": {
+        "hex": "#c8e1f8",
+        "hexterm": "c8/e1/f8"
+    },
+    "ansi-8": {
+        "hex": "#616d78",
+        "hexterm": "61/6d/78"
+    },
+    "ansi-9": {
+        "hex": "#4ce587",
+        "hexterm": "4c/e5/87"
+    },
+    "background": {
+        "hex": "#182430",
+        "hexterm": "18/24/30"
+    },
+    "cursor": {
+        "hex": "#c8e1f8",
+        "hexterm": "c8/e1/f8"
+    },
+    "foreground": {
+        "hex": "#c8e1f8",
+        "hexterm": "c8/e1/f8"
+    },
+    "selection": {
+        "hex": "#ddeaf6",
+        "hexterm": "dd/ea/f6"
+    },
+    "selection-text": {
+        "hex": "#243c54",
+        "hexterm": "24/3c/54"
+    },
     "theme-author": "Ben Mayoras",
     "theme-name": "Blueish",
     "theme-slug": "blueish",

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#0d1117",
-    "ansi-1-hex": "#e34c26",
-    "ansi-10-hex": "#3bab4a",
-    "ansi-11-hex": "#ffa657",
-    "ansi-12-hex": "#a5d6ff",
-    "ansi-13-hex": "#79c0ff",
-    "ansi-14-hex": "#b694df",
-    "ansi-15-hex": "#c9d1d9",
-    "ansi-2-hex": "#238636",
-    "ansi-3-hex": "#ed9a51",
-    "ansi-4-hex": "#a5d6ff",
-    "ansi-5-hex": "#6eb0e8",
-    "ansi-6-hex": "#c09aeb",
-    "ansi-7-hex": "#c9d1d9",
-    "ansi-8-hex": "#0d1117",
-    "ansi-9-hex": "#ff7b72",
-    "background-hex": "#161b22",
-    "cursor-hex": "#c9d1d9",
-    "foreground-hex": "#c9d1d9",
-    "selection-hex": "#c9d1d9",
-    "selection-text-hex": "#161b22",
+    "ansi-0": {
+        "hex": "#0d1117",
+        "hexterm": "0d/11/17"
+    },
+    "ansi-1": {
+        "hex": "#e34c26",
+        "hexterm": "e3/4c/26"
+    },
+    "ansi-10": {
+        "hex": "#3bab4a",
+        "hexterm": "3b/ab/4a"
+    },
+    "ansi-11": {
+        "hex": "#ffa657",
+        "hexterm": "ff/a6/57"
+    },
+    "ansi-12": {
+        "hex": "#a5d6ff",
+        "hexterm": "a5/d6/ff"
+    },
+    "ansi-13": {
+        "hex": "#79c0ff",
+        "hexterm": "79/c0/ff"
+    },
+    "ansi-14": {
+        "hex": "#b694df",
+        "hexterm": "b6/94/df"
+    },
+    "ansi-15": {
+        "hex": "#c9d1d9",
+        "hexterm": "c9/d1/d9"
+    },
+    "ansi-2": {
+        "hex": "#238636",
+        "hexterm": "23/86/36"
+    },
+    "ansi-3": {
+        "hex": "#ed9a51",
+        "hexterm": "ed/9a/51"
+    },
+    "ansi-4": {
+        "hex": "#a5d6ff",
+        "hexterm": "a5/d6/ff"
+    },
+    "ansi-5": {
+        "hex": "#6eb0e8",
+        "hexterm": "6e/b0/e8"
+    },
+    "ansi-6": {
+        "hex": "#c09aeb",
+        "hexterm": "c0/9a/eb"
+    },
+    "ansi-7": {
+        "hex": "#c9d1d9",
+        "hexterm": "c9/d1/d9"
+    },
+    "ansi-8": {
+        "hex": "#0d1117",
+        "hexterm": "0d/11/17"
+    },
+    "ansi-9": {
+        "hex": "#ff7b72",
+        "hexterm": "ff/7b/72"
+    },
+    "background": {
+        "hex": "#161b22",
+        "hexterm": "16/1b/22"
+    },
+    "cursor": {
+        "hex": "#c9d1d9",
+        "hexterm": "c9/d1/d9"
+    },
+    "foreground": {
+        "hex": "#c9d1d9",
+        "hexterm": "c9/d1/d9"
+    },
+    "selection": {
+        "hex": "#c9d1d9",
+        "hexterm": "c9/d1/d9"
+    },
+    "selection-text": {
+        "hex": "#161b22",
+        "hexterm": "16/1b/22"
+    },
     "theme-author": "",
     "theme-name": "Purple People Eater",
     "theme-slug": "purple-people-eater",

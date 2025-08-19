@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#343935",
-    "ansi-1-hex": "#cf3f61",
-    "ansi-10-hex": "#767f2c",
-    "ansi-11-hex": "#78592f",
-    "ansi-12-hex": "#135979",
-    "ansi-13-hex": "#604291",
-    "ansi-14-hex": "#76bbca",
-    "ansi-15-hex": "#b2b5ae",
-    "ansi-2-hex": "#7bb75b",
-    "ansi-3-hex": "#e9b32a",
-    "ansi-4-hex": "#4c9ad4",
-    "ansi-5-hex": "#a57fc4",
-    "ansi-6-hex": "#389aad",
-    "ansi-7-hex": "#fafaf6",
-    "ansi-8-hex": "#595b59",
-    "ansi-9-hex": "#d18fa6",
-    "background-hex": "#1e1e1e",
-    "cursor-hex": "#f7f6ec",
-    "foreground-hex": "#f7f6ec",
-    "selection-hex": "#f7f6ec",
-    "selection-text-hex": "#1e1e1e",
+    "ansi-0": {
+        "hex": "#343935",
+        "hexterm": "34/39/35"
+    },
+    "ansi-1": {
+        "hex": "#cf3f61",
+        "hexterm": "cf/3f/61"
+    },
+    "ansi-10": {
+        "hex": "#767f2c",
+        "hexterm": "76/7f/2c"
+    },
+    "ansi-11": {
+        "hex": "#78592f",
+        "hexterm": "78/59/2f"
+    },
+    "ansi-12": {
+        "hex": "#135979",
+        "hexterm": "13/59/79"
+    },
+    "ansi-13": {
+        "hex": "#604291",
+        "hexterm": "60/42/91"
+    },
+    "ansi-14": {
+        "hex": "#76bbca",
+        "hexterm": "76/bb/ca"
+    },
+    "ansi-15": {
+        "hex": "#b2b5ae",
+        "hexterm": "b2/b5/ae"
+    },
+    "ansi-2": {
+        "hex": "#7bb75b",
+        "hexterm": "7b/b7/5b"
+    },
+    "ansi-3": {
+        "hex": "#e9b32a",
+        "hexterm": "e9/b3/2a"
+    },
+    "ansi-4": {
+        "hex": "#4c9ad4",
+        "hexterm": "4c/9a/d4"
+    },
+    "ansi-5": {
+        "hex": "#a57fc4",
+        "hexterm": "a5/7f/c4"
+    },
+    "ansi-6": {
+        "hex": "#389aad",
+        "hexterm": "38/9a/ad"
+    },
+    "ansi-7": {
+        "hex": "#fafaf6",
+        "hexterm": "fa/fa/f6"
+    },
+    "ansi-8": {
+        "hex": "#595b59",
+        "hexterm": "59/5b/59"
+    },
+    "ansi-9": {
+        "hex": "#d18fa6",
+        "hexterm": "d1/8f/a6"
+    },
+    "background": {
+        "hex": "#1e1e1e",
+        "hexterm": "1e/1e/1e"
+    },
+    "cursor": {
+        "hex": "#f7f6ec",
+        "hexterm": "f7/f6/ec"
+    },
+    "foreground": {
+        "hex": "#f7f6ec",
+        "hexterm": "f7/f6/ec"
+    },
+    "selection": {
+        "hex": "#f7f6ec",
+        "hexterm": "f7/f6/ec"
+    },
+    "selection-text": {
+        "hex": "#1e1e1e",
+        "hexterm": "1e/1e/1e"
+    },
     "theme-author": "",
     "theme-name": "Japanesque",
     "theme-slug": "japanesque",

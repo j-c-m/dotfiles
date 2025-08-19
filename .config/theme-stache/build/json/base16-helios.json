@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1d2021",
-    "ansi-1-hex": "#d72638",
-    "ansi-10-hex": "#88b92d",
-    "ansi-11-hex": "#f19d1a",
-    "ansi-12-hex": "#1e8bac",
-    "ansi-13-hex": "#be4264",
-    "ansi-14-hex": "#1ba595",
-    "ansi-15-hex": "#e5e5e5",
-    "ansi-2-hex": "#88b92d",
-    "ansi-3-hex": "#f19d1a",
-    "ansi-4-hex": "#1e8bac",
-    "ansi-5-hex": "#be4264",
-    "ansi-6-hex": "#1ba595",
-    "ansi-7-hex": "#d5d5d5",
-    "ansi-8-hex": "#6f7579",
-    "ansi-9-hex": "#d72638",
-    "background-hex": "#1d2021",
-    "cursor-hex": "#d5d5d5",
-    "foreground-hex": "#d5d5d5",
-    "selection-hex": "#dddddd",
-    "selection-text-hex": "#383c3e",
+    "ansi-0": {
+        "hex": "#1d2021",
+        "hexterm": "1d/20/21"
+    },
+    "ansi-1": {
+        "hex": "#d72638",
+        "hexterm": "d7/26/38"
+    },
+    "ansi-10": {
+        "hex": "#88b92d",
+        "hexterm": "88/b9/2d"
+    },
+    "ansi-11": {
+        "hex": "#f19d1a",
+        "hexterm": "f1/9d/1a"
+    },
+    "ansi-12": {
+        "hex": "#1e8bac",
+        "hexterm": "1e/8b/ac"
+    },
+    "ansi-13": {
+        "hex": "#be4264",
+        "hexterm": "be/42/64"
+    },
+    "ansi-14": {
+        "hex": "#1ba595",
+        "hexterm": "1b/a5/95"
+    },
+    "ansi-15": {
+        "hex": "#e5e5e5",
+        "hexterm": "e5/e5/e5"
+    },
+    "ansi-2": {
+        "hex": "#88b92d",
+        "hexterm": "88/b9/2d"
+    },
+    "ansi-3": {
+        "hex": "#f19d1a",
+        "hexterm": "f1/9d/1a"
+    },
+    "ansi-4": {
+        "hex": "#1e8bac",
+        "hexterm": "1e/8b/ac"
+    },
+    "ansi-5": {
+        "hex": "#be4264",
+        "hexterm": "be/42/64"
+    },
+    "ansi-6": {
+        "hex": "#1ba595",
+        "hexterm": "1b/a5/95"
+    },
+    "ansi-7": {
+        "hex": "#d5d5d5",
+        "hexterm": "d5/d5/d5"
+    },
+    "ansi-8": {
+        "hex": "#6f7579",
+        "hexterm": "6f/75/79"
+    },
+    "ansi-9": {
+        "hex": "#d72638",
+        "hexterm": "d7/26/38"
+    },
+    "background": {
+        "hex": "#1d2021",
+        "hexterm": "1d/20/21"
+    },
+    "cursor": {
+        "hex": "#d5d5d5",
+        "hexterm": "d5/d5/d5"
+    },
+    "foreground": {
+        "hex": "#d5d5d5",
+        "hexterm": "d5/d5/d5"
+    },
+    "selection": {
+        "hex": "#dddddd",
+        "hexterm": "dd/dd/dd"
+    },
+    "selection-text": {
+        "hex": "#383c3e",
+        "hexterm": "38/3c/3e"
+    },
     "theme-author": "Alex Meyer (https://github.com/reyemxela)",
     "theme-name": "Helios",
     "theme-slug": "helios",

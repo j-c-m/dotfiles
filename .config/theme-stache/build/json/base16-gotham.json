@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#0c1014",
-    "ansi-1-hex": "#c23127",
-    "ansi-10-hex": "#33859e",
-    "ansi-11-hex": "#edb443",
-    "ansi-12-hex": "#195466",
-    "ansi-13-hex": "#888ca6",
-    "ansi-14-hex": "#2aa889",
-    "ansi-15-hex": "#d3ebe9",
-    "ansi-2-hex": "#33859e",
-    "ansi-3-hex": "#edb443",
-    "ansi-4-hex": "#195466",
-    "ansi-5-hex": "#888ca6",
-    "ansi-6-hex": "#2aa889",
-    "ansi-7-hex": "#599cab",
-    "ansi-8-hex": "#0a3749",
-    "ansi-9-hex": "#c23127",
-    "background-hex": "#0c1014",
-    "cursor-hex": "#599cab",
-    "foreground-hex": "#599cab",
-    "selection-hex": "#99d1ce",
-    "selection-text-hex": "#11151c",
+    "ansi-0": {
+        "hex": "#0c1014",
+        "hexterm": "0c/10/14"
+    },
+    "ansi-1": {
+        "hex": "#c23127",
+        "hexterm": "c2/31/27"
+    },
+    "ansi-10": {
+        "hex": "#33859e",
+        "hexterm": "33/85/9e"
+    },
+    "ansi-11": {
+        "hex": "#edb443",
+        "hexterm": "ed/b4/43"
+    },
+    "ansi-12": {
+        "hex": "#195466",
+        "hexterm": "19/54/66"
+    },
+    "ansi-13": {
+        "hex": "#888ca6",
+        "hexterm": "88/8c/a6"
+    },
+    "ansi-14": {
+        "hex": "#2aa889",
+        "hexterm": "2a/a8/89"
+    },
+    "ansi-15": {
+        "hex": "#d3ebe9",
+        "hexterm": "d3/eb/e9"
+    },
+    "ansi-2": {
+        "hex": "#33859e",
+        "hexterm": "33/85/9e"
+    },
+    "ansi-3": {
+        "hex": "#edb443",
+        "hexterm": "ed/b4/43"
+    },
+    "ansi-4": {
+        "hex": "#195466",
+        "hexterm": "19/54/66"
+    },
+    "ansi-5": {
+        "hex": "#888ca6",
+        "hexterm": "88/8c/a6"
+    },
+    "ansi-6": {
+        "hex": "#2aa889",
+        "hexterm": "2a/a8/89"
+    },
+    "ansi-7": {
+        "hex": "#599cab",
+        "hexterm": "59/9c/ab"
+    },
+    "ansi-8": {
+        "hex": "#0a3749",
+        "hexterm": "0a/37/49"
+    },
+    "ansi-9": {
+        "hex": "#c23127",
+        "hexterm": "c2/31/27"
+    },
+    "background": {
+        "hex": "#0c1014",
+        "hexterm": "0c/10/14"
+    },
+    "cursor": {
+        "hex": "#599cab",
+        "hexterm": "59/9c/ab"
+    },
+    "foreground": {
+        "hex": "#599cab",
+        "hexterm": "59/9c/ab"
+    },
+    "selection": {
+        "hex": "#99d1ce",
+        "hexterm": "99/d1/ce"
+    },
+    "selection-text": {
+        "hex": "#11151c",
+        "hexterm": "11/15/1c"
+    },
     "theme-author": "Andrea Leopardi (arranged by Brett Jones)",
     "theme-name": "Gotham",
     "theme-slug": "gotham",

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1c1e20",
-    "ansi-1-hex": "#ff8782",
-    "ansi-10-hex": "#95b658",
-    "ansi-11-hex": "#d0a543",
-    "ansi-12-hex": "#68b0ee",
-    "ansi-13-hex": "#b799fe",
-    "ansi-14-hex": "#42bda7",
-    "ansi-15-hex": "#b8b7b6",
-    "ansi-2-hex": "#95b658",
-    "ansi-3-hex": "#d0a543",
-    "ansi-4-hex": "#68b0ee",
-    "ansi-5-hex": "#b799fe",
-    "ansi-6-hex": "#42bda7",
-    "ansi-7-hex": "#b8b7b6",
-    "ansi-8-hex": "#858585",
-    "ansi-9-hex": "#ff8782",
-    "background-hex": "#1c1e20",
-    "cursor-hex": "#b8b7b6",
-    "foreground-hex": "#b8b7b6",
-    "selection-hex": "#b8b7b6",
-    "selection-text-hex": "#292b2d",
+    "ansi-0": {
+        "hex": "#1c1e20",
+        "hexterm": "1c/1e/20"
+    },
+    "ansi-1": {
+        "hex": "#ff8782",
+        "hexterm": "ff/87/82"
+    },
+    "ansi-10": {
+        "hex": "#95b658",
+        "hexterm": "95/b6/58"
+    },
+    "ansi-11": {
+        "hex": "#d0a543",
+        "hexterm": "d0/a5/43"
+    },
+    "ansi-12": {
+        "hex": "#68b0ee",
+        "hexterm": "68/b0/ee"
+    },
+    "ansi-13": {
+        "hex": "#b799fe",
+        "hexterm": "b7/99/fe"
+    },
+    "ansi-14": {
+        "hex": "#42bda7",
+        "hexterm": "42/bd/a7"
+    },
+    "ansi-15": {
+        "hex": "#b8b7b6",
+        "hexterm": "b8/b7/b6"
+    },
+    "ansi-2": {
+        "hex": "#95b658",
+        "hexterm": "95/b6/58"
+    },
+    "ansi-3": {
+        "hex": "#d0a543",
+        "hexterm": "d0/a5/43"
+    },
+    "ansi-4": {
+        "hex": "#68b0ee",
+        "hexterm": "68/b0/ee"
+    },
+    "ansi-5": {
+        "hex": "#b799fe",
+        "hexterm": "b7/99/fe"
+    },
+    "ansi-6": {
+        "hex": "#42bda7",
+        "hexterm": "42/bd/a7"
+    },
+    "ansi-7": {
+        "hex": "#b8b7b6",
+        "hexterm": "b8/b7/b6"
+    },
+    "ansi-8": {
+        "hex": "#858585",
+        "hexterm": "85/85/85"
+    },
+    "ansi-9": {
+        "hex": "#ff8782",
+        "hexterm": "ff/87/82"
+    },
+    "background": {
+        "hex": "#1c1e20",
+        "hexterm": "1c/1e/20"
+    },
+    "cursor": {
+        "hex": "#b8b7b6",
+        "hexterm": "b8/b7/b6"
+    },
+    "foreground": {
+        "hex": "#b8b7b6",
+        "hexterm": "b8/b7/b6"
+    },
+    "selection": {
+        "hex": "#b8b7b6",
+        "hexterm": "b8/b7/b6"
+    },
+    "selection-text": {
+        "hex": "#292b2d",
+        "hexterm": "29/2b/2d"
+    },
     "theme-author": "4lex4 <4lex49@zoho.com>",
     "theme-name": "Precious Dark Eleven",
     "theme-slug": "precious-dark-eleven",

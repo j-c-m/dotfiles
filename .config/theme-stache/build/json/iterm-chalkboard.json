@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#c37372",
-    "ansi-10-hex": "#aadbaa",
-    "ansi-11-hex": "#dadbaa",
-    "ansi-12-hex": "#aaaadb",
-    "ansi-13-hex": "#dbaada",
-    "ansi-14-hex": "#aadadb",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#72c373",
-    "ansi-3-hex": "#c2c372",
-    "ansi-4-hex": "#7372c3",
-    "ansi-5-hex": "#c372c2",
-    "ansi-6-hex": "#72c2c3",
-    "ansi-7-hex": "#d9d9d9",
-    "ansi-8-hex": "#323232",
-    "ansi-9-hex": "#dbaaaa",
-    "background-hex": "#29262f",
-    "cursor-hex": "#d9e6f2",
-    "foreground-hex": "#d9e6f2",
-    "selection-hex": "#073642",
-    "selection-text-hex": "#ffffff",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#c37372",
+        "hexterm": "c3/73/72"
+    },
+    "ansi-10": {
+        "hex": "#aadbaa",
+        "hexterm": "aa/db/aa"
+    },
+    "ansi-11": {
+        "hex": "#dadbaa",
+        "hexterm": "da/db/aa"
+    },
+    "ansi-12": {
+        "hex": "#aaaadb",
+        "hexterm": "aa/aa/db"
+    },
+    "ansi-13": {
+        "hex": "#dbaada",
+        "hexterm": "db/aa/da"
+    },
+    "ansi-14": {
+        "hex": "#aadadb",
+        "hexterm": "aa/da/db"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#72c373",
+        "hexterm": "72/c3/73"
+    },
+    "ansi-3": {
+        "hex": "#c2c372",
+        "hexterm": "c2/c3/72"
+    },
+    "ansi-4": {
+        "hex": "#7372c3",
+        "hexterm": "73/72/c3"
+    },
+    "ansi-5": {
+        "hex": "#c372c2",
+        "hexterm": "c3/72/c2"
+    },
+    "ansi-6": {
+        "hex": "#72c2c3",
+        "hexterm": "72/c2/c3"
+    },
+    "ansi-7": {
+        "hex": "#d9d9d9",
+        "hexterm": "d9/d9/d9"
+    },
+    "ansi-8": {
+        "hex": "#323232",
+        "hexterm": "32/32/32"
+    },
+    "ansi-9": {
+        "hex": "#dbaaaa",
+        "hexterm": "db/aa/aa"
+    },
+    "background": {
+        "hex": "#29262f",
+        "hexterm": "29/26/2f"
+    },
+    "cursor": {
+        "hex": "#d9e6f2",
+        "hexterm": "d9/e6/f2"
+    },
+    "foreground": {
+        "hex": "#d9e6f2",
+        "hexterm": "d9/e6/f2"
+    },
+    "selection": {
+        "hex": "#073642",
+        "hexterm": "07/36/42"
+    },
+    "selection-text": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
     "theme-author": "unknown",
     "theme-name": "Chalkboard",
     "theme-slug": "chalkboard",

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#f8f8f2",
-    "ansi-1-hex": "#b0151a",
-    "ansi-10-hex": "#388e3c",
-    "ansi-11-hex": "#ffb627",
-    "ansi-12-hex": "#0082c9",
-    "ansi-13-hex": "#700f98",
-    "ansi-14-hex": "#008e8e",
-    "ansi-15-hex": "#070708",
-    "ansi-2-hex": "#388e3c",
-    "ansi-3-hex": "#ffb627",
-    "ansi-4-hex": "#0082c9",
-    "ansi-5-hex": "#700f98",
-    "ansi-6-hex": "#008e8e",
-    "ansi-7-hex": "#232629",
-    "ansi-8-hex": "#c0c0bd",
-    "ansi-9-hex": "#b0151a",
-    "background-hex": "#f8f8f2",
-    "cursor-hex": "#232629",
-    "foreground-hex": "#232629",
-    "selection-hex": "#2f3337",
-    "selection-text-hex": "#efefe9",
+    "ansi-0": {
+        "hex": "#f8f8f2",
+        "hexterm": "f8/f8/f2"
+    },
+    "ansi-1": {
+        "hex": "#b0151a",
+        "hexterm": "b0/15/1a"
+    },
+    "ansi-10": {
+        "hex": "#388e3c",
+        "hexterm": "38/8e/3c"
+    },
+    "ansi-11": {
+        "hex": "#ffb627",
+        "hexterm": "ff/b6/27"
+    },
+    "ansi-12": {
+        "hex": "#0082c9",
+        "hexterm": "00/82/c9"
+    },
+    "ansi-13": {
+        "hex": "#700f98",
+        "hexterm": "70/0f/98"
+    },
+    "ansi-14": {
+        "hex": "#008e8e",
+        "hexterm": "00/8e/8e"
+    },
+    "ansi-15": {
+        "hex": "#070708",
+        "hexterm": "07/07/08"
+    },
+    "ansi-2": {
+        "hex": "#388e3c",
+        "hexterm": "38/8e/3c"
+    },
+    "ansi-3": {
+        "hex": "#ffb627",
+        "hexterm": "ff/b6/27"
+    },
+    "ansi-4": {
+        "hex": "#0082c9",
+        "hexterm": "00/82/c9"
+    },
+    "ansi-5": {
+        "hex": "#700f98",
+        "hexterm": "70/0f/98"
+    },
+    "ansi-6": {
+        "hex": "#008e8e",
+        "hexterm": "00/8e/8e"
+    },
+    "ansi-7": {
+        "hex": "#232629",
+        "hexterm": "23/26/29"
+    },
+    "ansi-8": {
+        "hex": "#c0c0bd",
+        "hexterm": "c0/c0/bd"
+    },
+    "ansi-9": {
+        "hex": "#b0151a",
+        "hexterm": "b0/15/1a"
+    },
+    "background": {
+        "hex": "#f8f8f2",
+        "hexterm": "f8/f8/f2"
+    },
+    "cursor": {
+        "hex": "#232629",
+        "hexterm": "23/26/29"
+    },
+    "foreground": {
+        "hex": "#232629",
+        "hexterm": "23/26/29"
+    },
+    "selection": {
+        "hex": "#2f3337",
+        "hexterm": "2f/33/37"
+    },
+    "selection-text": {
+        "hex": "#efefe9",
+        "hexterm": "ef/ef/e9"
+    },
     "theme-author": "Thomas (tasmo) Friese",
     "theme-name": "Humanoid light",
     "theme-slug": "humanoid-light",

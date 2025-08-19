@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#f0f0f0",
-    "ansi-1-hex": "#487830",
-    "ansi-10-hex": "#5c5c6a",
-    "ansi-11-hex": "#426395",
-    "ansi-12-hex": "#001878",
-    "ansi-13-hex": "#900000",
-    "ansi-14-hex": "#2c3c57",
-    "ansi-15-hex": "#30a860",
-    "ansi-2-hex": "#5c5c6a",
-    "ansi-3-hex": "#426395",
-    "ansi-4-hex": "#001878",
-    "ansi-5-hex": "#900000",
-    "ansi-6-hex": "#2c3c57",
-    "ansi-7-hex": "#d80000",
-    "ansi-8-hex": "#f01818",
-    "ansi-9-hex": "#487830",
-    "background-hex": "#f0f0f0",
-    "cursor-hex": "#d80000",
-    "foreground-hex": "#d80000",
-    "selection-hex": "#489000",
-    "selection-text-hex": "#f0d848",
+    "ansi-0": {
+        "hex": "#f0f0f0",
+        "hexterm": "f0/f0/f0"
+    },
+    "ansi-1": {
+        "hex": "#487830",
+        "hexterm": "48/78/30"
+    },
+    "ansi-10": {
+        "hex": "#5c5c6a",
+        "hexterm": "5c/5c/6a"
+    },
+    "ansi-11": {
+        "hex": "#426395",
+        "hexterm": "42/63/95"
+    },
+    "ansi-12": {
+        "hex": "#001878",
+        "hexterm": "00/18/78"
+    },
+    "ansi-13": {
+        "hex": "#900000",
+        "hexterm": "90/00/00"
+    },
+    "ansi-14": {
+        "hex": "#2c3c57",
+        "hexterm": "2c/3c/57"
+    },
+    "ansi-15": {
+        "hex": "#30a860",
+        "hexterm": "30/a8/60"
+    },
+    "ansi-2": {
+        "hex": "#5c5c6a",
+        "hexterm": "5c/5c/6a"
+    },
+    "ansi-3": {
+        "hex": "#426395",
+        "hexterm": "42/63/95"
+    },
+    "ansi-4": {
+        "hex": "#001878",
+        "hexterm": "00/18/78"
+    },
+    "ansi-5": {
+        "hex": "#900000",
+        "hexterm": "90/00/00"
+    },
+    "ansi-6": {
+        "hex": "#2c3c57",
+        "hexterm": "2c/3c/57"
+    },
+    "ansi-7": {
+        "hex": "#d80000",
+        "hexterm": "d8/00/00"
+    },
+    "ansi-8": {
+        "hex": "#f01818",
+        "hexterm": "f0/18/18"
+    },
+    "ansi-9": {
+        "hex": "#487830",
+        "hexterm": "48/78/30"
+    },
+    "background": {
+        "hex": "#f0f0f0",
+        "hexterm": "f0/f0/f0"
+    },
+    "cursor": {
+        "hex": "#d80000",
+        "hexterm": "d8/00/00"
+    },
+    "foreground": {
+        "hex": "#d80000",
+        "hexterm": "d8/00/00"
+    },
+    "selection": {
+        "hex": "#489000",
+        "hexterm": "48/90/00"
+    },
+    "selection-text": {
+        "hex": "#f0d848",
+        "hexterm": "f0/d8/48"
+    },
     "theme-author": "Derrick McKee (derrick.mckee@gmail.com)",
     "theme-name": "Still Alive",
     "theme-slug": "still-alive",

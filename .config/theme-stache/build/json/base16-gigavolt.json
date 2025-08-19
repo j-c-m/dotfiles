@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#202126",
-    "ansi-1-hex": "#ff661a",
-    "ansi-10-hex": "#f2e6a9",
-    "ansi-11-hex": "#ffdc2d",
-    "ansi-12-hex": "#40bfff",
-    "ansi-13-hex": "#ae94f9",
-    "ansi-14-hex": "#fb6acb",
-    "ansi-15-hex": "#f2fbff",
-    "ansi-2-hex": "#f2e6a9",
-    "ansi-3-hex": "#ffdc2d",
-    "ansi-4-hex": "#40bfff",
-    "ansi-5-hex": "#ae94f9",
-    "ansi-6-hex": "#fb6acb",
-    "ansi-7-hex": "#e9e7e1",
-    "ansi-8-hex": "#a1d2e6",
-    "ansi-9-hex": "#ff661a",
-    "background-hex": "#202126",
-    "cursor-hex": "#e9e7e1",
-    "foreground-hex": "#e9e7e1",
-    "selection-hex": "#eff0f9",
-    "selection-text-hex": "#2d303d",
+    "ansi-0": {
+        "hex": "#202126",
+        "hexterm": "20/21/26"
+    },
+    "ansi-1": {
+        "hex": "#ff661a",
+        "hexterm": "ff/66/1a"
+    },
+    "ansi-10": {
+        "hex": "#f2e6a9",
+        "hexterm": "f2/e6/a9"
+    },
+    "ansi-11": {
+        "hex": "#ffdc2d",
+        "hexterm": "ff/dc/2d"
+    },
+    "ansi-12": {
+        "hex": "#40bfff",
+        "hexterm": "40/bf/ff"
+    },
+    "ansi-13": {
+        "hex": "#ae94f9",
+        "hexterm": "ae/94/f9"
+    },
+    "ansi-14": {
+        "hex": "#fb6acb",
+        "hexterm": "fb/6a/cb"
+    },
+    "ansi-15": {
+        "hex": "#f2fbff",
+        "hexterm": "f2/fb/ff"
+    },
+    "ansi-2": {
+        "hex": "#f2e6a9",
+        "hexterm": "f2/e6/a9"
+    },
+    "ansi-3": {
+        "hex": "#ffdc2d",
+        "hexterm": "ff/dc/2d"
+    },
+    "ansi-4": {
+        "hex": "#40bfff",
+        "hexterm": "40/bf/ff"
+    },
+    "ansi-5": {
+        "hex": "#ae94f9",
+        "hexterm": "ae/94/f9"
+    },
+    "ansi-6": {
+        "hex": "#fb6acb",
+        "hexterm": "fb/6a/cb"
+    },
+    "ansi-7": {
+        "hex": "#e9e7e1",
+        "hexterm": "e9/e7/e1"
+    },
+    "ansi-8": {
+        "hex": "#a1d2e6",
+        "hexterm": "a1/d2/e6"
+    },
+    "ansi-9": {
+        "hex": "#ff661a",
+        "hexterm": "ff/66/1a"
+    },
+    "background": {
+        "hex": "#202126",
+        "hexterm": "20/21/26"
+    },
+    "cursor": {
+        "hex": "#e9e7e1",
+        "hexterm": "e9/e7/e1"
+    },
+    "foreground": {
+        "hex": "#e9e7e1",
+        "hexterm": "e9/e7/e1"
+    },
+    "selection": {
+        "hex": "#eff0f9",
+        "hexterm": "ef/f0/f9"
+    },
+    "selection-text": {
+        "hex": "#2d303d",
+        "hexterm": "2d/30/3d"
+    },
     "theme-author": "Aidan Swope (http://github.com/Whillikers)",
     "theme-name": "Gigavolt",
     "theme-slug": "gigavolt",

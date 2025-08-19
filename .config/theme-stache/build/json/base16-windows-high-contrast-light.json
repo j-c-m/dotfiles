@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#fcfcfc",
-    "ansi-1-hex": "#800000",
-    "ansi-10-hex": "#008000",
-    "ansi-11-hex": "#808000",
-    "ansi-12-hex": "#000080",
-    "ansi-13-hex": "#800080",
-    "ansi-14-hex": "#008080",
-    "ansi-15-hex": "#000000",
-    "ansi-2-hex": "#008000",
-    "ansi-3-hex": "#808000",
-    "ansi-4-hex": "#000080",
-    "ansi-5-hex": "#800080",
-    "ansi-6-hex": "#008080",
-    "ansi-7-hex": "#545454",
-    "ansi-8-hex": "#c0c0c0",
-    "ansi-9-hex": "#800000",
-    "background-hex": "#fcfcfc",
-    "cursor-hex": "#545454",
-    "foreground-hex": "#545454",
-    "selection-hex": "#2a2a2a",
-    "selection-text-hex": "#e8e8e8",
+    "ansi-0": {
+        "hex": "#fcfcfc",
+        "hexterm": "fc/fc/fc"
+    },
+    "ansi-1": {
+        "hex": "#800000",
+        "hexterm": "80/00/00"
+    },
+    "ansi-10": {
+        "hex": "#008000",
+        "hexterm": "00/80/00"
+    },
+    "ansi-11": {
+        "hex": "#808000",
+        "hexterm": "80/80/00"
+    },
+    "ansi-12": {
+        "hex": "#000080",
+        "hexterm": "00/00/80"
+    },
+    "ansi-13": {
+        "hex": "#800080",
+        "hexterm": "80/00/80"
+    },
+    "ansi-14": {
+        "hex": "#008080",
+        "hexterm": "00/80/80"
+    },
+    "ansi-15": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-2": {
+        "hex": "#008000",
+        "hexterm": "00/80/00"
+    },
+    "ansi-3": {
+        "hex": "#808000",
+        "hexterm": "80/80/00"
+    },
+    "ansi-4": {
+        "hex": "#000080",
+        "hexterm": "00/00/80"
+    },
+    "ansi-5": {
+        "hex": "#800080",
+        "hexterm": "80/00/80"
+    },
+    "ansi-6": {
+        "hex": "#008080",
+        "hexterm": "00/80/80"
+    },
+    "ansi-7": {
+        "hex": "#545454",
+        "hexterm": "54/54/54"
+    },
+    "ansi-8": {
+        "hex": "#c0c0c0",
+        "hexterm": "c0/c0/c0"
+    },
+    "ansi-9": {
+        "hex": "#800000",
+        "hexterm": "80/00/00"
+    },
+    "background": {
+        "hex": "#fcfcfc",
+        "hexterm": "fc/fc/fc"
+    },
+    "cursor": {
+        "hex": "#545454",
+        "hexterm": "54/54/54"
+    },
+    "foreground": {
+        "hex": "#545454",
+        "hexterm": "54/54/54"
+    },
+    "selection": {
+        "hex": "#2a2a2a",
+        "hexterm": "2a/2a/2a"
+    },
+    "selection-text": {
+        "hex": "#e8e8e8",
+        "hexterm": "e8/e8/e8"
+    },
     "theme-author": "Fergus Collins (https://github.com/ferguscollins)",
     "theme-name": "Windows High Contrast Light",
     "theme-slug": "windows-high-contrast-light",

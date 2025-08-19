@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#25292a",
-    "ansi-1-hex": "#f24840",
-    "ansi-10-hex": "#629655",
-    "ansi-11-hex": "#b68800",
-    "ansi-12-hex": "#2075c7",
-    "ansi-13-hex": "#797fd4",
-    "ansi-14-hex": "#15968d",
-    "ansi-15-hex": "#d2d8d9",
-    "ansi-2-hex": "#629655",
-    "ansi-3-hex": "#b68800",
-    "ansi-4-hex": "#2075c7",
-    "ansi-5-hex": "#797fd4",
-    "ansi-6-hex": "#15968d",
-    "ansi-7-hex": "#d2d8d9",
-    "ansi-8-hex": "#25292a",
-    "ansi-9-hex": "#f24840",
-    "background-hex": "#3d3f41",
-    "cursor-hex": "#d2d8d9",
-    "foreground-hex": "#d2d8d9",
-    "selection-hex": "#d2d8d9",
-    "selection-text-hex": "#3d3f41",
+    "ansi-0": {
+        "hex": "#25292a",
+        "hexterm": "25/29/2a"
+    },
+    "ansi-1": {
+        "hex": "#f24840",
+        "hexterm": "f2/48/40"
+    },
+    "ansi-10": {
+        "hex": "#629655",
+        "hexterm": "62/96/55"
+    },
+    "ansi-11": {
+        "hex": "#b68800",
+        "hexterm": "b6/88/00"
+    },
+    "ansi-12": {
+        "hex": "#2075c7",
+        "hexterm": "20/75/c7"
+    },
+    "ansi-13": {
+        "hex": "#797fd4",
+        "hexterm": "79/7f/d4"
+    },
+    "ansi-14": {
+        "hex": "#15968d",
+        "hexterm": "15/96/8d"
+    },
+    "ansi-15": {
+        "hex": "#d2d8d9",
+        "hexterm": "d2/d8/d9"
+    },
+    "ansi-2": {
+        "hex": "#629655",
+        "hexterm": "62/96/55"
+    },
+    "ansi-3": {
+        "hex": "#b68800",
+        "hexterm": "b6/88/00"
+    },
+    "ansi-4": {
+        "hex": "#2075c7",
+        "hexterm": "20/75/c7"
+    },
+    "ansi-5": {
+        "hex": "#797fd4",
+        "hexterm": "79/7f/d4"
+    },
+    "ansi-6": {
+        "hex": "#15968d",
+        "hexterm": "15/96/8d"
+    },
+    "ansi-7": {
+        "hex": "#d2d8d9",
+        "hexterm": "d2/d8/d9"
+    },
+    "ansi-8": {
+        "hex": "#25292a",
+        "hexterm": "25/29/2a"
+    },
+    "ansi-9": {
+        "hex": "#f24840",
+        "hexterm": "f2/48/40"
+    },
+    "background": {
+        "hex": "#3d3f41",
+        "hexterm": "3d/3f/41"
+    },
+    "cursor": {
+        "hex": "#d2d8d9",
+        "hexterm": "d2/d8/d9"
+    },
+    "foreground": {
+        "hex": "#d2d8d9",
+        "hexterm": "d2/d8/d9"
+    },
+    "selection": {
+        "hex": "#d2d8d9",
+        "hexterm": "d2/d8/d9"
+    },
+    "selection-text": {
+        "hex": "#3d3f41",
+        "hexterm": "3d/3f/41"
+    },
     "theme-author": "",
     "theme-name": "Solarized Darcula",
     "theme-slug": "solarized-darcula",

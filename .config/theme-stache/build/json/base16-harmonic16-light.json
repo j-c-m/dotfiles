@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#f7f9fb",
-    "ansi-1-hex": "#bf8b56",
-    "ansi-10-hex": "#56bf8b",
-    "ansi-11-hex": "#8bbf56",
-    "ansi-12-hex": "#8b56bf",
-    "ansi-13-hex": "#bf568b",
-    "ansi-14-hex": "#568bbf",
-    "ansi-15-hex": "#0b1c2c",
-    "ansi-2-hex": "#56bf8b",
-    "ansi-3-hex": "#8bbf56",
-    "ansi-4-hex": "#8b56bf",
-    "ansi-5-hex": "#bf568b",
-    "ansi-6-hex": "#568bbf",
-    "ansi-7-hex": "#405c79",
-    "ansi-8-hex": "#aabcce",
-    "ansi-9-hex": "#bf8b56",
-    "background-hex": "#f7f9fb",
-    "cursor-hex": "#405c79",
-    "foreground-hex": "#405c79",
-    "selection-hex": "#223b54",
-    "selection-text-hex": "#e5ebf1",
+    "ansi-0": {
+        "hex": "#f7f9fb",
+        "hexterm": "f7/f9/fb"
+    },
+    "ansi-1": {
+        "hex": "#bf8b56",
+        "hexterm": "bf/8b/56"
+    },
+    "ansi-10": {
+        "hex": "#56bf8b",
+        "hexterm": "56/bf/8b"
+    },
+    "ansi-11": {
+        "hex": "#8bbf56",
+        "hexterm": "8b/bf/56"
+    },
+    "ansi-12": {
+        "hex": "#8b56bf",
+        "hexterm": "8b/56/bf"
+    },
+    "ansi-13": {
+        "hex": "#bf568b",
+        "hexterm": "bf/56/8b"
+    },
+    "ansi-14": {
+        "hex": "#568bbf",
+        "hexterm": "56/8b/bf"
+    },
+    "ansi-15": {
+        "hex": "#0b1c2c",
+        "hexterm": "0b/1c/2c"
+    },
+    "ansi-2": {
+        "hex": "#56bf8b",
+        "hexterm": "56/bf/8b"
+    },
+    "ansi-3": {
+        "hex": "#8bbf56",
+        "hexterm": "8b/bf/56"
+    },
+    "ansi-4": {
+        "hex": "#8b56bf",
+        "hexterm": "8b/56/bf"
+    },
+    "ansi-5": {
+        "hex": "#bf568b",
+        "hexterm": "bf/56/8b"
+    },
+    "ansi-6": {
+        "hex": "#568bbf",
+        "hexterm": "56/8b/bf"
+    },
+    "ansi-7": {
+        "hex": "#405c79",
+        "hexterm": "40/5c/79"
+    },
+    "ansi-8": {
+        "hex": "#aabcce",
+        "hexterm": "aa/bc/ce"
+    },
+    "ansi-9": {
+        "hex": "#bf8b56",
+        "hexterm": "bf/8b/56"
+    },
+    "background": {
+        "hex": "#f7f9fb",
+        "hexterm": "f7/f9/fb"
+    },
+    "cursor": {
+        "hex": "#405c79",
+        "hexterm": "40/5c/79"
+    },
+    "foreground": {
+        "hex": "#405c79",
+        "hexterm": "40/5c/79"
+    },
+    "selection": {
+        "hex": "#223b54",
+        "hexterm": "22/3b/54"
+    },
+    "selection-text": {
+        "hex": "#e5ebf1",
+        "hexterm": "e5/eb/f1"
+    },
     "theme-author": "Jannik Siebert (https://github.com/janniks)",
     "theme-name": "Harmonic16 Light",
     "theme-slug": "harmonic16-light",

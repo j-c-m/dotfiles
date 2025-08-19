@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#191919",
-    "ansi-1-hex": "#f3005f",
-    "ansi-10-hex": "#97e023",
-    "ansi-11-hex": "#dfd561",
-    "ansi-12-hex": "#9c64fe",
-    "ansi-13-hex": "#f3005f",
-    "ansi-14-hex": "#57d1ea",
-    "ansi-15-hex": "#f6f6ee",
-    "ansi-2-hex": "#97e023",
-    "ansi-3-hex": "#fa8419",
-    "ansi-4-hex": "#9c64fe",
-    "ansi-5-hex": "#f3005f",
-    "ansi-6-hex": "#57d1ea",
-    "ansi-7-hex": "#c4c4b5",
-    "ansi-8-hex": "#615e4b",
-    "ansi-9-hex": "#f3005f",
-    "background-hex": "#191919",
-    "cursor-hex": "#f6f6ec",
-    "foreground-hex": "#c4c4b5",
-    "selection-hex": "#343434",
-    "selection-text-hex": "#c4c4b5",
+    "ansi-0": {
+        "hex": "#191919",
+        "hexterm": "19/19/19"
+    },
+    "ansi-1": {
+        "hex": "#f3005f",
+        "hexterm": "f3/00/5f"
+    },
+    "ansi-10": {
+        "hex": "#97e023",
+        "hexterm": "97/e0/23"
+    },
+    "ansi-11": {
+        "hex": "#dfd561",
+        "hexterm": "df/d5/61"
+    },
+    "ansi-12": {
+        "hex": "#9c64fe",
+        "hexterm": "9c/64/fe"
+    },
+    "ansi-13": {
+        "hex": "#f3005f",
+        "hexterm": "f3/00/5f"
+    },
+    "ansi-14": {
+        "hex": "#57d1ea",
+        "hexterm": "57/d1/ea"
+    },
+    "ansi-15": {
+        "hex": "#f6f6ee",
+        "hexterm": "f6/f6/ee"
+    },
+    "ansi-2": {
+        "hex": "#97e023",
+        "hexterm": "97/e0/23"
+    },
+    "ansi-3": {
+        "hex": "#fa8419",
+        "hexterm": "fa/84/19"
+    },
+    "ansi-4": {
+        "hex": "#9c64fe",
+        "hexterm": "9c/64/fe"
+    },
+    "ansi-5": {
+        "hex": "#f3005f",
+        "hexterm": "f3/00/5f"
+    },
+    "ansi-6": {
+        "hex": "#57d1ea",
+        "hexterm": "57/d1/ea"
+    },
+    "ansi-7": {
+        "hex": "#c4c4b5",
+        "hexterm": "c4/c4/b5"
+    },
+    "ansi-8": {
+        "hex": "#615e4b",
+        "hexterm": "61/5e/4b"
+    },
+    "ansi-9": {
+        "hex": "#f3005f",
+        "hexterm": "f3/00/5f"
+    },
+    "background": {
+        "hex": "#191919",
+        "hexterm": "19/19/19"
+    },
+    "cursor": {
+        "hex": "#f6f6ec",
+        "hexterm": "f6/f6/ec"
+    },
+    "foreground": {
+        "hex": "#c4c4b5",
+        "hexterm": "c4/c4/b5"
+    },
+    "selection": {
+        "hex": "#343434",
+        "hexterm": "34/34/34"
+    },
+    "selection-text": {
+        "hex": "#c4c4b5",
+        "hexterm": "c4/c4/b5"
+    },
     "theme-author": "unknown",
     "theme-name": "Monokai Soda",
     "theme-slug": "monokai-soda",

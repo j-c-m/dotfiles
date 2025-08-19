@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#3c4c55",
-    "ansi-1-hex": "#83afe5",
-    "ansi-10-hex": "#7fc1ca",
-    "ansi-11-hex": "#a8ce93",
-    "ansi-12-hex": "#83afe5",
-    "ansi-13-hex": "#9a93e1",
-    "ansi-14-hex": "#f2c38f",
-    "ansi-15-hex": "#556873",
-    "ansi-2-hex": "#7fc1ca",
-    "ansi-3-hex": "#a8ce93",
-    "ansi-4-hex": "#83afe5",
-    "ansi-5-hex": "#9a93e1",
-    "ansi-6-hex": "#f2c38f",
-    "ansi-7-hex": "#c5d4dd",
-    "ansi-8-hex": "#899ba6",
-    "ansi-9-hex": "#83afe5",
-    "background-hex": "#3c4c55",
-    "cursor-hex": "#c5d4dd",
-    "foreground-hex": "#c5d4dd",
-    "selection-hex": "#899ba6",
-    "selection-text-hex": "#556873",
+    "ansi-0": {
+        "hex": "#3c4c55",
+        "hexterm": "3c/4c/55"
+    },
+    "ansi-1": {
+        "hex": "#83afe5",
+        "hexterm": "83/af/e5"
+    },
+    "ansi-10": {
+        "hex": "#7fc1ca",
+        "hexterm": "7f/c1/ca"
+    },
+    "ansi-11": {
+        "hex": "#a8ce93",
+        "hexterm": "a8/ce/93"
+    },
+    "ansi-12": {
+        "hex": "#83afe5",
+        "hexterm": "83/af/e5"
+    },
+    "ansi-13": {
+        "hex": "#9a93e1",
+        "hexterm": "9a/93/e1"
+    },
+    "ansi-14": {
+        "hex": "#f2c38f",
+        "hexterm": "f2/c3/8f"
+    },
+    "ansi-15": {
+        "hex": "#556873",
+        "hexterm": "55/68/73"
+    },
+    "ansi-2": {
+        "hex": "#7fc1ca",
+        "hexterm": "7f/c1/ca"
+    },
+    "ansi-3": {
+        "hex": "#a8ce93",
+        "hexterm": "a8/ce/93"
+    },
+    "ansi-4": {
+        "hex": "#83afe5",
+        "hexterm": "83/af/e5"
+    },
+    "ansi-5": {
+        "hex": "#9a93e1",
+        "hexterm": "9a/93/e1"
+    },
+    "ansi-6": {
+        "hex": "#f2c38f",
+        "hexterm": "f2/c3/8f"
+    },
+    "ansi-7": {
+        "hex": "#c5d4dd",
+        "hexterm": "c5/d4/dd"
+    },
+    "ansi-8": {
+        "hex": "#899ba6",
+        "hexterm": "89/9b/a6"
+    },
+    "ansi-9": {
+        "hex": "#83afe5",
+        "hexterm": "83/af/e5"
+    },
+    "background": {
+        "hex": "#3c4c55",
+        "hexterm": "3c/4c/55"
+    },
+    "cursor": {
+        "hex": "#c5d4dd",
+        "hexterm": "c5/d4/dd"
+    },
+    "foreground": {
+        "hex": "#c5d4dd",
+        "hexterm": "c5/d4/dd"
+    },
+    "selection": {
+        "hex": "#899ba6",
+        "hexterm": "89/9b/a6"
+    },
+    "selection-text": {
+        "hex": "#556873",
+        "hexterm": "55/68/73"
+    },
     "theme-author": "George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)",
     "theme-name": "Nova",
     "theme-slug": "nova",

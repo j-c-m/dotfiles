@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#d6b891",
-    "ansi-1-hex": "#413325",
-    "ansi-10-hex": "#120f09",
-    "ansi-11-hex": "#292016",
-    "ansi-12-hex": "#120f09",
-    "ansi-13-hex": "#292016",
-    "ansi-14-hex": "#413325",
-    "ansi-15-hex": "#d6b891",
-    "ansi-2-hex": "#120f09",
-    "ansi-3-hex": "#292016",
-    "ansi-4-hex": "#120f09",
-    "ansi-5-hex": "#292016",
-    "ansi-6-hex": "#413325",
-    "ansi-7-hex": "#35291d",
-    "ansi-8-hex": "#887254",
-    "ansi-9-hex": "#413325",
-    "background-hex": "#d6b891",
-    "cursor-hex": "#35291d",
-    "foreground-hex": "#35291d",
-    "selection-hex": "#413325",
-    "selection-text-hex": "#c0a179",
+    "ansi-0": {
+        "hex": "#d6b891",
+        "hexterm": "d6/b8/91"
+    },
+    "ansi-1": {
+        "hex": "#413325",
+        "hexterm": "41/33/25"
+    },
+    "ansi-10": {
+        "hex": "#120f09",
+        "hexterm": "12/0f/09"
+    },
+    "ansi-11": {
+        "hex": "#292016",
+        "hexterm": "29/20/16"
+    },
+    "ansi-12": {
+        "hex": "#120f09",
+        "hexterm": "12/0f/09"
+    },
+    "ansi-13": {
+        "hex": "#292016",
+        "hexterm": "29/20/16"
+    },
+    "ansi-14": {
+        "hex": "#413325",
+        "hexterm": "41/33/25"
+    },
+    "ansi-15": {
+        "hex": "#d6b891",
+        "hexterm": "d6/b8/91"
+    },
+    "ansi-2": {
+        "hex": "#120f09",
+        "hexterm": "12/0f/09"
+    },
+    "ansi-3": {
+        "hex": "#292016",
+        "hexterm": "29/20/16"
+    },
+    "ansi-4": {
+        "hex": "#120f09",
+        "hexterm": "12/0f/09"
+    },
+    "ansi-5": {
+        "hex": "#292016",
+        "hexterm": "29/20/16"
+    },
+    "ansi-6": {
+        "hex": "#413325",
+        "hexterm": "41/33/25"
+    },
+    "ansi-7": {
+        "hex": "#35291d",
+        "hexterm": "35/29/1d"
+    },
+    "ansi-8": {
+        "hex": "#887254",
+        "hexterm": "88/72/54"
+    },
+    "ansi-9": {
+        "hex": "#413325",
+        "hexterm": "41/33/25"
+    },
+    "background": {
+        "hex": "#d6b891",
+        "hexterm": "d6/b8/91"
+    },
+    "cursor": {
+        "hex": "#35291d",
+        "hexterm": "35/29/1d"
+    },
+    "foreground": {
+        "hex": "#35291d",
+        "hexterm": "35/29/1d"
+    },
+    "selection": {
+        "hex": "#413325",
+        "hexterm": "41/33/25"
+    },
+    "selection-text": {
+        "hex": "#c0a179",
+        "hexterm": "c0/a1/79"
+    },
     "theme-author": "Mubin Muhammad (https://github.com/mubin6th)",
     "theme-name": "Charcoal Light",
     "theme-slug": "charcoal-light",

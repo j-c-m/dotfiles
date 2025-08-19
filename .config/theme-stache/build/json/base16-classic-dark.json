@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#151515",
-    "ansi-1-hex": "#ac4142",
-    "ansi-10-hex": "#90a959",
-    "ansi-11-hex": "#f4bf75",
-    "ansi-12-hex": "#6a9fb5",
-    "ansi-13-hex": "#aa759f",
-    "ansi-14-hex": "#75b5aa",
-    "ansi-15-hex": "#f5f5f5",
-    "ansi-2-hex": "#90a959",
-    "ansi-3-hex": "#f4bf75",
-    "ansi-4-hex": "#6a9fb5",
-    "ansi-5-hex": "#aa759f",
-    "ansi-6-hex": "#75b5aa",
-    "ansi-7-hex": "#d0d0d0",
-    "ansi-8-hex": "#505050",
-    "ansi-9-hex": "#ac4142",
-    "background-hex": "#151515",
-    "cursor-hex": "#d0d0d0",
-    "foreground-hex": "#d0d0d0",
-    "selection-hex": "#e0e0e0",
-    "selection-text-hex": "#202020",
+    "ansi-0": {
+        "hex": "#151515",
+        "hexterm": "15/15/15"
+    },
+    "ansi-1": {
+        "hex": "#ac4142",
+        "hexterm": "ac/41/42"
+    },
+    "ansi-10": {
+        "hex": "#90a959",
+        "hexterm": "90/a9/59"
+    },
+    "ansi-11": {
+        "hex": "#f4bf75",
+        "hexterm": "f4/bf/75"
+    },
+    "ansi-12": {
+        "hex": "#6a9fb5",
+        "hexterm": "6a/9f/b5"
+    },
+    "ansi-13": {
+        "hex": "#aa759f",
+        "hexterm": "aa/75/9f"
+    },
+    "ansi-14": {
+        "hex": "#75b5aa",
+        "hexterm": "75/b5/aa"
+    },
+    "ansi-15": {
+        "hex": "#f5f5f5",
+        "hexterm": "f5/f5/f5"
+    },
+    "ansi-2": {
+        "hex": "#90a959",
+        "hexterm": "90/a9/59"
+    },
+    "ansi-3": {
+        "hex": "#f4bf75",
+        "hexterm": "f4/bf/75"
+    },
+    "ansi-4": {
+        "hex": "#6a9fb5",
+        "hexterm": "6a/9f/b5"
+    },
+    "ansi-5": {
+        "hex": "#aa759f",
+        "hexterm": "aa/75/9f"
+    },
+    "ansi-6": {
+        "hex": "#75b5aa",
+        "hexterm": "75/b5/aa"
+    },
+    "ansi-7": {
+        "hex": "#d0d0d0",
+        "hexterm": "d0/d0/d0"
+    },
+    "ansi-8": {
+        "hex": "#505050",
+        "hexterm": "50/50/50"
+    },
+    "ansi-9": {
+        "hex": "#ac4142",
+        "hexterm": "ac/41/42"
+    },
+    "background": {
+        "hex": "#151515",
+        "hexterm": "15/15/15"
+    },
+    "cursor": {
+        "hex": "#d0d0d0",
+        "hexterm": "d0/d0/d0"
+    },
+    "foreground": {
+        "hex": "#d0d0d0",
+        "hexterm": "d0/d0/d0"
+    },
+    "selection": {
+        "hex": "#e0e0e0",
+        "hexterm": "e0/e0/e0"
+    },
+    "selection-text": {
+        "hex": "#202020",
+        "hexterm": "20/20/20"
+    },
     "theme-author": "Jason Heeris (http://heeris.id.au)",
     "theme-name": "Classic Dark",
     "theme-slug": "classic-dark",

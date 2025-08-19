@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1b1f32",
-    "ansi-1-hex": "#627af4",
-    "ansi-10-hex": "#252a41",
-    "ansi-11-hex": "#444b6f",
-    "ansi-12-hex": "#5e6587",
-    "ansi-13-hex": "#c3cdfe",
-    "ansi-14-hex": "#5cbcd6",
-    "ansi-15-hex": "#e1e6ff",
-    "ansi-2-hex": "#67c9e4",
-    "ansi-3-hex": "#99e9ff",
-    "ansi-4-hex": "#7289fd",
-    "ansi-5-hex": "#67c9e4",
-    "ansi-6-hex": "#8b9efd",
-    "ansi-7-hex": "#9094a7",
-    "ansi-8-hex": "#51587b",
-    "ansi-9-hex": "#75d5f0",
-    "background-hex": "#1b1f32",
-    "cursor-hex": "#289dbd",
-    "foreground-hex": "#9094a7",
-    "selection-hex": "#9094a7",
-    "selection-text-hex": "#1b1f32",
+    "ansi-0": {
+        "hex": "#1b1f32",
+        "hexterm": "1b/1f/32"
+    },
+    "ansi-1": {
+        "hex": "#627af4",
+        "hexterm": "62/7a/f4"
+    },
+    "ansi-10": {
+        "hex": "#252a41",
+        "hexterm": "25/2a/41"
+    },
+    "ansi-11": {
+        "hex": "#444b6f",
+        "hexterm": "44/4b/6f"
+    },
+    "ansi-12": {
+        "hex": "#5e6587",
+        "hexterm": "5e/65/87"
+    },
+    "ansi-13": {
+        "hex": "#c3cdfe",
+        "hexterm": "c3/cd/fe"
+    },
+    "ansi-14": {
+        "hex": "#5cbcd6",
+        "hexterm": "5c/bc/d6"
+    },
+    "ansi-15": {
+        "hex": "#e1e6ff",
+        "hexterm": "e1/e6/ff"
+    },
+    "ansi-2": {
+        "hex": "#67c9e4",
+        "hexterm": "67/c9/e4"
+    },
+    "ansi-3": {
+        "hex": "#99e9ff",
+        "hexterm": "99/e9/ff"
+    },
+    "ansi-4": {
+        "hex": "#7289fd",
+        "hexterm": "72/89/fd"
+    },
+    "ansi-5": {
+        "hex": "#67c9e4",
+        "hexterm": "67/c9/e4"
+    },
+    "ansi-6": {
+        "hex": "#8b9efd",
+        "hexterm": "8b/9e/fd"
+    },
+    "ansi-7": {
+        "hex": "#9094a7",
+        "hexterm": "90/94/a7"
+    },
+    "ansi-8": {
+        "hex": "#51587b",
+        "hexterm": "51/58/7b"
+    },
+    "ansi-9": {
+        "hex": "#75d5f0",
+        "hexterm": "75/d5/f0"
+    },
+    "background": {
+        "hex": "#1b1f32",
+        "hexterm": "1b/1f/32"
+    },
+    "cursor": {
+        "hex": "#289dbd",
+        "hexterm": "28/9d/bd"
+    },
+    "foreground": {
+        "hex": "#9094a7",
+        "hexterm": "90/94/a7"
+    },
+    "selection": {
+        "hex": "#9094a7",
+        "hexterm": "90/94/a7"
+    },
+    "selection-text": {
+        "hex": "#1b1f32",
+        "hexterm": "1b/1f/32"
+    },
     "theme-author": "",
     "theme-name": "Base2Tone Drawbridge",
     "theme-slug": "base2tone-drawbridge",

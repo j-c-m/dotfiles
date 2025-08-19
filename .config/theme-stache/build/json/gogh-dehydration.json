@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#333333",
-    "ansi-1-hex": "#ff5555",
-    "ansi-10-hex": "#87deaa",
-    "ansi-11-hex": "#ffb380",
-    "ansi-12-hex": "#5f8dd3",
-    "ansi-13-hex": "#cd87de",
-    "ansi-14-hex": "#87decd",
-    "ansi-15-hex": "#cccccc",
-    "ansi-2-hex": "#5fd38d",
-    "ansi-3-hex": "#ff9955",
-    "ansi-4-hex": "#3771c8",
-    "ansi-5-hex": "#bc5fd3",
-    "ansi-6-hex": "#5fd3bc",
-    "ansi-7-hex": "#999999",
-    "ansi-8-hex": "#666666",
-    "ansi-9-hex": "#ff8080",
-    "background-hex": "#333333",
-    "cursor-hex": "#cccccc",
-    "foreground-hex": "#cccccc",
-    "selection-hex": "#cccccc",
-    "selection-text-hex": "#333333",
+    "ansi-0": {
+        "hex": "#333333",
+        "hexterm": "33/33/33"
+    },
+    "ansi-1": {
+        "hex": "#ff5555",
+        "hexterm": "ff/55/55"
+    },
+    "ansi-10": {
+        "hex": "#87deaa",
+        "hexterm": "87/de/aa"
+    },
+    "ansi-11": {
+        "hex": "#ffb380",
+        "hexterm": "ff/b3/80"
+    },
+    "ansi-12": {
+        "hex": "#5f8dd3",
+        "hexterm": "5f/8d/d3"
+    },
+    "ansi-13": {
+        "hex": "#cd87de",
+        "hexterm": "cd/87/de"
+    },
+    "ansi-14": {
+        "hex": "#87decd",
+        "hexterm": "87/de/cd"
+    },
+    "ansi-15": {
+        "hex": "#cccccc",
+        "hexterm": "cc/cc/cc"
+    },
+    "ansi-2": {
+        "hex": "#5fd38d",
+        "hexterm": "5f/d3/8d"
+    },
+    "ansi-3": {
+        "hex": "#ff9955",
+        "hexterm": "ff/99/55"
+    },
+    "ansi-4": {
+        "hex": "#3771c8",
+        "hexterm": "37/71/c8"
+    },
+    "ansi-5": {
+        "hex": "#bc5fd3",
+        "hexterm": "bc/5f/d3"
+    },
+    "ansi-6": {
+        "hex": "#5fd3bc",
+        "hexterm": "5f/d3/bc"
+    },
+    "ansi-7": {
+        "hex": "#999999",
+        "hexterm": "99/99/99"
+    },
+    "ansi-8": {
+        "hex": "#666666",
+        "hexterm": "66/66/66"
+    },
+    "ansi-9": {
+        "hex": "#ff8080",
+        "hexterm": "ff/80/80"
+    },
+    "background": {
+        "hex": "#333333",
+        "hexterm": "33/33/33"
+    },
+    "cursor": {
+        "hex": "#cccccc",
+        "hexterm": "cc/cc/cc"
+    },
+    "foreground": {
+        "hex": "#cccccc",
+        "hexterm": "cc/cc/cc"
+    },
+    "selection": {
+        "hex": "#cccccc",
+        "hexterm": "cc/cc/cc"
+    },
+    "selection-text": {
+        "hex": "#333333",
+        "hexterm": "33/33/33"
+    },
     "theme-author": "",
     "theme-name": "Dehydration",
     "theme-slug": "dehydration",

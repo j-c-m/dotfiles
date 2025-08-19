@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#3b4252",
-    "ansi-1-hex": "#bf616a",
-    "ansi-10-hex": "#a3be8c",
-    "ansi-11-hex": "#ebcb8b",
-    "ansi-12-hex": "#81a1c1",
-    "ansi-13-hex": "#b48ead",
-    "ansi-14-hex": "#8fbcbb",
-    "ansi-15-hex": "#eceff4",
-    "ansi-2-hex": "#a3be8c",
-    "ansi-3-hex": "#ebcb8b",
-    "ansi-4-hex": "#81a1c1",
-    "ansi-5-hex": "#b48ead",
-    "ansi-6-hex": "#88c0d0",
-    "ansi-7-hex": "#e5e9f0",
-    "ansi-8-hex": "#4c566a",
-    "ansi-9-hex": "#bf616a",
-    "background-hex": "#212121",
-    "cursor-hex": "#ebcb8b",
-    "foreground-hex": "#d8dee9",
-    "selection-hex": "#d8dee9",
-    "selection-text-hex": "#212121",
+    "ansi-0": {
+        "hex": "#3b4252",
+        "hexterm": "3b/42/52"
+    },
+    "ansi-1": {
+        "hex": "#bf616a",
+        "hexterm": "bf/61/6a"
+    },
+    "ansi-10": {
+        "hex": "#a3be8c",
+        "hexterm": "a3/be/8c"
+    },
+    "ansi-11": {
+        "hex": "#ebcb8b",
+        "hexterm": "eb/cb/8b"
+    },
+    "ansi-12": {
+        "hex": "#81a1c1",
+        "hexterm": "81/a1/c1"
+    },
+    "ansi-13": {
+        "hex": "#b48ead",
+        "hexterm": "b4/8e/ad"
+    },
+    "ansi-14": {
+        "hex": "#8fbcbb",
+        "hexterm": "8f/bc/bb"
+    },
+    "ansi-15": {
+        "hex": "#eceff4",
+        "hexterm": "ec/ef/f4"
+    },
+    "ansi-2": {
+        "hex": "#a3be8c",
+        "hexterm": "a3/be/8c"
+    },
+    "ansi-3": {
+        "hex": "#ebcb8b",
+        "hexterm": "eb/cb/8b"
+    },
+    "ansi-4": {
+        "hex": "#81a1c1",
+        "hexterm": "81/a1/c1"
+    },
+    "ansi-5": {
+        "hex": "#b48ead",
+        "hexterm": "b4/8e/ad"
+    },
+    "ansi-6": {
+        "hex": "#88c0d0",
+        "hexterm": "88/c0/d0"
+    },
+    "ansi-7": {
+        "hex": "#e5e9f0",
+        "hexterm": "e5/e9/f0"
+    },
+    "ansi-8": {
+        "hex": "#4c566a",
+        "hexterm": "4c/56/6a"
+    },
+    "ansi-9": {
+        "hex": "#bf616a",
+        "hexterm": "bf/61/6a"
+    },
+    "background": {
+        "hex": "#212121",
+        "hexterm": "21/21/21"
+    },
+    "cursor": {
+        "hex": "#ebcb8b",
+        "hexterm": "eb/cb/8b"
+    },
+    "foreground": {
+        "hex": "#d8dee9",
+        "hexterm": "d8/de/e9"
+    },
+    "selection": {
+        "hex": "#d8dee9",
+        "hexterm": "d8/de/e9"
+    },
+    "selection-text": {
+        "hex": "#212121",
+        "hexterm": "21/21/21"
+    },
     "theme-author": "unknown",
     "theme-name": "nord-wave",
     "theme-slug": "nord-wave",

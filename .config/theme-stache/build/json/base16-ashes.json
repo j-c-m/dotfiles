@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1c2023",
-    "ansi-1-hex": "#c7ae95",
-    "ansi-10-hex": "#95c7ae",
-    "ansi-11-hex": "#aec795",
-    "ansi-12-hex": "#ae95c7",
-    "ansi-13-hex": "#c795ae",
-    "ansi-14-hex": "#95aec7",
-    "ansi-15-hex": "#f3f4f5",
-    "ansi-2-hex": "#95c7ae",
-    "ansi-3-hex": "#aec795",
-    "ansi-4-hex": "#ae95c7",
-    "ansi-5-hex": "#c795ae",
-    "ansi-6-hex": "#95aec7",
-    "ansi-7-hex": "#c7ccd1",
-    "ansi-8-hex": "#747c84",
-    "ansi-9-hex": "#c7ae95",
-    "background-hex": "#1c2023",
-    "cursor-hex": "#c7ccd1",
-    "foreground-hex": "#c7ccd1",
-    "selection-hex": "#dfe2e5",
-    "selection-text-hex": "#393f45",
+    "ansi-0": {
+        "hex": "#1c2023",
+        "hexterm": "1c/20/23"
+    },
+    "ansi-1": {
+        "hex": "#c7ae95",
+        "hexterm": "c7/ae/95"
+    },
+    "ansi-10": {
+        "hex": "#95c7ae",
+        "hexterm": "95/c7/ae"
+    },
+    "ansi-11": {
+        "hex": "#aec795",
+        "hexterm": "ae/c7/95"
+    },
+    "ansi-12": {
+        "hex": "#ae95c7",
+        "hexterm": "ae/95/c7"
+    },
+    "ansi-13": {
+        "hex": "#c795ae",
+        "hexterm": "c7/95/ae"
+    },
+    "ansi-14": {
+        "hex": "#95aec7",
+        "hexterm": "95/ae/c7"
+    },
+    "ansi-15": {
+        "hex": "#f3f4f5",
+        "hexterm": "f3/f4/f5"
+    },
+    "ansi-2": {
+        "hex": "#95c7ae",
+        "hexterm": "95/c7/ae"
+    },
+    "ansi-3": {
+        "hex": "#aec795",
+        "hexterm": "ae/c7/95"
+    },
+    "ansi-4": {
+        "hex": "#ae95c7",
+        "hexterm": "ae/95/c7"
+    },
+    "ansi-5": {
+        "hex": "#c795ae",
+        "hexterm": "c7/95/ae"
+    },
+    "ansi-6": {
+        "hex": "#95aec7",
+        "hexterm": "95/ae/c7"
+    },
+    "ansi-7": {
+        "hex": "#c7ccd1",
+        "hexterm": "c7/cc/d1"
+    },
+    "ansi-8": {
+        "hex": "#747c84",
+        "hexterm": "74/7c/84"
+    },
+    "ansi-9": {
+        "hex": "#c7ae95",
+        "hexterm": "c7/ae/95"
+    },
+    "background": {
+        "hex": "#1c2023",
+        "hexterm": "1c/20/23"
+    },
+    "cursor": {
+        "hex": "#c7ccd1",
+        "hexterm": "c7/cc/d1"
+    },
+    "foreground": {
+        "hex": "#c7ccd1",
+        "hexterm": "c7/cc/d1"
+    },
+    "selection": {
+        "hex": "#dfe2e5",
+        "hexterm": "df/e2/e5"
+    },
+    "selection-text": {
+        "hex": "#393f45",
+        "hexterm": "39/3f/45"
+    },
     "theme-author": "Jannik Siebert (https://github.com/janniks)",
     "theme-name": "Ashes",
     "theme-slug": "ashes",

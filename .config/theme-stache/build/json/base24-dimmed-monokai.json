@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1e1e1e",
-    "ansi-1-hex": "#be3e48",
-    "ansi-10-hex": "#0e712e",
-    "ansi-11-hex": "#c37033",
-    "ansi-12-hex": "#176ce3",
-    "ansi-13-hex": "#fb0067",
-    "ansi-14-hex": "#2d6f6c",
-    "ansi-15-hex": "#fcffb8",
-    "ansi-2-hex": "#869a3a",
-    "ansi-3-hex": "#176ce3",
-    "ansi-4-hex": "#4e76a1",
-    "ansi-5-hex": "#855b8d",
-    "ansi-6-hex": "#568ea3",
-    "ansi-7-hex": "#acafac",
-    "ansi-8-hex": "#949593",
-    "ansi-9-hex": "#fb001e",
-    "background-hex": "#1e1e1e",
-    "cursor-hex": "#acafac",
-    "foreground-hex": "#acafac",
-    "selection-hex": "#b8bcb9",
-    "selection-text-hex": "#3a3c43",
+    "ansi-0": {
+        "hex": "#1e1e1e",
+        "hexterm": "1e/1e/1e"
+    },
+    "ansi-1": {
+        "hex": "#be3e48",
+        "hexterm": "be/3e/48"
+    },
+    "ansi-10": {
+        "hex": "#0e712e",
+        "hexterm": "0e/71/2e"
+    },
+    "ansi-11": {
+        "hex": "#c37033",
+        "hexterm": "c3/70/33"
+    },
+    "ansi-12": {
+        "hex": "#176ce3",
+        "hexterm": "17/6c/e3"
+    },
+    "ansi-13": {
+        "hex": "#fb0067",
+        "hexterm": "fb/00/67"
+    },
+    "ansi-14": {
+        "hex": "#2d6f6c",
+        "hexterm": "2d/6f/6c"
+    },
+    "ansi-15": {
+        "hex": "#fcffb8",
+        "hexterm": "fc/ff/b8"
+    },
+    "ansi-2": {
+        "hex": "#869a3a",
+        "hexterm": "86/9a/3a"
+    },
+    "ansi-3": {
+        "hex": "#176ce3",
+        "hexterm": "17/6c/e3"
+    },
+    "ansi-4": {
+        "hex": "#4e76a1",
+        "hexterm": "4e/76/a1"
+    },
+    "ansi-5": {
+        "hex": "#855b8d",
+        "hexterm": "85/5b/8d"
+    },
+    "ansi-6": {
+        "hex": "#568ea3",
+        "hexterm": "56/8e/a3"
+    },
+    "ansi-7": {
+        "hex": "#acafac",
+        "hexterm": "ac/af/ac"
+    },
+    "ansi-8": {
+        "hex": "#949593",
+        "hexterm": "94/95/93"
+    },
+    "ansi-9": {
+        "hex": "#fb001e",
+        "hexterm": "fb/00/1e"
+    },
+    "background": {
+        "hex": "#1e1e1e",
+        "hexterm": "1e/1e/1e"
+    },
+    "cursor": {
+        "hex": "#acafac",
+        "hexterm": "ac/af/ac"
+    },
+    "foreground": {
+        "hex": "#acafac",
+        "hexterm": "ac/af/ac"
+    },
+    "selection": {
+        "hex": "#b8bcb9",
+        "hexterm": "b8/bc/b9"
+    },
+    "selection-text": {
+        "hex": "#3a3c43",
+        "hexterm": "3a/3c/43"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Dimmed Monokai",
     "theme-slug": "dimmed-monokai",

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#201602",
-    "ansi-1-hex": "#c35359",
-    "ansi-10-hex": "#18974e",
-    "ansi-11-hex": "#a88339",
-    "ansi-12-hex": "#477ca1",
-    "ansi-13-hex": "#8868b3",
-    "ansi-14-hex": "#75a738",
-    "ansi-15-hex": "#faf0a5",
-    "ansi-2-hex": "#18974e",
-    "ansi-3-hex": "#a88339",
-    "ansi-4-hex": "#477ca1",
-    "ansi-5-hex": "#8868b3",
-    "ansi-6-hex": "#75a738",
-    "ansi-7-hex": "#948e48",
-    "ansi-8-hex": "#6c6823",
-    "ansi-9-hex": "#c35359",
-    "background-hex": "#201602",
-    "cursor-hex": "#948e48",
-    "foreground-hex": "#948e48",
-    "selection-hex": "#ccc37a",
-    "selection-text-hex": "#302e00",
+    "ansi-0": {
+        "hex": "#201602",
+        "hexterm": "20/16/02"
+    },
+    "ansi-1": {
+        "hex": "#c35359",
+        "hexterm": "c3/53/59"
+    },
+    "ansi-10": {
+        "hex": "#18974e",
+        "hexterm": "18/97/4e"
+    },
+    "ansi-11": {
+        "hex": "#a88339",
+        "hexterm": "a8/83/39"
+    },
+    "ansi-12": {
+        "hex": "#477ca1",
+        "hexterm": "47/7c/a1"
+    },
+    "ansi-13": {
+        "hex": "#8868b3",
+        "hexterm": "88/68/b3"
+    },
+    "ansi-14": {
+        "hex": "#75a738",
+        "hexterm": "75/a7/38"
+    },
+    "ansi-15": {
+        "hex": "#faf0a5",
+        "hexterm": "fa/f0/a5"
+    },
+    "ansi-2": {
+        "hex": "#18974e",
+        "hexterm": "18/97/4e"
+    },
+    "ansi-3": {
+        "hex": "#a88339",
+        "hexterm": "a8/83/39"
+    },
+    "ansi-4": {
+        "hex": "#477ca1",
+        "hexterm": "47/7c/a1"
+    },
+    "ansi-5": {
+        "hex": "#8868b3",
+        "hexterm": "88/68/b3"
+    },
+    "ansi-6": {
+        "hex": "#75a738",
+        "hexterm": "75/a7/38"
+    },
+    "ansi-7": {
+        "hex": "#948e48",
+        "hexterm": "94/8e/48"
+    },
+    "ansi-8": {
+        "hex": "#6c6823",
+        "hexterm": "6c/68/23"
+    },
+    "ansi-9": {
+        "hex": "#c35359",
+        "hexterm": "c3/53/59"
+    },
+    "background": {
+        "hex": "#201602",
+        "hexterm": "20/16/02"
+    },
+    "cursor": {
+        "hex": "#948e48",
+        "hexterm": "94/8e/48"
+    },
+    "foreground": {
+        "hex": "#948e48",
+        "hexterm": "94/8e/48"
+    },
+    "selection": {
+        "hex": "#ccc37a",
+        "hexterm": "cc/c3/7a"
+    },
+    "selection-text": {
+        "hex": "#302e00",
+        "hexterm": "30/2e/00"
+    },
     "theme-author": "Alexandre Gavioli (http://github.com/Alexx2/)",
     "theme-name": "Marrakesh",
     "theme-slug": "marrakesh",

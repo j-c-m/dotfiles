@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#dbdbdb",
-    "ansi-1-hex": "#cc5450",
-    "ansi-10-hex": "#71983b",
-    "ansi-11-hex": "#307878",
-    "ansi-12-hex": "#376388",
-    "ansi-13-hex": "#d7ab54",
-    "ansi-14-hex": "#c57d42",
-    "ansi-15-hex": "#e4e4e4",
-    "ansi-2-hex": "#71983b",
-    "ansi-3-hex": "#307878",
-    "ansi-4-hex": "#376388",
-    "ansi-5-hex": "#d7ab54",
-    "ansi-6-hex": "#c57d42",
-    "ansi-7-hex": "#232323",
-    "ansi-8-hex": "#4e4e4e",
-    "ansi-9-hex": "#cc5450",
-    "background-hex": "#dbdbdb",
-    "cursor-hex": "#232323",
-    "foreground-hex": "#232323",
-    "selection-hex": "#1c1c1c",
-    "selection-text-hex": "#e4e4e4",
+    "ansi-0": {
+        "hex": "#dbdbdb",
+        "hexterm": "db/db/db"
+    },
+    "ansi-1": {
+        "hex": "#cc5450",
+        "hexterm": "cc/54/50"
+    },
+    "ansi-10": {
+        "hex": "#71983b",
+        "hexterm": "71/98/3b"
+    },
+    "ansi-11": {
+        "hex": "#307878",
+        "hexterm": "30/78/78"
+    },
+    "ansi-12": {
+        "hex": "#376388",
+        "hexterm": "37/63/88"
+    },
+    "ansi-13": {
+        "hex": "#d7ab54",
+        "hexterm": "d7/ab/54"
+    },
+    "ansi-14": {
+        "hex": "#c57d42",
+        "hexterm": "c5/7d/42"
+    },
+    "ansi-15": {
+        "hex": "#e4e4e4",
+        "hexterm": "e4/e4/e4"
+    },
+    "ansi-2": {
+        "hex": "#71983b",
+        "hexterm": "71/98/3b"
+    },
+    "ansi-3": {
+        "hex": "#307878",
+        "hexterm": "30/78/78"
+    },
+    "ansi-4": {
+        "hex": "#376388",
+        "hexterm": "37/63/88"
+    },
+    "ansi-5": {
+        "hex": "#d7ab54",
+        "hexterm": "d7/ab/54"
+    },
+    "ansi-6": {
+        "hex": "#c57d42",
+        "hexterm": "c5/7d/42"
+    },
+    "ansi-7": {
+        "hex": "#232323",
+        "hexterm": "23/23/23"
+    },
+    "ansi-8": {
+        "hex": "#4e4e4e",
+        "hexterm": "4e/4e/4e"
+    },
+    "ansi-9": {
+        "hex": "#cc5450",
+        "hexterm": "cc/54/50"
+    },
+    "background": {
+        "hex": "#dbdbdb",
+        "hexterm": "db/db/db"
+    },
+    "cursor": {
+        "hex": "#232323",
+        "hexterm": "23/23/23"
+    },
+    "foreground": {
+        "hex": "#232323",
+        "hexterm": "23/23/23"
+    },
+    "selection": {
+        "hex": "#1c1c1c",
+        "hexterm": "1c/1c/1c"
+    },
+    "selection-text": {
+        "hex": "#e4e4e4",
+        "hexterm": "e4/e4/e4"
+    },
     "theme-author": "Kyle Giammarco (http://kyle.giammar.co)",
     "theme-name": "ShadeSmear Light",
     "theme-slug": "shadesmear-light",

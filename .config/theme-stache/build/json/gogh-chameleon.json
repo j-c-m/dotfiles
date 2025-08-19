@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#2c2c2c",
-    "ansi-1-hex": "#cc231c",
-    "ansi-10-hex": "#689d69",
-    "ansi-11-hex": "#d79922",
-    "ansi-12-hex": "#366b71",
-    "ansi-13-hex": "#4e5165",
-    "ansi-14-hex": "#458587",
-    "ansi-15-hex": "#c8bb97",
-    "ansi-2-hex": "#689d69",
-    "ansi-3-hex": "#d79922",
-    "ansi-4-hex": "#366b71",
-    "ansi-5-hex": "#4e5165",
-    "ansi-6-hex": "#458587",
-    "ansi-7-hex": "#c8bb97",
-    "ansi-8-hex": "#777777",
-    "ansi-9-hex": "#cc231c",
-    "background-hex": "#2c2c2c",
-    "cursor-hex": "#dedede",
-    "foreground-hex": "#dedede",
-    "selection-hex": "#dedede",
-    "selection-text-hex": "#2c2c2c",
+    "ansi-0": {
+        "hex": "#2c2c2c",
+        "hexterm": "2c/2c/2c"
+    },
+    "ansi-1": {
+        "hex": "#cc231c",
+        "hexterm": "cc/23/1c"
+    },
+    "ansi-10": {
+        "hex": "#689d69",
+        "hexterm": "68/9d/69"
+    },
+    "ansi-11": {
+        "hex": "#d79922",
+        "hexterm": "d7/99/22"
+    },
+    "ansi-12": {
+        "hex": "#366b71",
+        "hexterm": "36/6b/71"
+    },
+    "ansi-13": {
+        "hex": "#4e5165",
+        "hexterm": "4e/51/65"
+    },
+    "ansi-14": {
+        "hex": "#458587",
+        "hexterm": "45/85/87"
+    },
+    "ansi-15": {
+        "hex": "#c8bb97",
+        "hexterm": "c8/bb/97"
+    },
+    "ansi-2": {
+        "hex": "#689d69",
+        "hexterm": "68/9d/69"
+    },
+    "ansi-3": {
+        "hex": "#d79922",
+        "hexterm": "d7/99/22"
+    },
+    "ansi-4": {
+        "hex": "#366b71",
+        "hexterm": "36/6b/71"
+    },
+    "ansi-5": {
+        "hex": "#4e5165",
+        "hexterm": "4e/51/65"
+    },
+    "ansi-6": {
+        "hex": "#458587",
+        "hexterm": "45/85/87"
+    },
+    "ansi-7": {
+        "hex": "#c8bb97",
+        "hexterm": "c8/bb/97"
+    },
+    "ansi-8": {
+        "hex": "#777777",
+        "hexterm": "77/77/77"
+    },
+    "ansi-9": {
+        "hex": "#cc231c",
+        "hexterm": "cc/23/1c"
+    },
+    "background": {
+        "hex": "#2c2c2c",
+        "hexterm": "2c/2c/2c"
+    },
+    "cursor": {
+        "hex": "#dedede",
+        "hexterm": "de/de/de"
+    },
+    "foreground": {
+        "hex": "#dedede",
+        "hexterm": "de/de/de"
+    },
+    "selection": {
+        "hex": "#dedede",
+        "hexterm": "de/de/de"
+    },
+    "selection-text": {
+        "hex": "#2c2c2c",
+        "hexterm": "2c/2c/2c"
+    },
     "theme-author": "",
     "theme-name": "Chameleon",
     "theme-slug": "chameleon",

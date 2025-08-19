@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#241200",
-    "ansi-1-hex": "#d5252b",
-    "ansi-10-hex": "#bfc659",
-    "ansi-11-hex": "#ffca1b",
-    "ansi-12-hex": "#7cc9ce",
-    "ansi-13-hex": "#d16349",
-    "ansi-14-hex": "#e6a96b",
-    "ansi-15-hex": "#ffe9a3",
-    "ansi-2-hex": "#909b00",
-    "ansi-3-hex": "#7cc9ce",
-    "ansi-4-hex": "#4698a2",
-    "ansi-5-hex": "#8c4231",
-    "ansi-6-hex": "#d98112",
-    "ansi-7-hex": "#c5ab60",
-    "ansi-8-hex": "#957f58",
-    "ansi-9-hex": "#e4591b",
-    "background-hex": "#241200",
-    "cursor-hex": "#c5ab60",
-    "foreground-hex": "#c5ab60",
-    "selection-hex": "#ddc165",
-    "selection-text-hex": "#000000",
+    "ansi-0": {
+        "hex": "#241200",
+        "hexterm": "24/12/00"
+    },
+    "ansi-1": {
+        "hex": "#d5252b",
+        "hexterm": "d5/25/2b"
+    },
+    "ansi-10": {
+        "hex": "#bfc659",
+        "hexterm": "bf/c6/59"
+    },
+    "ansi-11": {
+        "hex": "#ffca1b",
+        "hexterm": "ff/ca/1b"
+    },
+    "ansi-12": {
+        "hex": "#7cc9ce",
+        "hexterm": "7c/c9/ce"
+    },
+    "ansi-13": {
+        "hex": "#d16349",
+        "hexterm": "d1/63/49"
+    },
+    "ansi-14": {
+        "hex": "#e6a96b",
+        "hexterm": "e6/a9/6b"
+    },
+    "ansi-15": {
+        "hex": "#ffe9a3",
+        "hexterm": "ff/e9/a3"
+    },
+    "ansi-2": {
+        "hex": "#909b00",
+        "hexterm": "90/9b/00"
+    },
+    "ansi-3": {
+        "hex": "#7cc9ce",
+        "hexterm": "7c/c9/ce"
+    },
+    "ansi-4": {
+        "hex": "#4698a2",
+        "hexterm": "46/98/a2"
+    },
+    "ansi-5": {
+        "hex": "#8c4231",
+        "hexterm": "8c/42/31"
+    },
+    "ansi-6": {
+        "hex": "#d98112",
+        "hexterm": "d9/81/12"
+    },
+    "ansi-7": {
+        "hex": "#c5ab60",
+        "hexterm": "c5/ab/60"
+    },
+    "ansi-8": {
+        "hex": "#957f58",
+        "hexterm": "95/7f/58"
+    },
+    "ansi-9": {
+        "hex": "#e4591b",
+        "hexterm": "e4/59/1b"
+    },
+    "background": {
+        "hex": "#241200",
+        "hexterm": "24/12/00"
+    },
+    "cursor": {
+        "hex": "#c5ab60",
+        "hexterm": "c5/ab/60"
+    },
+    "foreground": {
+        "hex": "#c5ab60",
+        "hexterm": "c5/ab/60"
+    },
+    "selection": {
+        "hex": "#ddc165",
+        "hexterm": "dd/c1/65"
+    },
+    "selection-text": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Fun Forrest",
     "theme-slug": "fun-forrest",

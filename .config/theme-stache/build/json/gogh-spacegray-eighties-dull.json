@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#15171c",
-    "ansi-1-hex": "#b24a56",
-    "ansi-10-hex": "#89e986",
-    "ansi-11-hex": "#fec254",
-    "ansi-12-hex": "#5486c0",
-    "ansi-13-hex": "#bf83c1",
-    "ansi-14-hex": "#58c2c1",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#92b477",
-    "ansi-3-hex": "#c6735a",
-    "ansi-4-hex": "#7c8fa5",
-    "ansi-5-hex": "#a5789e",
-    "ansi-6-hex": "#80cdcb",
-    "ansi-7-hex": "#b3b8c3",
-    "ansi-8-hex": "#555555",
-    "ansi-9-hex": "#ec5f67",
-    "background-hex": "#222222",
-    "cursor-hex": "#c9c6bc",
-    "foreground-hex": "#c9c6bc",
-    "selection-hex": "#c9c6bc",
-    "selection-text-hex": "#222222",
+    "ansi-0": {
+        "hex": "#15171c",
+        "hexterm": "15/17/1c"
+    },
+    "ansi-1": {
+        "hex": "#b24a56",
+        "hexterm": "b2/4a/56"
+    },
+    "ansi-10": {
+        "hex": "#89e986",
+        "hexterm": "89/e9/86"
+    },
+    "ansi-11": {
+        "hex": "#fec254",
+        "hexterm": "fe/c2/54"
+    },
+    "ansi-12": {
+        "hex": "#5486c0",
+        "hexterm": "54/86/c0"
+    },
+    "ansi-13": {
+        "hex": "#bf83c1",
+        "hexterm": "bf/83/c1"
+    },
+    "ansi-14": {
+        "hex": "#58c2c1",
+        "hexterm": "58/c2/c1"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#92b477",
+        "hexterm": "92/b4/77"
+    },
+    "ansi-3": {
+        "hex": "#c6735a",
+        "hexterm": "c6/73/5a"
+    },
+    "ansi-4": {
+        "hex": "#7c8fa5",
+        "hexterm": "7c/8f/a5"
+    },
+    "ansi-5": {
+        "hex": "#a5789e",
+        "hexterm": "a5/78/9e"
+    },
+    "ansi-6": {
+        "hex": "#80cdcb",
+        "hexterm": "80/cd/cb"
+    },
+    "ansi-7": {
+        "hex": "#b3b8c3",
+        "hexterm": "b3/b8/c3"
+    },
+    "ansi-8": {
+        "hex": "#555555",
+        "hexterm": "55/55/55"
+    },
+    "ansi-9": {
+        "hex": "#ec5f67",
+        "hexterm": "ec/5f/67"
+    },
+    "background": {
+        "hex": "#222222",
+        "hexterm": "22/22/22"
+    },
+    "cursor": {
+        "hex": "#c9c6bc",
+        "hexterm": "c9/c6/bc"
+    },
+    "foreground": {
+        "hex": "#c9c6bc",
+        "hexterm": "c9/c6/bc"
+    },
+    "selection": {
+        "hex": "#c9c6bc",
+        "hexterm": "c9/c6/bc"
+    },
+    "selection-text": {
+        "hex": "#222222",
+        "hexterm": "22/22/22"
+    },
     "theme-author": "",
     "theme-name": "Spacegray Eighties Dull",
     "theme-slug": "spacegray-eighties-dull",

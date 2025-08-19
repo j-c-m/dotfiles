@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#fbf7f0",
-    "ansi-1-hex": "#a60000",
-    "ansi-10-hex": "#008900",
-    "ansi-11-hex": "#808000",
-    "ansi-12-hex": "#0000ff",
-    "ansi-13-hex": "#dd22dd",
-    "ansi-14-hex": "#008899",
-    "ansi-15-hex": "#595959",
-    "ansi-2-hex": "#006800",
-    "ansi-3-hex": "#6f5500",
-    "ansi-4-hex": "#0031a9",
-    "ansi-5-hex": "#721045",
-    "ansi-6-hex": "#005e8b",
-    "ansi-7-hex": "#000000",
-    "ansi-8-hex": "#efe9dd",
-    "ansi-9-hex": "#d00000",
-    "background-hex": "#fbf7f0",
-    "cursor-hex": "#000000",
-    "foreground-hex": "#000000",
-    "selection-hex": "#000000",
-    "selection-text-hex": "#fbf7f0",
+    "ansi-0": {
+        "hex": "#fbf7f0",
+        "hexterm": "fb/f7/f0"
+    },
+    "ansi-1": {
+        "hex": "#a60000",
+        "hexterm": "a6/00/00"
+    },
+    "ansi-10": {
+        "hex": "#008900",
+        "hexterm": "00/89/00"
+    },
+    "ansi-11": {
+        "hex": "#808000",
+        "hexterm": "80/80/00"
+    },
+    "ansi-12": {
+        "hex": "#0000ff",
+        "hexterm": "00/00/ff"
+    },
+    "ansi-13": {
+        "hex": "#dd22dd",
+        "hexterm": "dd/22/dd"
+    },
+    "ansi-14": {
+        "hex": "#008899",
+        "hexterm": "00/88/99"
+    },
+    "ansi-15": {
+        "hex": "#595959",
+        "hexterm": "59/59/59"
+    },
+    "ansi-2": {
+        "hex": "#006800",
+        "hexterm": "00/68/00"
+    },
+    "ansi-3": {
+        "hex": "#6f5500",
+        "hexterm": "6f/55/00"
+    },
+    "ansi-4": {
+        "hex": "#0031a9",
+        "hexterm": "00/31/a9"
+    },
+    "ansi-5": {
+        "hex": "#721045",
+        "hexterm": "72/10/45"
+    },
+    "ansi-6": {
+        "hex": "#005e8b",
+        "hexterm": "00/5e/8b"
+    },
+    "ansi-7": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-8": {
+        "hex": "#efe9dd",
+        "hexterm": "ef/e9/dd"
+    },
+    "ansi-9": {
+        "hex": "#d00000",
+        "hexterm": "d0/00/00"
+    },
+    "background": {
+        "hex": "#fbf7f0",
+        "hexterm": "fb/f7/f0"
+    },
+    "cursor": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "foreground": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "selection": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "selection-text": {
+        "hex": "#fbf7f0",
+        "hexterm": "fb/f7/f0"
+    },
     "theme-author": "",
     "theme-name": "Modus Operandi Tinted",
     "theme-slug": "modus-operandi-tinted",

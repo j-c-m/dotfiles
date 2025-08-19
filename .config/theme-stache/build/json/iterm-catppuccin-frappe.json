@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#51576d",
-    "ansi-1-hex": "#e78284",
-    "ansi-10-hex": "#8ec772",
-    "ansi-11-hex": "#d9ba73",
-    "ansi-12-hex": "#7b9ef0",
-    "ansi-13-hex": "#f2a4db",
-    "ansi-14-hex": "#5abfb5",
-    "ansi-15-hex": "#b5bfe2",
-    "ansi-2-hex": "#a6d189",
-    "ansi-3-hex": "#e5c890",
-    "ansi-4-hex": "#8caaee",
-    "ansi-5-hex": "#f4b8e4",
-    "ansi-6-hex": "#81c8be",
-    "ansi-7-hex": "#a5adce",
-    "ansi-8-hex": "#626880",
-    "ansi-9-hex": "#e67172",
-    "background-hex": "#303446",
-    "cursor-hex": "#f2d5cf",
-    "foreground-hex": "#c6d0f5",
-    "selection-hex": "#626880",
-    "selection-text-hex": "#c6d0f5",
+    "ansi-0": {
+        "hex": "#51576d",
+        "hexterm": "51/57/6d"
+    },
+    "ansi-1": {
+        "hex": "#e78284",
+        "hexterm": "e7/82/84"
+    },
+    "ansi-10": {
+        "hex": "#8ec772",
+        "hexterm": "8e/c7/72"
+    },
+    "ansi-11": {
+        "hex": "#d9ba73",
+        "hexterm": "d9/ba/73"
+    },
+    "ansi-12": {
+        "hex": "#7b9ef0",
+        "hexterm": "7b/9e/f0"
+    },
+    "ansi-13": {
+        "hex": "#f2a4db",
+        "hexterm": "f2/a4/db"
+    },
+    "ansi-14": {
+        "hex": "#5abfb5",
+        "hexterm": "5a/bf/b5"
+    },
+    "ansi-15": {
+        "hex": "#b5bfe2",
+        "hexterm": "b5/bf/e2"
+    },
+    "ansi-2": {
+        "hex": "#a6d189",
+        "hexterm": "a6/d1/89"
+    },
+    "ansi-3": {
+        "hex": "#e5c890",
+        "hexterm": "e5/c8/90"
+    },
+    "ansi-4": {
+        "hex": "#8caaee",
+        "hexterm": "8c/aa/ee"
+    },
+    "ansi-5": {
+        "hex": "#f4b8e4",
+        "hexterm": "f4/b8/e4"
+    },
+    "ansi-6": {
+        "hex": "#81c8be",
+        "hexterm": "81/c8/be"
+    },
+    "ansi-7": {
+        "hex": "#a5adce",
+        "hexterm": "a5/ad/ce"
+    },
+    "ansi-8": {
+        "hex": "#626880",
+        "hexterm": "62/68/80"
+    },
+    "ansi-9": {
+        "hex": "#e67172",
+        "hexterm": "e6/71/72"
+    },
+    "background": {
+        "hex": "#303446",
+        "hexterm": "30/34/46"
+    },
+    "cursor": {
+        "hex": "#f2d5cf",
+        "hexterm": "f2/d5/cf"
+    },
+    "foreground": {
+        "hex": "#c6d0f5",
+        "hexterm": "c6/d0/f5"
+    },
+    "selection": {
+        "hex": "#626880",
+        "hexterm": "62/68/80"
+    },
+    "selection-text": {
+        "hex": "#c6d0f5",
+        "hexterm": "c6/d0/f5"
+    },
     "theme-author": "unknown",
     "theme-name": "catppuccin-frappe",
     "theme-slug": "catppuccin-frappe",

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1f2229",
-    "ansi-1-hex": "#d41919",
-    "ansi-10-hex": "#47d4b9",
-    "ansi-11-hex": "#ff8a18",
-    "ansi-12-hex": "#277fff",
-    "ansi-13-hex": "#d71655",
-    "ansi-14-hex": "#05a1f7",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#5ebdab",
-    "ansi-3-hex": "#fea44c",
-    "ansi-4-hex": "#367bf0",
-    "ansi-5-hex": "#bf2e5d",
-    "ansi-6-hex": "#49aee6",
-    "ansi-7-hex": "#e6e6e6",
-    "ansi-8-hex": "#8c42ab",
-    "ansi-9-hex": "#ec0101",
-    "background-hex": "#272a34",
-    "cursor-hex": "#ffffff",
-    "foreground-hex": "#ffffff",
-    "selection-hex": "#ffffff",
-    "selection-text-hex": "#272a34",
+    "ansi-0": {
+        "hex": "#1f2229",
+        "hexterm": "1f/22/29"
+    },
+    "ansi-1": {
+        "hex": "#d41919",
+        "hexterm": "d4/19/19"
+    },
+    "ansi-10": {
+        "hex": "#47d4b9",
+        "hexterm": "47/d4/b9"
+    },
+    "ansi-11": {
+        "hex": "#ff8a18",
+        "hexterm": "ff/8a/18"
+    },
+    "ansi-12": {
+        "hex": "#277fff",
+        "hexterm": "27/7f/ff"
+    },
+    "ansi-13": {
+        "hex": "#d71655",
+        "hexterm": "d7/16/55"
+    },
+    "ansi-14": {
+        "hex": "#05a1f7",
+        "hexterm": "05/a1/f7"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#5ebdab",
+        "hexterm": "5e/bd/ab"
+    },
+    "ansi-3": {
+        "hex": "#fea44c",
+        "hexterm": "fe/a4/4c"
+    },
+    "ansi-4": {
+        "hex": "#367bf0",
+        "hexterm": "36/7b/f0"
+    },
+    "ansi-5": {
+        "hex": "#bf2e5d",
+        "hexterm": "bf/2e/5d"
+    },
+    "ansi-6": {
+        "hex": "#49aee6",
+        "hexterm": "49/ae/e6"
+    },
+    "ansi-7": {
+        "hex": "#e6e6e6",
+        "hexterm": "e6/e6/e6"
+    },
+    "ansi-8": {
+        "hex": "#8c42ab",
+        "hexterm": "8c/42/ab"
+    },
+    "ansi-9": {
+        "hex": "#ec0101",
+        "hexterm": "ec/01/01"
+    },
+    "background": {
+        "hex": "#272a34",
+        "hexterm": "27/2a/34"
+    },
+    "cursor": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "foreground": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "selection": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "selection-text": {
+        "hex": "#272a34",
+        "hexterm": "27/2a/34"
+    },
     "theme-author": "",
     "theme-name": "Flat Remix",
     "theme-slug": "flat-remix",

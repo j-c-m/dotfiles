@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#2d2d2d",
-    "ansi-1-hex": "#f2777a",
-    "ansi-10-hex": "#99cc99",
-    "ansi-11-hex": "#ffcc66",
-    "ansi-12-hex": "#6699cc",
-    "ansi-13-hex": "#cc99cc",
-    "ansi-14-hex": "#66cccc",
-    "ansi-15-hex": "#f2f0ec",
-    "ansi-2-hex": "#99cc99",
-    "ansi-3-hex": "#ffcc66",
-    "ansi-4-hex": "#6699cc",
-    "ansi-5-hex": "#cc99cc",
-    "ansi-6-hex": "#66cccc",
-    "ansi-7-hex": "#d3d0c8",
-    "ansi-8-hex": "#747369",
-    "ansi-9-hex": "#f2777a",
-    "background-hex": "#2d2d2d",
-    "cursor-hex": "#d3d0c8",
-    "foreground-hex": "#d3d0c8",
-    "selection-hex": "#e8e6df",
-    "selection-text-hex": "#393939",
+    "ansi-0": {
+        "hex": "#2d2d2d",
+        "hexterm": "2d/2d/2d"
+    },
+    "ansi-1": {
+        "hex": "#f2777a",
+        "hexterm": "f2/77/7a"
+    },
+    "ansi-10": {
+        "hex": "#99cc99",
+        "hexterm": "99/cc/99"
+    },
+    "ansi-11": {
+        "hex": "#ffcc66",
+        "hexterm": "ff/cc/66"
+    },
+    "ansi-12": {
+        "hex": "#6699cc",
+        "hexterm": "66/99/cc"
+    },
+    "ansi-13": {
+        "hex": "#cc99cc",
+        "hexterm": "cc/99/cc"
+    },
+    "ansi-14": {
+        "hex": "#66cccc",
+        "hexterm": "66/cc/cc"
+    },
+    "ansi-15": {
+        "hex": "#f2f0ec",
+        "hexterm": "f2/f0/ec"
+    },
+    "ansi-2": {
+        "hex": "#99cc99",
+        "hexterm": "99/cc/99"
+    },
+    "ansi-3": {
+        "hex": "#ffcc66",
+        "hexterm": "ff/cc/66"
+    },
+    "ansi-4": {
+        "hex": "#6699cc",
+        "hexterm": "66/99/cc"
+    },
+    "ansi-5": {
+        "hex": "#cc99cc",
+        "hexterm": "cc/99/cc"
+    },
+    "ansi-6": {
+        "hex": "#66cccc",
+        "hexterm": "66/cc/cc"
+    },
+    "ansi-7": {
+        "hex": "#d3d0c8",
+        "hexterm": "d3/d0/c8"
+    },
+    "ansi-8": {
+        "hex": "#747369",
+        "hexterm": "74/73/69"
+    },
+    "ansi-9": {
+        "hex": "#f2777a",
+        "hexterm": "f2/77/7a"
+    },
+    "background": {
+        "hex": "#2d2d2d",
+        "hexterm": "2d/2d/2d"
+    },
+    "cursor": {
+        "hex": "#d3d0c8",
+        "hexterm": "d3/d0/c8"
+    },
+    "foreground": {
+        "hex": "#d3d0c8",
+        "hexterm": "d3/d0/c8"
+    },
+    "selection": {
+        "hex": "#e8e6df",
+        "hexterm": "e8/e6/df"
+    },
+    "selection-text": {
+        "hex": "#393939",
+        "hexterm": "39/39/39"
+    },
     "theme-author": "Chris Kempson (http://chriskempson.com)",
     "theme-name": "Eighties",
     "theme-slug": "eighties",

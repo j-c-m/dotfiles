@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#20201d",
-    "ansi-1-hex": "#d73737",
-    "ansi-10-hex": "#60ac39",
-    "ansi-11-hex": "#ae9513",
-    "ansi-12-hex": "#6684e1",
-    "ansi-13-hex": "#b854d4",
-    "ansi-14-hex": "#1fad83",
-    "ansi-15-hex": "#fefbec",
-    "ansi-2-hex": "#60ac39",
-    "ansi-3-hex": "#ae9513",
-    "ansi-4-hex": "#6684e1",
-    "ansi-5-hex": "#b854d4",
-    "ansi-6-hex": "#1fad83",
-    "ansi-7-hex": "#a6a28c",
-    "ansi-8-hex": "#7d7a68",
-    "ansi-9-hex": "#b65611",
-    "background-hex": "#20201d",
-    "cursor-hex": "#999580",
-    "foreground-hex": "#999580",
-    "selection-hex": "#999580",
-    "selection-text-hex": "#20201d",
+    "ansi-0": {
+        "hex": "#20201d",
+        "hexterm": "20/20/1d"
+    },
+    "ansi-1": {
+        "hex": "#d73737",
+        "hexterm": "d7/37/37"
+    },
+    "ansi-10": {
+        "hex": "#60ac39",
+        "hexterm": "60/ac/39"
+    },
+    "ansi-11": {
+        "hex": "#ae9513",
+        "hexterm": "ae/95/13"
+    },
+    "ansi-12": {
+        "hex": "#6684e1",
+        "hexterm": "66/84/e1"
+    },
+    "ansi-13": {
+        "hex": "#b854d4",
+        "hexterm": "b8/54/d4"
+    },
+    "ansi-14": {
+        "hex": "#1fad83",
+        "hexterm": "1f/ad/83"
+    },
+    "ansi-15": {
+        "hex": "#fefbec",
+        "hexterm": "fe/fb/ec"
+    },
+    "ansi-2": {
+        "hex": "#60ac39",
+        "hexterm": "60/ac/39"
+    },
+    "ansi-3": {
+        "hex": "#ae9513",
+        "hexterm": "ae/95/13"
+    },
+    "ansi-4": {
+        "hex": "#6684e1",
+        "hexterm": "66/84/e1"
+    },
+    "ansi-5": {
+        "hex": "#b854d4",
+        "hexterm": "b8/54/d4"
+    },
+    "ansi-6": {
+        "hex": "#1fad83",
+        "hexterm": "1f/ad/83"
+    },
+    "ansi-7": {
+        "hex": "#a6a28c",
+        "hexterm": "a6/a2/8c"
+    },
+    "ansi-8": {
+        "hex": "#7d7a68",
+        "hexterm": "7d/7a/68"
+    },
+    "ansi-9": {
+        "hex": "#b65611",
+        "hexterm": "b6/56/11"
+    },
+    "background": {
+        "hex": "#20201d",
+        "hexterm": "20/20/1d"
+    },
+    "cursor": {
+        "hex": "#999580",
+        "hexterm": "99/95/80"
+    },
+    "foreground": {
+        "hex": "#999580",
+        "hexterm": "99/95/80"
+    },
+    "selection": {
+        "hex": "#999580",
+        "hexterm": "99/95/80"
+    },
+    "selection-text": {
+        "hex": "#20201d",
+        "hexterm": "20/20/1d"
+    },
     "theme-author": "Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/dune)",
     "theme-name": "Atelier Dune",
     "theme-slug": "atelier-dune",

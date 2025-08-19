@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#2c2423",
-    "ansi-1-hex": "#f557a0",
-    "ansi-10-hex": "#bbee78",
-    "ansi-11-hex": "#f5b378",
-    "ansi-12-hex": "#81b3ec",
-    "ansi-13-hex": "#bb79ec",
-    "ansi-14-hex": "#81eeb2",
-    "ansi-15-hex": "#f5eeec",
-    "ansi-2-hex": "#a9ee55",
-    "ansi-3-hex": "#f5a255",
-    "ansi-4-hex": "#5ea2ec",
-    "ansi-5-hex": "#a957ec",
-    "ansi-6-hex": "#5eeea0",
-    "ansi-7-hex": "#918988",
-    "ansi-8-hex": "#918988",
-    "ansi-9-hex": "#f579b2",
-    "background-hex": "#012849",
-    "cursor-hex": "#a9bed8",
-    "foreground-hex": "#a9bed8",
-    "selection-hex": "#a9bed8",
-    "selection-text-hex": "#012849",
+    "ansi-0": {
+        "hex": "#2c2423",
+        "hexterm": "2c/24/23"
+    },
+    "ansi-1": {
+        "hex": "#f557a0",
+        "hexterm": "f5/57/a0"
+    },
+    "ansi-10": {
+        "hex": "#bbee78",
+        "hexterm": "bb/ee/78"
+    },
+    "ansi-11": {
+        "hex": "#f5b378",
+        "hexterm": "f5/b3/78"
+    },
+    "ansi-12": {
+        "hex": "#81b3ec",
+        "hexterm": "81/b3/ec"
+    },
+    "ansi-13": {
+        "hex": "#bb79ec",
+        "hexterm": "bb/79/ec"
+    },
+    "ansi-14": {
+        "hex": "#81eeb2",
+        "hexterm": "81/ee/b2"
+    },
+    "ansi-15": {
+        "hex": "#f5eeec",
+        "hexterm": "f5/ee/ec"
+    },
+    "ansi-2": {
+        "hex": "#a9ee55",
+        "hexterm": "a9/ee/55"
+    },
+    "ansi-3": {
+        "hex": "#f5a255",
+        "hexterm": "f5/a2/55"
+    },
+    "ansi-4": {
+        "hex": "#5ea2ec",
+        "hexterm": "5e/a2/ec"
+    },
+    "ansi-5": {
+        "hex": "#a957ec",
+        "hexterm": "a9/57/ec"
+    },
+    "ansi-6": {
+        "hex": "#5eeea0",
+        "hexterm": "5e/ee/a0"
+    },
+    "ansi-7": {
+        "hex": "#918988",
+        "hexterm": "91/89/88"
+    },
+    "ansi-8": {
+        "hex": "#918988",
+        "hexterm": "91/89/88"
+    },
+    "ansi-9": {
+        "hex": "#f579b2",
+        "hexterm": "f5/79/b2"
+    },
+    "background": {
+        "hex": "#012849",
+        "hexterm": "01/28/49"
+    },
+    "cursor": {
+        "hex": "#a9bed8",
+        "hexterm": "a9/be/d8"
+    },
+    "foreground": {
+        "hex": "#a9bed8",
+        "hexterm": "a9/be/d8"
+    },
+    "selection": {
+        "hex": "#a9bed8",
+        "hexterm": "a9/be/d8"
+    },
+    "selection-text": {
+        "hex": "#012849",
+        "hexterm": "01/28/49"
+    },
     "theme-author": "",
     "theme-name": "Bim",
     "theme-slug": "bim",

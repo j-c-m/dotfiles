@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#20084a",
-    "ansi-1-hex": "#ff260d",
-    "ansi-10-hex": "#b8e36d",
-    "ansi-11-hex": "#ffd852",
-    "ansi-12-hex": "#00a5ff",
-    "ansi-13-hex": "#ab7aef",
-    "ansi-14-hex": "#74fcf3",
-    "ansi-15-hex": "#feffff",
-    "ansi-2-hex": "#9ae204",
-    "ansi-3-hex": "#00a5ff",
-    "ansi-4-hex": "#00a1f9",
-    "ansi-5-hex": "#805bb5",
-    "ansi-6-hex": "#00ddef",
-    "ansi-7-hex": "#d3d4d4",
-    "ansi-8-hex": "#7f7f7f",
-    "ansi-9-hex": "#ff4250",
-    "background-hex": "#20084a",
-    "cursor-hex": "#d3d4d4",
-    "foreground-hex": "#d3d4d4",
-    "selection-hex": "#feffff",
-    "selection-text-hex": "#000000",
+    "ansi-0": {
+        "hex": "#20084a",
+        "hexterm": "20/08/4a"
+    },
+    "ansi-1": {
+        "hex": "#ff260d",
+        "hexterm": "ff/26/0d"
+    },
+    "ansi-10": {
+        "hex": "#b8e36d",
+        "hexterm": "b8/e3/6d"
+    },
+    "ansi-11": {
+        "hex": "#ffd852",
+        "hexterm": "ff/d8/52"
+    },
+    "ansi-12": {
+        "hex": "#00a5ff",
+        "hexterm": "00/a5/ff"
+    },
+    "ansi-13": {
+        "hex": "#ab7aef",
+        "hexterm": "ab/7a/ef"
+    },
+    "ansi-14": {
+        "hex": "#74fcf3",
+        "hexterm": "74/fc/f3"
+    },
+    "ansi-15": {
+        "hex": "#feffff",
+        "hexterm": "fe/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#9ae204",
+        "hexterm": "9a/e2/04"
+    },
+    "ansi-3": {
+        "hex": "#00a5ff",
+        "hexterm": "00/a5/ff"
+    },
+    "ansi-4": {
+        "hex": "#00a1f9",
+        "hexterm": "00/a1/f9"
+    },
+    "ansi-5": {
+        "hex": "#805bb5",
+        "hexterm": "80/5b/b5"
+    },
+    "ansi-6": {
+        "hex": "#00ddef",
+        "hexterm": "00/dd/ef"
+    },
+    "ansi-7": {
+        "hex": "#d3d4d4",
+        "hexterm": "d3/d4/d4"
+    },
+    "ansi-8": {
+        "hex": "#7f7f7f",
+        "hexterm": "7f/7f/7f"
+    },
+    "ansi-9": {
+        "hex": "#ff4250",
+        "hexterm": "ff/42/50"
+    },
+    "background": {
+        "hex": "#20084a",
+        "hexterm": "20/08/4a"
+    },
+    "cursor": {
+        "hex": "#d3d4d4",
+        "hexterm": "d3/d4/d4"
+    },
+    "foreground": {
+        "hex": "#d3d4d4",
+        "hexterm": "d3/d4/d4"
+    },
+    "selection": {
+        "hex": "#feffff",
+        "hexterm": "fe/ff/ff"
+    },
+    "selection-text": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Purple Rain",
     "theme-slug": "purple-rain",

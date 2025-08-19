@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#fdf0ed",
-    "ansi-1-hex": "#f7939b",
-    "ansi-10-hex": "#94e1b0",
-    "ansi-11-hex": "#fbe0d9",
-    "ansi-12-hex": "#da103f",
-    "ansi-13-hex": "#1d8991",
-    "ansi-14-hex": "#dc3318",
-    "ansi-15-hex": "#201c1d",
-    "ansi-2-hex": "#94e1b0",
-    "ansi-3-hex": "#fbe0d9",
-    "ansi-4-hex": "#da103f",
-    "ansi-5-hex": "#1d8991",
-    "ansi-6-hex": "#dc3318",
-    "ansi-7-hex": "#403c3d",
-    "ansi-8-hex": "#bdb3b1",
-    "ansi-9-hex": "#f7939b",
-    "background-hex": "#fdf0ed",
-    "cursor-hex": "#403c3d",
-    "foreground-hex": "#403c3d",
-    "selection-hex": "#302c2d",
-    "selection-text-hex": "#fadad1",
+    "ansi-0": {
+        "hex": "#fdf0ed",
+        "hexterm": "fd/f0/ed"
+    },
+    "ansi-1": {
+        "hex": "#f7939b",
+        "hexterm": "f7/93/9b"
+    },
+    "ansi-10": {
+        "hex": "#94e1b0",
+        "hexterm": "94/e1/b0"
+    },
+    "ansi-11": {
+        "hex": "#fbe0d9",
+        "hexterm": "fb/e0/d9"
+    },
+    "ansi-12": {
+        "hex": "#da103f",
+        "hexterm": "da/10/3f"
+    },
+    "ansi-13": {
+        "hex": "#1d8991",
+        "hexterm": "1d/89/91"
+    },
+    "ansi-14": {
+        "hex": "#dc3318",
+        "hexterm": "dc/33/18"
+    },
+    "ansi-15": {
+        "hex": "#201c1d",
+        "hexterm": "20/1c/1d"
+    },
+    "ansi-2": {
+        "hex": "#94e1b0",
+        "hexterm": "94/e1/b0"
+    },
+    "ansi-3": {
+        "hex": "#fbe0d9",
+        "hexterm": "fb/e0/d9"
+    },
+    "ansi-4": {
+        "hex": "#da103f",
+        "hexterm": "da/10/3f"
+    },
+    "ansi-5": {
+        "hex": "#1d8991",
+        "hexterm": "1d/89/91"
+    },
+    "ansi-6": {
+        "hex": "#dc3318",
+        "hexterm": "dc/33/18"
+    },
+    "ansi-7": {
+        "hex": "#403c3d",
+        "hexterm": "40/3c/3d"
+    },
+    "ansi-8": {
+        "hex": "#bdb3b1",
+        "hexterm": "bd/b3/b1"
+    },
+    "ansi-9": {
+        "hex": "#f7939b",
+        "hexterm": "f7/93/9b"
+    },
+    "background": {
+        "hex": "#fdf0ed",
+        "hexterm": "fd/f0/ed"
+    },
+    "cursor": {
+        "hex": "#403c3d",
+        "hexterm": "40/3c/3d"
+    },
+    "foreground": {
+        "hex": "#403c3d",
+        "hexterm": "40/3c/3d"
+    },
+    "selection": {
+        "hex": "#302c2d",
+        "hexterm": "30/2c/2d"
+    },
+    "selection-text": {
+        "hex": "#fadad1",
+        "hexterm": "fa/da/d1"
+    },
     "theme-author": "Michaël Ball (http://github.com/michael-ball/)",
     "theme-name": "Horizon Light",
     "theme-slug": "horizon-light",

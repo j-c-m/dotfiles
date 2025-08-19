@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#2a3b4d",
-    "ansi-1-hex": "#c4676c",
-    "ansi-10-hex": "#66ff66",
-    "ansi-11-hex": "#ffff66",
-    "ansi-12-hex": "#15f4ee",
-    "ansi-13-hex": "#9c6cd3",
-    "ansi-14-hex": "#4b8f77",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#66ff66",
-    "ansi-3-hex": "#ffff66",
-    "ansi-4-hex": "#15f4ee",
-    "ansi-5-hex": "#9c6cd3",
-    "ansi-6-hex": "#4b8f77",
-    "ansi-7-hex": "#9fa2a6",
-    "ansi-8-hex": "#55799c",
-    "ansi-9-hex": "#c4676c",
-    "background-hex": "#2a3b4d",
-    "cursor-hex": "#9fa2a6",
-    "foreground-hex": "#9fa2a6",
-    "selection-hex": "#d6d7d9",
-    "selection-text-hex": "#3d566f",
+    "ansi-0": {
+        "hex": "#2a3b4d",
+        "hexterm": "2a/3b/4d"
+    },
+    "ansi-1": {
+        "hex": "#c4676c",
+        "hexterm": "c4/67/6c"
+    },
+    "ansi-10": {
+        "hex": "#66ff66",
+        "hexterm": "66/ff/66"
+    },
+    "ansi-11": {
+        "hex": "#ffff66",
+        "hexterm": "ff/ff/66"
+    },
+    "ansi-12": {
+        "hex": "#15f4ee",
+        "hexterm": "15/f4/ee"
+    },
+    "ansi-13": {
+        "hex": "#9c6cd3",
+        "hexterm": "9c/6c/d3"
+    },
+    "ansi-14": {
+        "hex": "#4b8f77",
+        "hexterm": "4b/8f/77"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#66ff66",
+        "hexterm": "66/ff/66"
+    },
+    "ansi-3": {
+        "hex": "#ffff66",
+        "hexterm": "ff/ff/66"
+    },
+    "ansi-4": {
+        "hex": "#15f4ee",
+        "hexterm": "15/f4/ee"
+    },
+    "ansi-5": {
+        "hex": "#9c6cd3",
+        "hexterm": "9c/6c/d3"
+    },
+    "ansi-6": {
+        "hex": "#4b8f77",
+        "hexterm": "4b/8f/77"
+    },
+    "ansi-7": {
+        "hex": "#9fa2a6",
+        "hexterm": "9f/a2/a6"
+    },
+    "ansi-8": {
+        "hex": "#55799c",
+        "hexterm": "55/79/9c"
+    },
+    "ansi-9": {
+        "hex": "#c4676c",
+        "hexterm": "c4/67/6c"
+    },
+    "background": {
+        "hex": "#2a3b4d",
+        "hexterm": "2a/3b/4d"
+    },
+    "cursor": {
+        "hex": "#9fa2a6",
+        "hexterm": "9f/a2/a6"
+    },
+    "foreground": {
+        "hex": "#9fa2a6",
+        "hexterm": "9f/a2/a6"
+    },
+    "selection": {
+        "hex": "#d6d7d9",
+        "hexterm": "d6/d7/d9"
+    },
+    "selection-text": {
+        "hex": "#3d566f",
+        "hexterm": "3d/56/6f"
+    },
     "theme-author": "kjakapat (https://github.com/kjakapat)",
     "theme-name": "Eva",
     "theme-slug": "eva",

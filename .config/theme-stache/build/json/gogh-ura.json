@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#c21b6f",
-    "ansi-10-hex": "#b9ee84",
-    "ansi-11-hex": "#eeb984",
-    "ansi-12-hex": "#84b9ee",
-    "ansi-13-hex": "#b984ee",
-    "ansi-14-hex": "#84eeb9",
-    "ansi-15-hex": "#e5e5e5",
-    "ansi-2-hex": "#6fc21b",
-    "ansi-3-hex": "#c26f1b",
-    "ansi-4-hex": "#1b6fc2",
-    "ansi-5-hex": "#6f1bc2",
-    "ansi-6-hex": "#1bc26f",
-    "ansi-7-hex": "#808080",
-    "ansi-8-hex": "#808080",
-    "ansi-9-hex": "#ee84b9",
-    "background-hex": "#feffee",
-    "cursor-hex": "#23476a",
-    "foreground-hex": "#23476a",
-    "selection-hex": "#23476a",
-    "selection-text-hex": "#feffee",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#c21b6f",
+        "hexterm": "c2/1b/6f"
+    },
+    "ansi-10": {
+        "hex": "#b9ee84",
+        "hexterm": "b9/ee/84"
+    },
+    "ansi-11": {
+        "hex": "#eeb984",
+        "hexterm": "ee/b9/84"
+    },
+    "ansi-12": {
+        "hex": "#84b9ee",
+        "hexterm": "84/b9/ee"
+    },
+    "ansi-13": {
+        "hex": "#b984ee",
+        "hexterm": "b9/84/ee"
+    },
+    "ansi-14": {
+        "hex": "#84eeb9",
+        "hexterm": "84/ee/b9"
+    },
+    "ansi-15": {
+        "hex": "#e5e5e5",
+        "hexterm": "e5/e5/e5"
+    },
+    "ansi-2": {
+        "hex": "#6fc21b",
+        "hexterm": "6f/c2/1b"
+    },
+    "ansi-3": {
+        "hex": "#c26f1b",
+        "hexterm": "c2/6f/1b"
+    },
+    "ansi-4": {
+        "hex": "#1b6fc2",
+        "hexterm": "1b/6f/c2"
+    },
+    "ansi-5": {
+        "hex": "#6f1bc2",
+        "hexterm": "6f/1b/c2"
+    },
+    "ansi-6": {
+        "hex": "#1bc26f",
+        "hexterm": "1b/c2/6f"
+    },
+    "ansi-7": {
+        "hex": "#808080",
+        "hexterm": "80/80/80"
+    },
+    "ansi-8": {
+        "hex": "#808080",
+        "hexterm": "80/80/80"
+    },
+    "ansi-9": {
+        "hex": "#ee84b9",
+        "hexterm": "ee/84/b9"
+    },
+    "background": {
+        "hex": "#feffee",
+        "hexterm": "fe/ff/ee"
+    },
+    "cursor": {
+        "hex": "#23476a",
+        "hexterm": "23/47/6a"
+    },
+    "foreground": {
+        "hex": "#23476a",
+        "hexterm": "23/47/6a"
+    },
+    "selection": {
+        "hex": "#23476a",
+        "hexterm": "23/47/6a"
+    },
+    "selection-text": {
+        "hex": "#feffee",
+        "hexterm": "fe/ff/ee"
+    },
     "theme-author": "",
     "theme-name": "Ura",
     "theme-slug": "ura",

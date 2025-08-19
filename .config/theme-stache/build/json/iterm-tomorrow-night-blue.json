@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#ff9da3",
-    "ansi-10-hex": "#d0f0a8",
-    "ansi-11-hex": "#ffedac",
-    "ansi-12-hex": "#badaff",
-    "ansi-13-hex": "#ebbaff",
-    "ansi-14-hex": "#99ffff",
-    "ansi-15-hex": "#fffefe",
-    "ansi-2-hex": "#d1f1a9",
-    "ansi-3-hex": "#ffeead",
-    "ansi-4-hex": "#bbdaff",
-    "ansi-5-hex": "#ebbbff",
-    "ansi-6-hex": "#99ffff",
-    "ansi-7-hex": "#fffefe",
-    "ansi-8-hex": "#000000",
-    "ansi-9-hex": "#ff9ca3",
-    "background-hex": "#002451",
-    "cursor-hex": "#fffefe",
-    "foreground-hex": "#fffefe",
-    "selection-hex": "#003f8e",
-    "selection-text-hex": "#fffefe",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#ff9da3",
+        "hexterm": "ff/9d/a3"
+    },
+    "ansi-10": {
+        "hex": "#d0f0a8",
+        "hexterm": "d0/f0/a8"
+    },
+    "ansi-11": {
+        "hex": "#ffedac",
+        "hexterm": "ff/ed/ac"
+    },
+    "ansi-12": {
+        "hex": "#badaff",
+        "hexterm": "ba/da/ff"
+    },
+    "ansi-13": {
+        "hex": "#ebbaff",
+        "hexterm": "eb/ba/ff"
+    },
+    "ansi-14": {
+        "hex": "#99ffff",
+        "hexterm": "99/ff/ff"
+    },
+    "ansi-15": {
+        "hex": "#fffefe",
+        "hexterm": "ff/fe/fe"
+    },
+    "ansi-2": {
+        "hex": "#d1f1a9",
+        "hexterm": "d1/f1/a9"
+    },
+    "ansi-3": {
+        "hex": "#ffeead",
+        "hexterm": "ff/ee/ad"
+    },
+    "ansi-4": {
+        "hex": "#bbdaff",
+        "hexterm": "bb/da/ff"
+    },
+    "ansi-5": {
+        "hex": "#ebbbff",
+        "hexterm": "eb/bb/ff"
+    },
+    "ansi-6": {
+        "hex": "#99ffff",
+        "hexterm": "99/ff/ff"
+    },
+    "ansi-7": {
+        "hex": "#fffefe",
+        "hexterm": "ff/fe/fe"
+    },
+    "ansi-8": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-9": {
+        "hex": "#ff9ca3",
+        "hexterm": "ff/9c/a3"
+    },
+    "background": {
+        "hex": "#002451",
+        "hexterm": "00/24/51"
+    },
+    "cursor": {
+        "hex": "#fffefe",
+        "hexterm": "ff/fe/fe"
+    },
+    "foreground": {
+        "hex": "#fffefe",
+        "hexterm": "ff/fe/fe"
+    },
+    "selection": {
+        "hex": "#003f8e",
+        "hexterm": "00/3f/8e"
+    },
+    "selection-text": {
+        "hex": "#fffefe",
+        "hexterm": "ff/fe/fe"
+    },
     "theme-author": "unknown",
     "theme-name": "Tomorrow Night Blue",
     "theme-slug": "tomorrow-night-blue",

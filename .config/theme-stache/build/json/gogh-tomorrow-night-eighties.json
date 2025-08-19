@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#393939",
-    "ansi-1-hex": "#f2777a",
-    "ansi-10-hex": "#99cc99",
-    "ansi-11-hex": "#ffcc66",
-    "ansi-12-hex": "#6699cc",
-    "ansi-13-hex": "#cc99cc",
-    "ansi-14-hex": "#66cccc",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#99cc99",
-    "ansi-3-hex": "#ffcc66",
-    "ansi-4-hex": "#6699cc",
-    "ansi-5-hex": "#cc99cc",
-    "ansi-6-hex": "#66cccc",
-    "ansi-7-hex": "#cccccc",
-    "ansi-8-hex": "#999999",
-    "ansi-9-hex": "#f2777a",
-    "background-hex": "#2d2d2d",
-    "cursor-hex": "#cccccc",
-    "foreground-hex": "#cccccc",
-    "selection-hex": "#cccccc",
-    "selection-text-hex": "#2d2d2d",
+    "ansi-0": {
+        "hex": "#393939",
+        "hexterm": "39/39/39"
+    },
+    "ansi-1": {
+        "hex": "#f2777a",
+        "hexterm": "f2/77/7a"
+    },
+    "ansi-10": {
+        "hex": "#99cc99",
+        "hexterm": "99/cc/99"
+    },
+    "ansi-11": {
+        "hex": "#ffcc66",
+        "hexterm": "ff/cc/66"
+    },
+    "ansi-12": {
+        "hex": "#6699cc",
+        "hexterm": "66/99/cc"
+    },
+    "ansi-13": {
+        "hex": "#cc99cc",
+        "hexterm": "cc/99/cc"
+    },
+    "ansi-14": {
+        "hex": "#66cccc",
+        "hexterm": "66/cc/cc"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#99cc99",
+        "hexterm": "99/cc/99"
+    },
+    "ansi-3": {
+        "hex": "#ffcc66",
+        "hexterm": "ff/cc/66"
+    },
+    "ansi-4": {
+        "hex": "#6699cc",
+        "hexterm": "66/99/cc"
+    },
+    "ansi-5": {
+        "hex": "#cc99cc",
+        "hexterm": "cc/99/cc"
+    },
+    "ansi-6": {
+        "hex": "#66cccc",
+        "hexterm": "66/cc/cc"
+    },
+    "ansi-7": {
+        "hex": "#cccccc",
+        "hexterm": "cc/cc/cc"
+    },
+    "ansi-8": {
+        "hex": "#999999",
+        "hexterm": "99/99/99"
+    },
+    "ansi-9": {
+        "hex": "#f2777a",
+        "hexterm": "f2/77/7a"
+    },
+    "background": {
+        "hex": "#2d2d2d",
+        "hexterm": "2d/2d/2d"
+    },
+    "cursor": {
+        "hex": "#cccccc",
+        "hexterm": "cc/cc/cc"
+    },
+    "foreground": {
+        "hex": "#cccccc",
+        "hexterm": "cc/cc/cc"
+    },
+    "selection": {
+        "hex": "#cccccc",
+        "hexterm": "cc/cc/cc"
+    },
+    "selection-text": {
+        "hex": "#2d2d2d",
+        "hexterm": "2d/2d/2d"
+    },
     "theme-author": "Chris Kempson (http://chriskempson.com)",
     "theme-name": "Tomorrow Night Eighties",
     "theme-slug": "tomorrow-night-eighties",

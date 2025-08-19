@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#2e2e2e",
-    "ansi-1-hex": "#fc6d26",
-    "ansi-10-hex": "#52e9a8",
-    "ansi-11-hex": "#fca012",
-    "ansi-12-hex": "#db501f",
-    "ansi-13-hex": "#441090",
-    "ansi-14-hex": "#7d53e7",
-    "ansi-15-hex": "#feffff",
-    "ansi-2-hex": "#3eb383",
-    "ansi-3-hex": "#db501f",
-    "ansi-4-hex": "#db3b21",
-    "ansi-5-hex": "#380d75",
-    "ansi-6-hex": "#6e49cb",
-    "ansi-7-hex": "#cfd0d0",
-    "ansi-8-hex": "#737373",
-    "ansi-9-hex": "#ff6517",
-    "background-hex": "#2e2e2e",
-    "cursor-hex": "#cfd0d0",
-    "foreground-hex": "#cfd0d0",
-    "selection-hex": "#feffff",
-    "selection-text-hex": "#2e2e2e",
+    "ansi-0": {
+        "hex": "#2e2e2e",
+        "hexterm": "2e/2e/2e"
+    },
+    "ansi-1": {
+        "hex": "#fc6d26",
+        "hexterm": "fc/6d/26"
+    },
+    "ansi-10": {
+        "hex": "#52e9a8",
+        "hexterm": "52/e9/a8"
+    },
+    "ansi-11": {
+        "hex": "#fca012",
+        "hexterm": "fc/a0/12"
+    },
+    "ansi-12": {
+        "hex": "#db501f",
+        "hexterm": "db/50/1f"
+    },
+    "ansi-13": {
+        "hex": "#441090",
+        "hexterm": "44/10/90"
+    },
+    "ansi-14": {
+        "hex": "#7d53e7",
+        "hexterm": "7d/53/e7"
+    },
+    "ansi-15": {
+        "hex": "#feffff",
+        "hexterm": "fe/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#3eb383",
+        "hexterm": "3e/b3/83"
+    },
+    "ansi-3": {
+        "hex": "#db501f",
+        "hexterm": "db/50/1f"
+    },
+    "ansi-4": {
+        "hex": "#db3b21",
+        "hexterm": "db/3b/21"
+    },
+    "ansi-5": {
+        "hex": "#380d75",
+        "hexterm": "38/0d/75"
+    },
+    "ansi-6": {
+        "hex": "#6e49cb",
+        "hexterm": "6e/49/cb"
+    },
+    "ansi-7": {
+        "hex": "#cfd0d0",
+        "hexterm": "cf/d0/d0"
+    },
+    "ansi-8": {
+        "hex": "#737373",
+        "hexterm": "73/73/73"
+    },
+    "ansi-9": {
+        "hex": "#ff6517",
+        "hexterm": "ff/65/17"
+    },
+    "background": {
+        "hex": "#2e2e2e",
+        "hexterm": "2e/2e/2e"
+    },
+    "cursor": {
+        "hex": "#cfd0d0",
+        "hexterm": "cf/d0/d0"
+    },
+    "foreground": {
+        "hex": "#cfd0d0",
+        "hexterm": "cf/d0/d0"
+    },
+    "selection": {
+        "hex": "#feffff",
+        "hexterm": "fe/ff/ff"
+    },
+    "selection-text": {
+        "hex": "#2e2e2e",
+        "hexterm": "2e/2e/2e"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Lab Fox",
     "theme-slug": "lab-fox",

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1f1f28",
-    "ansi-1-hex": "#c34043",
-    "ansi-10-hex": "#76946a",
-    "ansi-11-hex": "#c0a36e",
-    "ansi-12-hex": "#7e9cd8",
-    "ansi-13-hex": "#957fb8",
-    "ansi-14-hex": "#6a9589",
-    "ansi-15-hex": "#717c7c",
-    "ansi-2-hex": "#76946a",
-    "ansi-3-hex": "#c0a36e",
-    "ansi-4-hex": "#7e9cd8",
-    "ansi-5-hex": "#957fb8",
-    "ansi-6-hex": "#6a9589",
-    "ansi-7-hex": "#dcd7ba",
-    "ansi-8-hex": "#54546d",
-    "ansi-9-hex": "#c34043",
-    "background-hex": "#1f1f28",
-    "cursor-hex": "#dcd7ba",
-    "foreground-hex": "#dcd7ba",
-    "selection-hex": "#c8c093",
-    "selection-text-hex": "#16161d",
+    "ansi-0": {
+        "hex": "#1f1f28",
+        "hexterm": "1f/1f/28"
+    },
+    "ansi-1": {
+        "hex": "#c34043",
+        "hexterm": "c3/40/43"
+    },
+    "ansi-10": {
+        "hex": "#76946a",
+        "hexterm": "76/94/6a"
+    },
+    "ansi-11": {
+        "hex": "#c0a36e",
+        "hexterm": "c0/a3/6e"
+    },
+    "ansi-12": {
+        "hex": "#7e9cd8",
+        "hexterm": "7e/9c/d8"
+    },
+    "ansi-13": {
+        "hex": "#957fb8",
+        "hexterm": "95/7f/b8"
+    },
+    "ansi-14": {
+        "hex": "#6a9589",
+        "hexterm": "6a/95/89"
+    },
+    "ansi-15": {
+        "hex": "#717c7c",
+        "hexterm": "71/7c/7c"
+    },
+    "ansi-2": {
+        "hex": "#76946a",
+        "hexterm": "76/94/6a"
+    },
+    "ansi-3": {
+        "hex": "#c0a36e",
+        "hexterm": "c0/a3/6e"
+    },
+    "ansi-4": {
+        "hex": "#7e9cd8",
+        "hexterm": "7e/9c/d8"
+    },
+    "ansi-5": {
+        "hex": "#957fb8",
+        "hexterm": "95/7f/b8"
+    },
+    "ansi-6": {
+        "hex": "#6a9589",
+        "hexterm": "6a/95/89"
+    },
+    "ansi-7": {
+        "hex": "#dcd7ba",
+        "hexterm": "dc/d7/ba"
+    },
+    "ansi-8": {
+        "hex": "#54546d",
+        "hexterm": "54/54/6d"
+    },
+    "ansi-9": {
+        "hex": "#c34043",
+        "hexterm": "c3/40/43"
+    },
+    "background": {
+        "hex": "#1f1f28",
+        "hexterm": "1f/1f/28"
+    },
+    "cursor": {
+        "hex": "#dcd7ba",
+        "hexterm": "dc/d7/ba"
+    },
+    "foreground": {
+        "hex": "#dcd7ba",
+        "hexterm": "dc/d7/ba"
+    },
+    "selection": {
+        "hex": "#c8c093",
+        "hexterm": "c8/c0/93"
+    },
+    "selection-text": {
+        "hex": "#16161d",
+        "hexterm": "16/16/1d"
+    },
     "theme-author": "Tommaso Laurenzi (https://github.com/rebelot)",
     "theme-name": "Kanagawa",
     "theme-slug": "kanagawa",

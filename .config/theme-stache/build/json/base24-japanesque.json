@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1d1d1d",
-    "ansi-1-hex": "#ce3e60",
-    "ansi-10-hex": "#767e2b",
-    "ansi-11-hex": "#77592e",
-    "ansi-12-hex": "#135879",
-    "ansi-13-hex": "#5f4190",
-    "ansi-14-hex": "#76bbca",
-    "ansi-15-hex": "#b1b5ae",
-    "ansi-2-hex": "#7bb75b",
-    "ansi-3-hex": "#135879",
-    "ansi-4-hex": "#4c99d3",
-    "ansi-5-hex": "#a57fc4",
-    "ansi-6-hex": "#389aac",
-    "ansi-7-hex": "#d0d2ce",
-    "ansi-8-hex": "#80827f",
-    "ansi-9-hex": "#d18ea6",
-    "background-hex": "#1d1d1d",
-    "cursor-hex": "#d0d2ce",
-    "foreground-hex": "#d0d2ce",
-    "selection-hex": "#f9faf6",
-    "selection-text-hex": "#343835",
+    "ansi-0": {
+        "hex": "#1d1d1d",
+        "hexterm": "1d/1d/1d"
+    },
+    "ansi-1": {
+        "hex": "#ce3e60",
+        "hexterm": "ce/3e/60"
+    },
+    "ansi-10": {
+        "hex": "#767e2b",
+        "hexterm": "76/7e/2b"
+    },
+    "ansi-11": {
+        "hex": "#77592e",
+        "hexterm": "77/59/2e"
+    },
+    "ansi-12": {
+        "hex": "#135879",
+        "hexterm": "13/58/79"
+    },
+    "ansi-13": {
+        "hex": "#5f4190",
+        "hexterm": "5f/41/90"
+    },
+    "ansi-14": {
+        "hex": "#76bbca",
+        "hexterm": "76/bb/ca"
+    },
+    "ansi-15": {
+        "hex": "#b1b5ae",
+        "hexterm": "b1/b5/ae"
+    },
+    "ansi-2": {
+        "hex": "#7bb75b",
+        "hexterm": "7b/b7/5b"
+    },
+    "ansi-3": {
+        "hex": "#135879",
+        "hexterm": "13/58/79"
+    },
+    "ansi-4": {
+        "hex": "#4c99d3",
+        "hexterm": "4c/99/d3"
+    },
+    "ansi-5": {
+        "hex": "#a57fc4",
+        "hexterm": "a5/7f/c4"
+    },
+    "ansi-6": {
+        "hex": "#389aac",
+        "hexterm": "38/9a/ac"
+    },
+    "ansi-7": {
+        "hex": "#d0d2ce",
+        "hexterm": "d0/d2/ce"
+    },
+    "ansi-8": {
+        "hex": "#80827f",
+        "hexterm": "80/82/7f"
+    },
+    "ansi-9": {
+        "hex": "#d18ea6",
+        "hexterm": "d1/8e/a6"
+    },
+    "background": {
+        "hex": "#1d1d1d",
+        "hexterm": "1d/1d/1d"
+    },
+    "cursor": {
+        "hex": "#d0d2ce",
+        "hexterm": "d0/d2/ce"
+    },
+    "foreground": {
+        "hex": "#d0d2ce",
+        "hexterm": "d0/d2/ce"
+    },
+    "selection": {
+        "hex": "#f9faf6",
+        "hexterm": "f9/fa/f6"
+    },
+    "selection-text": {
+        "hex": "#343835",
+        "hexterm": "34/38/35"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Japanesque",
     "theme-slug": "japanesque",

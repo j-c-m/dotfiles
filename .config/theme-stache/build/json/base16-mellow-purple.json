@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1e0528",
-    "ansi-1-hex": "#00d9e9",
-    "ansi-10-hex": "#05cb0d",
-    "ansi-11-hex": "#955ae7",
-    "ansi-12-hex": "#550068",
-    "ansi-13-hex": "#8991bb",
-    "ansi-14-hex": "#b900b1",
-    "ansi-15-hex": "#f8c0ff",
-    "ansi-2-hex": "#05cb0d",
-    "ansi-3-hex": "#955ae7",
-    "ansi-4-hex": "#550068",
-    "ansi-5-hex": "#8991bb",
-    "ansi-6-hex": "#b900b1",
-    "ansi-7-hex": "#ffeeff",
-    "ansi-8-hex": "#320f55",
-    "ansi-9-hex": "#00d9e9",
-    "background-hex": "#1e0528",
-    "cursor-hex": "#ffeeff",
-    "foreground-hex": "#ffeeff",
-    "selection-hex": "#ffeeff",
-    "selection-text-hex": "#1a092d",
+    "ansi-0": {
+        "hex": "#1e0528",
+        "hexterm": "1e/05/28"
+    },
+    "ansi-1": {
+        "hex": "#00d9e9",
+        "hexterm": "00/d9/e9"
+    },
+    "ansi-10": {
+        "hex": "#05cb0d",
+        "hexterm": "05/cb/0d"
+    },
+    "ansi-11": {
+        "hex": "#955ae7",
+        "hexterm": "95/5a/e7"
+    },
+    "ansi-12": {
+        "hex": "#550068",
+        "hexterm": "55/00/68"
+    },
+    "ansi-13": {
+        "hex": "#8991bb",
+        "hexterm": "89/91/bb"
+    },
+    "ansi-14": {
+        "hex": "#b900b1",
+        "hexterm": "b9/00/b1"
+    },
+    "ansi-15": {
+        "hex": "#f8c0ff",
+        "hexterm": "f8/c0/ff"
+    },
+    "ansi-2": {
+        "hex": "#05cb0d",
+        "hexterm": "05/cb/0d"
+    },
+    "ansi-3": {
+        "hex": "#955ae7",
+        "hexterm": "95/5a/e7"
+    },
+    "ansi-4": {
+        "hex": "#550068",
+        "hexterm": "55/00/68"
+    },
+    "ansi-5": {
+        "hex": "#8991bb",
+        "hexterm": "89/91/bb"
+    },
+    "ansi-6": {
+        "hex": "#b900b1",
+        "hexterm": "b9/00/b1"
+    },
+    "ansi-7": {
+        "hex": "#ffeeff",
+        "hexterm": "ff/ee/ff"
+    },
+    "ansi-8": {
+        "hex": "#320f55",
+        "hexterm": "32/0f/55"
+    },
+    "ansi-9": {
+        "hex": "#00d9e9",
+        "hexterm": "00/d9/e9"
+    },
+    "background": {
+        "hex": "#1e0528",
+        "hexterm": "1e/05/28"
+    },
+    "cursor": {
+        "hex": "#ffeeff",
+        "hexterm": "ff/ee/ff"
+    },
+    "foreground": {
+        "hex": "#ffeeff",
+        "hexterm": "ff/ee/ff"
+    },
+    "selection": {
+        "hex": "#ffeeff",
+        "hexterm": "ff/ee/ff"
+    },
+    "selection-text": {
+        "hex": "#1a092d",
+        "hexterm": "1a/09/2d"
+    },
     "theme-author": "gidsi",
     "theme-name": "Mellow Purple",
     "theme-slug": "mellow-purple",

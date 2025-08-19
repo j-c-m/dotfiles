@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#323f46",
-    "ansi-1-hex": "#83615b",
-    "ansi-10-hex": "#bedbc1",
-    "ansi-11-hex": "#f1dfb4",
-    "ansi-12-hex": "#767495",
-    "ansi-13-hex": "#be9cb8",
-    "ansi-14-hex": "#bcdbff",
-    "ansi-15-hex": "#dfe2ed",
-    "ansi-2-hex": "#7f9781",
-    "ansi-3-hex": "#a69875",
-    "ansi-4-hex": "#53516f",
-    "ansi-5-hex": "#856880",
-    "ansi-6-hex": "#7d96b2",
-    "ansi-7-hex": "#c9cdd7",
-    "ansi-8-hex": "#3d4950",
-    "ansi-9-hex": "#ba9088",
-    "background-hex": "#323f46",
-    "cursor-hex": "#c9cdd7",
-    "foreground-hex": "#c9cdd7",
-    "selection-hex": "#c9cdd7",
-    "selection-text-hex": "#323f46",
+    "ansi-0": {
+        "hex": "#323f46",
+        "hexterm": "32/3f/46"
+    },
+    "ansi-1": {
+        "hex": "#83615b",
+        "hexterm": "83/61/5b"
+    },
+    "ansi-10": {
+        "hex": "#bedbc1",
+        "hexterm": "be/db/c1"
+    },
+    "ansi-11": {
+        "hex": "#f1dfb4",
+        "hexterm": "f1/df/b4"
+    },
+    "ansi-12": {
+        "hex": "#767495",
+        "hexterm": "76/74/95"
+    },
+    "ansi-13": {
+        "hex": "#be9cb8",
+        "hexterm": "be/9c/b8"
+    },
+    "ansi-14": {
+        "hex": "#bcdbff",
+        "hexterm": "bc/db/ff"
+    },
+    "ansi-15": {
+        "hex": "#dfe2ed",
+        "hexterm": "df/e2/ed"
+    },
+    "ansi-2": {
+        "hex": "#7f9781",
+        "hexterm": "7f/97/81"
+    },
+    "ansi-3": {
+        "hex": "#a69875",
+        "hexterm": "a6/98/75"
+    },
+    "ansi-4": {
+        "hex": "#53516f",
+        "hexterm": "53/51/6f"
+    },
+    "ansi-5": {
+        "hex": "#856880",
+        "hexterm": "85/68/80"
+    },
+    "ansi-6": {
+        "hex": "#7d96b2",
+        "hexterm": "7d/96/b2"
+    },
+    "ansi-7": {
+        "hex": "#c9cdd7",
+        "hexterm": "c9/cd/d7"
+    },
+    "ansi-8": {
+        "hex": "#3d4950",
+        "hexterm": "3d/49/50"
+    },
+    "ansi-9": {
+        "hex": "#ba9088",
+        "hexterm": "ba/90/88"
+    },
+    "background": {
+        "hex": "#323f46",
+        "hexterm": "32/3f/46"
+    },
+    "cursor": {
+        "hex": "#c9cdd7",
+        "hexterm": "c9/cd/d7"
+    },
+    "foreground": {
+        "hex": "#c9cdd7",
+        "hexterm": "c9/cd/d7"
+    },
+    "selection": {
+        "hex": "#c9cdd7",
+        "hexterm": "c9/cd/d7"
+    },
+    "selection-text": {
+        "hex": "#323f46",
+        "hexterm": "32/3f/46"
+    },
     "theme-author": "",
     "theme-name": "Lunaria Eclipse",
     "theme-slug": "lunaria-eclipse",

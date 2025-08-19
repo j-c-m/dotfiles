@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#4e4e4e",
-    "ansi-1-hex": "#ff6c60",
-    "ansi-10-hex": "#ceffac",
-    "ansi-11-hex": "#ffffcb",
-    "ansi-12-hex": "#b5dcfe",
-    "ansi-13-hex": "#ff9cfe",
-    "ansi-14-hex": "#dfdffe",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#a8ff60",
-    "ansi-3-hex": "#ffffb6",
-    "ansi-4-hex": "#69cbfe",
-    "ansi-5-hex": "#ff73fd",
-    "ansi-6-hex": "#c6c5fe",
-    "ansi-7-hex": "#eeeeee",
-    "ansi-8-hex": "#7c7c7c",
-    "ansi-9-hex": "#ffb6b0",
-    "background-hex": "#000000",
-    "cursor-hex": "#ffa560",
-    "foreground-hex": "#eeeeee",
-    "selection-hex": "#eeeeee",
-    "selection-text-hex": "#000000",
+    "ansi-0": {
+        "hex": "#4e4e4e",
+        "hexterm": "4e/4e/4e"
+    },
+    "ansi-1": {
+        "hex": "#ff6c60",
+        "hexterm": "ff/6c/60"
+    },
+    "ansi-10": {
+        "hex": "#ceffac",
+        "hexterm": "ce/ff/ac"
+    },
+    "ansi-11": {
+        "hex": "#ffffcb",
+        "hexterm": "ff/ff/cb"
+    },
+    "ansi-12": {
+        "hex": "#b5dcfe",
+        "hexterm": "b5/dc/fe"
+    },
+    "ansi-13": {
+        "hex": "#ff9cfe",
+        "hexterm": "ff/9c/fe"
+    },
+    "ansi-14": {
+        "hex": "#dfdffe",
+        "hexterm": "df/df/fe"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#a8ff60",
+        "hexterm": "a8/ff/60"
+    },
+    "ansi-3": {
+        "hex": "#ffffb6",
+        "hexterm": "ff/ff/b6"
+    },
+    "ansi-4": {
+        "hex": "#69cbfe",
+        "hexterm": "69/cb/fe"
+    },
+    "ansi-5": {
+        "hex": "#ff73fd",
+        "hexterm": "ff/73/fd"
+    },
+    "ansi-6": {
+        "hex": "#c6c5fe",
+        "hexterm": "c6/c5/fe"
+    },
+    "ansi-7": {
+        "hex": "#eeeeee",
+        "hexterm": "ee/ee/ee"
+    },
+    "ansi-8": {
+        "hex": "#7c7c7c",
+        "hexterm": "7c/7c/7c"
+    },
+    "ansi-9": {
+        "hex": "#ffb6b0",
+        "hexterm": "ff/b6/b0"
+    },
+    "background": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "cursor": {
+        "hex": "#ffa560",
+        "hexterm": "ff/a5/60"
+    },
+    "foreground": {
+        "hex": "#eeeeee",
+        "hexterm": "ee/ee/ee"
+    },
+    "selection": {
+        "hex": "#eeeeee",
+        "hexterm": "ee/ee/ee"
+    },
+    "selection-text": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
     "theme-author": "",
     "theme-name": "Ir Black",
     "theme-slug": "ir-black",

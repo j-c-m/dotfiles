@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#990000",
-    "ansi-10-hex": "#00d900",
-    "ansi-11-hex": "#e5e500",
-    "ansi-12-hex": "#0000ff",
-    "ansi-13-hex": "#e500e5",
-    "ansi-14-hex": "#00e5e5",
-    "ansi-15-hex": "#e5e5e5",
-    "ansi-2-hex": "#00a600",
-    "ansi-3-hex": "#999900",
-    "ansi-4-hex": "#0000b2",
-    "ansi-5-hex": "#b200b2",
-    "ansi-6-hex": "#00a6b2",
-    "ansi-7-hex": "#bfbfbf",
-    "ansi-8-hex": "#666666",
-    "ansi-9-hex": "#e50000",
-    "background-hex": "#224fbc",
-    "cursor-hex": "#ffffff",
-    "foreground-hex": "#ffffff",
-    "selection-hex": "#ffffff",
-    "selection-text-hex": "#224fbc",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#990000",
+        "hexterm": "99/00/00"
+    },
+    "ansi-10": {
+        "hex": "#00d900",
+        "hexterm": "00/d9/00"
+    },
+    "ansi-11": {
+        "hex": "#e5e500",
+        "hexterm": "e5/e5/00"
+    },
+    "ansi-12": {
+        "hex": "#0000ff",
+        "hexterm": "00/00/ff"
+    },
+    "ansi-13": {
+        "hex": "#e500e5",
+        "hexterm": "e5/00/e5"
+    },
+    "ansi-14": {
+        "hex": "#00e5e5",
+        "hexterm": "00/e5/e5"
+    },
+    "ansi-15": {
+        "hex": "#e5e5e5",
+        "hexterm": "e5/e5/e5"
+    },
+    "ansi-2": {
+        "hex": "#00a600",
+        "hexterm": "00/a6/00"
+    },
+    "ansi-3": {
+        "hex": "#999900",
+        "hexterm": "99/99/00"
+    },
+    "ansi-4": {
+        "hex": "#0000b2",
+        "hexterm": "00/00/b2"
+    },
+    "ansi-5": {
+        "hex": "#b200b2",
+        "hexterm": "b2/00/b2"
+    },
+    "ansi-6": {
+        "hex": "#00a6b2",
+        "hexterm": "00/a6/b2"
+    },
+    "ansi-7": {
+        "hex": "#bfbfbf",
+        "hexterm": "bf/bf/bf"
+    },
+    "ansi-8": {
+        "hex": "#666666",
+        "hexterm": "66/66/66"
+    },
+    "ansi-9": {
+        "hex": "#e50000",
+        "hexterm": "e5/00/00"
+    },
+    "background": {
+        "hex": "#224fbc",
+        "hexterm": "22/4f/bc"
+    },
+    "cursor": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "foreground": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "selection": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "selection-text": {
+        "hex": "#224fbc",
+        "hexterm": "22/4f/bc"
+    },
     "theme-author": "",
     "theme-name": "Homebrew Ocean",
     "theme-slug": "homebrew-ocean",

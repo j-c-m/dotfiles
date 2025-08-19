@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#241b26",
-    "ansi-1-hex": "#877bb6",
-    "ansi-10-hex": "#c965bf",
-    "ansi-11-hex": "#a84a73",
-    "ansi-12-hex": "#6a9eb5",
-    "ansi-13-hex": "#78a38f",
-    "ansi-14-hex": "#9c5fce",
-    "ansi-15-hex": "#e4ccd0",
-    "ansi-2-hex": "#c965bf",
-    "ansi-3-hex": "#a84a73",
-    "ansi-4-hex": "#6a9eb5",
-    "ansi-5-hex": "#78a38f",
-    "ansi-6-hex": "#9c5fce",
-    "ansi-7-hex": "#eed5d9",
-    "ansi-8-hex": "#6c3cb2",
-    "ansi-9-hex": "#877bb6",
-    "background-hex": "#241b26",
-    "cursor-hex": "#eed5d9",
-    "foreground-hex": "#eed5d9",
-    "selection-hex": "#d9c2c6",
-    "selection-text-hex": "#2f2a3f",
+    "ansi-0": {
+        "hex": "#241b26",
+        "hexterm": "24/1b/26"
+    },
+    "ansi-1": {
+        "hex": "#877bb6",
+        "hexterm": "87/7b/b6"
+    },
+    "ansi-10": {
+        "hex": "#c965bf",
+        "hexterm": "c9/65/bf"
+    },
+    "ansi-11": {
+        "hex": "#a84a73",
+        "hexterm": "a8/4a/73"
+    },
+    "ansi-12": {
+        "hex": "#6a9eb5",
+        "hexterm": "6a/9e/b5"
+    },
+    "ansi-13": {
+        "hex": "#78a38f",
+        "hexterm": "78/a3/8f"
+    },
+    "ansi-14": {
+        "hex": "#9c5fce",
+        "hexterm": "9c/5f/ce"
+    },
+    "ansi-15": {
+        "hex": "#e4ccd0",
+        "hexterm": "e4/cc/d0"
+    },
+    "ansi-2": {
+        "hex": "#c965bf",
+        "hexterm": "c9/65/bf"
+    },
+    "ansi-3": {
+        "hex": "#a84a73",
+        "hexterm": "a8/4a/73"
+    },
+    "ansi-4": {
+        "hex": "#6a9eb5",
+        "hexterm": "6a/9e/b5"
+    },
+    "ansi-5": {
+        "hex": "#78a38f",
+        "hexterm": "78/a3/8f"
+    },
+    "ansi-6": {
+        "hex": "#9c5fce",
+        "hexterm": "9c/5f/ce"
+    },
+    "ansi-7": {
+        "hex": "#eed5d9",
+        "hexterm": "ee/d5/d9"
+    },
+    "ansi-8": {
+        "hex": "#6c3cb2",
+        "hexterm": "6c/3c/b2"
+    },
+    "ansi-9": {
+        "hex": "#877bb6",
+        "hexterm": "87/7b/b6"
+    },
+    "background": {
+        "hex": "#241b26",
+        "hexterm": "24/1b/26"
+    },
+    "cursor": {
+        "hex": "#eed5d9",
+        "hexterm": "ee/d5/d9"
+    },
+    "foreground": {
+        "hex": "#eed5d9",
+        "hexterm": "ee/d5/d9"
+    },
+    "selection": {
+        "hex": "#d9c2c6",
+        "hexterm": "d9/c2/c6"
+    },
+    "selection-text": {
+        "hex": "#2f2a3f",
+        "hexterm": "2f/2a/3f"
+    },
     "theme-author": "Fernando Marques (https://github.com/RakkiUwU) and Gabriel Fontes (https://github.com/Misterio77)",
     "theme-name": "UwUnicorn",
     "theme-slug": "uwunicorn",

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#16172d",
-    "ansi-1-hex": "#e33400",
-    "ansi-10-hex": "#5ccc96",
-    "ansi-11-hex": "#f2ce00",
-    "ansi-12-hex": "#7a5ccc",
-    "ansi-13-hex": "#b3a1e6",
-    "ansi-14-hex": "#00a3cc",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#5ccc96",
-    "ansi-3-hex": "#f2ce00",
-    "ansi-4-hex": "#7a5ccc",
-    "ansi-5-hex": "#b3a1e6",
-    "ansi-6-hex": "#00a3cc",
-    "ansi-7-hex": "#ecf0c1",
-    "ansi-8-hex": "#686f9a",
-    "ansi-9-hex": "#e33400",
-    "background-hex": "#16172d",
-    "cursor-hex": "#ecf0c1",
-    "foreground-hex": "#ecf0c1",
-    "selection-hex": "#c1c3cc",
-    "selection-text-hex": "#1b1c36",
+    "ansi-0": {
+        "hex": "#16172d",
+        "hexterm": "16/17/2d"
+    },
+    "ansi-1": {
+        "hex": "#e33400",
+        "hexterm": "e3/34/00"
+    },
+    "ansi-10": {
+        "hex": "#5ccc96",
+        "hexterm": "5c/cc/96"
+    },
+    "ansi-11": {
+        "hex": "#f2ce00",
+        "hexterm": "f2/ce/00"
+    },
+    "ansi-12": {
+        "hex": "#7a5ccc",
+        "hexterm": "7a/5c/cc"
+    },
+    "ansi-13": {
+        "hex": "#b3a1e6",
+        "hexterm": "b3/a1/e6"
+    },
+    "ansi-14": {
+        "hex": "#00a3cc",
+        "hexterm": "00/a3/cc"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#5ccc96",
+        "hexterm": "5c/cc/96"
+    },
+    "ansi-3": {
+        "hex": "#f2ce00",
+        "hexterm": "f2/ce/00"
+    },
+    "ansi-4": {
+        "hex": "#7a5ccc",
+        "hexterm": "7a/5c/cc"
+    },
+    "ansi-5": {
+        "hex": "#b3a1e6",
+        "hexterm": "b3/a1/e6"
+    },
+    "ansi-6": {
+        "hex": "#00a3cc",
+        "hexterm": "00/a3/cc"
+    },
+    "ansi-7": {
+        "hex": "#ecf0c1",
+        "hexterm": "ec/f0/c1"
+    },
+    "ansi-8": {
+        "hex": "#686f9a",
+        "hexterm": "68/6f/9a"
+    },
+    "ansi-9": {
+        "hex": "#e33400",
+        "hexterm": "e3/34/00"
+    },
+    "background": {
+        "hex": "#16172d",
+        "hexterm": "16/17/2d"
+    },
+    "cursor": {
+        "hex": "#ecf0c1",
+        "hexterm": "ec/f0/c1"
+    },
+    "foreground": {
+        "hex": "#ecf0c1",
+        "hexterm": "ec/f0/c1"
+    },
+    "selection": {
+        "hex": "#c1c3cc",
+        "hexterm": "c1/c3/cc"
+    },
+    "selection-text": {
+        "hex": "#1b1c36",
+        "hexterm": "1b/1c/36"
+    },
     "theme-author": "Guillermo Rodriguez (https://github.com/pineapplegiant), packaged by Gabriel Fontes (https://github.com/Misterio77)",
     "theme-name": "Spaceduck",
     "theme-slug": "spaceduck",

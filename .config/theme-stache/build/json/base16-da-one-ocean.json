@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#171726",
-    "ansi-1-hex": "#fa7883",
-    "ansi-10-hex": "#98c379",
-    "ansi-11-hex": "#ff9470",
-    "ansi-12-hex": "#6bb8ff",
-    "ansi-13-hex": "#e799ff",
-    "ansi-14-hex": "#8af5ff",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#98c379",
-    "ansi-3-hex": "#ff9470",
-    "ansi-4-hex": "#6bb8ff",
-    "ansi-5-hex": "#e799ff",
-    "ansi-6-hex": "#8af5ff",
-    "ansi-7-hex": "#ffffff",
-    "ansi-8-hex": "#878d96",
-    "ansi-9-hex": "#fa7883",
-    "background-hex": "#171726",
-    "cursor-hex": "#ffffff",
-    "foreground-hex": "#ffffff",
-    "selection-hex": "#ffffff",
-    "selection-text-hex": "#22273d",
+    "ansi-0": {
+        "hex": "#171726",
+        "hexterm": "17/17/26"
+    },
+    "ansi-1": {
+        "hex": "#fa7883",
+        "hexterm": "fa/78/83"
+    },
+    "ansi-10": {
+        "hex": "#98c379",
+        "hexterm": "98/c3/79"
+    },
+    "ansi-11": {
+        "hex": "#ff9470",
+        "hexterm": "ff/94/70"
+    },
+    "ansi-12": {
+        "hex": "#6bb8ff",
+        "hexterm": "6b/b8/ff"
+    },
+    "ansi-13": {
+        "hex": "#e799ff",
+        "hexterm": "e7/99/ff"
+    },
+    "ansi-14": {
+        "hex": "#8af5ff",
+        "hexterm": "8a/f5/ff"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#98c379",
+        "hexterm": "98/c3/79"
+    },
+    "ansi-3": {
+        "hex": "#ff9470",
+        "hexterm": "ff/94/70"
+    },
+    "ansi-4": {
+        "hex": "#6bb8ff",
+        "hexterm": "6b/b8/ff"
+    },
+    "ansi-5": {
+        "hex": "#e799ff",
+        "hexterm": "e7/99/ff"
+    },
+    "ansi-6": {
+        "hex": "#8af5ff",
+        "hexterm": "8a/f5/ff"
+    },
+    "ansi-7": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-8": {
+        "hex": "#878d96",
+        "hexterm": "87/8d/96"
+    },
+    "ansi-9": {
+        "hex": "#fa7883",
+        "hexterm": "fa/78/83"
+    },
+    "background": {
+        "hex": "#171726",
+        "hexterm": "17/17/26"
+    },
+    "cursor": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "foreground": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "selection": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "selection-text": {
+        "hex": "#22273d",
+        "hexterm": "22/27/3d"
+    },
     "theme-author": "NNB (https://github.com/NNBnh)",
     "theme-name": "Da One Ocean",
     "theme-slug": "da-one-ocean",

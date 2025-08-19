@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#0e091d",
-    "ansi-1-hex": "#c53253",
-    "ansi-10-hex": "#a68e5a",
-    "ansi-11-hex": "#ff6565",
-    "ansi-12-hex": "#6e6080",
-    "ansi-13-hex": "#a45782",
-    "ansi-14-hex": "#8c9785",
-    "ansi-15-hex": "#dc8f7c",
-    "ansi-2-hex": "#a68e5a",
-    "ansi-3-hex": "#ff6565",
-    "ansi-4-hex": "#6e6080",
-    "ansi-5-hex": "#a45782",
-    "ansi-6-hex": "#8c9785",
-    "ansi-7-hex": "#aa556f",
-    "ansi-8-hex": "#74316b",
-    "ansi-9-hex": "#c53253",
-    "background-hex": "#0e091d",
-    "cursor-hex": "#aa556f",
-    "foreground-hex": "#aa556f",
-    "selection-hex": "#c4686d",
-    "selection-text-hex": "#2a153c",
+    "ansi-0": {
+        "hex": "#0e091d",
+        "hexterm": "0e/09/1d"
+    },
+    "ansi-1": {
+        "hex": "#c53253",
+        "hexterm": "c5/32/53"
+    },
+    "ansi-10": {
+        "hex": "#a68e5a",
+        "hexterm": "a6/8e/5a"
+    },
+    "ansi-11": {
+        "hex": "#ff6565",
+        "hexterm": "ff/65/65"
+    },
+    "ansi-12": {
+        "hex": "#6e6080",
+        "hexterm": "6e/60/80"
+    },
+    "ansi-13": {
+        "hex": "#a45782",
+        "hexterm": "a4/57/82"
+    },
+    "ansi-14": {
+        "hex": "#8c9785",
+        "hexterm": "8c/97/85"
+    },
+    "ansi-15": {
+        "hex": "#dc8f7c",
+        "hexterm": "dc/8f/7c"
+    },
+    "ansi-2": {
+        "hex": "#a68e5a",
+        "hexterm": "a6/8e/5a"
+    },
+    "ansi-3": {
+        "hex": "#ff6565",
+        "hexterm": "ff/65/65"
+    },
+    "ansi-4": {
+        "hex": "#6e6080",
+        "hexterm": "6e/60/80"
+    },
+    "ansi-5": {
+        "hex": "#a45782",
+        "hexterm": "a4/57/82"
+    },
+    "ansi-6": {
+        "hex": "#8c9785",
+        "hexterm": "8c/97/85"
+    },
+    "ansi-7": {
+        "hex": "#aa556f",
+        "hexterm": "aa/55/6f"
+    },
+    "ansi-8": {
+        "hex": "#74316b",
+        "hexterm": "74/31/6b"
+    },
+    "ansi-9": {
+        "hex": "#c53253",
+        "hexterm": "c5/32/53"
+    },
+    "background": {
+        "hex": "#0e091d",
+        "hexterm": "0e/09/1d"
+    },
+    "cursor": {
+        "hex": "#aa556f",
+        "hexterm": "aa/55/6f"
+    },
+    "foreground": {
+        "hex": "#aa556f",
+        "hexterm": "aa/55/6f"
+    },
+    "selection": {
+        "hex": "#c4686d",
+        "hexterm": "c4/68/6d"
+    },
+    "selection-text": {
+        "hex": "#2a153c",
+        "hexterm": "2a/15/3c"
+    },
     "theme-author": "ed (https://codeberg.org/ed)",
     "theme-name": "tarot",
     "theme-slug": "tarot",

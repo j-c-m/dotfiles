@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#222222",
-    "ansi-1-hex": "#e15d67",
-    "ansi-10-hex": "#5db129",
-    "ansi-11-hex": "#e1b31a",
-    "ansi-12-hex": "#00a3f2",
-    "ansi-13-hex": "#b46ee0",
-    "ansi-14-hex": "#21c992",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#5db129",
-    "ansi-3-hex": "#e1b31a",
-    "ansi-4-hex": "#00a3f2",
-    "ansi-5-hex": "#b46ee0",
-    "ansi-6-hex": "#21c992",
-    "ansi-7-hex": "#c0c0c0",
-    "ansi-8-hex": "#898989",
-    "ansi-9-hex": "#e15d67",
-    "background-hex": "#222222",
-    "cursor-hex": "#c0c0c0",
-    "foreground-hex": "#c0c0c0",
-    "selection-hex": "#e0e0e0",
-    "selection-text-hex": "#303030",
+    "ansi-0": {
+        "hex": "#222222",
+        "hexterm": "22/22/22"
+    },
+    "ansi-1": {
+        "hex": "#e15d67",
+        "hexterm": "e1/5d/67"
+    },
+    "ansi-10": {
+        "hex": "#5db129",
+        "hexterm": "5d/b1/29"
+    },
+    "ansi-11": {
+        "hex": "#e1b31a",
+        "hexterm": "e1/b3/1a"
+    },
+    "ansi-12": {
+        "hex": "#00a3f2",
+        "hexterm": "00/a3/f2"
+    },
+    "ansi-13": {
+        "hex": "#b46ee0",
+        "hexterm": "b4/6e/e0"
+    },
+    "ansi-14": {
+        "hex": "#21c992",
+        "hexterm": "21/c9/92"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#5db129",
+        "hexterm": "5d/b1/29"
+    },
+    "ansi-3": {
+        "hex": "#e1b31a",
+        "hexterm": "e1/b3/1a"
+    },
+    "ansi-4": {
+        "hex": "#00a3f2",
+        "hexterm": "00/a3/f2"
+    },
+    "ansi-5": {
+        "hex": "#b46ee0",
+        "hexterm": "b4/6e/e0"
+    },
+    "ansi-6": {
+        "hex": "#21c992",
+        "hexterm": "21/c9/92"
+    },
+    "ansi-7": {
+        "hex": "#c0c0c0",
+        "hexterm": "c0/c0/c0"
+    },
+    "ansi-8": {
+        "hex": "#898989",
+        "hexterm": "89/89/89"
+    },
+    "ansi-9": {
+        "hex": "#e15d67",
+        "hexterm": "e1/5d/67"
+    },
+    "background": {
+        "hex": "#222222",
+        "hexterm": "22/22/22"
+    },
+    "cursor": {
+        "hex": "#c0c0c0",
+        "hexterm": "c0/c0/c0"
+    },
+    "foreground": {
+        "hex": "#c0c0c0",
+        "hexterm": "c0/c0/c0"
+    },
+    "selection": {
+        "hex": "#e0e0e0",
+        "hexterm": "e0/e0/e0"
+    },
+    "selection-text": {
+        "hex": "#303030",
+        "hexterm": "30/30/30"
+    },
     "theme-author": "ali (https://github.com/ali-githb/base16-standardized-scheme)",
     "theme-name": "standardized-dark",
     "theme-slug": "standardized-dark",

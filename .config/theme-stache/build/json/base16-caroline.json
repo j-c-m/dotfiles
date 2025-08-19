@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1c1213",
-    "ansi-1-hex": "#c24f57",
-    "ansi-10-hex": "#806c61",
-    "ansi-11-hex": "#f28171",
-    "ansi-12-hex": "#684c59",
-    "ansi-13-hex": "#a63650",
-    "ansi-14-hex": "#6b6566",
-    "ansi-15-hex": "#e3a68c",
-    "ansi-2-hex": "#806c61",
-    "ansi-3-hex": "#f28171",
-    "ansi-4-hex": "#684c59",
-    "ansi-5-hex": "#a63650",
-    "ansi-6-hex": "#6b6566",
-    "ansi-7-hex": "#a87569",
-    "ansi-8-hex": "#6d4745",
-    "ansi-9-hex": "#c24f57",
-    "background-hex": "#1c1213",
-    "cursor-hex": "#a87569",
-    "foreground-hex": "#a87569",
-    "selection-hex": "#c58d7b",
-    "selection-text-hex": "#3a2425",
+    "ansi-0": {
+        "hex": "#1c1213",
+        "hexterm": "1c/12/13"
+    },
+    "ansi-1": {
+        "hex": "#c24f57",
+        "hexterm": "c2/4f/57"
+    },
+    "ansi-10": {
+        "hex": "#806c61",
+        "hexterm": "80/6c/61"
+    },
+    "ansi-11": {
+        "hex": "#f28171",
+        "hexterm": "f2/81/71"
+    },
+    "ansi-12": {
+        "hex": "#684c59",
+        "hexterm": "68/4c/59"
+    },
+    "ansi-13": {
+        "hex": "#a63650",
+        "hexterm": "a6/36/50"
+    },
+    "ansi-14": {
+        "hex": "#6b6566",
+        "hexterm": "6b/65/66"
+    },
+    "ansi-15": {
+        "hex": "#e3a68c",
+        "hexterm": "e3/a6/8c"
+    },
+    "ansi-2": {
+        "hex": "#806c61",
+        "hexterm": "80/6c/61"
+    },
+    "ansi-3": {
+        "hex": "#f28171",
+        "hexterm": "f2/81/71"
+    },
+    "ansi-4": {
+        "hex": "#684c59",
+        "hexterm": "68/4c/59"
+    },
+    "ansi-5": {
+        "hex": "#a63650",
+        "hexterm": "a6/36/50"
+    },
+    "ansi-6": {
+        "hex": "#6b6566",
+        "hexterm": "6b/65/66"
+    },
+    "ansi-7": {
+        "hex": "#a87569",
+        "hexterm": "a8/75/69"
+    },
+    "ansi-8": {
+        "hex": "#6d4745",
+        "hexterm": "6d/47/45"
+    },
+    "ansi-9": {
+        "hex": "#c24f57",
+        "hexterm": "c2/4f/57"
+    },
+    "background": {
+        "hex": "#1c1213",
+        "hexterm": "1c/12/13"
+    },
+    "cursor": {
+        "hex": "#a87569",
+        "hexterm": "a8/75/69"
+    },
+    "foreground": {
+        "hex": "#a87569",
+        "hexterm": "a8/75/69"
+    },
+    "selection": {
+        "hex": "#c58d7b",
+        "hexterm": "c5/8d/7b"
+    },
+    "selection-text": {
+        "hex": "#3a2425",
+        "hexterm": "3a/24/25"
+    },
     "theme-author": "ed (https://codeberg.org/ed)",
     "theme-name": "caroline",
     "theme-slug": "caroline",

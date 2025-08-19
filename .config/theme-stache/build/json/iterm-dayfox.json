@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#342b24",
-    "ansi-1-hex": "#a4212f",
-    "ansi-10-hex": "#577e63",
-    "ansi-11-hex": "#b76e28",
-    "ansi-12-hex": "#4763b6",
-    "ansi-13-hex": "#8451d5",
-    "ansi-14-hex": "#478d92",
-    "ansi-15-hex": "#f4ebe6",
-    "ansi-2-hex": "#396747",
-    "ansi-3-hex": "#ac5302",
-    "ansi-4-hex": "#2847a9",
-    "ansi-5-hex": "#6e33cd",
-    "ansi-6-hex": "#287980",
-    "ansi-7-hex": "#f2e9e0",
-    "ansi-8-hex": "#524b45",
-    "ansi-9-hex": "#b3434e",
-    "background-hex": "#f5f2ed",
-    "cursor-hex": "#3d2a5a",
-    "foreground-hex": "#3d2a5a",
-    "selection-hex": "#e7d2be",
-    "selection-text-hex": "#3d2a5a",
+    "ansi-0": {
+        "hex": "#342b24",
+        "hexterm": "34/2b/24"
+    },
+    "ansi-1": {
+        "hex": "#a4212f",
+        "hexterm": "a4/21/2f"
+    },
+    "ansi-10": {
+        "hex": "#577e63",
+        "hexterm": "57/7e/63"
+    },
+    "ansi-11": {
+        "hex": "#b76e28",
+        "hexterm": "b7/6e/28"
+    },
+    "ansi-12": {
+        "hex": "#4763b6",
+        "hexterm": "47/63/b6"
+    },
+    "ansi-13": {
+        "hex": "#8451d5",
+        "hexterm": "84/51/d5"
+    },
+    "ansi-14": {
+        "hex": "#478d92",
+        "hexterm": "47/8d/92"
+    },
+    "ansi-15": {
+        "hex": "#f4ebe6",
+        "hexterm": "f4/eb/e6"
+    },
+    "ansi-2": {
+        "hex": "#396747",
+        "hexterm": "39/67/47"
+    },
+    "ansi-3": {
+        "hex": "#ac5302",
+        "hexterm": "ac/53/02"
+    },
+    "ansi-4": {
+        "hex": "#2847a9",
+        "hexterm": "28/47/a9"
+    },
+    "ansi-5": {
+        "hex": "#6e33cd",
+        "hexterm": "6e/33/cd"
+    },
+    "ansi-6": {
+        "hex": "#287980",
+        "hexterm": "28/79/80"
+    },
+    "ansi-7": {
+        "hex": "#f2e9e0",
+        "hexterm": "f2/e9/e0"
+    },
+    "ansi-8": {
+        "hex": "#524b45",
+        "hexterm": "52/4b/45"
+    },
+    "ansi-9": {
+        "hex": "#b3434e",
+        "hexterm": "b3/43/4e"
+    },
+    "background": {
+        "hex": "#f5f2ed",
+        "hexterm": "f5/f2/ed"
+    },
+    "cursor": {
+        "hex": "#3d2a5a",
+        "hexterm": "3d/2a/5a"
+    },
+    "foreground": {
+        "hex": "#3d2a5a",
+        "hexterm": "3d/2a/5a"
+    },
+    "selection": {
+        "hex": "#e7d2be",
+        "hexterm": "e7/d2/be"
+    },
+    "selection-text": {
+        "hex": "#3d2a5a",
+        "hexterm": "3d/2a/5a"
+    },
     "theme-author": "unknown",
     "theme-name": "dayfox",
     "theme-slug": "dayfox",

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1b1d1e",
-    "ansi-1-hex": "#f92672",
-    "ansi-10-hex": "#beed5f",
-    "ansi-11-hex": "#e6db74",
-    "ansi-12-hex": "#66d9ef",
-    "ansi-13-hex": "#9e6ffe",
-    "ansi-14-hex": "#a3babf",
-    "ansi-15-hex": "#f8f8f2",
-    "ansi-2-hex": "#a6e22e",
-    "ansi-3-hex": "#fd971f",
-    "ansi-4-hex": "#66d9ef",
-    "ansi-5-hex": "#9e6ffe",
-    "ansi-6-hex": "#5e7175",
-    "ansi-7-hex": "#ccccc6",
-    "ansi-8-hex": "#505354",
-    "ansi-9-hex": "#ff669d",
-    "background-hex": "#121212",
-    "cursor-hex": "#bbbbbb",
-    "foreground-hex": "#a0a0a0",
-    "selection-hex": "#453a39",
-    "selection-text-hex": "#b6bbbf",
+    "ansi-0": {
+        "hex": "#1b1d1e",
+        "hexterm": "1b/1d/1e"
+    },
+    "ansi-1": {
+        "hex": "#f92672",
+        "hexterm": "f9/26/72"
+    },
+    "ansi-10": {
+        "hex": "#beed5f",
+        "hexterm": "be/ed/5f"
+    },
+    "ansi-11": {
+        "hex": "#e6db74",
+        "hexterm": "e6/db/74"
+    },
+    "ansi-12": {
+        "hex": "#66d9ef",
+        "hexterm": "66/d9/ef"
+    },
+    "ansi-13": {
+        "hex": "#9e6ffe",
+        "hexterm": "9e/6f/fe"
+    },
+    "ansi-14": {
+        "hex": "#a3babf",
+        "hexterm": "a3/ba/bf"
+    },
+    "ansi-15": {
+        "hex": "#f8f8f2",
+        "hexterm": "f8/f8/f2"
+    },
+    "ansi-2": {
+        "hex": "#a6e22e",
+        "hexterm": "a6/e2/2e"
+    },
+    "ansi-3": {
+        "hex": "#fd971f",
+        "hexterm": "fd/97/1f"
+    },
+    "ansi-4": {
+        "hex": "#66d9ef",
+        "hexterm": "66/d9/ef"
+    },
+    "ansi-5": {
+        "hex": "#9e6ffe",
+        "hexterm": "9e/6f/fe"
+    },
+    "ansi-6": {
+        "hex": "#5e7175",
+        "hexterm": "5e/71/75"
+    },
+    "ansi-7": {
+        "hex": "#ccccc6",
+        "hexterm": "cc/cc/c6"
+    },
+    "ansi-8": {
+        "hex": "#505354",
+        "hexterm": "50/53/54"
+    },
+    "ansi-9": {
+        "hex": "#ff669d",
+        "hexterm": "ff/66/9d"
+    },
+    "background": {
+        "hex": "#121212",
+        "hexterm": "12/12/12"
+    },
+    "cursor": {
+        "hex": "#bbbbbb",
+        "hexterm": "bb/bb/bb"
+    },
+    "foreground": {
+        "hex": "#a0a0a0",
+        "hexterm": "a0/a0/a0"
+    },
+    "selection": {
+        "hex": "#453a39",
+        "hexterm": "45/3a/39"
+    },
+    "selection-text": {
+        "hex": "#b6bbbf",
+        "hexterm": "b6/bb/bf"
+    },
     "theme-author": "unknown",
     "theme-name": "Hardcore",
     "theme-slug": "hardcore",

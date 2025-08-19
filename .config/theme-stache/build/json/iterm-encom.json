@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#9f0000",
-    "ansi-10-hex": "#00ee00",
-    "ansi-11-hex": "#ffff00",
-    "ansi-12-hex": "#0000ff",
-    "ansi-13-hex": "#ff00ff",
-    "ansi-14-hex": "#00cdcd",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#008b00",
-    "ansi-3-hex": "#ffcf00",
-    "ansi-4-hex": "#0081ff",
-    "ansi-5-hex": "#bc00ca",
-    "ansi-6-hex": "#008b8b",
-    "ansi-7-hex": "#bbbbbb",
-    "ansi-8-hex": "#555555",
-    "ansi-9-hex": "#ff0000",
-    "background-hex": "#000000",
-    "cursor-hex": "#bbbbbb",
-    "foreground-hex": "#00a595",
-    "selection-hex": "#00a48c",
-    "selection-text-hex": "#3de1c9",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#9f0000",
+        "hexterm": "9f/00/00"
+    },
+    "ansi-10": {
+        "hex": "#00ee00",
+        "hexterm": "00/ee/00"
+    },
+    "ansi-11": {
+        "hex": "#ffff00",
+        "hexterm": "ff/ff/00"
+    },
+    "ansi-12": {
+        "hex": "#0000ff",
+        "hexterm": "00/00/ff"
+    },
+    "ansi-13": {
+        "hex": "#ff00ff",
+        "hexterm": "ff/00/ff"
+    },
+    "ansi-14": {
+        "hex": "#00cdcd",
+        "hexterm": "00/cd/cd"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#008b00",
+        "hexterm": "00/8b/00"
+    },
+    "ansi-3": {
+        "hex": "#ffcf00",
+        "hexterm": "ff/cf/00"
+    },
+    "ansi-4": {
+        "hex": "#0081ff",
+        "hexterm": "00/81/ff"
+    },
+    "ansi-5": {
+        "hex": "#bc00ca",
+        "hexterm": "bc/00/ca"
+    },
+    "ansi-6": {
+        "hex": "#008b8b",
+        "hexterm": "00/8b/8b"
+    },
+    "ansi-7": {
+        "hex": "#bbbbbb",
+        "hexterm": "bb/bb/bb"
+    },
+    "ansi-8": {
+        "hex": "#555555",
+        "hexterm": "55/55/55"
+    },
+    "ansi-9": {
+        "hex": "#ff0000",
+        "hexterm": "ff/00/00"
+    },
+    "background": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "cursor": {
+        "hex": "#bbbbbb",
+        "hexterm": "bb/bb/bb"
+    },
+    "foreground": {
+        "hex": "#00a595",
+        "hexterm": "00/a5/95"
+    },
+    "selection": {
+        "hex": "#00a48c",
+        "hexterm": "00/a4/8c"
+    },
+    "selection-text": {
+        "hex": "#3de1c9",
+        "hexterm": "3d/e1/c9"
+    },
     "theme-author": "unknown",
     "theme-name": "ENCOM",
     "theme-slug": "encom",

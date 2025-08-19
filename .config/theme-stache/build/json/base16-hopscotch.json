@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#322931",
-    "ansi-1-hex": "#dd464c",
-    "ansi-10-hex": "#8fc13e",
-    "ansi-11-hex": "#fdcc59",
-    "ansi-12-hex": "#1290bf",
-    "ansi-13-hex": "#c85e7c",
-    "ansi-14-hex": "#149b93",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#8fc13e",
-    "ansi-3-hex": "#fdcc59",
-    "ansi-4-hex": "#1290bf",
-    "ansi-5-hex": "#c85e7c",
-    "ansi-6-hex": "#149b93",
-    "ansi-7-hex": "#b9b5b8",
-    "ansi-8-hex": "#797379",
-    "ansi-9-hex": "#dd464c",
-    "background-hex": "#322931",
-    "cursor-hex": "#b9b5b8",
-    "foreground-hex": "#b9b5b8",
-    "selection-hex": "#d5d3d5",
-    "selection-text-hex": "#433b42",
+    "ansi-0": {
+        "hex": "#322931",
+        "hexterm": "32/29/31"
+    },
+    "ansi-1": {
+        "hex": "#dd464c",
+        "hexterm": "dd/46/4c"
+    },
+    "ansi-10": {
+        "hex": "#8fc13e",
+        "hexterm": "8f/c1/3e"
+    },
+    "ansi-11": {
+        "hex": "#fdcc59",
+        "hexterm": "fd/cc/59"
+    },
+    "ansi-12": {
+        "hex": "#1290bf",
+        "hexterm": "12/90/bf"
+    },
+    "ansi-13": {
+        "hex": "#c85e7c",
+        "hexterm": "c8/5e/7c"
+    },
+    "ansi-14": {
+        "hex": "#149b93",
+        "hexterm": "14/9b/93"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#8fc13e",
+        "hexterm": "8f/c1/3e"
+    },
+    "ansi-3": {
+        "hex": "#fdcc59",
+        "hexterm": "fd/cc/59"
+    },
+    "ansi-4": {
+        "hex": "#1290bf",
+        "hexterm": "12/90/bf"
+    },
+    "ansi-5": {
+        "hex": "#c85e7c",
+        "hexterm": "c8/5e/7c"
+    },
+    "ansi-6": {
+        "hex": "#149b93",
+        "hexterm": "14/9b/93"
+    },
+    "ansi-7": {
+        "hex": "#b9b5b8",
+        "hexterm": "b9/b5/b8"
+    },
+    "ansi-8": {
+        "hex": "#797379",
+        "hexterm": "79/73/79"
+    },
+    "ansi-9": {
+        "hex": "#dd464c",
+        "hexterm": "dd/46/4c"
+    },
+    "background": {
+        "hex": "#322931",
+        "hexterm": "32/29/31"
+    },
+    "cursor": {
+        "hex": "#b9b5b8",
+        "hexterm": "b9/b5/b8"
+    },
+    "foreground": {
+        "hex": "#b9b5b8",
+        "hexterm": "b9/b5/b8"
+    },
+    "selection": {
+        "hex": "#d5d3d5",
+        "hexterm": "d5/d3/d5"
+    },
+    "selection-text": {
+        "hex": "#433b42",
+        "hexterm": "43/3b/42"
+    },
     "theme-author": "Jan T. Sott",
     "theme-name": "Hopscotch",
     "theme-slug": "hopscotch",

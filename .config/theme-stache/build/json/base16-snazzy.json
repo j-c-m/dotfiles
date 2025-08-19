@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#282a36",
-    "ansi-1-hex": "#ff5c57",
-    "ansi-10-hex": "#5af78e",
-    "ansi-11-hex": "#f3f99d",
-    "ansi-12-hex": "#57c7ff",
-    "ansi-13-hex": "#ff6ac1",
-    "ansi-14-hex": "#9aedfe",
-    "ansi-15-hex": "#f1f1f0",
-    "ansi-2-hex": "#5af78e",
-    "ansi-3-hex": "#f3f99d",
-    "ansi-4-hex": "#57c7ff",
-    "ansi-5-hex": "#ff6ac1",
-    "ansi-6-hex": "#9aedfe",
-    "ansi-7-hex": "#e2e4e5",
-    "ansi-8-hex": "#78787e",
-    "ansi-9-hex": "#ff5c57",
-    "background-hex": "#282a36",
-    "cursor-hex": "#e2e4e5",
-    "foreground-hex": "#e2e4e5",
-    "selection-hex": "#eff0eb",
-    "selection-text-hex": "#34353e",
+    "ansi-0": {
+        "hex": "#282a36",
+        "hexterm": "28/2a/36"
+    },
+    "ansi-1": {
+        "hex": "#ff5c57",
+        "hexterm": "ff/5c/57"
+    },
+    "ansi-10": {
+        "hex": "#5af78e",
+        "hexterm": "5a/f7/8e"
+    },
+    "ansi-11": {
+        "hex": "#f3f99d",
+        "hexterm": "f3/f9/9d"
+    },
+    "ansi-12": {
+        "hex": "#57c7ff",
+        "hexterm": "57/c7/ff"
+    },
+    "ansi-13": {
+        "hex": "#ff6ac1",
+        "hexterm": "ff/6a/c1"
+    },
+    "ansi-14": {
+        "hex": "#9aedfe",
+        "hexterm": "9a/ed/fe"
+    },
+    "ansi-15": {
+        "hex": "#f1f1f0",
+        "hexterm": "f1/f1/f0"
+    },
+    "ansi-2": {
+        "hex": "#5af78e",
+        "hexterm": "5a/f7/8e"
+    },
+    "ansi-3": {
+        "hex": "#f3f99d",
+        "hexterm": "f3/f9/9d"
+    },
+    "ansi-4": {
+        "hex": "#57c7ff",
+        "hexterm": "57/c7/ff"
+    },
+    "ansi-5": {
+        "hex": "#ff6ac1",
+        "hexterm": "ff/6a/c1"
+    },
+    "ansi-6": {
+        "hex": "#9aedfe",
+        "hexterm": "9a/ed/fe"
+    },
+    "ansi-7": {
+        "hex": "#e2e4e5",
+        "hexterm": "e2/e4/e5"
+    },
+    "ansi-8": {
+        "hex": "#78787e",
+        "hexterm": "78/78/7e"
+    },
+    "ansi-9": {
+        "hex": "#ff5c57",
+        "hexterm": "ff/5c/57"
+    },
+    "background": {
+        "hex": "#282a36",
+        "hexterm": "28/2a/36"
+    },
+    "cursor": {
+        "hex": "#e2e4e5",
+        "hexterm": "e2/e4/e5"
+    },
+    "foreground": {
+        "hex": "#e2e4e5",
+        "hexterm": "e2/e4/e5"
+    },
+    "selection": {
+        "hex": "#eff0eb",
+        "hexterm": "ef/f0/eb"
+    },
+    "selection-text": {
+        "hex": "#34353e",
+        "hexterm": "34/35/3e"
+    },
     "theme-author": "Chawye Hsu (https://github.com/chawyehsu), based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)",
     "theme-name": "Snazzy",
     "theme-slug": "snazzy",

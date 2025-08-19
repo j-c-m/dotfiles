@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#575757",
-    "ansi-1-hex": "#ff1b00",
-    "ansi-10-hex": "#a5df55",
-    "ansi-11-hex": "#fbe84a",
-    "ansi-12-hex": "#89beff",
-    "ansi-13-hex": "#c001c1",
-    "ansi-14-hex": "#86eafe",
-    "ansi-15-hex": "#dbdbdb",
-    "ansi-2-hex": "#a5e055",
-    "ansi-3-hex": "#fbe74a",
-    "ansi-4-hex": "#496487",
-    "ansi-5-hex": "#fd5ff1",
-    "ansi-6-hex": "#86e9fe",
-    "ansi-7-hex": "#cbcccb",
-    "ansi-8-hex": "#262626",
-    "ansi-9-hex": "#d51d00",
-    "background-hex": "#000000",
-    "cursor-hex": "#dbdbdb",
-    "foreground-hex": "#dbdbdb",
-    "selection-hex": "#dbdbdb",
-    "selection-text-hex": "#000000",
+    "ansi-0": {
+        "hex": "#575757",
+        "hexterm": "57/57/57"
+    },
+    "ansi-1": {
+        "hex": "#ff1b00",
+        "hexterm": "ff/1b/00"
+    },
+    "ansi-10": {
+        "hex": "#a5df55",
+        "hexterm": "a5/df/55"
+    },
+    "ansi-11": {
+        "hex": "#fbe84a",
+        "hexterm": "fb/e8/4a"
+    },
+    "ansi-12": {
+        "hex": "#89beff",
+        "hexterm": "89/be/ff"
+    },
+    "ansi-13": {
+        "hex": "#c001c1",
+        "hexterm": "c0/01/c1"
+    },
+    "ansi-14": {
+        "hex": "#86eafe",
+        "hexterm": "86/ea/fe"
+    },
+    "ansi-15": {
+        "hex": "#dbdbdb",
+        "hexterm": "db/db/db"
+    },
+    "ansi-2": {
+        "hex": "#a5e055",
+        "hexterm": "a5/e0/55"
+    },
+    "ansi-3": {
+        "hex": "#fbe74a",
+        "hexterm": "fb/e7/4a"
+    },
+    "ansi-4": {
+        "hex": "#496487",
+        "hexterm": "49/64/87"
+    },
+    "ansi-5": {
+        "hex": "#fd5ff1",
+        "hexterm": "fd/5f/f1"
+    },
+    "ansi-6": {
+        "hex": "#86e9fe",
+        "hexterm": "86/e9/fe"
+    },
+    "ansi-7": {
+        "hex": "#cbcccb",
+        "hexterm": "cb/cc/cb"
+    },
+    "ansi-8": {
+        "hex": "#262626",
+        "hexterm": "26/26/26"
+    },
+    "ansi-9": {
+        "hex": "#d51d00",
+        "hexterm": "d5/1d/00"
+    },
+    "background": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "cursor": {
+        "hex": "#dbdbdb",
+        "hexterm": "db/db/db"
+    },
+    "foreground": {
+        "hex": "#dbdbdb",
+        "hexterm": "db/db/db"
+    },
+    "selection": {
+        "hex": "#dbdbdb",
+        "hexterm": "db/db/db"
+    },
+    "selection-text": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
     "theme-author": "",
     "theme-name": "Hurtado",
     "theme-slug": "hurtado",

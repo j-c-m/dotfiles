@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#141f2e",
-    "ansi-1-hex": "#fffab1",
-    "ansi-10-hex": "#80ff80",
-    "ansi-11-hex": "#91ccff",
-    "ansi-12-hex": "#a2cff5",
-    "ansi-13-hex": "#0099ff",
-    "ansi-14-hex": "#80ff80",
-    "ansi-15-hex": "#375780",
-    "ansi-2-hex": "#80ff80",
-    "ansi-3-hex": "#91ccff",
-    "ansi-4-hex": "#a2cff5",
-    "ansi-5-hex": "#0099ff",
-    "ansi-6-hex": "#80ff80",
-    "ansi-7-hex": "#ffcc33",
-    "ansi-8-hex": "#a0ffa0",
-    "ansi-9-hex": "#fffab1",
-    "background-hex": "#141f2e",
-    "cursor-hex": "#ffcc33",
-    "foreground-hex": "#ffcc33",
-    "selection-hex": "#91ccff",
-    "selection-text-hex": "#1e5c1e",
+    "ansi-0": {
+        "hex": "#141f2e",
+        "hexterm": "14/1f/2e"
+    },
+    "ansi-1": {
+        "hex": "#fffab1",
+        "hexterm": "ff/fa/b1"
+    },
+    "ansi-10": {
+        "hex": "#80ff80",
+        "hexterm": "80/ff/80"
+    },
+    "ansi-11": {
+        "hex": "#91ccff",
+        "hexterm": "91/cc/ff"
+    },
+    "ansi-12": {
+        "hex": "#a2cff5",
+        "hexterm": "a2/cf/f5"
+    },
+    "ansi-13": {
+        "hex": "#0099ff",
+        "hexterm": "00/99/ff"
+    },
+    "ansi-14": {
+        "hex": "#80ff80",
+        "hexterm": "80/ff/80"
+    },
+    "ansi-15": {
+        "hex": "#375780",
+        "hexterm": "37/57/80"
+    },
+    "ansi-2": {
+        "hex": "#80ff80",
+        "hexterm": "80/ff/80"
+    },
+    "ansi-3": {
+        "hex": "#91ccff",
+        "hexterm": "91/cc/ff"
+    },
+    "ansi-4": {
+        "hex": "#a2cff5",
+        "hexterm": "a2/cf/f5"
+    },
+    "ansi-5": {
+        "hex": "#0099ff",
+        "hexterm": "00/99/ff"
+    },
+    "ansi-6": {
+        "hex": "#80ff80",
+        "hexterm": "80/ff/80"
+    },
+    "ansi-7": {
+        "hex": "#ffcc33",
+        "hexterm": "ff/cc/33"
+    },
+    "ansi-8": {
+        "hex": "#a0ffa0",
+        "hexterm": "a0/ff/a0"
+    },
+    "ansi-9": {
+        "hex": "#fffab1",
+        "hexterm": "ff/fa/b1"
+    },
+    "background": {
+        "hex": "#141f2e",
+        "hexterm": "14/1f/2e"
+    },
+    "cursor": {
+        "hex": "#ffcc33",
+        "hexterm": "ff/cc/33"
+    },
+    "foreground": {
+        "hex": "#ffcc33",
+        "hexterm": "ff/cc/33"
+    },
+    "selection": {
+        "hex": "#91ccff",
+        "hexterm": "91/cc/ff"
+    },
+    "selection-text": {
+        "hex": "#1e5c1e",
+        "hexterm": "1e/5c/1e"
+    },
     "theme-author": "alonsodomin (https://github.com/alonsodomin)",
     "theme-name": "Blue Forest",
     "theme-slug": "blue-forest",

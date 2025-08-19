@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#fafafa",
-    "ansi-1-hex": "#e45649",
-    "ansi-10-hex": "#98c379",
-    "ansi-11-hex": "#e4c07a",
-    "ansi-12-hex": "#61afef",
-    "ansi-13-hex": "#c577dd",
-    "ansi-14-hex": "#56b5c1",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#4fa14f",
-    "ansi-3-hex": "#61afef",
-    "ansi-4-hex": "#0084bc",
-    "ansi-5-hex": "#a625a4",
-    "ansi-6-hex": "#0996b3",
-    "ansi-7-hex": "#cfd0d2",
-    "ansi-8-hex": "#797c84",
-    "ansi-9-hex": "#df6c75",
-    "background-hex": "#fafafa",
-    "cursor-hex": "#cfd0d2",
-    "foreground-hex": "#cfd0d2",
-    "selection-hex": "#fafafa",
-    "selection-text-hex": "#373942",
+    "ansi-0": {
+        "hex": "#fafafa",
+        "hexterm": "fa/fa/fa"
+    },
+    "ansi-1": {
+        "hex": "#e45649",
+        "hexterm": "e4/56/49"
+    },
+    "ansi-10": {
+        "hex": "#98c379",
+        "hexterm": "98/c3/79"
+    },
+    "ansi-11": {
+        "hex": "#e4c07a",
+        "hexterm": "e4/c0/7a"
+    },
+    "ansi-12": {
+        "hex": "#61afef",
+        "hexterm": "61/af/ef"
+    },
+    "ansi-13": {
+        "hex": "#c577dd",
+        "hexterm": "c5/77/dd"
+    },
+    "ansi-14": {
+        "hex": "#56b5c1",
+        "hexterm": "56/b5/c1"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#4fa14f",
+        "hexterm": "4f/a1/4f"
+    },
+    "ansi-3": {
+        "hex": "#61afef",
+        "hexterm": "61/af/ef"
+    },
+    "ansi-4": {
+        "hex": "#0084bc",
+        "hexterm": "00/84/bc"
+    },
+    "ansi-5": {
+        "hex": "#a625a4",
+        "hexterm": "a6/25/a4"
+    },
+    "ansi-6": {
+        "hex": "#0996b3",
+        "hexterm": "09/96/b3"
+    },
+    "ansi-7": {
+        "hex": "#cfd0d2",
+        "hexterm": "cf/d0/d2"
+    },
+    "ansi-8": {
+        "hex": "#797c84",
+        "hexterm": "79/7c/84"
+    },
+    "ansi-9": {
+        "hex": "#df6c75",
+        "hexterm": "df/6c/75"
+    },
+    "background": {
+        "hex": "#fafafa",
+        "hexterm": "fa/fa/fa"
+    },
+    "cursor": {
+        "hex": "#cfd0d2",
+        "hexterm": "cf/d0/d2"
+    },
+    "foreground": {
+        "hex": "#cfd0d2",
+        "hexterm": "cf/d0/d2"
+    },
+    "selection": {
+        "hex": "#fafafa",
+        "hexterm": "fa/fa/fa"
+    },
+    "selection-text": {
+        "hex": "#373942",
+        "hexterm": "37/39/42"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "One Half Light",
     "theme-slug": "one-half-light",

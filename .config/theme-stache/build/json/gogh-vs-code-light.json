@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#020202",
-    "ansi-1-hex": "#cd3232",
-    "ansi-10-hex": "#1bce1a",
-    "ansi-11-hex": "#adbb5b",
-    "ansi-12-hex": "#0752a8",
-    "ansi-13-hex": "#c451ce",
-    "ansi-14-hex": "#52a8c7",
-    "ansi-15-hex": "#a6a3a6",
-    "ansi-2-hex": "#00bc00",
-    "ansi-3-hex": "#a5a900",
-    "ansi-4-hex": "#0752a8",
-    "ansi-5-hex": "#bc05bc",
-    "ansi-6-hex": "#0598bc",
-    "ansi-7-hex": "#343434",
-    "ansi-8-hex": "#5e5e5e",
-    "ansi-9-hex": "#cd3333",
-    "background-hex": "#f9f9f9",
-    "cursor-hex": "#020202",
-    "foreground-hex": "#020202",
-    "selection-hex": "#020202",
-    "selection-text-hex": "#f9f9f9",
+    "ansi-0": {
+        "hex": "#020202",
+        "hexterm": "02/02/02"
+    },
+    "ansi-1": {
+        "hex": "#cd3232",
+        "hexterm": "cd/32/32"
+    },
+    "ansi-10": {
+        "hex": "#1bce1a",
+        "hexterm": "1b/ce/1a"
+    },
+    "ansi-11": {
+        "hex": "#adbb5b",
+        "hexterm": "ad/bb/5b"
+    },
+    "ansi-12": {
+        "hex": "#0752a8",
+        "hexterm": "07/52/a8"
+    },
+    "ansi-13": {
+        "hex": "#c451ce",
+        "hexterm": "c4/51/ce"
+    },
+    "ansi-14": {
+        "hex": "#52a8c7",
+        "hexterm": "52/a8/c7"
+    },
+    "ansi-15": {
+        "hex": "#a6a3a6",
+        "hexterm": "a6/a3/a6"
+    },
+    "ansi-2": {
+        "hex": "#00bc00",
+        "hexterm": "00/bc/00"
+    },
+    "ansi-3": {
+        "hex": "#a5a900",
+        "hexterm": "a5/a9/00"
+    },
+    "ansi-4": {
+        "hex": "#0752a8",
+        "hexterm": "07/52/a8"
+    },
+    "ansi-5": {
+        "hex": "#bc05bc",
+        "hexterm": "bc/05/bc"
+    },
+    "ansi-6": {
+        "hex": "#0598bc",
+        "hexterm": "05/98/bc"
+    },
+    "ansi-7": {
+        "hex": "#343434",
+        "hexterm": "34/34/34"
+    },
+    "ansi-8": {
+        "hex": "#5e5e5e",
+        "hexterm": "5e/5e/5e"
+    },
+    "ansi-9": {
+        "hex": "#cd3333",
+        "hexterm": "cd/33/33"
+    },
+    "background": {
+        "hex": "#f9f9f9",
+        "hexterm": "f9/f9/f9"
+    },
+    "cursor": {
+        "hex": "#020202",
+        "hexterm": "02/02/02"
+    },
+    "foreground": {
+        "hex": "#020202",
+        "hexterm": "02/02/02"
+    },
+    "selection": {
+        "hex": "#020202",
+        "hexterm": "02/02/02"
+    },
+    "selection-text": {
+        "hex": "#f9f9f9",
+        "hexterm": "f9/f9/f9"
+    },
     "theme-author": "",
     "theme-name": "Vs Code Light+",
     "theme-slug": "vs-code-light",

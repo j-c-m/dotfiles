@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#5e8686",
-    "ansi-10-hex": "#9a8c7e",
-    "ansi-11-hex": "#8b7e6f",
-    "ansi-12-hex": "#878787",
-    "ansi-13-hex": "#999999",
-    "ansi-14-hex": "#aaaaaa",
-    "ansi-15-hex": "#c1c1c1",
-    "ansi-2-hex": "#9a8c7e",
-    "ansi-3-hex": "#8b7e6f",
-    "ansi-4-hex": "#878787",
-    "ansi-5-hex": "#999999",
-    "ansi-6-hex": "#aaaaaa",
-    "ansi-7-hex": "#c1c1c1",
-    "ansi-8-hex": "#333333",
-    "ansi-9-hex": "#5e8686",
-    "background-hex": "#000000",
-    "cursor-hex": "#c1c1c1",
-    "foreground-hex": "#c1c1c1",
-    "selection-hex": "#c1c1c1",
-    "selection-text-hex": "#000000",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#5e8686",
+        "hexterm": "5e/86/86"
+    },
+    "ansi-10": {
+        "hex": "#9a8c7e",
+        "hexterm": "9a/8c/7e"
+    },
+    "ansi-11": {
+        "hex": "#8b7e6f",
+        "hexterm": "8b/7e/6f"
+    },
+    "ansi-12": {
+        "hex": "#878787",
+        "hexterm": "87/87/87"
+    },
+    "ansi-13": {
+        "hex": "#999999",
+        "hexterm": "99/99/99"
+    },
+    "ansi-14": {
+        "hex": "#aaaaaa",
+        "hexterm": "aa/aa/aa"
+    },
+    "ansi-15": {
+        "hex": "#c1c1c1",
+        "hexterm": "c1/c1/c1"
+    },
+    "ansi-2": {
+        "hex": "#9a8c7e",
+        "hexterm": "9a/8c/7e"
+    },
+    "ansi-3": {
+        "hex": "#8b7e6f",
+        "hexterm": "8b/7e/6f"
+    },
+    "ansi-4": {
+        "hex": "#878787",
+        "hexterm": "87/87/87"
+    },
+    "ansi-5": {
+        "hex": "#999999",
+        "hexterm": "99/99/99"
+    },
+    "ansi-6": {
+        "hex": "#aaaaaa",
+        "hexterm": "aa/aa/aa"
+    },
+    "ansi-7": {
+        "hex": "#c1c1c1",
+        "hexterm": "c1/c1/c1"
+    },
+    "ansi-8": {
+        "hex": "#333333",
+        "hexterm": "33/33/33"
+    },
+    "ansi-9": {
+        "hex": "#5e8686",
+        "hexterm": "5e/86/86"
+    },
+    "background": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "cursor": {
+        "hex": "#c1c1c1",
+        "hexterm": "c1/c1/c1"
+    },
+    "foreground": {
+        "hex": "#c1c1c1",
+        "hexterm": "c1/c1/c1"
+    },
+    "selection": {
+        "hex": "#c1c1c1",
+        "hexterm": "c1/c1/c1"
+    },
+    "selection-text": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
     "theme-author": "unknown",
     "theme-name": "Black Metal (Gorgoroth)",
     "theme-slug": "black-metal-gorgoroth",

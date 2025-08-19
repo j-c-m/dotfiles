@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#171517",
-    "ansi-1-hex": "#ffa600",
-    "ansi-10-hex": "#ff0066",
-    "ansi-11-hex": "#20df6c",
-    "ansi-12-hex": "#00ffff",
-    "ansi-13-hex": "#007fff",
-    "ansi-14-hex": "#6600ff",
-    "ansi-15-hex": "#f7f3f7",
-    "ansi-2-hex": "#ff0066",
-    "ansi-3-hex": "#20df6c",
-    "ansi-4-hex": "#00ffff",
-    "ansi-5-hex": "#007fff",
-    "ansi-6-hex": "#6600ff",
-    "ansi-7-hex": "#f5f5f5",
-    "ansi-8-hex": "#383338",
-    "ansi-9-hex": "#ffa600",
-    "background-hex": "#171517",
-    "cursor-hex": "#f5f5f5",
-    "foreground-hex": "#f5f5f5",
-    "selection-hex": "#ffffff",
-    "selection-text-hex": "#1b181b",
+    "ansi-0": {
+        "hex": "#171517",
+        "hexterm": "17/15/17"
+    },
+    "ansi-1": {
+        "hex": "#ffa600",
+        "hexterm": "ff/a6/00"
+    },
+    "ansi-10": {
+        "hex": "#ff0066",
+        "hexterm": "ff/00/66"
+    },
+    "ansi-11": {
+        "hex": "#20df6c",
+        "hexterm": "20/df/6c"
+    },
+    "ansi-12": {
+        "hex": "#00ffff",
+        "hexterm": "00/ff/ff"
+    },
+    "ansi-13": {
+        "hex": "#007fff",
+        "hexterm": "00/7f/ff"
+    },
+    "ansi-14": {
+        "hex": "#6600ff",
+        "hexterm": "66/00/ff"
+    },
+    "ansi-15": {
+        "hex": "#f7f3f7",
+        "hexterm": "f7/f3/f7"
+    },
+    "ansi-2": {
+        "hex": "#ff0066",
+        "hexterm": "ff/00/66"
+    },
+    "ansi-3": {
+        "hex": "#20df6c",
+        "hexterm": "20/df/6c"
+    },
+    "ansi-4": {
+        "hex": "#00ffff",
+        "hexterm": "00/ff/ff"
+    },
+    "ansi-5": {
+        "hex": "#007fff",
+        "hexterm": "00/7f/ff"
+    },
+    "ansi-6": {
+        "hex": "#6600ff",
+        "hexterm": "66/00/ff"
+    },
+    "ansi-7": {
+        "hex": "#f5f5f5",
+        "hexterm": "f5/f5/f5"
+    },
+    "ansi-8": {
+        "hex": "#383338",
+        "hexterm": "38/33/38"
+    },
+    "ansi-9": {
+        "hex": "#ffa600",
+        "hexterm": "ff/a6/00"
+    },
+    "background": {
+        "hex": "#171517",
+        "hexterm": "17/15/17"
+    },
+    "cursor": {
+        "hex": "#f5f5f5",
+        "hexterm": "f5/f5/f5"
+    },
+    "foreground": {
+        "hex": "#f5f5f5",
+        "hexterm": "f5/f5/f5"
+    },
+    "selection": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "selection-text": {
+        "hex": "#1b181b",
+        "hexterm": "1b/18/1b"
+    },
     "theme-author": "Benjamin (https://github.com/b3nj5m1n)",
     "theme-name": "pinky",
     "theme-slug": "pinky",

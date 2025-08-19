@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#001015",
-    "ansi-1-hex": "#b12f2c",
-    "ansi-10-hex": "#2aea5e",
-    "ansi-11-hex": "#8dd3fd",
-    "ansi-12-hex": "#61d4b9",
-    "ansi-13-hex": "#1298ff",
-    "ansi-14-hex": "#98cf28",
-    "ansi-15-hex": "#58fad6",
-    "ansi-2-hex": "#00a940",
-    "ansi-3-hex": "#61d4b9",
-    "ansi-4-hex": "#449985",
-    "ansi-5-hex": "#00599c",
-    "ansi-6-hex": "#5c7e19",
-    "ansi-7-hex": "#3d5053",
-    "ansi-8-hex": "#394751",
-    "ansi-9-hex": "#ff4242",
-    "background-hex": "#001015",
-    "cursor-hex": "#3d5053",
-    "foreground-hex": "#3d5053",
-    "selection-hex": "#405554",
-    "selection-text-hex": "#022026",
+    "ansi-0": {
+        "hex": "#001015",
+        "hexterm": "00/10/15"
+    },
+    "ansi-1": {
+        "hex": "#b12f2c",
+        "hexterm": "b1/2f/2c"
+    },
+    "ansi-10": {
+        "hex": "#2aea5e",
+        "hexterm": "2a/ea/5e"
+    },
+    "ansi-11": {
+        "hex": "#8dd3fd",
+        "hexterm": "8d/d3/fd"
+    },
+    "ansi-12": {
+        "hex": "#61d4b9",
+        "hexterm": "61/d4/b9"
+    },
+    "ansi-13": {
+        "hex": "#1298ff",
+        "hexterm": "12/98/ff"
+    },
+    "ansi-14": {
+        "hex": "#98cf28",
+        "hexterm": "98/cf/28"
+    },
+    "ansi-15": {
+        "hex": "#58fad6",
+        "hexterm": "58/fa/d6"
+    },
+    "ansi-2": {
+        "hex": "#00a940",
+        "hexterm": "00/a9/40"
+    },
+    "ansi-3": {
+        "hex": "#61d4b9",
+        "hexterm": "61/d4/b9"
+    },
+    "ansi-4": {
+        "hex": "#449985",
+        "hexterm": "44/99/85"
+    },
+    "ansi-5": {
+        "hex": "#00599c",
+        "hexterm": "00/59/9c"
+    },
+    "ansi-6": {
+        "hex": "#5c7e19",
+        "hexterm": "5c/7e/19"
+    },
+    "ansi-7": {
+        "hex": "#3d5053",
+        "hexterm": "3d/50/53"
+    },
+    "ansi-8": {
+        "hex": "#394751",
+        "hexterm": "39/47/51"
+    },
+    "ansi-9": {
+        "hex": "#ff4242",
+        "hexterm": "ff/42/42"
+    },
+    "background": {
+        "hex": "#001015",
+        "hexterm": "00/10/15"
+    },
+    "cursor": {
+        "hex": "#3d5053",
+        "hexterm": "3d/50/53"
+    },
+    "foreground": {
+        "hex": "#3d5053",
+        "hexterm": "3d/50/53"
+    },
+    "selection": {
+        "hex": "#405554",
+        "hexterm": "40/55/54"
+    },
+    "selection-text": {
+        "hex": "#022026",
+        "hexterm": "02/20/26"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Under The Sea",
     "theme-slug": "under-the-sea",

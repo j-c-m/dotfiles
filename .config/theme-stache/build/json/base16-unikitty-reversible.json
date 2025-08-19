@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#2e2a31",
-    "ansi-1-hex": "#d8137f",
-    "ansi-10-hex": "#17ad98",
-    "ansi-11-hex": "#dc8a0e",
-    "ansi-12-hex": "#7864fa",
-    "ansi-13-hex": "#b33ce8",
-    "ansi-14-hex": "#149bda",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#17ad98",
-    "ansi-3-hex": "#dc8a0e",
-    "ansi-4-hex": "#7864fa",
-    "ansi-5-hex": "#b33ce8",
-    "ansi-6-hex": "#149bda",
-    "ansi-7-hex": "#c3c2c4",
-    "ansi-8-hex": "#878589",
-    "ansi-9-hex": "#d8137f",
-    "background-hex": "#2e2a31",
-    "cursor-hex": "#c3c2c4",
-    "foreground-hex": "#c3c2c4",
-    "selection-hex": "#e1e0e1",
-    "selection-text-hex": "#4b484e",
+    "ansi-0": {
+        "hex": "#2e2a31",
+        "hexterm": "2e/2a/31"
+    },
+    "ansi-1": {
+        "hex": "#d8137f",
+        "hexterm": "d8/13/7f"
+    },
+    "ansi-10": {
+        "hex": "#17ad98",
+        "hexterm": "17/ad/98"
+    },
+    "ansi-11": {
+        "hex": "#dc8a0e",
+        "hexterm": "dc/8a/0e"
+    },
+    "ansi-12": {
+        "hex": "#7864fa",
+        "hexterm": "78/64/fa"
+    },
+    "ansi-13": {
+        "hex": "#b33ce8",
+        "hexterm": "b3/3c/e8"
+    },
+    "ansi-14": {
+        "hex": "#149bda",
+        "hexterm": "14/9b/da"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#17ad98",
+        "hexterm": "17/ad/98"
+    },
+    "ansi-3": {
+        "hex": "#dc8a0e",
+        "hexterm": "dc/8a/0e"
+    },
+    "ansi-4": {
+        "hex": "#7864fa",
+        "hexterm": "78/64/fa"
+    },
+    "ansi-5": {
+        "hex": "#b33ce8",
+        "hexterm": "b3/3c/e8"
+    },
+    "ansi-6": {
+        "hex": "#149bda",
+        "hexterm": "14/9b/da"
+    },
+    "ansi-7": {
+        "hex": "#c3c2c4",
+        "hexterm": "c3/c2/c4"
+    },
+    "ansi-8": {
+        "hex": "#878589",
+        "hexterm": "87/85/89"
+    },
+    "ansi-9": {
+        "hex": "#d8137f",
+        "hexterm": "d8/13/7f"
+    },
+    "background": {
+        "hex": "#2e2a31",
+        "hexterm": "2e/2a/31"
+    },
+    "cursor": {
+        "hex": "#c3c2c4",
+        "hexterm": "c3/c2/c4"
+    },
+    "foreground": {
+        "hex": "#c3c2c4",
+        "hexterm": "c3/c2/c4"
+    },
+    "selection": {
+        "hex": "#e1e0e1",
+        "hexterm": "e1/e0/e1"
+    },
+    "selection-text": {
+        "hex": "#4b484e",
+        "hexterm": "4b/48/4e"
+    },
     "theme-author": "Josh W Lewis (@joshwlewis)",
     "theme-name": "Unikitty Reversible",
     "theme-slug": "unikitty-reversible",

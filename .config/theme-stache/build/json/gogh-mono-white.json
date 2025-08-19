@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#3b3b3b",
-    "ansi-1-hex": "#fafafa",
-    "ansi-10-hex": "#fafafa",
-    "ansi-11-hex": "#fafafa",
-    "ansi-12-hex": "#fafafa",
-    "ansi-13-hex": "#fafafa",
-    "ansi-14-hex": "#fafafa",
-    "ansi-15-hex": "#fafafa",
-    "ansi-2-hex": "#fafafa",
-    "ansi-3-hex": "#fafafa",
-    "ansi-4-hex": "#fafafa",
-    "ansi-5-hex": "#fafafa",
-    "ansi-6-hex": "#fafafa",
-    "ansi-7-hex": "#fafafa",
-    "ansi-8-hex": "#fafafa",
-    "ansi-9-hex": "#fafafa",
-    "background-hex": "#262626",
-    "cursor-hex": "#fafafa",
-    "foreground-hex": "#fafafa",
-    "selection-hex": "#fafafa",
-    "selection-text-hex": "#262626",
+    "ansi-0": {
+        "hex": "#3b3b3b",
+        "hexterm": "3b/3b/3b"
+    },
+    "ansi-1": {
+        "hex": "#fafafa",
+        "hexterm": "fa/fa/fa"
+    },
+    "ansi-10": {
+        "hex": "#fafafa",
+        "hexterm": "fa/fa/fa"
+    },
+    "ansi-11": {
+        "hex": "#fafafa",
+        "hexterm": "fa/fa/fa"
+    },
+    "ansi-12": {
+        "hex": "#fafafa",
+        "hexterm": "fa/fa/fa"
+    },
+    "ansi-13": {
+        "hex": "#fafafa",
+        "hexterm": "fa/fa/fa"
+    },
+    "ansi-14": {
+        "hex": "#fafafa",
+        "hexterm": "fa/fa/fa"
+    },
+    "ansi-15": {
+        "hex": "#fafafa",
+        "hexterm": "fa/fa/fa"
+    },
+    "ansi-2": {
+        "hex": "#fafafa",
+        "hexterm": "fa/fa/fa"
+    },
+    "ansi-3": {
+        "hex": "#fafafa",
+        "hexterm": "fa/fa/fa"
+    },
+    "ansi-4": {
+        "hex": "#fafafa",
+        "hexterm": "fa/fa/fa"
+    },
+    "ansi-5": {
+        "hex": "#fafafa",
+        "hexterm": "fa/fa/fa"
+    },
+    "ansi-6": {
+        "hex": "#fafafa",
+        "hexterm": "fa/fa/fa"
+    },
+    "ansi-7": {
+        "hex": "#fafafa",
+        "hexterm": "fa/fa/fa"
+    },
+    "ansi-8": {
+        "hex": "#fafafa",
+        "hexterm": "fa/fa/fa"
+    },
+    "ansi-9": {
+        "hex": "#fafafa",
+        "hexterm": "fa/fa/fa"
+    },
+    "background": {
+        "hex": "#262626",
+        "hexterm": "26/26/26"
+    },
+    "cursor": {
+        "hex": "#fafafa",
+        "hexterm": "fa/fa/fa"
+    },
+    "foreground": {
+        "hex": "#fafafa",
+        "hexterm": "fa/fa/fa"
+    },
+    "selection": {
+        "hex": "#fafafa",
+        "hexterm": "fa/fa/fa"
+    },
+    "selection-text": {
+        "hex": "#262626",
+        "hexterm": "26/26/26"
+    },
     "theme-author": "",
     "theme-name": "Mono White",
     "theme-slug": "mono-white",

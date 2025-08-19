@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#b4d8fd",
-    "ansi-1-hex": "#ad1805",
-    "ansi-10-hex": "#174145",
-    "ansi-11-hex": "#78492a",
-    "ansi-12-hex": "#003f73",
-    "ansi-13-hex": "#9c2191",
-    "ansi-14-hex": "#441ea1",
-    "ansi-15-hex": "#000000",
-    "ansi-2-hex": "#355d61",
-    "ansi-3-hex": "#78492a",
-    "ansi-4-hex": "#0058a1",
-    "ansi-5-hex": "#9c2191",
-    "ansi-6-hex": "#703daa",
-    "ansi-7-hex": "#000000",
-    "ansi-8-hex": "#8a99a6",
-    "ansi-9-hex": "#ad1805",
-    "background-hex": "#ffffff",
-    "cursor-hex": "#000000",
-    "foreground-hex": "#000000",
-    "selection-hex": "#b4d8fd",
-    "selection-text-hex": "#000000",
+    "ansi-0": {
+        "hex": "#b4d8fd",
+        "hexterm": "b4/d8/fd"
+    },
+    "ansi-1": {
+        "hex": "#ad1805",
+        "hexterm": "ad/18/05"
+    },
+    "ansi-10": {
+        "hex": "#174145",
+        "hexterm": "17/41/45"
+    },
+    "ansi-11": {
+        "hex": "#78492a",
+        "hexterm": "78/49/2a"
+    },
+    "ansi-12": {
+        "hex": "#003f73",
+        "hexterm": "00/3f/73"
+    },
+    "ansi-13": {
+        "hex": "#9c2191",
+        "hexterm": "9c/21/91"
+    },
+    "ansi-14": {
+        "hex": "#441ea1",
+        "hexterm": "44/1e/a1"
+    },
+    "ansi-15": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-2": {
+        "hex": "#355d61",
+        "hexterm": "35/5d/61"
+    },
+    "ansi-3": {
+        "hex": "#78492a",
+        "hexterm": "78/49/2a"
+    },
+    "ansi-4": {
+        "hex": "#0058a1",
+        "hexterm": "00/58/a1"
+    },
+    "ansi-5": {
+        "hex": "#9c2191",
+        "hexterm": "9c/21/91"
+    },
+    "ansi-6": {
+        "hex": "#703daa",
+        "hexterm": "70/3d/aa"
+    },
+    "ansi-7": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-8": {
+        "hex": "#8a99a6",
+        "hexterm": "8a/99/a6"
+    },
+    "ansi-9": {
+        "hex": "#ad1805",
+        "hexterm": "ad/18/05"
+    },
+    "background": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "cursor": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "foreground": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "selection": {
+        "hex": "#b4d8fd",
+        "hexterm": "b4/d8/fd"
+    },
+    "selection-text": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
     "theme-author": "unknown",
     "theme-name": "xcodelighthc",
     "theme-slug": "xcodelighthc",

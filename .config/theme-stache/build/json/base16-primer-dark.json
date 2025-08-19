@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#010409",
-    "ansi-1-hex": "#ff7b72",
-    "ansi-10-hex": "#3fb950",
-    "ansi-11-hex": "#d29922",
-    "ansi-12-hex": "#58a6ff",
-    "ansi-13-hex": "#f778ba",
-    "ansi-14-hex": "#a5d6ff",
-    "ansi-15-hex": "#f0f6fc",
-    "ansi-2-hex": "#3fb950",
-    "ansi-3-hex": "#d29922",
-    "ansi-4-hex": "#58a6ff",
-    "ansi-5-hex": "#f778ba",
-    "ansi-6-hex": "#a5d6ff",
-    "ansi-7-hex": "#b1bac4",
-    "ansi-8-hex": "#484f58",
-    "ansi-9-hex": "#ff7b72",
-    "background-hex": "#010409",
-    "cursor-hex": "#b1bac4",
-    "foreground-hex": "#b1bac4",
-    "selection-hex": "#c9d1d9",
-    "selection-text-hex": "#21262d",
+    "ansi-0": {
+        "hex": "#010409",
+        "hexterm": "01/04/09"
+    },
+    "ansi-1": {
+        "hex": "#ff7b72",
+        "hexterm": "ff/7b/72"
+    },
+    "ansi-10": {
+        "hex": "#3fb950",
+        "hexterm": "3f/b9/50"
+    },
+    "ansi-11": {
+        "hex": "#d29922",
+        "hexterm": "d2/99/22"
+    },
+    "ansi-12": {
+        "hex": "#58a6ff",
+        "hexterm": "58/a6/ff"
+    },
+    "ansi-13": {
+        "hex": "#f778ba",
+        "hexterm": "f7/78/ba"
+    },
+    "ansi-14": {
+        "hex": "#a5d6ff",
+        "hexterm": "a5/d6/ff"
+    },
+    "ansi-15": {
+        "hex": "#f0f6fc",
+        "hexterm": "f0/f6/fc"
+    },
+    "ansi-2": {
+        "hex": "#3fb950",
+        "hexterm": "3f/b9/50"
+    },
+    "ansi-3": {
+        "hex": "#d29922",
+        "hexterm": "d2/99/22"
+    },
+    "ansi-4": {
+        "hex": "#58a6ff",
+        "hexterm": "58/a6/ff"
+    },
+    "ansi-5": {
+        "hex": "#f778ba",
+        "hexterm": "f7/78/ba"
+    },
+    "ansi-6": {
+        "hex": "#a5d6ff",
+        "hexterm": "a5/d6/ff"
+    },
+    "ansi-7": {
+        "hex": "#b1bac4",
+        "hexterm": "b1/ba/c4"
+    },
+    "ansi-8": {
+        "hex": "#484f58",
+        "hexterm": "48/4f/58"
+    },
+    "ansi-9": {
+        "hex": "#ff7b72",
+        "hexterm": "ff/7b/72"
+    },
+    "background": {
+        "hex": "#010409",
+        "hexterm": "01/04/09"
+    },
+    "cursor": {
+        "hex": "#b1bac4",
+        "hexterm": "b1/ba/c4"
+    },
+    "foreground": {
+        "hex": "#b1bac4",
+        "hexterm": "b1/ba/c4"
+    },
+    "selection": {
+        "hex": "#c9d1d9",
+        "hexterm": "c9/d1/d9"
+    },
+    "selection-text": {
+        "hex": "#21262d",
+        "hexterm": "21/26/2d"
+    },
     "theme-author": "Jimmy Lin",
     "theme-name": "Primer Dark",
     "theme-slug": "primer-dark",

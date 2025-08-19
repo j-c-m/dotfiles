@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#232323",
-    "ansi-1-hex": "#d4823d",
-    "ansi-10-hex": "#96a42d",
-    "ansi-11-hex": "#a8a030",
-    "ansi-12-hex": "#8e9cc0",
-    "ansi-13-hex": "#d58888",
-    "ansi-14-hex": "#7aa880",
-    "ansi-15-hex": "#aeadaf",
-    "ansi-2-hex": "#8c9e3d",
-    "ansi-3-hex": "#b1942b",
-    "ansi-4-hex": "#6e9cb0",
-    "ansi-5-hex": "#b58d88",
-    "ansi-6-hex": "#6da280",
-    "ansi-7-hex": "#949d9f",
-    "ansi-8-hex": "#312e30",
-    "ansi-9-hex": "#d0913d",
-    "background-hex": "#232323",
-    "cursor-hex": "#aeadaf",
-    "foreground-hex": "#aeadaf",
-    "selection-hex": "#aeadaf",
-    "selection-text-hex": "#232323",
+    "ansi-0": {
+        "hex": "#232323",
+        "hexterm": "23/23/23"
+    },
+    "ansi-1": {
+        "hex": "#d4823d",
+        "hexterm": "d4/82/3d"
+    },
+    "ansi-10": {
+        "hex": "#96a42d",
+        "hexterm": "96/a4/2d"
+    },
+    "ansi-11": {
+        "hex": "#a8a030",
+        "hexterm": "a8/a0/30"
+    },
+    "ansi-12": {
+        "hex": "#8e9cc0",
+        "hexterm": "8e/9c/c0"
+    },
+    "ansi-13": {
+        "hex": "#d58888",
+        "hexterm": "d5/88/88"
+    },
+    "ansi-14": {
+        "hex": "#7aa880",
+        "hexterm": "7a/a8/80"
+    },
+    "ansi-15": {
+        "hex": "#aeadaf",
+        "hexterm": "ae/ad/af"
+    },
+    "ansi-2": {
+        "hex": "#8c9e3d",
+        "hexterm": "8c/9e/3d"
+    },
+    "ansi-3": {
+        "hex": "#b1942b",
+        "hexterm": "b1/94/2b"
+    },
+    "ansi-4": {
+        "hex": "#6e9cb0",
+        "hexterm": "6e/9c/b0"
+    },
+    "ansi-5": {
+        "hex": "#b58d88",
+        "hexterm": "b5/8d/88"
+    },
+    "ansi-6": {
+        "hex": "#6da280",
+        "hexterm": "6d/a2/80"
+    },
+    "ansi-7": {
+        "hex": "#949d9f",
+        "hexterm": "94/9d/9f"
+    },
+    "ansi-8": {
+        "hex": "#312e30",
+        "hexterm": "31/2e/30"
+    },
+    "ansi-9": {
+        "hex": "#d0913d",
+        "hexterm": "d0/91/3d"
+    },
+    "background": {
+        "hex": "#232323",
+        "hexterm": "23/23/23"
+    },
+    "cursor": {
+        "hex": "#aeadaf",
+        "hexterm": "ae/ad/af"
+    },
+    "foreground": {
+        "hex": "#aeadaf",
+        "hexterm": "ae/ad/af"
+    },
+    "selection": {
+        "hex": "#aeadaf",
+        "hexterm": "ae/ad/af"
+    },
+    "selection-text": {
+        "hex": "#232323",
+        "hexterm": "23/23/23"
+    },
     "theme-author": "Protesilaos Stavrou (https://protesilaos.com)",
     "theme-name": "Tempus Classic",
     "theme-slug": "tempus-classic",

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#762423",
-    "ansi-1-hex": "#d52e4d",
-    "ansi-10-hex": "#aff08b",
-    "ansi-11-hex": "#dfddb7",
-    "ansi-12-hex": "#65a9f0",
-    "ansi-13-hex": "#ddb7df",
-    "ansi-14-hex": "#b7dfdd",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#71be6b",
-    "ansi-3-hex": "#65a9f0",
-    "ansi-4-hex": "#479bed",
-    "ansi-5-hex": "#e878d6",
-    "ansi-6-hex": "#6bbeb8",
-    "ansi-7-hex": "#aaaaaa",
-    "ansi-8-hex": "#525252",
-    "ansi-9-hex": "#e02453",
-    "background-hex": "#762423",
-    "cursor-hex": "#aaaaaa",
-    "foreground-hex": "#aaaaaa",
-    "selection-hex": "#d6d6d6",
-    "selection-text-hex": "#000000",
+    "ansi-0": {
+        "hex": "#762423",
+        "hexterm": "76/24/23"
+    },
+    "ansi-1": {
+        "hex": "#d52e4d",
+        "hexterm": "d5/2e/4d"
+    },
+    "ansi-10": {
+        "hex": "#aff08b",
+        "hexterm": "af/f0/8b"
+    },
+    "ansi-11": {
+        "hex": "#dfddb7",
+        "hexterm": "df/dd/b7"
+    },
+    "ansi-12": {
+        "hex": "#65a9f0",
+        "hexterm": "65/a9/f0"
+    },
+    "ansi-13": {
+        "hex": "#ddb7df",
+        "hexterm": "dd/b7/df"
+    },
+    "ansi-14": {
+        "hex": "#b7dfdd",
+        "hexterm": "b7/df/dd"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#71be6b",
+        "hexterm": "71/be/6b"
+    },
+    "ansi-3": {
+        "hex": "#65a9f0",
+        "hexterm": "65/a9/f0"
+    },
+    "ansi-4": {
+        "hex": "#479bed",
+        "hexterm": "47/9b/ed"
+    },
+    "ansi-5": {
+        "hex": "#e878d6",
+        "hexterm": "e8/78/d6"
+    },
+    "ansi-6": {
+        "hex": "#6bbeb8",
+        "hexterm": "6b/be/b8"
+    },
+    "ansi-7": {
+        "hex": "#aaaaaa",
+        "hexterm": "aa/aa/aa"
+    },
+    "ansi-8": {
+        "hex": "#525252",
+        "hexterm": "52/52/52"
+    },
+    "ansi-9": {
+        "hex": "#e02453",
+        "hexterm": "e0/24/53"
+    },
+    "background": {
+        "hex": "#762423",
+        "hexterm": "76/24/23"
+    },
+    "cursor": {
+        "hex": "#aaaaaa",
+        "hexterm": "aa/aa/aa"
+    },
+    "foreground": {
+        "hex": "#aaaaaa",
+        "hexterm": "aa/aa/aa"
+    },
+    "selection": {
+        "hex": "#d6d6d6",
+        "hexterm": "d6/d6/d6"
+    },
+    "selection-text": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Red Alert",
     "theme-slug": "red-alert",

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#0e1011",
-    "ansi-1-hex": "#e63853",
-    "ansi-10-hex": "#1d9000",
-    "ansi-11-hex": "#cc9308",
-    "ansi-12-hex": "#006fc0",
-    "ansi-13-hex": "#a200da",
-    "ansi-14-hex": "#005794",
-    "ansi-15-hex": "#e2e2e2",
-    "ansi-2-hex": "#5eb83c",
-    "ansi-3-hex": "#006fc0",
-    "ansi-4-hex": "#359ddf",
-    "ansi-5-hex": "#d75cff",
-    "ansi-6-hex": "#4b73a2",
-    "ansi-7-hex": "#a5acae",
-    "ansi-8-hex": "#374d53",
-    "ansi-9-hex": "#e1003f",
-    "background-hex": "#0e1011",
-    "cursor-hex": "#a5acae",
-    "foreground-hex": "#a5acae",
-    "selection-hex": "#dcdcdc",
-    "selection-text-hex": "#002731",
+    "ansi-0": {
+        "hex": "#0e1011",
+        "hexterm": "0e/10/11"
+    },
+    "ansi-1": {
+        "hex": "#e63853",
+        "hexterm": "e6/38/53"
+    },
+    "ansi-10": {
+        "hex": "#1d9000",
+        "hexterm": "1d/90/00"
+    },
+    "ansi-11": {
+        "hex": "#cc9308",
+        "hexterm": "cc/93/08"
+    },
+    "ansi-12": {
+        "hex": "#006fc0",
+        "hexterm": "00/6f/c0"
+    },
+    "ansi-13": {
+        "hex": "#a200da",
+        "hexterm": "a2/00/da"
+    },
+    "ansi-14": {
+        "hex": "#005794",
+        "hexterm": "00/57/94"
+    },
+    "ansi-15": {
+        "hex": "#e2e2e2",
+        "hexterm": "e2/e2/e2"
+    },
+    "ansi-2": {
+        "hex": "#5eb83c",
+        "hexterm": "5e/b8/3c"
+    },
+    "ansi-3": {
+        "hex": "#006fc0",
+        "hexterm": "00/6f/c0"
+    },
+    "ansi-4": {
+        "hex": "#359ddf",
+        "hexterm": "35/9d/df"
+    },
+    "ansi-5": {
+        "hex": "#d75cff",
+        "hexterm": "d7/5c/ff"
+    },
+    "ansi-6": {
+        "hex": "#4b73a2",
+        "hexterm": "4b/73/a2"
+    },
+    "ansi-7": {
+        "hex": "#a5acae",
+        "hexterm": "a5/ac/ae"
+    },
+    "ansi-8": {
+        "hex": "#374d53",
+        "hexterm": "37/4d/53"
+    },
+    "ansi-9": {
+        "hex": "#e1003f",
+        "hexterm": "e1/00/3f"
+    },
+    "background": {
+        "hex": "#0e1011",
+        "hexterm": "0e/10/11"
+    },
+    "cursor": {
+        "hex": "#a5acae",
+        "hexterm": "a5/ac/ae"
+    },
+    "foreground": {
+        "hex": "#a5acae",
+        "hexterm": "a5/ac/ae"
+    },
+    "selection": {
+        "hex": "#dcdcdc",
+        "hexterm": "dc/dc/dc"
+    },
+    "selection-text": {
+        "hex": "#002731",
+        "hexterm": "00/27/31"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Firefox Dev",
     "theme-slug": "firefox-dev",

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1e1e1e",
-    "ansi-1-hex": "#ff453a",
-    "ansi-10-hex": "#32d74b",
-    "ansi-11-hex": "#ffd60a",
-    "ansi-12-hex": "#0a84ff",
-    "ansi-13-hex": "#bf5af2",
-    "ansi-14-hex": "#5ac8fa",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#32d74b",
-    "ansi-3-hex": "#ffd60a",
-    "ansi-4-hex": "#0a84ff",
-    "ansi-5-hex": "#bf5af2",
-    "ansi-6-hex": "#5ac8fa",
-    "ansi-7-hex": "#ffffff",
-    "ansi-8-hex": "#1e1e1e",
-    "ansi-9-hex": "#ff453a",
-    "background-hex": "#1e1e1e",
-    "cursor-hex": "#32d74b",
-    "foreground-hex": "#ffffff",
-    "selection-hex": "#4a504d",
-    "selection-text-hex": "#ffffff",
+    "ansi-0": {
+        "hex": "#1e1e1e",
+        "hexterm": "1e/1e/1e"
+    },
+    "ansi-1": {
+        "hex": "#ff453a",
+        "hexterm": "ff/45/3a"
+    },
+    "ansi-10": {
+        "hex": "#32d74b",
+        "hexterm": "32/d7/4b"
+    },
+    "ansi-11": {
+        "hex": "#ffd60a",
+        "hexterm": "ff/d6/0a"
+    },
+    "ansi-12": {
+        "hex": "#0a84ff",
+        "hexterm": "0a/84/ff"
+    },
+    "ansi-13": {
+        "hex": "#bf5af2",
+        "hexterm": "bf/5a/f2"
+    },
+    "ansi-14": {
+        "hex": "#5ac8fa",
+        "hexterm": "5a/c8/fa"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#32d74b",
+        "hexterm": "32/d7/4b"
+    },
+    "ansi-3": {
+        "hex": "#ffd60a",
+        "hexterm": "ff/d6/0a"
+    },
+    "ansi-4": {
+        "hex": "#0a84ff",
+        "hexterm": "0a/84/ff"
+    },
+    "ansi-5": {
+        "hex": "#bf5af2",
+        "hexterm": "bf/5a/f2"
+    },
+    "ansi-6": {
+        "hex": "#5ac8fa",
+        "hexterm": "5a/c8/fa"
+    },
+    "ansi-7": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-8": {
+        "hex": "#1e1e1e",
+        "hexterm": "1e/1e/1e"
+    },
+    "ansi-9": {
+        "hex": "#ff453a",
+        "hexterm": "ff/45/3a"
+    },
+    "background": {
+        "hex": "#1e1e1e",
+        "hexterm": "1e/1e/1e"
+    },
+    "cursor": {
+        "hex": "#32d74b",
+        "hexterm": "32/d7/4b"
+    },
+    "foreground": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "selection": {
+        "hex": "#4a504d",
+        "hexterm": "4a/50/4d"
+    },
+    "selection-text": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
     "theme-author": "unknown",
     "theme-name": "midnight-in-mojave",
     "theme-slug": "midnight-in-mojave",

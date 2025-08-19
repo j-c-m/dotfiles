@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#021012",
-    "ansi-1-hex": "#16c1d9",
-    "ansi-10-hex": "#4dd0e1",
-    "ansi-11-hex": "#80deea",
-    "ansi-12-hex": "#00bcd4",
-    "ansi-13-hex": "#00acc1",
-    "ansi-14-hex": "#26c6da",
-    "ansi-15-hex": "#109cb0",
-    "ansi-2-hex": "#4dd0e1",
-    "ansi-3-hex": "#80deea",
-    "ansi-4-hex": "#00bcd4",
-    "ansi-5-hex": "#00acc1",
-    "ansi-6-hex": "#26c6da",
-    "ansi-7-hex": "#095b67",
-    "ansi-8-hex": "#052e34",
-    "ansi-9-hex": "#16c1d9",
-    "background-hex": "#021012",
-    "cursor-hex": "#095b67",
-    "foreground-hex": "#095b67",
-    "selection-hex": "#0c7c8c",
-    "selection-text-hex": "#031619",
+    "ansi-0": {
+        "hex": "#021012",
+        "hexterm": "02/10/12"
+    },
+    "ansi-1": {
+        "hex": "#16c1d9",
+        "hexterm": "16/c1/d9"
+    },
+    "ansi-10": {
+        "hex": "#4dd0e1",
+        "hexterm": "4d/d0/e1"
+    },
+    "ansi-11": {
+        "hex": "#80deea",
+        "hexterm": "80/de/ea"
+    },
+    "ansi-12": {
+        "hex": "#00bcd4",
+        "hexterm": "00/bc/d4"
+    },
+    "ansi-13": {
+        "hex": "#00acc1",
+        "hexterm": "00/ac/c1"
+    },
+    "ansi-14": {
+        "hex": "#26c6da",
+        "hexterm": "26/c6/da"
+    },
+    "ansi-15": {
+        "hex": "#109cb0",
+        "hexterm": "10/9c/b0"
+    },
+    "ansi-2": {
+        "hex": "#4dd0e1",
+        "hexterm": "4d/d0/e1"
+    },
+    "ansi-3": {
+        "hex": "#80deea",
+        "hexterm": "80/de/ea"
+    },
+    "ansi-4": {
+        "hex": "#00bcd4",
+        "hexterm": "00/bc/d4"
+    },
+    "ansi-5": {
+        "hex": "#00acc1",
+        "hexterm": "00/ac/c1"
+    },
+    "ansi-6": {
+        "hex": "#26c6da",
+        "hexterm": "26/c6/da"
+    },
+    "ansi-7": {
+        "hex": "#095b67",
+        "hexterm": "09/5b/67"
+    },
+    "ansi-8": {
+        "hex": "#052e34",
+        "hexterm": "05/2e/34"
+    },
+    "ansi-9": {
+        "hex": "#16c1d9",
+        "hexterm": "16/c1/d9"
+    },
+    "background": {
+        "hex": "#021012",
+        "hexterm": "02/10/12"
+    },
+    "cursor": {
+        "hex": "#095b67",
+        "hexterm": "09/5b/67"
+    },
+    "foreground": {
+        "hex": "#095b67",
+        "hexterm": "09/5b/67"
+    },
+    "selection": {
+        "hex": "#0c7c8c",
+        "hexterm": "0c/7c/8c"
+    },
+    "selection-text": {
+        "hex": "#031619",
+        "hexterm": "03/16/19"
+    },
     "theme-author": "icyphox (https://icyphox.ga)",
     "theme-name": "Icy Dark",
     "theme-slug": "icy-dark",

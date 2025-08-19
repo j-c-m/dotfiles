@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#c85a46",
-    "ansi-10-hex": "#64c83c",
-    "ansi-11-hex": "#a67a50",
-    "ansi-12-hex": "#5482af",
-    "ansi-13-hex": "#9472b4",
-    "ansi-14-hex": "#468c78",
-    "ansi-15-hex": "#d8e2dc",
-    "ansi-2-hex": "#64c83c",
-    "ansi-3-hex": "#a67a50",
-    "ansi-4-hex": "#5482af",
-    "ansi-5-hex": "#9472b4",
-    "ansi-6-hex": "#468c78",
-    "ansi-7-hex": "#00ff00",
-    "ansi-8-hex": "#7c8d7c",
-    "ansi-9-hex": "#c85a46",
-    "background-hex": "#000000",
-    "cursor-hex": "#00ff00",
-    "foreground-hex": "#00ff00",
-    "selection-hex": "#c4cec4",
-    "selection-text-hex": "#4a806c",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#c85a46",
+        "hexterm": "c8/5a/46"
+    },
+    "ansi-10": {
+        "hex": "#64c83c",
+        "hexterm": "64/c8/3c"
+    },
+    "ansi-11": {
+        "hex": "#a67a50",
+        "hexterm": "a6/7a/50"
+    },
+    "ansi-12": {
+        "hex": "#5482af",
+        "hexterm": "54/82/af"
+    },
+    "ansi-13": {
+        "hex": "#9472b4",
+        "hexterm": "94/72/b4"
+    },
+    "ansi-14": {
+        "hex": "#468c78",
+        "hexterm": "46/8c/78"
+    },
+    "ansi-15": {
+        "hex": "#d8e2dc",
+        "hexterm": "d8/e2/dc"
+    },
+    "ansi-2": {
+        "hex": "#64c83c",
+        "hexterm": "64/c8/3c"
+    },
+    "ansi-3": {
+        "hex": "#a67a50",
+        "hexterm": "a6/7a/50"
+    },
+    "ansi-4": {
+        "hex": "#5482af",
+        "hexterm": "54/82/af"
+    },
+    "ansi-5": {
+        "hex": "#9472b4",
+        "hexterm": "94/72/b4"
+    },
+    "ansi-6": {
+        "hex": "#468c78",
+        "hexterm": "46/8c/78"
+    },
+    "ansi-7": {
+        "hex": "#00ff00",
+        "hexterm": "00/ff/00"
+    },
+    "ansi-8": {
+        "hex": "#7c8d7c",
+        "hexterm": "7c/8d/7c"
+    },
+    "ansi-9": {
+        "hex": "#c85a46",
+        "hexterm": "c8/5a/46"
+    },
+    "background": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "cursor": {
+        "hex": "#00ff00",
+        "hexterm": "00/ff/00"
+    },
+    "foreground": {
+        "hex": "#00ff00",
+        "hexterm": "00/ff/00"
+    },
+    "selection": {
+        "hex": "#c4cec4",
+        "hexterm": "c4/ce/c4"
+    },
+    "selection-text": {
+        "hex": "#4a806c",
+        "hexterm": "4a/80/6c"
+    },
     "theme-author": "Nathan Byrd (https://github.com/cognitivegears)",
     "theme-name": "Digital Rain",
     "theme-slug": "digital-rain",

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#2d302f",
-    "ansi-1-hex": "#f9906f",
-    "ansi-10-hex": "#8ab361",
-    "ansi-11-hex": "#f0c239",
-    "ansi-12-hex": "#b0a4e3",
-    "ansi-13-hex": "#cca4e3",
-    "ansi-14-hex": "#30dff3",
-    "ansi-15-hex": "#fcfefd",
-    "ansi-2-hex": "#8ab361",
-    "ansi-3-hex": "#f0c239",
-    "ansi-4-hex": "#b0a4e3",
-    "ansi-5-hex": "#cca4e3",
-    "ansi-6-hex": "#30dff3",
-    "ansi-7-hex": "#e0f0ef",
-    "ansi-8-hex": "#9da8a3",
-    "ansi-9-hex": "#f9906f",
-    "background-hex": "#2d302f",
-    "cursor-hex": "#e0f0ef",
-    "foreground-hex": "#e0f0ef",
-    "selection-hex": "#ecf6f2",
-    "selection-text-hex": "#434846",
+    "ansi-0": {
+        "hex": "#2d302f",
+        "hexterm": "2d/30/2f"
+    },
+    "ansi-1": {
+        "hex": "#f9906f",
+        "hexterm": "f9/90/6f"
+    },
+    "ansi-10": {
+        "hex": "#8ab361",
+        "hexterm": "8a/b3/61"
+    },
+    "ansi-11": {
+        "hex": "#f0c239",
+        "hexterm": "f0/c2/39"
+    },
+    "ansi-12": {
+        "hex": "#b0a4e3",
+        "hexterm": "b0/a4/e3"
+    },
+    "ansi-13": {
+        "hex": "#cca4e3",
+        "hexterm": "cc/a4/e3"
+    },
+    "ansi-14": {
+        "hex": "#30dff3",
+        "hexterm": "30/df/f3"
+    },
+    "ansi-15": {
+        "hex": "#fcfefd",
+        "hexterm": "fc/fe/fd"
+    },
+    "ansi-2": {
+        "hex": "#8ab361",
+        "hexterm": "8a/b3/61"
+    },
+    "ansi-3": {
+        "hex": "#f0c239",
+        "hexterm": "f0/c2/39"
+    },
+    "ansi-4": {
+        "hex": "#b0a4e3",
+        "hexterm": "b0/a4/e3"
+    },
+    "ansi-5": {
+        "hex": "#cca4e3",
+        "hexterm": "cc/a4/e3"
+    },
+    "ansi-6": {
+        "hex": "#30dff3",
+        "hexterm": "30/df/f3"
+    },
+    "ansi-7": {
+        "hex": "#e0f0ef",
+        "hexterm": "e0/f0/ef"
+    },
+    "ansi-8": {
+        "hex": "#9da8a3",
+        "hexterm": "9d/a8/a3"
+    },
+    "ansi-9": {
+        "hex": "#f9906f",
+        "hexterm": "f9/90/6f"
+    },
+    "background": {
+        "hex": "#2d302f",
+        "hexterm": "2d/30/2f"
+    },
+    "cursor": {
+        "hex": "#e0f0ef",
+        "hexterm": "e0/f0/ef"
+    },
+    "foreground": {
+        "hex": "#e0f0ef",
+        "hexterm": "e0/f0/ef"
+    },
+    "selection": {
+        "hex": "#ecf6f2",
+        "hexterm": "ec/f6/f2"
+    },
+    "selection-text": {
+        "hex": "#434846",
+        "hexterm": "43/48/46"
+    },
     "theme-author": "Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)",
     "theme-name": "DanQing",
     "theme-slug": "danqing",

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#002635",
-    "ansi-1-hex": "#ff5a67",
-    "ansi-10-hex": "#7fc06e",
-    "ansi-11-hex": "#ffcc1b",
-    "ansi-12-hex": "#14747e",
-    "ansi-13-hex": "#9a70a4",
-    "ansi-14-hex": "#5dd7b9",
-    "ansi-15-hex": "#fafaf8",
-    "ansi-2-hex": "#7fc06e",
-    "ansi-3-hex": "#ffcc1b",
-    "ansi-4-hex": "#14747e",
-    "ansi-5-hex": "#9a70a4",
-    "ansi-6-hex": "#5dd7b9",
-    "ansi-7-hex": "#a1a19a",
-    "ansi-8-hex": "#6c8b91",
-    "ansi-9-hex": "#ff5a67",
-    "background-hex": "#002635",
-    "cursor-hex": "#a1a19a",
-    "foreground-hex": "#a1a19a",
-    "selection-hex": "#e6e6dc",
-    "selection-text-hex": "#00384d",
+    "ansi-0": {
+        "hex": "#002635",
+        "hexterm": "00/26/35"
+    },
+    "ansi-1": {
+        "hex": "#ff5a67",
+        "hexterm": "ff/5a/67"
+    },
+    "ansi-10": {
+        "hex": "#7fc06e",
+        "hexterm": "7f/c0/6e"
+    },
+    "ansi-11": {
+        "hex": "#ffcc1b",
+        "hexterm": "ff/cc/1b"
+    },
+    "ansi-12": {
+        "hex": "#14747e",
+        "hexterm": "14/74/7e"
+    },
+    "ansi-13": {
+        "hex": "#9a70a4",
+        "hexterm": "9a/70/a4"
+    },
+    "ansi-14": {
+        "hex": "#5dd7b9",
+        "hexterm": "5d/d7/b9"
+    },
+    "ansi-15": {
+        "hex": "#fafaf8",
+        "hexterm": "fa/fa/f8"
+    },
+    "ansi-2": {
+        "hex": "#7fc06e",
+        "hexterm": "7f/c0/6e"
+    },
+    "ansi-3": {
+        "hex": "#ffcc1b",
+        "hexterm": "ff/cc/1b"
+    },
+    "ansi-4": {
+        "hex": "#14747e",
+        "hexterm": "14/74/7e"
+    },
+    "ansi-5": {
+        "hex": "#9a70a4",
+        "hexterm": "9a/70/a4"
+    },
+    "ansi-6": {
+        "hex": "#5dd7b9",
+        "hexterm": "5d/d7/b9"
+    },
+    "ansi-7": {
+        "hex": "#a1a19a",
+        "hexterm": "a1/a1/9a"
+    },
+    "ansi-8": {
+        "hex": "#6c8b91",
+        "hexterm": "6c/8b/91"
+    },
+    "ansi-9": {
+        "hex": "#ff5a67",
+        "hexterm": "ff/5a/67"
+    },
+    "background": {
+        "hex": "#002635",
+        "hexterm": "00/26/35"
+    },
+    "cursor": {
+        "hex": "#a1a19a",
+        "hexterm": "a1/a1/9a"
+    },
+    "foreground": {
+        "hex": "#a1a19a",
+        "hexterm": "a1/a1/9a"
+    },
+    "selection": {
+        "hex": "#e6e6dc",
+        "hexterm": "e6/e6/dc"
+    },
+    "selection-text": {
+        "hex": "#00384d",
+        "hexterm": "00/38/4d"
+    },
     "theme-author": "Alex Lende (https://ajlende.com)",
     "theme-name": "Atlas",
     "theme-slug": "atlas",

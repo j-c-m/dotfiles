@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#231f20",
-    "ansi-1-hex": "#ee2e24",
-    "ansi-10-hex": "#00853e",
-    "ansi-11-hex": "#ffd204",
-    "ansi-12-hex": "#009ddc",
-    "ansi-13-hex": "#98005d",
-    "ansi-14-hex": "#85cebc",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#00853e",
-    "ansi-3-hex": "#ffd204",
-    "ansi-4-hex": "#009ddc",
-    "ansi-5-hex": "#98005d",
-    "ansi-6-hex": "#85cebc",
-    "ansi-7-hex": "#d9d8d8",
-    "ansi-8-hex": "#737171",
-    "ansi-9-hex": "#ee2e24",
-    "background-hex": "#231f20",
-    "cursor-hex": "#d9d8d8",
-    "foreground-hex": "#d9d8d8",
-    "selection-hex": "#e7e7e8",
-    "selection-text-hex": "#1c3f95",
+    "ansi-0": {
+        "hex": "#231f20",
+        "hexterm": "23/1f/20"
+    },
+    "ansi-1": {
+        "hex": "#ee2e24",
+        "hexterm": "ee/2e/24"
+    },
+    "ansi-10": {
+        "hex": "#00853e",
+        "hexterm": "00/85/3e"
+    },
+    "ansi-11": {
+        "hex": "#ffd204",
+        "hexterm": "ff/d2/04"
+    },
+    "ansi-12": {
+        "hex": "#009ddc",
+        "hexterm": "00/9d/dc"
+    },
+    "ansi-13": {
+        "hex": "#98005d",
+        "hexterm": "98/00/5d"
+    },
+    "ansi-14": {
+        "hex": "#85cebc",
+        "hexterm": "85/ce/bc"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#00853e",
+        "hexterm": "00/85/3e"
+    },
+    "ansi-3": {
+        "hex": "#ffd204",
+        "hexterm": "ff/d2/04"
+    },
+    "ansi-4": {
+        "hex": "#009ddc",
+        "hexterm": "00/9d/dc"
+    },
+    "ansi-5": {
+        "hex": "#98005d",
+        "hexterm": "98/00/5d"
+    },
+    "ansi-6": {
+        "hex": "#85cebc",
+        "hexterm": "85/ce/bc"
+    },
+    "ansi-7": {
+        "hex": "#d9d8d8",
+        "hexterm": "d9/d8/d8"
+    },
+    "ansi-8": {
+        "hex": "#737171",
+        "hexterm": "73/71/71"
+    },
+    "ansi-9": {
+        "hex": "#ee2e24",
+        "hexterm": "ee/2e/24"
+    },
+    "background": {
+        "hex": "#231f20",
+        "hexterm": "23/1f/20"
+    },
+    "cursor": {
+        "hex": "#d9d8d8",
+        "hexterm": "d9/d8/d8"
+    },
+    "foreground": {
+        "hex": "#d9d8d8",
+        "hexterm": "d9/d8/d8"
+    },
+    "selection": {
+        "hex": "#e7e7e8",
+        "hexterm": "e7/e7/e8"
+    },
+    "selection-text": {
+        "hex": "#1c3f95",
+        "hexterm": "1c/3f/95"
+    },
     "theme-author": "Jan T. Sott",
     "theme-name": "London Tube",
     "theme-slug": "london-tube",

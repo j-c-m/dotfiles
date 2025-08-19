@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#191322",
-    "ansi-1-hex": "#ff6a7e",
-    "ansi-10-hex": "#97c378",
-    "ansi-11-hex": "#f9e46a",
-    "ansi-12-hex": "#91fff3",
-    "ansi-13-hex": "#da70d5",
-    "ansi-14-hex": "#bcf2fe",
-    "ansi-15-hex": "#feffff",
-    "ansi-2-hex": "#00bc9b",
-    "ansi-3-hex": "#91fff3",
-    "ansi-4-hex": "#22e8df",
-    "ansi-5-hex": "#dc3969",
-    "ansi-6-hex": "#55b6c1",
-    "ansi-7-hex": "#c6c9cd",
-    "ansi-8-hex": "#727985",
-    "ansi-9-hex": "#fd9ea1",
-    "background-hex": "#191322",
-    "cursor-hex": "#c6c9cd",
-    "foreground-hex": "#c6c9cd",
-    "selection-hex": "#f1f1f1",
-    "selection-text-hex": "#16141e",
+    "ansi-0": {
+        "hex": "#191322",
+        "hexterm": "19/13/22"
+    },
+    "ansi-1": {
+        "hex": "#ff6a7e",
+        "hexterm": "ff/6a/7e"
+    },
+    "ansi-10": {
+        "hex": "#97c378",
+        "hexterm": "97/c3/78"
+    },
+    "ansi-11": {
+        "hex": "#f9e46a",
+        "hexterm": "f9/e4/6a"
+    },
+    "ansi-12": {
+        "hex": "#91fff3",
+        "hexterm": "91/ff/f3"
+    },
+    "ansi-13": {
+        "hex": "#da70d5",
+        "hexterm": "da/70/d5"
+    },
+    "ansi-14": {
+        "hex": "#bcf2fe",
+        "hexterm": "bc/f2/fe"
+    },
+    "ansi-15": {
+        "hex": "#feffff",
+        "hexterm": "fe/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#00bc9b",
+        "hexterm": "00/bc/9b"
+    },
+    "ansi-3": {
+        "hex": "#91fff3",
+        "hexterm": "91/ff/f3"
+    },
+    "ansi-4": {
+        "hex": "#22e8df",
+        "hexterm": "22/e8/df"
+    },
+    "ansi-5": {
+        "hex": "#dc3969",
+        "hexterm": "dc/39/69"
+    },
+    "ansi-6": {
+        "hex": "#55b6c1",
+        "hexterm": "55/b6/c1"
+    },
+    "ansi-7": {
+        "hex": "#c6c9cd",
+        "hexterm": "c6/c9/cd"
+    },
+    "ansi-8": {
+        "hex": "#727985",
+        "hexterm": "72/79/85"
+    },
+    "ansi-9": {
+        "hex": "#fd9ea1",
+        "hexterm": "fd/9e/a1"
+    },
+    "background": {
+        "hex": "#191322",
+        "hexterm": "19/13/22"
+    },
+    "cursor": {
+        "hex": "#c6c9cd",
+        "hexterm": "c6/c9/cd"
+    },
+    "foreground": {
+        "hex": "#c6c9cd",
+        "hexterm": "c6/c9/cd"
+    },
+    "selection": {
+        "hex": "#f1f1f1",
+        "hexterm": "f1/f1/f1"
+    },
+    "selection-text": {
+        "hex": "#16141e",
+        "hexterm": "16/14/1e"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Banana Blueberry",
     "theme-slug": "banana-blueberry",

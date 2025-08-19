@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#545d68",
-    "ansi-1-hex": "#f47067",
-    "ansi-10-hex": "#6bc46d",
-    "ansi-11-hex": "#daaa3f",
-    "ansi-12-hex": "#6cb6ff",
-    "ansi-13-hex": "#dcbdfb",
-    "ansi-14-hex": "#56d4dd",
-    "ansi-15-hex": "#cdd9e5",
-    "ansi-2-hex": "#57ab5a",
-    "ansi-3-hex": "#c69026",
-    "ansi-4-hex": "#539bf5",
-    "ansi-5-hex": "#b083f0",
-    "ansi-6-hex": "#39c5cf",
-    "ansi-7-hex": "#909dab",
-    "ansi-8-hex": "#636e7b",
-    "ansi-9-hex": "#ff938a",
-    "background-hex": "#22272e",
-    "cursor-hex": "#539bf5",
-    "foreground-hex": "#adbac7",
-    "selection-hex": "#adbac7",
-    "selection-text-hex": "#22272e",
+    "ansi-0": {
+        "hex": "#545d68",
+        "hexterm": "54/5d/68"
+    },
+    "ansi-1": {
+        "hex": "#f47067",
+        "hexterm": "f4/70/67"
+    },
+    "ansi-10": {
+        "hex": "#6bc46d",
+        "hexterm": "6b/c4/6d"
+    },
+    "ansi-11": {
+        "hex": "#daaa3f",
+        "hexterm": "da/aa/3f"
+    },
+    "ansi-12": {
+        "hex": "#6cb6ff",
+        "hexterm": "6c/b6/ff"
+    },
+    "ansi-13": {
+        "hex": "#dcbdfb",
+        "hexterm": "dc/bd/fb"
+    },
+    "ansi-14": {
+        "hex": "#56d4dd",
+        "hexterm": "56/d4/dd"
+    },
+    "ansi-15": {
+        "hex": "#cdd9e5",
+        "hexterm": "cd/d9/e5"
+    },
+    "ansi-2": {
+        "hex": "#57ab5a",
+        "hexterm": "57/ab/5a"
+    },
+    "ansi-3": {
+        "hex": "#c69026",
+        "hexterm": "c6/90/26"
+    },
+    "ansi-4": {
+        "hex": "#539bf5",
+        "hexterm": "53/9b/f5"
+    },
+    "ansi-5": {
+        "hex": "#b083f0",
+        "hexterm": "b0/83/f0"
+    },
+    "ansi-6": {
+        "hex": "#39c5cf",
+        "hexterm": "39/c5/cf"
+    },
+    "ansi-7": {
+        "hex": "#909dab",
+        "hexterm": "90/9d/ab"
+    },
+    "ansi-8": {
+        "hex": "#636e7b",
+        "hexterm": "63/6e/7b"
+    },
+    "ansi-9": {
+        "hex": "#ff938a",
+        "hexterm": "ff/93/8a"
+    },
+    "background": {
+        "hex": "#22272e",
+        "hexterm": "22/27/2e"
+    },
+    "cursor": {
+        "hex": "#539bf5",
+        "hexterm": "53/9b/f5"
+    },
+    "foreground": {
+        "hex": "#adbac7",
+        "hexterm": "ad/ba/c7"
+    },
+    "selection": {
+        "hex": "#adbac7",
+        "hexterm": "ad/ba/c7"
+    },
+    "selection-text": {
+        "hex": "#22272e",
+        "hexterm": "22/27/2e"
+    },
     "theme-author": "unknown",
     "theme-name": "GitHub-Dark-Dimmed",
     "theme-slug": "github-dark-dimmed",

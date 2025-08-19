@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#2a1a1c",
-    "ansi-1-hex": "#90002a",
-    "ansi-10-hex": "#8dff56",
-    "ansi-11-hex": "#c7371d",
-    "ansi-12-hex": "#cfc9ff",
-    "ansi-13-hex": "#fb6cb9",
-    "ansi-14-hex": "#ffceae",
-    "ansi-15-hex": "#af949d",
-    "ansi-2-hex": "#579523",
-    "ansi-3-hex": "#aa301b",
-    "ansi-4-hex": "#8b87af",
-    "ansi-5-hex": "#682e50",
-    "ansi-6-hex": "#e8a766",
-    "ansi-7-hex": "#685259",
-    "ansi-8-hex": "#3c2a2e",
-    "ansi-9-hex": "#c5245c",
-    "background-hex": "#140607",
-    "cursor-hex": "#685259",
-    "foreground-hex": "#685259",
-    "selection-hex": "#2a1a1c",
-    "selection-text-hex": "#695259",
+    "ansi-0": {
+        "hex": "#2a1a1c",
+        "hexterm": "2a/1a/1c"
+    },
+    "ansi-1": {
+        "hex": "#90002a",
+        "hexterm": "90/00/2a"
+    },
+    "ansi-10": {
+        "hex": "#8dff56",
+        "hexterm": "8d/ff/56"
+    },
+    "ansi-11": {
+        "hex": "#c7371d",
+        "hexterm": "c7/37/1d"
+    },
+    "ansi-12": {
+        "hex": "#cfc9ff",
+        "hexterm": "cf/c9/ff"
+    },
+    "ansi-13": {
+        "hex": "#fb6cb9",
+        "hexterm": "fb/6c/b9"
+    },
+    "ansi-14": {
+        "hex": "#ffceae",
+        "hexterm": "ff/ce/ae"
+    },
+    "ansi-15": {
+        "hex": "#af949d",
+        "hexterm": "af/94/9d"
+    },
+    "ansi-2": {
+        "hex": "#579523",
+        "hexterm": "57/95/23"
+    },
+    "ansi-3": {
+        "hex": "#aa301b",
+        "hexterm": "aa/30/1b"
+    },
+    "ansi-4": {
+        "hex": "#8b87af",
+        "hexterm": "8b/87/af"
+    },
+    "ansi-5": {
+        "hex": "#682e50",
+        "hexterm": "68/2e/50"
+    },
+    "ansi-6": {
+        "hex": "#e8a766",
+        "hexterm": "e8/a7/66"
+    },
+    "ansi-7": {
+        "hex": "#685259",
+        "hexterm": "68/52/59"
+    },
+    "ansi-8": {
+        "hex": "#3c2a2e",
+        "hexterm": "3c/2a/2e"
+    },
+    "ansi-9": {
+        "hex": "#c5245c",
+        "hexterm": "c5/24/5c"
+    },
+    "background": {
+        "hex": "#140607",
+        "hexterm": "14/06/07"
+    },
+    "cursor": {
+        "hex": "#685259",
+        "hexterm": "68/52/59"
+    },
+    "foreground": {
+        "hex": "#685259",
+        "hexterm": "68/52/59"
+    },
+    "selection": {
+        "hex": "#2a1a1c",
+        "hexterm": "2a/1a/1c"
+    },
+    "selection-text": {
+        "hex": "#695259",
+        "hexterm": "69/52/59"
+    },
     "theme-author": "unknown",
     "theme-name": "CrayonPonyFish",
     "theme-slug": "crayonponyfish",

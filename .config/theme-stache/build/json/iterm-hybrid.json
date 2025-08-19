@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#2a2e33",
-    "ansi-1-hex": "#b74d50",
-    "ansi-10-hex": "#788331",
-    "ansi-11-hex": "#e5894f",
-    "ansi-12-hex": "#4b6b88",
-    "ansi-13-hex": "#6e4f79",
-    "ansi-14-hex": "#4d7b73",
-    "ansi-15-hex": "#5a6169",
-    "ansi-2-hex": "#b3be5a",
-    "ansi-3-hex": "#e3b55e",
-    "ansi-4-hex": "#6d90b0",
-    "ansi-5-hex": "#a07eab",
-    "ansi-6-hex": "#7fbeb3",
-    "ansi-7-hex": "#b5b8b6",
-    "ansi-8-hex": "#1d1e21",
-    "ansi-9-hex": "#8c2d32",
-    "background-hex": "#161718",
-    "cursor-hex": "#b7bcb9",
-    "foreground-hex": "#b7bcb9",
-    "selection-hex": "#1e1f22",
-    "selection-text-hex": "#b7bcb9",
+    "ansi-0": {
+        "hex": "#2a2e33",
+        "hexterm": "2a/2e/33"
+    },
+    "ansi-1": {
+        "hex": "#b74d50",
+        "hexterm": "b7/4d/50"
+    },
+    "ansi-10": {
+        "hex": "#788331",
+        "hexterm": "78/83/31"
+    },
+    "ansi-11": {
+        "hex": "#e5894f",
+        "hexterm": "e5/89/4f"
+    },
+    "ansi-12": {
+        "hex": "#4b6b88",
+        "hexterm": "4b/6b/88"
+    },
+    "ansi-13": {
+        "hex": "#6e4f79",
+        "hexterm": "6e/4f/79"
+    },
+    "ansi-14": {
+        "hex": "#4d7b73",
+        "hexterm": "4d/7b/73"
+    },
+    "ansi-15": {
+        "hex": "#5a6169",
+        "hexterm": "5a/61/69"
+    },
+    "ansi-2": {
+        "hex": "#b3be5a",
+        "hexterm": "b3/be/5a"
+    },
+    "ansi-3": {
+        "hex": "#e3b55e",
+        "hexterm": "e3/b5/5e"
+    },
+    "ansi-4": {
+        "hex": "#6d90b0",
+        "hexterm": "6d/90/b0"
+    },
+    "ansi-5": {
+        "hex": "#a07eab",
+        "hexterm": "a0/7e/ab"
+    },
+    "ansi-6": {
+        "hex": "#7fbeb3",
+        "hexterm": "7f/be/b3"
+    },
+    "ansi-7": {
+        "hex": "#b5b8b6",
+        "hexterm": "b5/b8/b6"
+    },
+    "ansi-8": {
+        "hex": "#1d1e21",
+        "hexterm": "1d/1e/21"
+    },
+    "ansi-9": {
+        "hex": "#8c2d32",
+        "hexterm": "8c/2d/32"
+    },
+    "background": {
+        "hex": "#161718",
+        "hexterm": "16/17/18"
+    },
+    "cursor": {
+        "hex": "#b7bcb9",
+        "hexterm": "b7/bc/b9"
+    },
+    "foreground": {
+        "hex": "#b7bcb9",
+        "hexterm": "b7/bc/b9"
+    },
+    "selection": {
+        "hex": "#1e1f22",
+        "hexterm": "1e/1f/22"
+    },
+    "selection-text": {
+        "hex": "#b7bcb9",
+        "hexterm": "b7/bc/b9"
+    },
     "theme-author": "unknown",
     "theme-name": "Hybrid",
     "theme-slug": "hybrid",

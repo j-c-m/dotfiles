@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#191919",
-    "ansi-1-hex": "#ff2b1d",
-    "ansi-10-hex": "#fffe44",
-    "ansi-11-hex": "#fefb72",
-    "ansi-12-hex": "#fffe44",
-    "ansi-13-hex": "#fffe44",
-    "ansi-14-hex": "#fffe44",
-    "ansi-15-hex": "#fffe44",
-    "ansi-2-hex": "#56ff3d",
-    "ansi-3-hex": "#fffe44",
-    "ansi-4-hex": "#0004ff",
-    "ansi-5-hex": "#ff2cff",
-    "ansi-6-hex": "#55ffff",
-    "ansi-7-hex": "#fffefe",
-    "ansi-8-hex": "#fffe44",
-    "ansi-9-hex": "#fffe44",
-    "background-hex": "#000042",
-    "cursor-hex": "#c7c7c7",
-    "foreground-hex": "#f2f2f2",
-    "selection-hex": "#c1ddff",
-    "selection-text-hex": "#000000",
+    "ansi-0": {
+        "hex": "#191919",
+        "hexterm": "19/19/19"
+    },
+    "ansi-1": {
+        "hex": "#ff2b1d",
+        "hexterm": "ff/2b/1d"
+    },
+    "ansi-10": {
+        "hex": "#fffe44",
+        "hexterm": "ff/fe/44"
+    },
+    "ansi-11": {
+        "hex": "#fefb72",
+        "hexterm": "fe/fb/72"
+    },
+    "ansi-12": {
+        "hex": "#fffe44",
+        "hexterm": "ff/fe/44"
+    },
+    "ansi-13": {
+        "hex": "#fffe44",
+        "hexterm": "ff/fe/44"
+    },
+    "ansi-14": {
+        "hex": "#fffe44",
+        "hexterm": "ff/fe/44"
+    },
+    "ansi-15": {
+        "hex": "#fffe44",
+        "hexterm": "ff/fe/44"
+    },
+    "ansi-2": {
+        "hex": "#56ff3d",
+        "hexterm": "56/ff/3d"
+    },
+    "ansi-3": {
+        "hex": "#fffe44",
+        "hexterm": "ff/fe/44"
+    },
+    "ansi-4": {
+        "hex": "#0004ff",
+        "hexterm": "00/04/ff"
+    },
+    "ansi-5": {
+        "hex": "#ff2cff",
+        "hexterm": "ff/2c/ff"
+    },
+    "ansi-6": {
+        "hex": "#55ffff",
+        "hexterm": "55/ff/ff"
+    },
+    "ansi-7": {
+        "hex": "#fffefe",
+        "hexterm": "ff/fe/fe"
+    },
+    "ansi-8": {
+        "hex": "#fffe44",
+        "hexterm": "ff/fe/44"
+    },
+    "ansi-9": {
+        "hex": "#fffe44",
+        "hexterm": "ff/fe/44"
+    },
+    "background": {
+        "hex": "#000042",
+        "hexterm": "00/00/42"
+    },
+    "cursor": {
+        "hex": "#c7c7c7",
+        "hexterm": "c7/c7/c7"
+    },
+    "foreground": {
+        "hex": "#f2f2f2",
+        "hexterm": "f2/f2/f2"
+    },
+    "selection": {
+        "hex": "#c1ddff",
+        "hexterm": "c1/dd/ff"
+    },
+    "selection-text": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
     "theme-author": "unknown",
     "theme-name": "IRIX Terminal",
     "theme-slug": "irix-terminal",

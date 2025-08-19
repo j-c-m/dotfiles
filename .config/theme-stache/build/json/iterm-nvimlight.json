@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#07080d",
-    "ansi-1-hex": "#590008",
-    "ansi-10-hex": "#005523",
-    "ansi-11-hex": "#6b5300",
-    "ansi-12-hex": "#004c73",
-    "ansi-13-hex": "#470045",
-    "ansi-14-hex": "#007373",
-    "ansi-15-hex": "#eef1f8",
-    "ansi-2-hex": "#005523",
-    "ansi-3-hex": "#6b5300",
-    "ansi-4-hex": "#004c73",
-    "ansi-5-hex": "#470045",
-    "ansi-6-hex": "#007373",
-    "ansi-7-hex": "#eef1f8",
-    "ansi-8-hex": "#4f5258",
-    "ansi-9-hex": "#590008",
-    "background-hex": "#e0e2ea",
-    "cursor-hex": "#9b9ea4",
-    "foreground-hex": "#14161b",
-    "selection-hex": "#9b9ea4",
-    "selection-text-hex": "#14161b",
+    "ansi-0": {
+        "hex": "#07080d",
+        "hexterm": "07/08/0d"
+    },
+    "ansi-1": {
+        "hex": "#590008",
+        "hexterm": "59/00/08"
+    },
+    "ansi-10": {
+        "hex": "#005523",
+        "hexterm": "00/55/23"
+    },
+    "ansi-11": {
+        "hex": "#6b5300",
+        "hexterm": "6b/53/00"
+    },
+    "ansi-12": {
+        "hex": "#004c73",
+        "hexterm": "00/4c/73"
+    },
+    "ansi-13": {
+        "hex": "#470045",
+        "hexterm": "47/00/45"
+    },
+    "ansi-14": {
+        "hex": "#007373",
+        "hexterm": "00/73/73"
+    },
+    "ansi-15": {
+        "hex": "#eef1f8",
+        "hexterm": "ee/f1/f8"
+    },
+    "ansi-2": {
+        "hex": "#005523",
+        "hexterm": "00/55/23"
+    },
+    "ansi-3": {
+        "hex": "#6b5300",
+        "hexterm": "6b/53/00"
+    },
+    "ansi-4": {
+        "hex": "#004c73",
+        "hexterm": "00/4c/73"
+    },
+    "ansi-5": {
+        "hex": "#470045",
+        "hexterm": "47/00/45"
+    },
+    "ansi-6": {
+        "hex": "#007373",
+        "hexterm": "00/73/73"
+    },
+    "ansi-7": {
+        "hex": "#eef1f8",
+        "hexterm": "ee/f1/f8"
+    },
+    "ansi-8": {
+        "hex": "#4f5258",
+        "hexterm": "4f/52/58"
+    },
+    "ansi-9": {
+        "hex": "#590008",
+        "hexterm": "59/00/08"
+    },
+    "background": {
+        "hex": "#e0e2ea",
+        "hexterm": "e0/e2/ea"
+    },
+    "cursor": {
+        "hex": "#9b9ea4",
+        "hexterm": "9b/9e/a4"
+    },
+    "foreground": {
+        "hex": "#14161b",
+        "hexterm": "14/16/1b"
+    },
+    "selection": {
+        "hex": "#9b9ea4",
+        "hexterm": "9b/9e/a4"
+    },
+    "selection-text": {
+        "hex": "#14161b",
+        "hexterm": "14/16/1b"
+    },
     "theme-author": "unknown",
     "theme-name": "NvimLight",
     "theme-slug": "nvimlight",

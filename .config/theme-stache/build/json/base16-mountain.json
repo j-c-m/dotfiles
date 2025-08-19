@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#0f0f0f",
-    "ansi-1-hex": "#ac8a8c",
-    "ansi-10-hex": "#8aac8b",
-    "ansi-11-hex": "#aca98a",
-    "ansi-12-hex": "#8f8aac",
-    "ansi-13-hex": "#ac8aac",
-    "ansi-14-hex": "#8aabac",
-    "ansi-15-hex": "#f0f0f0",
-    "ansi-2-hex": "#8aac8b",
-    "ansi-3-hex": "#aca98a",
-    "ansi-4-hex": "#8f8aac",
-    "ansi-5-hex": "#ac8aac",
-    "ansi-6-hex": "#8aabac",
-    "ansi-7-hex": "#cacaca",
-    "ansi-8-hex": "#393939",
-    "ansi-9-hex": "#ac8a8c",
-    "background-hex": "#0f0f0f",
-    "cursor-hex": "#cacaca",
-    "foreground-hex": "#cacaca",
-    "selection-hex": "#e7e7e7",
-    "selection-text-hex": "#191919",
+    "ansi-0": {
+        "hex": "#0f0f0f",
+        "hexterm": "0f/0f/0f"
+    },
+    "ansi-1": {
+        "hex": "#ac8a8c",
+        "hexterm": "ac/8a/8c"
+    },
+    "ansi-10": {
+        "hex": "#8aac8b",
+        "hexterm": "8a/ac/8b"
+    },
+    "ansi-11": {
+        "hex": "#aca98a",
+        "hexterm": "ac/a9/8a"
+    },
+    "ansi-12": {
+        "hex": "#8f8aac",
+        "hexterm": "8f/8a/ac"
+    },
+    "ansi-13": {
+        "hex": "#ac8aac",
+        "hexterm": "ac/8a/ac"
+    },
+    "ansi-14": {
+        "hex": "#8aabac",
+        "hexterm": "8a/ab/ac"
+    },
+    "ansi-15": {
+        "hex": "#f0f0f0",
+        "hexterm": "f0/f0/f0"
+    },
+    "ansi-2": {
+        "hex": "#8aac8b",
+        "hexterm": "8a/ac/8b"
+    },
+    "ansi-3": {
+        "hex": "#aca98a",
+        "hexterm": "ac/a9/8a"
+    },
+    "ansi-4": {
+        "hex": "#8f8aac",
+        "hexterm": "8f/8a/ac"
+    },
+    "ansi-5": {
+        "hex": "#ac8aac",
+        "hexterm": "ac/8a/ac"
+    },
+    "ansi-6": {
+        "hex": "#8aabac",
+        "hexterm": "8a/ab/ac"
+    },
+    "ansi-7": {
+        "hex": "#cacaca",
+        "hexterm": "ca/ca/ca"
+    },
+    "ansi-8": {
+        "hex": "#393939",
+        "hexterm": "39/39/39"
+    },
+    "ansi-9": {
+        "hex": "#ac8a8c",
+        "hexterm": "ac/8a/8c"
+    },
+    "background": {
+        "hex": "#0f0f0f",
+        "hexterm": "0f/0f/0f"
+    },
+    "cursor": {
+        "hex": "#cacaca",
+        "hexterm": "ca/ca/ca"
+    },
+    "foreground": {
+        "hex": "#cacaca",
+        "hexterm": "ca/ca/ca"
+    },
+    "selection": {
+        "hex": "#e7e7e7",
+        "hexterm": "e7/e7/e7"
+    },
+    "selection-text": {
+        "hex": "#191919",
+        "hexterm": "19/19/19"
+    },
     "theme-author": "gnsfujiwara (https://github.com/gnsfujiwara)",
     "theme-name": "Mountain",
     "theme-slug": "mountain",

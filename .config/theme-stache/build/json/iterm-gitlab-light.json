@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#303030",
-    "ansi-1-hex": "#a31700",
-    "ansi-10-hex": "#0a7f3d",
-    "ansi-11-hex": "#af551d",
-    "ansi-12-hex": "#006cd8",
-    "ansi-13-hex": "#583cac",
-    "ansi-14-hex": "#00798a",
-    "ansi-15-hex": "#303030",
-    "ansi-2-hex": "#0a7f3d",
-    "ansi-3-hex": "#af551d",
-    "ansi-4-hex": "#006cd8",
-    "ansi-5-hex": "#583cac",
-    "ansi-6-hex": "#00798a",
-    "ansi-7-hex": "#303030",
-    "ansi-8-hex": "#303030",
-    "ansi-9-hex": "#a31700",
-    "background-hex": "#fafaff",
-    "cursor-hex": "#303030",
-    "foreground-hex": "#303030",
-    "selection-hex": "#ad95e9",
-    "selection-text-hex": "#fafaff",
+    "ansi-0": {
+        "hex": "#303030",
+        "hexterm": "30/30/30"
+    },
+    "ansi-1": {
+        "hex": "#a31700",
+        "hexterm": "a3/17/00"
+    },
+    "ansi-10": {
+        "hex": "#0a7f3d",
+        "hexterm": "0a/7f/3d"
+    },
+    "ansi-11": {
+        "hex": "#af551d",
+        "hexterm": "af/55/1d"
+    },
+    "ansi-12": {
+        "hex": "#006cd8",
+        "hexterm": "00/6c/d8"
+    },
+    "ansi-13": {
+        "hex": "#583cac",
+        "hexterm": "58/3c/ac"
+    },
+    "ansi-14": {
+        "hex": "#00798a",
+        "hexterm": "00/79/8a"
+    },
+    "ansi-15": {
+        "hex": "#303030",
+        "hexterm": "30/30/30"
+    },
+    "ansi-2": {
+        "hex": "#0a7f3d",
+        "hexterm": "0a/7f/3d"
+    },
+    "ansi-3": {
+        "hex": "#af551d",
+        "hexterm": "af/55/1d"
+    },
+    "ansi-4": {
+        "hex": "#006cd8",
+        "hexterm": "00/6c/d8"
+    },
+    "ansi-5": {
+        "hex": "#583cac",
+        "hexterm": "58/3c/ac"
+    },
+    "ansi-6": {
+        "hex": "#00798a",
+        "hexterm": "00/79/8a"
+    },
+    "ansi-7": {
+        "hex": "#303030",
+        "hexterm": "30/30/30"
+    },
+    "ansi-8": {
+        "hex": "#303030",
+        "hexterm": "30/30/30"
+    },
+    "ansi-9": {
+        "hex": "#a31700",
+        "hexterm": "a3/17/00"
+    },
+    "background": {
+        "hex": "#fafaff",
+        "hexterm": "fa/fa/ff"
+    },
+    "cursor": {
+        "hex": "#303030",
+        "hexterm": "30/30/30"
+    },
+    "foreground": {
+        "hex": "#303030",
+        "hexterm": "30/30/30"
+    },
+    "selection": {
+        "hex": "#ad95e9",
+        "hexterm": "ad/95/e9"
+    },
+    "selection-text": {
+        "hex": "#fafaff",
+        "hexterm": "fa/fa/ff"
+    },
     "theme-author": "unknown",
     "theme-name": "GitLab-Light",
     "theme-slug": "gitlab-light",

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#34373e",
-    "ansi-1-hex": "#e06382",
-    "ansi-10-hex": "#8ed6d5",
-    "ansi-11-hex": "#d1deff",
-    "ansi-12-hex": "#b2cff0",
-    "ansi-13-hex": "#eecbfc",
-    "ansi-14-hex": "#68aac5",
-    "ansi-15-hex": "#d3d3d3",
-    "ansi-2-hex": "#7ebebd",
-    "ansi-3-hex": "#cccccc",
-    "ansi-4-hex": "#a6c1e0",
-    "ansi-5-hex": "#e1c1ee",
-    "ansi-6-hex": "#5b94ab",
-    "ansi-7-hex": "#ababab",
-    "ansi-8-hex": "#424650",
-    "ansi-9-hex": "#f97092",
-    "background-hex": "#282b33",
-    "cursor-hex": "#7ebebd",
-    "foreground-hex": "#c6c6c6",
-    "selection-hex": "#1f2024",
-    "selection-text-hex": "#c6c6c6",
+    "ansi-0": {
+        "hex": "#34373e",
+        "hexterm": "34/37/3e"
+    },
+    "ansi-1": {
+        "hex": "#e06382",
+        "hexterm": "e0/63/82"
+    },
+    "ansi-10": {
+        "hex": "#8ed6d5",
+        "hexterm": "8e/d6/d5"
+    },
+    "ansi-11": {
+        "hex": "#d1deff",
+        "hexterm": "d1/de/ff"
+    },
+    "ansi-12": {
+        "hex": "#b2cff0",
+        "hexterm": "b2/cf/f0"
+    },
+    "ansi-13": {
+        "hex": "#eecbfc",
+        "hexterm": "ee/cb/fc"
+    },
+    "ansi-14": {
+        "hex": "#68aac5",
+        "hexterm": "68/aa/c5"
+    },
+    "ansi-15": {
+        "hex": "#d3d3d3",
+        "hexterm": "d3/d3/d3"
+    },
+    "ansi-2": {
+        "hex": "#7ebebd",
+        "hexterm": "7e/be/bd"
+    },
+    "ansi-3": {
+        "hex": "#cccccc",
+        "hexterm": "cc/cc/cc"
+    },
+    "ansi-4": {
+        "hex": "#a6c1e0",
+        "hexterm": "a6/c1/e0"
+    },
+    "ansi-5": {
+        "hex": "#e1c1ee",
+        "hexterm": "e1/c1/ee"
+    },
+    "ansi-6": {
+        "hex": "#5b94ab",
+        "hexterm": "5b/94/ab"
+    },
+    "ansi-7": {
+        "hex": "#ababab",
+        "hexterm": "ab/ab/ab"
+    },
+    "ansi-8": {
+        "hex": "#424650",
+        "hexterm": "42/46/50"
+    },
+    "ansi-9": {
+        "hex": "#f97092",
+        "hexterm": "f9/70/92"
+    },
+    "background": {
+        "hex": "#282b33",
+        "hexterm": "28/2b/33"
+    },
+    "cursor": {
+        "hex": "#7ebebd",
+        "hexterm": "7e/be/bd"
+    },
+    "foreground": {
+        "hex": "#c6c6c6",
+        "hexterm": "c6/c6/c6"
+    },
+    "selection": {
+        "hex": "#1f2024",
+        "hexterm": "1f/20/24"
+    },
+    "selection-text": {
+        "hex": "#c6c6c6",
+        "hexterm": "c6/c6/c6"
+    },
     "theme-author": "unknown",
     "theme-name": "wilmersdorf",
     "theme-slug": "wilmersdorf",

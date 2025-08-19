@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1c1c1c",
-    "ansi-1-hex": "#585858",
-    "ansi-10-hex": "#af87d7",
-    "ansi-11-hex": "#afd700",
-    "ansi-12-hex": "#ff5faf",
-    "ansi-13-hex": "#00afaf",
-    "ansi-14-hex": "#ffaf00",
-    "ansi-15-hex": "#d0d0d0",
-    "ansi-2-hex": "#af87d7",
-    "ansi-3-hex": "#afd700",
-    "ansi-4-hex": "#ff5faf",
-    "ansi-5-hex": "#00afaf",
-    "ansi-6-hex": "#ffaf00",
-    "ansi-7-hex": "#808080",
-    "ansi-8-hex": "#d7af5f",
-    "ansi-9-hex": "#585858",
-    "background-hex": "#1c1c1c",
-    "cursor-hex": "#808080",
-    "foreground-hex": "#808080",
-    "selection-hex": "#d7875f",
-    "selection-text-hex": "#af005f",
+    "ansi-0": {
+        "hex": "#1c1c1c",
+        "hexterm": "1c/1c/1c"
+    },
+    "ansi-1": {
+        "hex": "#585858",
+        "hexterm": "58/58/58"
+    },
+    "ansi-10": {
+        "hex": "#af87d7",
+        "hexterm": "af/87/d7"
+    },
+    "ansi-11": {
+        "hex": "#afd700",
+        "hexterm": "af/d7/00"
+    },
+    "ansi-12": {
+        "hex": "#ff5faf",
+        "hexterm": "ff/5f/af"
+    },
+    "ansi-13": {
+        "hex": "#00afaf",
+        "hexterm": "00/af/af"
+    },
+    "ansi-14": {
+        "hex": "#ffaf00",
+        "hexterm": "ff/af/00"
+    },
+    "ansi-15": {
+        "hex": "#d0d0d0",
+        "hexterm": "d0/d0/d0"
+    },
+    "ansi-2": {
+        "hex": "#af87d7",
+        "hexterm": "af/87/d7"
+    },
+    "ansi-3": {
+        "hex": "#afd700",
+        "hexterm": "af/d7/00"
+    },
+    "ansi-4": {
+        "hex": "#ff5faf",
+        "hexterm": "ff/5f/af"
+    },
+    "ansi-5": {
+        "hex": "#00afaf",
+        "hexterm": "00/af/af"
+    },
+    "ansi-6": {
+        "hex": "#ffaf00",
+        "hexterm": "ff/af/00"
+    },
+    "ansi-7": {
+        "hex": "#808080",
+        "hexterm": "80/80/80"
+    },
+    "ansi-8": {
+        "hex": "#d7af5f",
+        "hexterm": "d7/af/5f"
+    },
+    "ansi-9": {
+        "hex": "#585858",
+        "hexterm": "58/58/58"
+    },
+    "background": {
+        "hex": "#1c1c1c",
+        "hexterm": "1c/1c/1c"
+    },
+    "cursor": {
+        "hex": "#808080",
+        "hexterm": "80/80/80"
+    },
+    "foreground": {
+        "hex": "#808080",
+        "hexterm": "80/80/80"
+    },
+    "selection": {
+        "hex": "#d7875f",
+        "hexterm": "d7/87/5f"
+    },
+    "selection-text": {
+        "hex": "#af005f",
+        "hexterm": "af/00/5f"
+    },
     "theme-author": "Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)",
     "theme-name": "PaperColor Dark",
     "theme-slug": "papercolor-dark",

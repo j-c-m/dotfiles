@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#7f7f7f",
-    "ansi-1-hex": "#e15a60",
-    "ansi-10-hex": "#a9cfa4",
-    "ansi-11-hex": "#ffe2a9",
-    "ansi-12-hex": "#6699cc",
-    "ansi-13-hex": "#f1a5ab",
-    "ansi-14-hex": "#5fb3b3",
-    "ansi-15-hex": "#d4d4d4",
-    "ansi-2-hex": "#a9cfa4",
-    "ansi-3-hex": "#ffe2a9",
-    "ansi-4-hex": "#6699cc",
-    "ansi-5-hex": "#f1a5ab",
-    "ansi-6-hex": "#5fb3b3",
-    "ansi-7-hex": "#d4d4d4",
-    "ansi-8-hex": "#7f7f7f",
-    "ansi-9-hex": "#e15a60",
-    "background-hex": "#282c35",
-    "cursor-hex": "#c7c7c7",
-    "foreground-hex": "#d4d4d4",
-    "selection-hex": "#484e5b",
-    "selection-text-hex": "#feffff",
+    "ansi-0": {
+        "hex": "#7f7f7f",
+        "hexterm": "7f/7f/7f"
+    },
+    "ansi-1": {
+        "hex": "#e15a60",
+        "hexterm": "e1/5a/60"
+    },
+    "ansi-10": {
+        "hex": "#a9cfa4",
+        "hexterm": "a9/cf/a4"
+    },
+    "ansi-11": {
+        "hex": "#ffe2a9",
+        "hexterm": "ff/e2/a9"
+    },
+    "ansi-12": {
+        "hex": "#6699cc",
+        "hexterm": "66/99/cc"
+    },
+    "ansi-13": {
+        "hex": "#f1a5ab",
+        "hexterm": "f1/a5/ab"
+    },
+    "ansi-14": {
+        "hex": "#5fb3b3",
+        "hexterm": "5f/b3/b3"
+    },
+    "ansi-15": {
+        "hex": "#d4d4d4",
+        "hexterm": "d4/d4/d4"
+    },
+    "ansi-2": {
+        "hex": "#a9cfa4",
+        "hexterm": "a9/cf/a4"
+    },
+    "ansi-3": {
+        "hex": "#ffe2a9",
+        "hexterm": "ff/e2/a9"
+    },
+    "ansi-4": {
+        "hex": "#6699cc",
+        "hexterm": "66/99/cc"
+    },
+    "ansi-5": {
+        "hex": "#f1a5ab",
+        "hexterm": "f1/a5/ab"
+    },
+    "ansi-6": {
+        "hex": "#5fb3b3",
+        "hexterm": "5f/b3/b3"
+    },
+    "ansi-7": {
+        "hex": "#d4d4d4",
+        "hexterm": "d4/d4/d4"
+    },
+    "ansi-8": {
+        "hex": "#7f7f7f",
+        "hexterm": "7f/7f/7f"
+    },
+    "ansi-9": {
+        "hex": "#e15a60",
+        "hexterm": "e1/5a/60"
+    },
+    "background": {
+        "hex": "#282c35",
+        "hexterm": "28/2c/35"
+    },
+    "cursor": {
+        "hex": "#c7c7c7",
+        "hexterm": "c7/c7/c7"
+    },
+    "foreground": {
+        "hex": "#d4d4d4",
+        "hexterm": "d4/d4/d4"
+    },
+    "selection": {
+        "hex": "#484e5b",
+        "hexterm": "48/4e/5b"
+    },
+    "selection-text": {
+        "hex": "#feffff",
+        "hexterm": "fe/ff/ff"
+    },
     "theme-author": "unknown",
     "theme-name": "Subliminal",
     "theme-slug": "subliminal",

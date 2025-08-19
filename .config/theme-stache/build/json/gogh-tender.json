@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1d1d1d",
-    "ansi-1-hex": "#c5152f",
-    "ansi-10-hex": "#d9e066",
-    "ansi-11-hex": "#facc72",
-    "ansi-12-hex": "#c0eafb",
-    "ansi-13-hex": "#efd093",
-    "ansi-14-hex": "#a1d6ec",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#c9d05c",
-    "ansi-3-hex": "#ffc24b",
-    "ansi-4-hex": "#b3deef",
-    "ansi-5-hex": "#d3b987",
-    "ansi-6-hex": "#73cef4",
-    "ansi-7-hex": "#eeeeee",
-    "ansi-8-hex": "#323232",
-    "ansi-9-hex": "#f43753",
-    "background-hex": "#282828",
-    "cursor-hex": "#eeeeee",
-    "foreground-hex": "#eeeeee",
-    "selection-hex": "#eeeeee",
-    "selection-text-hex": "#282828",
+    "ansi-0": {
+        "hex": "#1d1d1d",
+        "hexterm": "1d/1d/1d"
+    },
+    "ansi-1": {
+        "hex": "#c5152f",
+        "hexterm": "c5/15/2f"
+    },
+    "ansi-10": {
+        "hex": "#d9e066",
+        "hexterm": "d9/e0/66"
+    },
+    "ansi-11": {
+        "hex": "#facc72",
+        "hexterm": "fa/cc/72"
+    },
+    "ansi-12": {
+        "hex": "#c0eafb",
+        "hexterm": "c0/ea/fb"
+    },
+    "ansi-13": {
+        "hex": "#efd093",
+        "hexterm": "ef/d0/93"
+    },
+    "ansi-14": {
+        "hex": "#a1d6ec",
+        "hexterm": "a1/d6/ec"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#c9d05c",
+        "hexterm": "c9/d0/5c"
+    },
+    "ansi-3": {
+        "hex": "#ffc24b",
+        "hexterm": "ff/c2/4b"
+    },
+    "ansi-4": {
+        "hex": "#b3deef",
+        "hexterm": "b3/de/ef"
+    },
+    "ansi-5": {
+        "hex": "#d3b987",
+        "hexterm": "d3/b9/87"
+    },
+    "ansi-6": {
+        "hex": "#73cef4",
+        "hexterm": "73/ce/f4"
+    },
+    "ansi-7": {
+        "hex": "#eeeeee",
+        "hexterm": "ee/ee/ee"
+    },
+    "ansi-8": {
+        "hex": "#323232",
+        "hexterm": "32/32/32"
+    },
+    "ansi-9": {
+        "hex": "#f43753",
+        "hexterm": "f4/37/53"
+    },
+    "background": {
+        "hex": "#282828",
+        "hexterm": "28/28/28"
+    },
+    "cursor": {
+        "hex": "#eeeeee",
+        "hexterm": "ee/ee/ee"
+    },
+    "foreground": {
+        "hex": "#eeeeee",
+        "hexterm": "ee/ee/ee"
+    },
+    "selection": {
+        "hex": "#eeeeee",
+        "hexterm": "ee/ee/ee"
+    },
+    "selection-text": {
+        "hex": "#282828",
+        "hexterm": "28/28/28"
+    },
     "theme-author": "",
     "theme-name": "Tender",
     "theme-slug": "tender",

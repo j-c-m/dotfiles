@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#181818",
-    "ansi-1-hex": "#bf081d",
-    "ansi-10-hex": "#3d9751",
-    "ansi-11-hex": "#f6bb33",
-    "ansi-12-hex": "#16b1df",
-    "ansi-13-hex": "#772fb0",
-    "ansi-14-hex": "#8bd1ed",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#3d9751",
-    "ansi-3-hex": "#f6bb33",
-    "ansi-4-hex": "#16b1df",
-    "ansi-5-hex": "#772fb0",
-    "ansi-6-hex": "#8bd1ed",
-    "ansi-7-hex": "#ffffff",
-    "ansi-8-hex": "#181818",
-    "ansi-9-hex": "#bf081d",
-    "background-hex": "#252b35",
-    "cursor-hex": "#d9002f",
-    "foreground-hex": "#eaeaea",
-    "selection-hex": "#194080",
-    "selection-text-hex": "#ffffff",
+    "ansi-0": {
+        "hex": "#181818",
+        "hexterm": "18/18/18"
+    },
+    "ansi-1": {
+        "hex": "#bf081d",
+        "hexterm": "bf/08/1d"
+    },
+    "ansi-10": {
+        "hex": "#3d9751",
+        "hexterm": "3d/97/51"
+    },
+    "ansi-11": {
+        "hex": "#f6bb33",
+        "hexterm": "f6/bb/33"
+    },
+    "ansi-12": {
+        "hex": "#16b1df",
+        "hexterm": "16/b1/df"
+    },
+    "ansi-13": {
+        "hex": "#772fb0",
+        "hexterm": "77/2f/b0"
+    },
+    "ansi-14": {
+        "hex": "#8bd1ed",
+        "hexterm": "8b/d1/ed"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#3d9751",
+        "hexterm": "3d/97/51"
+    },
+    "ansi-3": {
+        "hex": "#f6bb33",
+        "hexterm": "f6/bb/33"
+    },
+    "ansi-4": {
+        "hex": "#16b1df",
+        "hexterm": "16/b1/df"
+    },
+    "ansi-5": {
+        "hex": "#772fb0",
+        "hexterm": "77/2f/b0"
+    },
+    "ansi-6": {
+        "hex": "#8bd1ed",
+        "hexterm": "8b/d1/ed"
+    },
+    "ansi-7": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-8": {
+        "hex": "#181818",
+        "hexterm": "18/18/18"
+    },
+    "ansi-9": {
+        "hex": "#bf081d",
+        "hexterm": "bf/08/1d"
+    },
+    "background": {
+        "hex": "#252b35",
+        "hexterm": "25/2b/35"
+    },
+    "cursor": {
+        "hex": "#d9002f",
+        "hexterm": "d9/00/2f"
+    },
+    "foreground": {
+        "hex": "#eaeaea",
+        "hexterm": "ea/ea/ea"
+    },
+    "selection": {
+        "hex": "#194080",
+        "hexterm": "19/40/80"
+    },
+    "selection-text": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
     "theme-author": "unknown",
     "theme-name": "DotGov",
     "theme-slug": "dotgov",

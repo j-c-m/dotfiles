@@ -10,5 +10,9 @@
   "json.json": {
     "directory": "json",
     "filename": "{{theme-source-slug}}-{{theme-slug}}.json"
+  },
+  "iterm.itermcolors": {
+    "directory": "itermcolors",
+    "filename": "{{theme-source-slug}}-{{theme-slug}}.itermcolors"
   }
 }

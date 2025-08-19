@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#222436",
-    "ansi-1-hex": "#ff757f",
-    "ansi-10-hex": "#c3e88d",
-    "ansi-11-hex": "#ffc777",
-    "ansi-12-hex": "#82aaff",
-    "ansi-13-hex": "#fca7ea",
-    "ansi-14-hex": "#86e1fc",
-    "ansi-15-hex": "#c8d3f5",
-    "ansi-2-hex": "#c3e88d",
-    "ansi-3-hex": "#ffc777",
-    "ansi-4-hex": "#82aaff",
-    "ansi-5-hex": "#fca7ea",
-    "ansi-6-hex": "#86e1fc",
-    "ansi-7-hex": "#3b4261",
-    "ansi-8-hex": "#636da6",
-    "ansi-9-hex": "#ff757f",
-    "background-hex": "#222436",
-    "cursor-hex": "#3b4261",
-    "foreground-hex": "#3b4261",
-    "selection-hex": "#828bb8",
-    "selection-text-hex": "#1e2030",
+    "ansi-0": {
+        "hex": "#222436",
+        "hexterm": "22/24/36"
+    },
+    "ansi-1": {
+        "hex": "#ff757f",
+        "hexterm": "ff/75/7f"
+    },
+    "ansi-10": {
+        "hex": "#c3e88d",
+        "hexterm": "c3/e8/8d"
+    },
+    "ansi-11": {
+        "hex": "#ffc777",
+        "hexterm": "ff/c7/77"
+    },
+    "ansi-12": {
+        "hex": "#82aaff",
+        "hexterm": "82/aa/ff"
+    },
+    "ansi-13": {
+        "hex": "#fca7ea",
+        "hexterm": "fc/a7/ea"
+    },
+    "ansi-14": {
+        "hex": "#86e1fc",
+        "hexterm": "86/e1/fc"
+    },
+    "ansi-15": {
+        "hex": "#c8d3f5",
+        "hexterm": "c8/d3/f5"
+    },
+    "ansi-2": {
+        "hex": "#c3e88d",
+        "hexterm": "c3/e8/8d"
+    },
+    "ansi-3": {
+        "hex": "#ffc777",
+        "hexterm": "ff/c7/77"
+    },
+    "ansi-4": {
+        "hex": "#82aaff",
+        "hexterm": "82/aa/ff"
+    },
+    "ansi-5": {
+        "hex": "#fca7ea",
+        "hexterm": "fc/a7/ea"
+    },
+    "ansi-6": {
+        "hex": "#86e1fc",
+        "hexterm": "86/e1/fc"
+    },
+    "ansi-7": {
+        "hex": "#3b4261",
+        "hexterm": "3b/42/61"
+    },
+    "ansi-8": {
+        "hex": "#636da6",
+        "hexterm": "63/6d/a6"
+    },
+    "ansi-9": {
+        "hex": "#ff757f",
+        "hexterm": "ff/75/7f"
+    },
+    "background": {
+        "hex": "#222436",
+        "hexterm": "22/24/36"
+    },
+    "cursor": {
+        "hex": "#3b4261",
+        "hexterm": "3b/42/61"
+    },
+    "foreground": {
+        "hex": "#3b4261",
+        "hexterm": "3b/42/61"
+    },
+    "selection": {
+        "hex": "#828bb8",
+        "hexterm": "82/8b/b8"
+    },
+    "selection-text": {
+        "hex": "#1e2030",
+        "hexterm": "1e/20/30"
+    },
     "theme-author": "Ólafur Bjarki Bogason",
     "theme-name": "Tokyo Night Moon",
     "theme-slug": "tokyo-night-moon",

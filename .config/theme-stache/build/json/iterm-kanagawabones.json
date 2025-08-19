@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1f1f28",
-    "ansi-1-hex": "#e46977",
-    "ansi-10-hex": "#9ec967",
-    "ansi-11-hex": "#f1c982",
-    "ansi-12-hex": "#7bc2df",
-    "ansi-13-hex": "#a98fd2",
-    "ansi-14-hex": "#7bc2df",
-    "ansi-15-hex": "#a8a48d",
-    "ansi-2-hex": "#98bc6c",
-    "ansi-3-hex": "#e5c283",
-    "ansi-4-hex": "#7eb3c9",
-    "ansi-5-hex": "#957fb8",
-    "ansi-6-hex": "#7eb3c9",
-    "ansi-7-hex": "#ddd8bb",
-    "ansi-8-hex": "#3b3b51",
-    "ansi-9-hex": "#ec818c",
-    "background-hex": "#1f1f28",
-    "cursor-hex": "#e6e0c2",
-    "foreground-hex": "#ddd8bb",
-    "selection-hex": "#49473e",
-    "selection-text-hex": "#ddd8bb",
+    "ansi-0": {
+        "hex": "#1f1f28",
+        "hexterm": "1f/1f/28"
+    },
+    "ansi-1": {
+        "hex": "#e46977",
+        "hexterm": "e4/69/77"
+    },
+    "ansi-10": {
+        "hex": "#9ec967",
+        "hexterm": "9e/c9/67"
+    },
+    "ansi-11": {
+        "hex": "#f1c982",
+        "hexterm": "f1/c9/82"
+    },
+    "ansi-12": {
+        "hex": "#7bc2df",
+        "hexterm": "7b/c2/df"
+    },
+    "ansi-13": {
+        "hex": "#a98fd2",
+        "hexterm": "a9/8f/d2"
+    },
+    "ansi-14": {
+        "hex": "#7bc2df",
+        "hexterm": "7b/c2/df"
+    },
+    "ansi-15": {
+        "hex": "#a8a48d",
+        "hexterm": "a8/a4/8d"
+    },
+    "ansi-2": {
+        "hex": "#98bc6c",
+        "hexterm": "98/bc/6c"
+    },
+    "ansi-3": {
+        "hex": "#e5c283",
+        "hexterm": "e5/c2/83"
+    },
+    "ansi-4": {
+        "hex": "#7eb3c9",
+        "hexterm": "7e/b3/c9"
+    },
+    "ansi-5": {
+        "hex": "#957fb8",
+        "hexterm": "95/7f/b8"
+    },
+    "ansi-6": {
+        "hex": "#7eb3c9",
+        "hexterm": "7e/b3/c9"
+    },
+    "ansi-7": {
+        "hex": "#ddd8bb",
+        "hexterm": "dd/d8/bb"
+    },
+    "ansi-8": {
+        "hex": "#3b3b51",
+        "hexterm": "3b/3b/51"
+    },
+    "ansi-9": {
+        "hex": "#ec818c",
+        "hexterm": "ec/81/8c"
+    },
+    "background": {
+        "hex": "#1f1f28",
+        "hexterm": "1f/1f/28"
+    },
+    "cursor": {
+        "hex": "#e6e0c2",
+        "hexterm": "e6/e0/c2"
+    },
+    "foreground": {
+        "hex": "#ddd8bb",
+        "hexterm": "dd/d8/bb"
+    },
+    "selection": {
+        "hex": "#49473e",
+        "hexterm": "49/47/3e"
+    },
+    "selection-text": {
+        "hex": "#ddd8bb",
+        "hexterm": "dd/d8/bb"
+    },
     "theme-author": "unknown",
     "theme-name": "kanagawabones",
     "theme-slug": "kanagawabones",

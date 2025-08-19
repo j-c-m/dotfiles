@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#d54e53",
-    "ansi-10-hex": "#b9c949",
-    "ansi-11-hex": "#e6c446",
-    "ansi-12-hex": "#79a6da",
-    "ansi-13-hex": "#c396d7",
-    "ansi-14-hex": "#70c0b1",
-    "ansi-15-hex": "#fffefe",
-    "ansi-2-hex": "#b9ca49",
-    "ansi-3-hex": "#e7c547",
-    "ansi-4-hex": "#79a6da",
-    "ansi-5-hex": "#c397d8",
-    "ansi-6-hex": "#70c0b1",
-    "ansi-7-hex": "#fffefe",
-    "ansi-8-hex": "#000000",
-    "ansi-9-hex": "#d44d53",
-    "background-hex": "#000000",
-    "cursor-hex": "#e9e9e9",
-    "foreground-hex": "#e9e9e9",
-    "selection-hex": "#424242",
-    "selection-text-hex": "#e9e9e9",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#d54e53",
+        "hexterm": "d5/4e/53"
+    },
+    "ansi-10": {
+        "hex": "#b9c949",
+        "hexterm": "b9/c9/49"
+    },
+    "ansi-11": {
+        "hex": "#e6c446",
+        "hexterm": "e6/c4/46"
+    },
+    "ansi-12": {
+        "hex": "#79a6da",
+        "hexterm": "79/a6/da"
+    },
+    "ansi-13": {
+        "hex": "#c396d7",
+        "hexterm": "c3/96/d7"
+    },
+    "ansi-14": {
+        "hex": "#70c0b1",
+        "hexterm": "70/c0/b1"
+    },
+    "ansi-15": {
+        "hex": "#fffefe",
+        "hexterm": "ff/fe/fe"
+    },
+    "ansi-2": {
+        "hex": "#b9ca49",
+        "hexterm": "b9/ca/49"
+    },
+    "ansi-3": {
+        "hex": "#e7c547",
+        "hexterm": "e7/c5/47"
+    },
+    "ansi-4": {
+        "hex": "#79a6da",
+        "hexterm": "79/a6/da"
+    },
+    "ansi-5": {
+        "hex": "#c397d8",
+        "hexterm": "c3/97/d8"
+    },
+    "ansi-6": {
+        "hex": "#70c0b1",
+        "hexterm": "70/c0/b1"
+    },
+    "ansi-7": {
+        "hex": "#fffefe",
+        "hexterm": "ff/fe/fe"
+    },
+    "ansi-8": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-9": {
+        "hex": "#d44d53",
+        "hexterm": "d4/4d/53"
+    },
+    "background": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "cursor": {
+        "hex": "#e9e9e9",
+        "hexterm": "e9/e9/e9"
+    },
+    "foreground": {
+        "hex": "#e9e9e9",
+        "hexterm": "e9/e9/e9"
+    },
+    "selection": {
+        "hex": "#424242",
+        "hexterm": "42/42/42"
+    },
+    "selection-text": {
+        "hex": "#e9e9e9",
+        "hexterm": "e9/e9/e9"
+    },
     "theme-author": "unknown",
     "theme-name": "Tomorrow Night Bright",
     "theme-slug": "tomorrow-night-bright",

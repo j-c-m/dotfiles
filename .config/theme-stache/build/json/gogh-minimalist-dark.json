@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#f5f5f5",
-    "ansi-1-hex": "#b81414",
-    "ansi-10-hex": "#006400",
-    "ansi-11-hex": "#4a4543",
-    "ansi-12-hex": "#a16a94",
-    "ansi-13-hex": "#a020f0",
-    "ansi-14-hex": "#ff69b4",
-    "ansi-15-hex": "#cacad0",
-    "ansi-2-hex": "#1b9f6b",
-    "ansi-3-hex": "#d28f79",
-    "ansi-4-hex": "#aa5a24",
-    "ansi-5-hex": "#9e40a3",
-    "ansi-6-hex": "#fe8330",
-    "ansi-7-hex": "#a5a2a2",
-    "ansi-8-hex": "#5c5855",
-    "ansi-9-hex": "#e8bbd0",
-    "background-hex": "#13141f",
-    "cursor-hex": "#f5f5f5",
-    "foreground-hex": "#f5f5f5",
-    "selection-hex": "#f5f5f5",
-    "selection-text-hex": "#13141f",
+    "ansi-0": {
+        "hex": "#f5f5f5",
+        "hexterm": "f5/f5/f5"
+    },
+    "ansi-1": {
+        "hex": "#b81414",
+        "hexterm": "b8/14/14"
+    },
+    "ansi-10": {
+        "hex": "#006400",
+        "hexterm": "00/64/00"
+    },
+    "ansi-11": {
+        "hex": "#4a4543",
+        "hexterm": "4a/45/43"
+    },
+    "ansi-12": {
+        "hex": "#a16a94",
+        "hexterm": "a1/6a/94"
+    },
+    "ansi-13": {
+        "hex": "#a020f0",
+        "hexterm": "a0/20/f0"
+    },
+    "ansi-14": {
+        "hex": "#ff69b4",
+        "hexterm": "ff/69/b4"
+    },
+    "ansi-15": {
+        "hex": "#cacad0",
+        "hexterm": "ca/ca/d0"
+    },
+    "ansi-2": {
+        "hex": "#1b9f6b",
+        "hexterm": "1b/9f/6b"
+    },
+    "ansi-3": {
+        "hex": "#d28f79",
+        "hexterm": "d2/8f/79"
+    },
+    "ansi-4": {
+        "hex": "#aa5a24",
+        "hexterm": "aa/5a/24"
+    },
+    "ansi-5": {
+        "hex": "#9e40a3",
+        "hexterm": "9e/40/a3"
+    },
+    "ansi-6": {
+        "hex": "#fe8330",
+        "hexterm": "fe/83/30"
+    },
+    "ansi-7": {
+        "hex": "#a5a2a2",
+        "hexterm": "a5/a2/a2"
+    },
+    "ansi-8": {
+        "hex": "#5c5855",
+        "hexterm": "5c/58/55"
+    },
+    "ansi-9": {
+        "hex": "#e8bbd0",
+        "hexterm": "e8/bb/d0"
+    },
+    "background": {
+        "hex": "#13141f",
+        "hexterm": "13/14/1f"
+    },
+    "cursor": {
+        "hex": "#f5f5f5",
+        "hexterm": "f5/f5/f5"
+    },
+    "foreground": {
+        "hex": "#f5f5f5",
+        "hexterm": "f5/f5/f5"
+    },
+    "selection": {
+        "hex": "#f5f5f5",
+        "hexterm": "f5/f5/f5"
+    },
+    "selection-text": {
+        "hex": "#13141f",
+        "hexterm": "13/14/1f"
+    },
     "theme-author": "Gabriel Soares (https://github.com/Gabrielsoac)",
     "theme-name": "Minimalist Dark",
     "theme-slug": "minimalist-dark",

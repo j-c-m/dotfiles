@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1f2841",
-    "ansi-1-hex": "#985247",
-    "ansi-10-hex": "#719678",
-    "ansi-11-hex": "#feb133",
-    "ansi-12-hex": "#6089c0",
-    "ansi-13-hex": "#7c7295",
-    "ansi-14-hex": "#a9859d",
-    "ansi-15-hex": "#d6dbeb",
-    "ansi-2-hex": "#567059",
-    "ansi-3-hex": "#be6a00",
-    "ansi-4-hex": "#39567d",
-    "ansi-5-hex": "#7b5b96",
-    "ansi-6-hex": "#925780",
-    "ansi-7-hex": "#d6dbeb",
-    "ansi-8-hex": "#1f2841",
-    "ansi-9-hex": "#cc4a35",
-    "background-hex": "#f7f9fb",
-    "cursor-hex": "#226b4f",
-    "foreground-hex": "#3a4a7a",
-    "selection-hex": "#cfe8dd",
-    "selection-text-hex": "#303c63",
+    "ansi-0": {
+        "hex": "#1f2841",
+        "hexterm": "1f/28/41"
+    },
+    "ansi-1": {
+        "hex": "#985247",
+        "hexterm": "98/52/47"
+    },
+    "ansi-10": {
+        "hex": "#719678",
+        "hexterm": "71/96/78"
+    },
+    "ansi-11": {
+        "hex": "#feb133",
+        "hexterm": "fe/b1/33"
+    },
+    "ansi-12": {
+        "hex": "#6089c0",
+        "hexterm": "60/89/c0"
+    },
+    "ansi-13": {
+        "hex": "#7c7295",
+        "hexterm": "7c/72/95"
+    },
+    "ansi-14": {
+        "hex": "#a9859d",
+        "hexterm": "a9/85/9d"
+    },
+    "ansi-15": {
+        "hex": "#d6dbeb",
+        "hexterm": "d6/db/eb"
+    },
+    "ansi-2": {
+        "hex": "#567059",
+        "hexterm": "56/70/59"
+    },
+    "ansi-3": {
+        "hex": "#be6a00",
+        "hexterm": "be/6a/00"
+    },
+    "ansi-4": {
+        "hex": "#39567d",
+        "hexterm": "39/56/7d"
+    },
+    "ansi-5": {
+        "hex": "#7b5b96",
+        "hexterm": "7b/5b/96"
+    },
+    "ansi-6": {
+        "hex": "#925780",
+        "hexterm": "92/57/80"
+    },
+    "ansi-7": {
+        "hex": "#d6dbeb",
+        "hexterm": "d6/db/eb"
+    },
+    "ansi-8": {
+        "hex": "#1f2841",
+        "hexterm": "1f/28/41"
+    },
+    "ansi-9": {
+        "hex": "#cc4a35",
+        "hexterm": "cc/4a/35"
+    },
+    "background": {
+        "hex": "#f7f9fb",
+        "hexterm": "f7/f9/fb"
+    },
+    "cursor": {
+        "hex": "#226b4f",
+        "hexterm": "22/6b/4f"
+    },
+    "foreground": {
+        "hex": "#3a4a7a",
+        "hexterm": "3a/4a/7a"
+    },
+    "selection": {
+        "hex": "#cfe8dd",
+        "hexterm": "cf/e8/dd"
+    },
+    "selection-text": {
+        "hex": "#303c63",
+        "hexterm": "30/3c/63"
+    },
     "theme-author": "unknown",
     "theme-name": "Havn Daggry",
     "theme-slug": "havn-daggry",

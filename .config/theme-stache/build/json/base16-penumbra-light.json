@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#fffdfb",
-    "ansi-1-hex": "#ca736c",
-    "ansi-10-hex": "#47a477",
-    "ansi-11-hex": "#8d9741",
-    "ansi-12-hex": "#5794d0",
-    "ansi-13-hex": "#9481cc",
-    "ansi-14-hex": "#00a2af",
-    "ansi-15-hex": "#24272b",
-    "ansi-2-hex": "#47a477",
-    "ansi-3-hex": "#8d9741",
-    "ansi-4-hex": "#5794d0",
-    "ansi-5-hex": "#9481cc",
-    "ansi-6-hex": "#00a2af",
-    "ansi-7-hex": "#636363",
-    "ansi-8-hex": "#bebebe",
-    "ansi-9-hex": "#ca736c",
-    "background-hex": "#fffdfb",
-    "cursor-hex": "#636363",
-    "foreground-hex": "#636363",
-    "selection-hex": "#303338",
-    "selection-text-hex": "#fff7ed",
+    "ansi-0": {
+        "hex": "#fffdfb",
+        "hexterm": "ff/fd/fb"
+    },
+    "ansi-1": {
+        "hex": "#ca736c",
+        "hexterm": "ca/73/6c"
+    },
+    "ansi-10": {
+        "hex": "#47a477",
+        "hexterm": "47/a4/77"
+    },
+    "ansi-11": {
+        "hex": "#8d9741",
+        "hexterm": "8d/97/41"
+    },
+    "ansi-12": {
+        "hex": "#5794d0",
+        "hexterm": "57/94/d0"
+    },
+    "ansi-13": {
+        "hex": "#9481cc",
+        "hexterm": "94/81/cc"
+    },
+    "ansi-14": {
+        "hex": "#00a2af",
+        "hexterm": "00/a2/af"
+    },
+    "ansi-15": {
+        "hex": "#24272b",
+        "hexterm": "24/27/2b"
+    },
+    "ansi-2": {
+        "hex": "#47a477",
+        "hexterm": "47/a4/77"
+    },
+    "ansi-3": {
+        "hex": "#8d9741",
+        "hexterm": "8d/97/41"
+    },
+    "ansi-4": {
+        "hex": "#5794d0",
+        "hexterm": "57/94/d0"
+    },
+    "ansi-5": {
+        "hex": "#9481cc",
+        "hexterm": "94/81/cc"
+    },
+    "ansi-6": {
+        "hex": "#00a2af",
+        "hexterm": "00/a2/af"
+    },
+    "ansi-7": {
+        "hex": "#636363",
+        "hexterm": "63/63/63"
+    },
+    "ansi-8": {
+        "hex": "#bebebe",
+        "hexterm": "be/be/be"
+    },
+    "ansi-9": {
+        "hex": "#ca736c",
+        "hexterm": "ca/73/6c"
+    },
+    "background": {
+        "hex": "#fffdfb",
+        "hexterm": "ff/fd/fb"
+    },
+    "cursor": {
+        "hex": "#636363",
+        "hexterm": "63/63/63"
+    },
+    "foreground": {
+        "hex": "#636363",
+        "hexterm": "63/63/63"
+    },
+    "selection": {
+        "hex": "#303338",
+        "hexterm": "30/33/38"
+    },
+    "selection-text": {
+        "hex": "#fff7ed",
+        "hexterm": "ff/f7/ed"
+    },
     "theme-author": "Zachary Weiss (https://github.com/zacharyweiss)",
     "theme-name": "Penumbra Light",
     "theme-slug": "penumbra-light",

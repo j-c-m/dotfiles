@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#0f160f",
-    "ansi-1-hex": "#7f2b26",
-    "ansi-10-hex": "#18e000",
-    "ansi-11-hex": "#bde000",
-    "ansi-12-hex": "#00a9df",
-    "ansi-13-hex": "#0058df",
-    "ansi-14-hex": "#00dfc3",
-    "ansi-15-hex": "#73f990",
-    "ansi-2-hex": "#2f7e25",
-    "ansi-3-hex": "#00a9df",
-    "ansi-4-hex": "#2f697f",
-    "ansi-5-hex": "#47577e",
-    "ansi-6-hex": "#317f76",
-    "ansi-7-hex": "#5a6f5c",
-    "ansi-8-hex": "#46542a",
-    "ansi-9-hex": "#df8008",
-    "background-hex": "#0f160f",
-    "cursor-hex": "#5a6f5c",
-    "foreground-hex": "#5a6f5c",
-    "selection-hex": "#647d75",
-    "selection-text-hex": "#112615",
+    "ansi-0": {
+        "hex": "#0f160f",
+        "hexterm": "0f/16/0f"
+    },
+    "ansi-1": {
+        "hex": "#7f2b26",
+        "hexterm": "7f/2b/26"
+    },
+    "ansi-10": {
+        "hex": "#18e000",
+        "hexterm": "18/e0/00"
+    },
+    "ansi-11": {
+        "hex": "#bde000",
+        "hexterm": "bd/e0/00"
+    },
+    "ansi-12": {
+        "hex": "#00a9df",
+        "hexterm": "00/a9/df"
+    },
+    "ansi-13": {
+        "hex": "#0058df",
+        "hexterm": "00/58/df"
+    },
+    "ansi-14": {
+        "hex": "#00dfc3",
+        "hexterm": "00/df/c3"
+    },
+    "ansi-15": {
+        "hex": "#73f990",
+        "hexterm": "73/f9/90"
+    },
+    "ansi-2": {
+        "hex": "#2f7e25",
+        "hexterm": "2f/7e/25"
+    },
+    "ansi-3": {
+        "hex": "#00a9df",
+        "hexterm": "00/a9/df"
+    },
+    "ansi-4": {
+        "hex": "#2f697f",
+        "hexterm": "2f/69/7f"
+    },
+    "ansi-5": {
+        "hex": "#47577e",
+        "hexterm": "47/57/7e"
+    },
+    "ansi-6": {
+        "hex": "#317f76",
+        "hexterm": "31/7f/76"
+    },
+    "ansi-7": {
+        "hex": "#5a6f5c",
+        "hexterm": "5a/6f/5c"
+    },
+    "ansi-8": {
+        "hex": "#46542a",
+        "hexterm": "46/54/2a"
+    },
+    "ansi-9": {
+        "hex": "#df8008",
+        "hexterm": "df/80/08"
+    },
+    "background": {
+        "hex": "#0f160f",
+        "hexterm": "0f/16/0f"
+    },
+    "cursor": {
+        "hex": "#5a6f5c",
+        "hexterm": "5a/6f/5c"
+    },
+    "foreground": {
+        "hex": "#5a6f5c",
+        "hexterm": "5a/6f/5c"
+    },
+    "selection": {
+        "hex": "#647d75",
+        "hexterm": "64/7d/75"
+    },
+    "selection-text": {
+        "hex": "#112615",
+        "hexterm": "11/26/15"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Alien Blood",
     "theme-slug": "alien-blood",

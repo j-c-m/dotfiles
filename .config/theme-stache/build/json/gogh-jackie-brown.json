@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#2c1d16",
-    "ansi-1-hex": "#ef5734",
-    "ansi-10-hex": "#86a93e",
-    "ansi-11-hex": "#e5e500",
-    "ansi-12-hex": "#0000ff",
-    "ansi-13-hex": "#e500e5",
-    "ansi-14-hex": "#00e5e5",
-    "ansi-15-hex": "#e5e5e5",
-    "ansi-2-hex": "#2baf2b",
-    "ansi-3-hex": "#bebf00",
-    "ansi-4-hex": "#246eb2",
-    "ansi-5-hex": "#d05ec1",
-    "ansi-6-hex": "#00acee",
-    "ansi-7-hex": "#bfbfbf",
-    "ansi-8-hex": "#666666",
-    "ansi-9-hex": "#e50000",
-    "background-hex": "#2c1d16",
-    "cursor-hex": "#ffcc2f",
-    "foreground-hex": "#ffcc2f",
-    "selection-hex": "#ffcc2f",
-    "selection-text-hex": "#2c1d16",
+    "ansi-0": {
+        "hex": "#2c1d16",
+        "hexterm": "2c/1d/16"
+    },
+    "ansi-1": {
+        "hex": "#ef5734",
+        "hexterm": "ef/57/34"
+    },
+    "ansi-10": {
+        "hex": "#86a93e",
+        "hexterm": "86/a9/3e"
+    },
+    "ansi-11": {
+        "hex": "#e5e500",
+        "hexterm": "e5/e5/00"
+    },
+    "ansi-12": {
+        "hex": "#0000ff",
+        "hexterm": "00/00/ff"
+    },
+    "ansi-13": {
+        "hex": "#e500e5",
+        "hexterm": "e5/00/e5"
+    },
+    "ansi-14": {
+        "hex": "#00e5e5",
+        "hexterm": "00/e5/e5"
+    },
+    "ansi-15": {
+        "hex": "#e5e5e5",
+        "hexterm": "e5/e5/e5"
+    },
+    "ansi-2": {
+        "hex": "#2baf2b",
+        "hexterm": "2b/af/2b"
+    },
+    "ansi-3": {
+        "hex": "#bebf00",
+        "hexterm": "be/bf/00"
+    },
+    "ansi-4": {
+        "hex": "#246eb2",
+        "hexterm": "24/6e/b2"
+    },
+    "ansi-5": {
+        "hex": "#d05ec1",
+        "hexterm": "d0/5e/c1"
+    },
+    "ansi-6": {
+        "hex": "#00acee",
+        "hexterm": "00/ac/ee"
+    },
+    "ansi-7": {
+        "hex": "#bfbfbf",
+        "hexterm": "bf/bf/bf"
+    },
+    "ansi-8": {
+        "hex": "#666666",
+        "hexterm": "66/66/66"
+    },
+    "ansi-9": {
+        "hex": "#e50000",
+        "hexterm": "e5/00/00"
+    },
+    "background": {
+        "hex": "#2c1d16",
+        "hexterm": "2c/1d/16"
+    },
+    "cursor": {
+        "hex": "#ffcc2f",
+        "hexterm": "ff/cc/2f"
+    },
+    "foreground": {
+        "hex": "#ffcc2f",
+        "hexterm": "ff/cc/2f"
+    },
+    "selection": {
+        "hex": "#ffcc2f",
+        "hexterm": "ff/cc/2f"
+    },
+    "selection-text": {
+        "hex": "#2c1d16",
+        "hexterm": "2c/1d/16"
+    },
     "theme-author": "",
     "theme-name": "Jackie Brown",
     "theme-slug": "jackie-brown",

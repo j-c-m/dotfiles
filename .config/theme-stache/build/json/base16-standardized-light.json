@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#ffffff",
-    "ansi-1-hex": "#d03e3e",
-    "ansi-10-hex": "#31861f",
-    "ansi-11-hex": "#ad8200",
-    "ansi-12-hex": "#3173c5",
-    "ansi-13-hex": "#9e57c2",
-    "ansi-14-hex": "#00998f",
-    "ansi-15-hex": "#222222",
-    "ansi-2-hex": "#31861f",
-    "ansi-3-hex": "#ad8200",
-    "ansi-4-hex": "#3173c5",
-    "ansi-5-hex": "#9e57c2",
-    "ansi-6-hex": "#00998f",
-    "ansi-7-hex": "#444444",
-    "ansi-8-hex": "#767676",
-    "ansi-9-hex": "#d03e3e",
-    "background-hex": "#ffffff",
-    "cursor-hex": "#444444",
-    "foreground-hex": "#444444",
-    "selection-hex": "#333333",
-    "selection-text-hex": "#eeeeee",
+    "ansi-0": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-1": {
+        "hex": "#d03e3e",
+        "hexterm": "d0/3e/3e"
+    },
+    "ansi-10": {
+        "hex": "#31861f",
+        "hexterm": "31/86/1f"
+    },
+    "ansi-11": {
+        "hex": "#ad8200",
+        "hexterm": "ad/82/00"
+    },
+    "ansi-12": {
+        "hex": "#3173c5",
+        "hexterm": "31/73/c5"
+    },
+    "ansi-13": {
+        "hex": "#9e57c2",
+        "hexterm": "9e/57/c2"
+    },
+    "ansi-14": {
+        "hex": "#00998f",
+        "hexterm": "00/99/8f"
+    },
+    "ansi-15": {
+        "hex": "#222222",
+        "hexterm": "22/22/22"
+    },
+    "ansi-2": {
+        "hex": "#31861f",
+        "hexterm": "31/86/1f"
+    },
+    "ansi-3": {
+        "hex": "#ad8200",
+        "hexterm": "ad/82/00"
+    },
+    "ansi-4": {
+        "hex": "#3173c5",
+        "hexterm": "31/73/c5"
+    },
+    "ansi-5": {
+        "hex": "#9e57c2",
+        "hexterm": "9e/57/c2"
+    },
+    "ansi-6": {
+        "hex": "#00998f",
+        "hexterm": "00/99/8f"
+    },
+    "ansi-7": {
+        "hex": "#444444",
+        "hexterm": "44/44/44"
+    },
+    "ansi-8": {
+        "hex": "#767676",
+        "hexterm": "76/76/76"
+    },
+    "ansi-9": {
+        "hex": "#d03e3e",
+        "hexterm": "d0/3e/3e"
+    },
+    "background": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "cursor": {
+        "hex": "#444444",
+        "hexterm": "44/44/44"
+    },
+    "foreground": {
+        "hex": "#444444",
+        "hexterm": "44/44/44"
+    },
+    "selection": {
+        "hex": "#333333",
+        "hexterm": "33/33/33"
+    },
+    "selection-text": {
+        "hex": "#eeeeee",
+        "hexterm": "ee/ee/ee"
+    },
     "theme-author": "ali (https://github.com/ali-githb/base16-standardized-scheme)",
     "theme-name": "standardized-light",
     "theme-slug": "standardized-light",

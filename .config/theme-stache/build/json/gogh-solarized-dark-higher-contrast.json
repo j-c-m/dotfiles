@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#002831",
-    "ansi-1-hex": "#d11c24",
-    "ansi-10-hex": "#51ef84",
-    "ansi-11-hex": "#b27e28",
-    "ansi-12-hex": "#178ec8",
-    "ansi-13-hex": "#e24d8e",
-    "ansi-14-hex": "#00b39e",
-    "ansi-15-hex": "#fcf4dc",
-    "ansi-2-hex": "#6cbe6c",
-    "ansi-3-hex": "#a57706",
-    "ansi-4-hex": "#2176c7",
-    "ansi-5-hex": "#c61c6f",
-    "ansi-6-hex": "#259286",
-    "ansi-7-hex": "#eae3cb",
-    "ansi-8-hex": "#006488",
-    "ansi-9-hex": "#f5163b",
-    "background-hex": "#001e27",
-    "cursor-hex": "#9cc2c3",
-    "foreground-hex": "#9cc2c3",
-    "selection-hex": "#9cc2c3",
-    "selection-text-hex": "#001e27",
+    "ansi-0": {
+        "hex": "#002831",
+        "hexterm": "00/28/31"
+    },
+    "ansi-1": {
+        "hex": "#d11c24",
+        "hexterm": "d1/1c/24"
+    },
+    "ansi-10": {
+        "hex": "#51ef84",
+        "hexterm": "51/ef/84"
+    },
+    "ansi-11": {
+        "hex": "#b27e28",
+        "hexterm": "b2/7e/28"
+    },
+    "ansi-12": {
+        "hex": "#178ec8",
+        "hexterm": "17/8e/c8"
+    },
+    "ansi-13": {
+        "hex": "#e24d8e",
+        "hexterm": "e2/4d/8e"
+    },
+    "ansi-14": {
+        "hex": "#00b39e",
+        "hexterm": "00/b3/9e"
+    },
+    "ansi-15": {
+        "hex": "#fcf4dc",
+        "hexterm": "fc/f4/dc"
+    },
+    "ansi-2": {
+        "hex": "#6cbe6c",
+        "hexterm": "6c/be/6c"
+    },
+    "ansi-3": {
+        "hex": "#a57706",
+        "hexterm": "a5/77/06"
+    },
+    "ansi-4": {
+        "hex": "#2176c7",
+        "hexterm": "21/76/c7"
+    },
+    "ansi-5": {
+        "hex": "#c61c6f",
+        "hexterm": "c6/1c/6f"
+    },
+    "ansi-6": {
+        "hex": "#259286",
+        "hexterm": "25/92/86"
+    },
+    "ansi-7": {
+        "hex": "#eae3cb",
+        "hexterm": "ea/e3/cb"
+    },
+    "ansi-8": {
+        "hex": "#006488",
+        "hexterm": "00/64/88"
+    },
+    "ansi-9": {
+        "hex": "#f5163b",
+        "hexterm": "f5/16/3b"
+    },
+    "background": {
+        "hex": "#001e27",
+        "hexterm": "00/1e/27"
+    },
+    "cursor": {
+        "hex": "#9cc2c3",
+        "hexterm": "9c/c2/c3"
+    },
+    "foreground": {
+        "hex": "#9cc2c3",
+        "hexterm": "9c/c2/c3"
+    },
+    "selection": {
+        "hex": "#9cc2c3",
+        "hexterm": "9c/c2/c3"
+    },
+    "selection-text": {
+        "hex": "#001e27",
+        "hexterm": "00/1e/27"
+    },
     "theme-author": "",
     "theme-name": "Solarized Dark Higher Contrast",
     "theme-slug": "solarized-dark-higher-contrast",

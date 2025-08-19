@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#20242d",
-    "ansi-1-hex": "#ff8e8e",
-    "ansi-10-hex": "#7efdd0",
-    "ansi-11-hex": "#fcad3f",
-    "ansi-12-hex": "#69b4f9",
-    "ansi-13-hex": "#dd92f6",
-    "ansi-14-hex": "#8ce8ff",
-    "ansi-15-hex": "#c9cccd",
-    "ansi-2-hex": "#7efdd0",
-    "ansi-3-hex": "#fcad3f",
-    "ansi-4-hex": "#69b4f9",
-    "ansi-5-hex": "#dd92f6",
-    "ansi-6-hex": "#8ce8ff",
-    "ansi-7-hex": "#c9cccd",
-    "ansi-8-hex": "#20242d",
-    "ansi-9-hex": "#ff8e8e",
-    "background-hex": "#20242d",
-    "cursor-hex": "#c7c8ff",
-    "foreground-hex": "#c7c8ff",
-    "selection-hex": "#c7c8ff",
-    "selection-text-hex": "#20242d",
+    "ansi-0": {
+        "hex": "#20242d",
+        "hexterm": "20/24/2d"
+    },
+    "ansi-1": {
+        "hex": "#ff8e8e",
+        "hexterm": "ff/8e/8e"
+    },
+    "ansi-10": {
+        "hex": "#7efdd0",
+        "hexterm": "7e/fd/d0"
+    },
+    "ansi-11": {
+        "hex": "#fcad3f",
+        "hexterm": "fc/ad/3f"
+    },
+    "ansi-12": {
+        "hex": "#69b4f9",
+        "hexterm": "69/b4/f9"
+    },
+    "ansi-13": {
+        "hex": "#dd92f6",
+        "hexterm": "dd/92/f6"
+    },
+    "ansi-14": {
+        "hex": "#8ce8ff",
+        "hexterm": "8c/e8/ff"
+    },
+    "ansi-15": {
+        "hex": "#c9cccd",
+        "hexterm": "c9/cc/cd"
+    },
+    "ansi-2": {
+        "hex": "#7efdd0",
+        "hexterm": "7e/fd/d0"
+    },
+    "ansi-3": {
+        "hex": "#fcad3f",
+        "hexterm": "fc/ad/3f"
+    },
+    "ansi-4": {
+        "hex": "#69b4f9",
+        "hexterm": "69/b4/f9"
+    },
+    "ansi-5": {
+        "hex": "#dd92f6",
+        "hexterm": "dd/92/f6"
+    },
+    "ansi-6": {
+        "hex": "#8ce8ff",
+        "hexterm": "8c/e8/ff"
+    },
+    "ansi-7": {
+        "hex": "#c9cccd",
+        "hexterm": "c9/cc/cd"
+    },
+    "ansi-8": {
+        "hex": "#20242d",
+        "hexterm": "20/24/2d"
+    },
+    "ansi-9": {
+        "hex": "#ff8e8e",
+        "hexterm": "ff/8e/8e"
+    },
+    "background": {
+        "hex": "#20242d",
+        "hexterm": "20/24/2d"
+    },
+    "cursor": {
+        "hex": "#c7c8ff",
+        "hexterm": "c7/c8/ff"
+    },
+    "foreground": {
+        "hex": "#c7c8ff",
+        "hexterm": "c7/c8/ff"
+    },
+    "selection": {
+        "hex": "#c7c8ff",
+        "hexterm": "c7/c8/ff"
+    },
+    "selection-text": {
+        "hex": "#20242d",
+        "hexterm": "20/24/2d"
+    },
     "theme-author": "",
     "theme-name": "Neon Night",
     "theme-slug": "neon-night",

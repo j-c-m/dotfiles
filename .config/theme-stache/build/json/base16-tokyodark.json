@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#11121d",
-    "ansi-1-hex": "#ee6d85",
-    "ansi-10-hex": "#95c561",
-    "ansi-11-hex": "#d7a65f",
-    "ansi-12-hex": "#7199ee",
-    "ansi-13-hex": "#a485dd",
-    "ansi-14-hex": "#9fbbf3",
-    "ansi-15-hex": "#bcc2dc",
-    "ansi-2-hex": "#95c561",
-    "ansi-3-hex": "#d7a65f",
-    "ansi-4-hex": "#7199ee",
-    "ansi-5-hex": "#a485dd",
-    "ansi-6-hex": "#9fbbf3",
-    "ansi-7-hex": "#a0a8cd",
-    "ansi-8-hex": "#353945",
-    "ansi-9-hex": "#ee6d85",
-    "background-hex": "#11121d",
-    "cursor-hex": "#a0a8cd",
-    "foreground-hex": "#a0a8cd",
-    "selection-hex": "#abb2bf",
-    "selection-text-hex": "#212234",
+    "ansi-0": {
+        "hex": "#11121d",
+        "hexterm": "11/12/1d"
+    },
+    "ansi-1": {
+        "hex": "#ee6d85",
+        "hexterm": "ee/6d/85"
+    },
+    "ansi-10": {
+        "hex": "#95c561",
+        "hexterm": "95/c5/61"
+    },
+    "ansi-11": {
+        "hex": "#d7a65f",
+        "hexterm": "d7/a6/5f"
+    },
+    "ansi-12": {
+        "hex": "#7199ee",
+        "hexterm": "71/99/ee"
+    },
+    "ansi-13": {
+        "hex": "#a485dd",
+        "hexterm": "a4/85/dd"
+    },
+    "ansi-14": {
+        "hex": "#9fbbf3",
+        "hexterm": "9f/bb/f3"
+    },
+    "ansi-15": {
+        "hex": "#bcc2dc",
+        "hexterm": "bc/c2/dc"
+    },
+    "ansi-2": {
+        "hex": "#95c561",
+        "hexterm": "95/c5/61"
+    },
+    "ansi-3": {
+        "hex": "#d7a65f",
+        "hexterm": "d7/a6/5f"
+    },
+    "ansi-4": {
+        "hex": "#7199ee",
+        "hexterm": "71/99/ee"
+    },
+    "ansi-5": {
+        "hex": "#a485dd",
+        "hexterm": "a4/85/dd"
+    },
+    "ansi-6": {
+        "hex": "#9fbbf3",
+        "hexterm": "9f/bb/f3"
+    },
+    "ansi-7": {
+        "hex": "#a0a8cd",
+        "hexterm": "a0/a8/cd"
+    },
+    "ansi-8": {
+        "hex": "#353945",
+        "hexterm": "35/39/45"
+    },
+    "ansi-9": {
+        "hex": "#ee6d85",
+        "hexterm": "ee/6d/85"
+    },
+    "background": {
+        "hex": "#11121d",
+        "hexterm": "11/12/1d"
+    },
+    "cursor": {
+        "hex": "#a0a8cd",
+        "hexterm": "a0/a8/cd"
+    },
+    "foreground": {
+        "hex": "#a0a8cd",
+        "hexterm": "a0/a8/cd"
+    },
+    "selection": {
+        "hex": "#abb2bf",
+        "hexterm": "ab/b2/bf"
+    },
+    "selection-text": {
+        "hex": "#212234",
+        "hexterm": "21/22/34"
+    },
     "theme-author": "Jamy Golden (https://github.com/JamyGolden), Based on Tokyodark.nvim (https://github.com/tiagovla/tokyodark.nvim)",
     "theme-name": "Tokyodark",
     "theme-slug": "tokyodark",

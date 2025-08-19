@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#3f3f3f",
-    "ansi-1-hex": "#e24345",
-    "ansi-10-hex": "#9bc08f",
-    "ansi-11-hex": "#ddd979",
-    "ansi-12-hex": "#7a90d5",
-    "ansi-13-hex": "#f674b9",
-    "ansi-14-hex": "#5ed1e4",
-    "ansi-15-hex": "#d8c8bb",
-    "ansi-2-hex": "#38b139",
-    "ansi-3-hex": "#7a90d5",
-    "ansi-4-hex": "#4260c5",
-    "ansi-5-hex": "#f81ffb",
-    "ansi-6-hex": "#29bad3",
-    "ansi-7-hex": "#dcc9ba",
-    "ansi-8-hex": "#f2ebe6",
-    "ansi-9-hex": "#e86f71",
-    "background-hex": "#3f3f3f",
-    "cursor-hex": "#dcc9ba",
-    "foreground-hex": "#dcc9ba",
-    "selection-hex": "#d0b8a3",
-    "selection-text-hex": "#000000",
+    "ansi-0": {
+        "hex": "#3f3f3f",
+        "hexterm": "3f/3f/3f"
+    },
+    "ansi-1": {
+        "hex": "#e24345",
+        "hexterm": "e2/43/45"
+    },
+    "ansi-10": {
+        "hex": "#9bc08f",
+        "hexterm": "9b/c0/8f"
+    },
+    "ansi-11": {
+        "hex": "#ddd979",
+        "hexterm": "dd/d9/79"
+    },
+    "ansi-12": {
+        "hex": "#7a90d5",
+        "hexterm": "7a/90/d5"
+    },
+    "ansi-13": {
+        "hex": "#f674b9",
+        "hexterm": "f6/74/b9"
+    },
+    "ansi-14": {
+        "hex": "#5ed1e4",
+        "hexterm": "5e/d1/e4"
+    },
+    "ansi-15": {
+        "hex": "#d8c8bb",
+        "hexterm": "d8/c8/bb"
+    },
+    "ansi-2": {
+        "hex": "#38b139",
+        "hexterm": "38/b1/39"
+    },
+    "ansi-3": {
+        "hex": "#7a90d5",
+        "hexterm": "7a/90/d5"
+    },
+    "ansi-4": {
+        "hex": "#4260c5",
+        "hexterm": "42/60/c5"
+    },
+    "ansi-5": {
+        "hex": "#f81ffb",
+        "hexterm": "f8/1f/fb"
+    },
+    "ansi-6": {
+        "hex": "#29bad3",
+        "hexterm": "29/ba/d3"
+    },
+    "ansi-7": {
+        "hex": "#dcc9ba",
+        "hexterm": "dc/c9/ba"
+    },
+    "ansi-8": {
+        "hex": "#f2ebe6",
+        "hexterm": "f2/eb/e6"
+    },
+    "ansi-9": {
+        "hex": "#e86f71",
+        "hexterm": "e8/6f/71"
+    },
+    "background": {
+        "hex": "#3f3f3f",
+        "hexterm": "3f/3f/3f"
+    },
+    "cursor": {
+        "hex": "#dcc9ba",
+        "hexterm": "dc/c9/ba"
+    },
+    "foreground": {
+        "hex": "#dcc9ba",
+        "hexterm": "dc/c9/ba"
+    },
+    "selection": {
+        "hex": "#d0b8a3",
+        "hexterm": "d0/b8/a3"
+    },
+    "selection-text": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Warm Neon",
     "theme-slug": "warm-neon",

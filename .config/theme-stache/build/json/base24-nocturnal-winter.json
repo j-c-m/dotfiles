@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#0d0d17",
-    "ansi-1-hex": "#f12d52",
-    "ansi-10-hex": "#0ae78d",
-    "ansi-11-hex": "#fefb67",
-    "ansi-12-hex": "#6095fe",
-    "ansi-13-hex": "#ff78a2",
-    "ansi-14-hex": "#0ae78d",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#08cd7d",
-    "ansi-3-hex": "#6095fe",
-    "ansi-4-hex": "#3081df",
-    "ansi-5-hex": "#fe2a6c",
-    "ansi-6-hex": "#09c87a",
-    "ansi-7-hex": "#dcdcdc",
-    "ansi-8-hex": "#9e9e9e",
-    "ansi-9-hex": "#f16c85",
-    "background-hex": "#0d0d17",
-    "cursor-hex": "#dcdcdc",
-    "foreground-hex": "#dcdcdc",
-    "selection-hex": "#fbfbfb",
-    "selection-text-hex": "#4c4c4c",
+    "ansi-0": {
+        "hex": "#0d0d17",
+        "hexterm": "0d/0d/17"
+    },
+    "ansi-1": {
+        "hex": "#f12d52",
+        "hexterm": "f1/2d/52"
+    },
+    "ansi-10": {
+        "hex": "#0ae78d",
+        "hexterm": "0a/e7/8d"
+    },
+    "ansi-11": {
+        "hex": "#fefb67",
+        "hexterm": "fe/fb/67"
+    },
+    "ansi-12": {
+        "hex": "#6095fe",
+        "hexterm": "60/95/fe"
+    },
+    "ansi-13": {
+        "hex": "#ff78a2",
+        "hexterm": "ff/78/a2"
+    },
+    "ansi-14": {
+        "hex": "#0ae78d",
+        "hexterm": "0a/e7/8d"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#08cd7d",
+        "hexterm": "08/cd/7d"
+    },
+    "ansi-3": {
+        "hex": "#6095fe",
+        "hexterm": "60/95/fe"
+    },
+    "ansi-4": {
+        "hex": "#3081df",
+        "hexterm": "30/81/df"
+    },
+    "ansi-5": {
+        "hex": "#fe2a6c",
+        "hexterm": "fe/2a/6c"
+    },
+    "ansi-6": {
+        "hex": "#09c87a",
+        "hexterm": "09/c8/7a"
+    },
+    "ansi-7": {
+        "hex": "#dcdcdc",
+        "hexterm": "dc/dc/dc"
+    },
+    "ansi-8": {
+        "hex": "#9e9e9e",
+        "hexterm": "9e/9e/9e"
+    },
+    "ansi-9": {
+        "hex": "#f16c85",
+        "hexterm": "f1/6c/85"
+    },
+    "background": {
+        "hex": "#0d0d17",
+        "hexterm": "0d/0d/17"
+    },
+    "cursor": {
+        "hex": "#dcdcdc",
+        "hexterm": "dc/dc/dc"
+    },
+    "foreground": {
+        "hex": "#dcdcdc",
+        "hexterm": "dc/dc/dc"
+    },
+    "selection": {
+        "hex": "#fbfbfb",
+        "hexterm": "fb/fb/fb"
+    },
+    "selection-text": {
+        "hex": "#4c4c4c",
+        "hexterm": "4c/4c/4c"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Nocturnal Winter",
     "theme-slug": "nocturnal-winter",

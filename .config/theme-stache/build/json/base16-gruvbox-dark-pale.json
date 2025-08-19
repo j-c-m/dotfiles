@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#262626",
-    "ansi-1-hex": "#d75f5f",
-    "ansi-10-hex": "#afaf00",
-    "ansi-11-hex": "#ffaf00",
-    "ansi-12-hex": "#83adad",
-    "ansi-13-hex": "#d485ad",
-    "ansi-14-hex": "#85ad85",
-    "ansi-15-hex": "#ebdbb2",
-    "ansi-2-hex": "#afaf00",
-    "ansi-3-hex": "#ffaf00",
-    "ansi-4-hex": "#83adad",
-    "ansi-5-hex": "#d485ad",
-    "ansi-6-hex": "#85ad85",
-    "ansi-7-hex": "#dab997",
-    "ansi-8-hex": "#8a8a8a",
-    "ansi-9-hex": "#d75f5f",
-    "background-hex": "#262626",
-    "cursor-hex": "#dab997",
-    "foreground-hex": "#dab997",
-    "selection-hex": "#d5c4a1",
-    "selection-text-hex": "#3a3a3a",
+    "ansi-0": {
+        "hex": "#262626",
+        "hexterm": "26/26/26"
+    },
+    "ansi-1": {
+        "hex": "#d75f5f",
+        "hexterm": "d7/5f/5f"
+    },
+    "ansi-10": {
+        "hex": "#afaf00",
+        "hexterm": "af/af/00"
+    },
+    "ansi-11": {
+        "hex": "#ffaf00",
+        "hexterm": "ff/af/00"
+    },
+    "ansi-12": {
+        "hex": "#83adad",
+        "hexterm": "83/ad/ad"
+    },
+    "ansi-13": {
+        "hex": "#d485ad",
+        "hexterm": "d4/85/ad"
+    },
+    "ansi-14": {
+        "hex": "#85ad85",
+        "hexterm": "85/ad/85"
+    },
+    "ansi-15": {
+        "hex": "#ebdbb2",
+        "hexterm": "eb/db/b2"
+    },
+    "ansi-2": {
+        "hex": "#afaf00",
+        "hexterm": "af/af/00"
+    },
+    "ansi-3": {
+        "hex": "#ffaf00",
+        "hexterm": "ff/af/00"
+    },
+    "ansi-4": {
+        "hex": "#83adad",
+        "hexterm": "83/ad/ad"
+    },
+    "ansi-5": {
+        "hex": "#d485ad",
+        "hexterm": "d4/85/ad"
+    },
+    "ansi-6": {
+        "hex": "#85ad85",
+        "hexterm": "85/ad/85"
+    },
+    "ansi-7": {
+        "hex": "#dab997",
+        "hexterm": "da/b9/97"
+    },
+    "ansi-8": {
+        "hex": "#8a8a8a",
+        "hexterm": "8a/8a/8a"
+    },
+    "ansi-9": {
+        "hex": "#d75f5f",
+        "hexterm": "d7/5f/5f"
+    },
+    "background": {
+        "hex": "#262626",
+        "hexterm": "26/26/26"
+    },
+    "cursor": {
+        "hex": "#dab997",
+        "hexterm": "da/b9/97"
+    },
+    "foreground": {
+        "hex": "#dab997",
+        "hexterm": "da/b9/97"
+    },
+    "selection": {
+        "hex": "#d5c4a1",
+        "hexterm": "d5/c4/a1"
+    },
+    "selection-text": {
+        "hex": "#3a3a3a",
+        "hexterm": "3a/3a/3a"
+    },
     "theme-author": "Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)",
     "theme-name": "Gruvbox dark, pale",
     "theme-slug": "gruvbox-dark-pale",

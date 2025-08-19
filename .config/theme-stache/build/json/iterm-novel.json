@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#cc0000",
-    "ansi-10-hex": "#009600",
-    "ansi-11-hex": "#d06b00",
-    "ansi-12-hex": "#0000cc",
-    "ansi-13-hex": "#cc00cc",
-    "ansi-14-hex": "#0086cb",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#009600",
-    "ansi-3-hex": "#d06b00",
-    "ansi-4-hex": "#0000cc",
-    "ansi-5-hex": "#cc00cc",
-    "ansi-6-hex": "#0087cc",
-    "ansi-7-hex": "#cccccc",
-    "ansi-8-hex": "#7f7f7f",
-    "ansi-9-hex": "#cc0000",
-    "background-hex": "#dfdbc3",
-    "cursor-hex": "#73635a",
-    "foreground-hex": "#3b2322",
-    "selection-hex": "#a4a390",
-    "selection-text-hex": "#000000",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#cc0000",
+        "hexterm": "cc/00/00"
+    },
+    "ansi-10": {
+        "hex": "#009600",
+        "hexterm": "00/96/00"
+    },
+    "ansi-11": {
+        "hex": "#d06b00",
+        "hexterm": "d0/6b/00"
+    },
+    "ansi-12": {
+        "hex": "#0000cc",
+        "hexterm": "00/00/cc"
+    },
+    "ansi-13": {
+        "hex": "#cc00cc",
+        "hexterm": "cc/00/cc"
+    },
+    "ansi-14": {
+        "hex": "#0086cb",
+        "hexterm": "00/86/cb"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#009600",
+        "hexterm": "00/96/00"
+    },
+    "ansi-3": {
+        "hex": "#d06b00",
+        "hexterm": "d0/6b/00"
+    },
+    "ansi-4": {
+        "hex": "#0000cc",
+        "hexterm": "00/00/cc"
+    },
+    "ansi-5": {
+        "hex": "#cc00cc",
+        "hexterm": "cc/00/cc"
+    },
+    "ansi-6": {
+        "hex": "#0087cc",
+        "hexterm": "00/87/cc"
+    },
+    "ansi-7": {
+        "hex": "#cccccc",
+        "hexterm": "cc/cc/cc"
+    },
+    "ansi-8": {
+        "hex": "#7f7f7f",
+        "hexterm": "7f/7f/7f"
+    },
+    "ansi-9": {
+        "hex": "#cc0000",
+        "hexterm": "cc/00/00"
+    },
+    "background": {
+        "hex": "#dfdbc3",
+        "hexterm": "df/db/c3"
+    },
+    "cursor": {
+        "hex": "#73635a",
+        "hexterm": "73/63/5a"
+    },
+    "foreground": {
+        "hex": "#3b2322",
+        "hexterm": "3b/23/22"
+    },
+    "selection": {
+        "hex": "#a4a390",
+        "hexterm": "a4/a3/90"
+    },
+    "selection-text": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
     "theme-author": "unknown",
     "theme-name": "Novel",
     "theme-slug": "novel",

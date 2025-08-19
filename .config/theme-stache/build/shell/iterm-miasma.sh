@@ -11,92 +11,69 @@ if [[ ! -t 0 ]]; then
     exit 0
 fi
 
-color00="#000000"    # Black (Host)
-color01="#685742"    # Red (Syntax string)
-color02="#5f875f"    # Green (Command)
-color03="#b36d43"    # Yellow (Command second)
-color04="#78824b"    # Blue (Path)
-color05="#bb7744"    # Magenta (Syntax var)
-color06="#c9a554"    # Cyan (Prompt)
-color07="#d7c483"    # White
-color08="#666666"    # Bright Black
-color09="#685742"    # Bright Red (Command error)
-color10="#5f875f"   # Bright Green (Exec)
-color11="#b36d43"   # Bright Yellow
-color12="#78824b"   # Bright Blue (Folder)
-color13="#bb7744"   # Bright Magenta
-color14="#c9a554"   # Bright Cyan
-color15="#d7c483"   # Bright White
-
-foreground="#c2c2b0"         # Foreground (Text)
-background="#222222"         # Background
-cursor="#c7c7c7"                 # Cursor
-selection="#e4c37a"           # Selection Background
-selection_text="#000000" # Selection Text
-
 print_osc4() {
     local color="$1"
-    local hex="$2"
+    local hexterm="$2"
 
-    printf "\033]4;%d;rgb:%s\033\\" "$color" "${hex:1:2}/${hex:3:2}/${hex:5:2}"
+    printf "\033]4;%d;rgb:%s\033\\" "$color" "$hexterm"
 }
 
 print_osc_rgb() {
     local osc="$1"
-    local hex="$2"
+    local hexterm="$2"
 
-    printf "\033]%d;rgb:%s\033\\" "$osc" "${hex:1:2}/${hex:3:2}/${hex:5:2}"
+    printf "\033]%d;rgb:%s\033\\" "$osc" "$hexterm"
 }
 
 print_linux() {
     local color="$1"
     local hex="$2"
 
-    printf "\033]P%x%s" "$color" ${hex:1:6}
+    printf "\033]P%x%s" "$color" ${hex:#\#}
 }
 
 do_osc() {
-    print_osc4 0 "$color00"
-    print_osc4 1 "$color01"
-    print_osc4 2 "$color02"
-    print_osc4 3 "$color03"
-    print_osc4 4 "$color04"
-    print_osc4 5 "$color05"
-    print_osc4 6 "$color06"
-    print_osc4 7 "$color07"
-    print_osc4 8 "$color08"
-    print_osc4 9 "$color09"
-    print_osc4 10 "$color10"
-    print_osc4 11 "$color11"
-    print_osc4 12 "$color12"
-    print_osc4 13 "$color13"
-    print_osc4 14 "$color14"
-    print_osc4 15 "$color15"
+    print_osc4 0 "00/00/00"
+    print_osc4 1 "68/57/42"
+    print_osc4 2 "5f/87/5f"
+    print_osc4 3 "b3/6d/43"
+    print_osc4 4 "78/82/4b"
+    print_osc4 5 "bb/77/44"
+    print_osc4 6 "c9/a5/54"
+    print_osc4 7 "d7/c4/83"
+    print_osc4 8 "66/66/66"
+    print_osc4 9 "68/57/42"
+    print_osc4 10 "5f/87/5f"
+    print_osc4 11 "b3/6d/43"
+    print_osc4 12 "78/82/4b"
+    print_osc4 13 "bb/77/44"
+    print_osc4 14 "c9/a5/54"
+    print_osc4 15 "d7/c4/83"
 
-    print_osc_rgb 10 "$foreground"
-    print_osc_rgb 11 "$background"
-    print_osc_rgb 12 "$cursor"
-    print_osc_rgb 17 "$selection"
-    print_osc_rgb 19 "$selection_text"
+    print_osc_rgb 10 "c2/c2/b0"
+    print_osc_rgb 11 "22/22/22"
+    print_osc_rgb 12 "c7/c7/c7"
+    print_osc_rgb 17 "e4/c3/7a"
+    print_osc_rgb 19 "00/00/00"
 }
 
 do_linux() {
-    print_linux 0 "$color00"
-    print_linux 1 "$color01"
-    print_linux 2 "$color02"
-    print_linux 3 "$color03"
-    print_linux 4 "$color04"
-    print_linux 5 "$color05"
-    print_linux 6 "$color06"
-    print_linux 7 "$foreground"
-    print_linux 8 "$color08"
-    print_linux 9 "$color09"
-    print_linux 10 "$color10"
-    print_linux 11 "$color11"
-    print_linux 12 "$color12"
-    print_linux 13 "$color13"
-    print_linux 14 "$color14"
-    print_linux 15 "$color15"
+    print_linux 0 "#000000"
+    print_linux 1 "#685742"
+    print_linux 2 "#5f875f"
+    print_linux 3 "#b36d43"
+    print_linux 4 "#78824b"
+    print_linux 5 "#bb7744"
+    print_linux 6 "#c9a554"
+    print_linux 7 "#c2c2b0"
+    print_linux 8 "#666666"
+    print_linux 9 "#685742"
+    print_linux 10 "#5f875f"
+    print_linux 11 "#b36d43"
+    print_linux 12 "#78824b"
+    print_linux 13 "#bb7744"
+    print_linux 14 "#c9a554"
+    print_linux 15 "#d7c483"
 }
 
 case "$TERM" in
@@ -113,25 +90,3 @@ unset -f print_osc_rgb
 unset -f print_linux
 unset -f do_osc
 unset -f do_linux
-
-unset color00
-unset color01
-unset color02
-unset color03
-unset color04
-unset color05
-unset color06
-unset color07
-unset color08
-unset color09
-unset color10
-unset color11
-unset color12
-unset color13
-unset color14
-unset color15
-unset foreground
-unset background
-unset cursor
-unset selection
-unset selection_text

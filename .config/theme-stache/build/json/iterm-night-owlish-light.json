@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#011627",
-    "ansi-1-hex": "#d3423e",
-    "ansi-10-hex": "#49d0c5",
-    "ansi-11-hex": "#dac26b",
-    "ansi-12-hex": "#5ca7e4",
-    "ansi-13-hex": "#697098",
-    "ansi-14-hex": "#00c990",
-    "ansi-15-hex": "#989fb1",
-    "ansi-2-hex": "#2aa298",
-    "ansi-3-hex": "#daaa01",
-    "ansi-4-hex": "#4876d6",
-    "ansi-5-hex": "#403f53",
-    "ansi-6-hex": "#08916a",
-    "ansi-7-hex": "#7a8181",
-    "ansi-8-hex": "#7a8181",
-    "ansi-9-hex": "#f76e6e",
-    "background-hex": "#ffffff",
-    "cursor-hex": "#403f53",
-    "foreground-hex": "#403f53",
-    "selection-hex": "#f2f2f2",
-    "selection-text-hex": "#403f53",
+    "ansi-0": {
+        "hex": "#011627",
+        "hexterm": "01/16/27"
+    },
+    "ansi-1": {
+        "hex": "#d3423e",
+        "hexterm": "d3/42/3e"
+    },
+    "ansi-10": {
+        "hex": "#49d0c5",
+        "hexterm": "49/d0/c5"
+    },
+    "ansi-11": {
+        "hex": "#dac26b",
+        "hexterm": "da/c2/6b"
+    },
+    "ansi-12": {
+        "hex": "#5ca7e4",
+        "hexterm": "5c/a7/e4"
+    },
+    "ansi-13": {
+        "hex": "#697098",
+        "hexterm": "69/70/98"
+    },
+    "ansi-14": {
+        "hex": "#00c990",
+        "hexterm": "00/c9/90"
+    },
+    "ansi-15": {
+        "hex": "#989fb1",
+        "hexterm": "98/9f/b1"
+    },
+    "ansi-2": {
+        "hex": "#2aa298",
+        "hexterm": "2a/a2/98"
+    },
+    "ansi-3": {
+        "hex": "#daaa01",
+        "hexterm": "da/aa/01"
+    },
+    "ansi-4": {
+        "hex": "#4876d6",
+        "hexterm": "48/76/d6"
+    },
+    "ansi-5": {
+        "hex": "#403f53",
+        "hexterm": "40/3f/53"
+    },
+    "ansi-6": {
+        "hex": "#08916a",
+        "hexterm": "08/91/6a"
+    },
+    "ansi-7": {
+        "hex": "#7a8181",
+        "hexterm": "7a/81/81"
+    },
+    "ansi-8": {
+        "hex": "#7a8181",
+        "hexterm": "7a/81/81"
+    },
+    "ansi-9": {
+        "hex": "#f76e6e",
+        "hexterm": "f7/6e/6e"
+    },
+    "background": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "cursor": {
+        "hex": "#403f53",
+        "hexterm": "40/3f/53"
+    },
+    "foreground": {
+        "hex": "#403f53",
+        "hexterm": "40/3f/53"
+    },
+    "selection": {
+        "hex": "#f2f2f2",
+        "hexterm": "f2/f2/f2"
+    },
+    "selection-text": {
+        "hex": "#403f53",
+        "hexterm": "40/3f/53"
+    },
     "theme-author": "unknown",
     "theme-name": "Night Owlish Light",
     "theme-slug": "night-owlish-light",

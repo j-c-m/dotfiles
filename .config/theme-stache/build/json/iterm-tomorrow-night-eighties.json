@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#f27779",
-    "ansi-10-hex": "#99cc99",
-    "ansi-11-hex": "#ffcc66",
-    "ansi-12-hex": "#6699cc",
-    "ansi-13-hex": "#cc99cc",
-    "ansi-14-hex": "#66cccc",
-    "ansi-15-hex": "#fffefe",
-    "ansi-2-hex": "#99cc99",
-    "ansi-3-hex": "#ffcc66",
-    "ansi-4-hex": "#6699cc",
-    "ansi-5-hex": "#cc99cc",
-    "ansi-6-hex": "#66cccc",
-    "ansi-7-hex": "#fffefe",
-    "ansi-8-hex": "#000000",
-    "ansi-9-hex": "#f17779",
-    "background-hex": "#2c2c2c",
-    "cursor-hex": "#cccccc",
-    "foreground-hex": "#cccccc",
-    "selection-hex": "#515151",
-    "selection-text-hex": "#cccccc",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#f27779",
+        "hexterm": "f2/77/79"
+    },
+    "ansi-10": {
+        "hex": "#99cc99",
+        "hexterm": "99/cc/99"
+    },
+    "ansi-11": {
+        "hex": "#ffcc66",
+        "hexterm": "ff/cc/66"
+    },
+    "ansi-12": {
+        "hex": "#6699cc",
+        "hexterm": "66/99/cc"
+    },
+    "ansi-13": {
+        "hex": "#cc99cc",
+        "hexterm": "cc/99/cc"
+    },
+    "ansi-14": {
+        "hex": "#66cccc",
+        "hexterm": "66/cc/cc"
+    },
+    "ansi-15": {
+        "hex": "#fffefe",
+        "hexterm": "ff/fe/fe"
+    },
+    "ansi-2": {
+        "hex": "#99cc99",
+        "hexterm": "99/cc/99"
+    },
+    "ansi-3": {
+        "hex": "#ffcc66",
+        "hexterm": "ff/cc/66"
+    },
+    "ansi-4": {
+        "hex": "#6699cc",
+        "hexterm": "66/99/cc"
+    },
+    "ansi-5": {
+        "hex": "#cc99cc",
+        "hexterm": "cc/99/cc"
+    },
+    "ansi-6": {
+        "hex": "#66cccc",
+        "hexterm": "66/cc/cc"
+    },
+    "ansi-7": {
+        "hex": "#fffefe",
+        "hexterm": "ff/fe/fe"
+    },
+    "ansi-8": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-9": {
+        "hex": "#f17779",
+        "hexterm": "f1/77/79"
+    },
+    "background": {
+        "hex": "#2c2c2c",
+        "hexterm": "2c/2c/2c"
+    },
+    "cursor": {
+        "hex": "#cccccc",
+        "hexterm": "cc/cc/cc"
+    },
+    "foreground": {
+        "hex": "#cccccc",
+        "hexterm": "cc/cc/cc"
+    },
+    "selection": {
+        "hex": "#515151",
+        "hexterm": "51/51/51"
+    },
+    "selection-text": {
+        "hex": "#cccccc",
+        "hexterm": "cc/cc/cc"
+    },
     "theme-author": "unknown",
     "theme-name": "Tomorrow Night Eighties",
     "theme-slug": "tomorrow-night-eighties",

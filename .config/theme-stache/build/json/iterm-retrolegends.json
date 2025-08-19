@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#262626",
-    "ansi-1-hex": "#dd5454",
-    "ansi-10-hex": "#59ff59",
-    "ansi-11-hex": "#ffd833",
-    "ansi-12-hex": "#4c7fff",
-    "ansi-13-hex": "#e566ff",
-    "ansi-14-hex": "#59e5ff",
-    "ansi-15-hex": "#f2fff2",
-    "ansi-2-hex": "#44ea44",
-    "ansi-3-hex": "#f7bf2b",
-    "ansi-4-hex": "#3f66f2",
-    "ansi-5-hex": "#bf4cf2",
-    "ansi-6-hex": "#3fd8e5",
-    "ansi-7-hex": "#bfe5bf",
-    "ansi-8-hex": "#4c594c",
-    "ansi-9-hex": "#ff6666",
-    "background-hex": "#0c0c0c",
-    "cursor-hex": "#44ea44",
-    "foreground-hex": "#44ea44",
-    "selection-hex": "#336633",
-    "selection-text-hex": "#f2fff2",
+    "ansi-0": {
+        "hex": "#262626",
+        "hexterm": "26/26/26"
+    },
+    "ansi-1": {
+        "hex": "#dd5454",
+        "hexterm": "dd/54/54"
+    },
+    "ansi-10": {
+        "hex": "#59ff59",
+        "hexterm": "59/ff/59"
+    },
+    "ansi-11": {
+        "hex": "#ffd833",
+        "hexterm": "ff/d8/33"
+    },
+    "ansi-12": {
+        "hex": "#4c7fff",
+        "hexterm": "4c/7f/ff"
+    },
+    "ansi-13": {
+        "hex": "#e566ff",
+        "hexterm": "e5/66/ff"
+    },
+    "ansi-14": {
+        "hex": "#59e5ff",
+        "hexterm": "59/e5/ff"
+    },
+    "ansi-15": {
+        "hex": "#f2fff2",
+        "hexterm": "f2/ff/f2"
+    },
+    "ansi-2": {
+        "hex": "#44ea44",
+        "hexterm": "44/ea/44"
+    },
+    "ansi-3": {
+        "hex": "#f7bf2b",
+        "hexterm": "f7/bf/2b"
+    },
+    "ansi-4": {
+        "hex": "#3f66f2",
+        "hexterm": "3f/66/f2"
+    },
+    "ansi-5": {
+        "hex": "#bf4cf2",
+        "hexterm": "bf/4c/f2"
+    },
+    "ansi-6": {
+        "hex": "#3fd8e5",
+        "hexterm": "3f/d8/e5"
+    },
+    "ansi-7": {
+        "hex": "#bfe5bf",
+        "hexterm": "bf/e5/bf"
+    },
+    "ansi-8": {
+        "hex": "#4c594c",
+        "hexterm": "4c/59/4c"
+    },
+    "ansi-9": {
+        "hex": "#ff6666",
+        "hexterm": "ff/66/66"
+    },
+    "background": {
+        "hex": "#0c0c0c",
+        "hexterm": "0c/0c/0c"
+    },
+    "cursor": {
+        "hex": "#44ea44",
+        "hexterm": "44/ea/44"
+    },
+    "foreground": {
+        "hex": "#44ea44",
+        "hexterm": "44/ea/44"
+    },
+    "selection": {
+        "hex": "#336633",
+        "hexterm": "33/66/33"
+    },
+    "selection-text": {
+        "hex": "#f2fff2",
+        "hexterm": "f2/ff/f2"
+    },
     "theme-author": "unknown",
     "theme-name": "RetroLegends",
     "theme-slug": "retrolegends",

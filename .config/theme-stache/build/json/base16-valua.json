@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#131f1f",
-    "ansi-1-hex": "#d7586e",
-    "ansi-10-hex": "#59d678",
-    "ansi-11-hex": "#dfe754",
-    "ansi-12-hex": "#4ed2d2",
-    "ansi-13-hex": "#a874e0",
-    "ansi-14-hex": "#76dbd2",
-    "ansi-15-hex": "#aacbcb",
-    "ansi-2-hex": "#59d678",
-    "ansi-3-hex": "#dfe754",
-    "ansi-4-hex": "#4ed2d2",
-    "ansi-5-hex": "#a874e0",
-    "ansi-6-hex": "#76dbd2",
-    "ansi-7-hex": "#98c1a3",
-    "ansi-8-hex": "#3e5c53",
-    "ansi-9-hex": "#d7586e",
-    "background-hex": "#131f1f",
-    "cursor-hex": "#98c1a3",
-    "foreground-hex": "#98c1a3",
-    "selection-hex": "#a5cbb9",
-    "selection-text-hex": "#213132",
+    "ansi-0": {
+        "hex": "#131f1f",
+        "hexterm": "13/1f/1f"
+    },
+    "ansi-1": {
+        "hex": "#d7586e",
+        "hexterm": "d7/58/6e"
+    },
+    "ansi-10": {
+        "hex": "#59d678",
+        "hexterm": "59/d6/78"
+    },
+    "ansi-11": {
+        "hex": "#dfe754",
+        "hexterm": "df/e7/54"
+    },
+    "ansi-12": {
+        "hex": "#4ed2d2",
+        "hexterm": "4e/d2/d2"
+    },
+    "ansi-13": {
+        "hex": "#a874e0",
+        "hexterm": "a8/74/e0"
+    },
+    "ansi-14": {
+        "hex": "#76dbd2",
+        "hexterm": "76/db/d2"
+    },
+    "ansi-15": {
+        "hex": "#aacbcb",
+        "hexterm": "aa/cb/cb"
+    },
+    "ansi-2": {
+        "hex": "#59d678",
+        "hexterm": "59/d6/78"
+    },
+    "ansi-3": {
+        "hex": "#dfe754",
+        "hexterm": "df/e7/54"
+    },
+    "ansi-4": {
+        "hex": "#4ed2d2",
+        "hexterm": "4e/d2/d2"
+    },
+    "ansi-5": {
+        "hex": "#a874e0",
+        "hexterm": "a8/74/e0"
+    },
+    "ansi-6": {
+        "hex": "#76dbd2",
+        "hexterm": "76/db/d2"
+    },
+    "ansi-7": {
+        "hex": "#98c1a3",
+        "hexterm": "98/c1/a3"
+    },
+    "ansi-8": {
+        "hex": "#3e5c53",
+        "hexterm": "3e/5c/53"
+    },
+    "ansi-9": {
+        "hex": "#d7586e",
+        "hexterm": "d7/58/6e"
+    },
+    "background": {
+        "hex": "#131f1f",
+        "hexterm": "13/1f/1f"
+    },
+    "cursor": {
+        "hex": "#98c1a3",
+        "hexterm": "98/c1/a3"
+    },
+    "foreground": {
+        "hex": "#98c1a3",
+        "hexterm": "98/c1/a3"
+    },
+    "selection": {
+        "hex": "#a5cbb9",
+        "hexterm": "a5/cb/b9"
+    },
+    "selection-text": {
+        "hex": "#213132",
+        "hexterm": "21/31/32"
+    },
     "theme-author": "Nonetrix (https://github.com/nonetrix)",
     "theme-name": "Valua",
     "theme-slug": "valua",

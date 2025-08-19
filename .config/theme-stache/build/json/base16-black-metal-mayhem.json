@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#5f8787",
-    "ansi-10-hex": "#f3ecd4",
-    "ansi-11-hex": "#eecc6c",
-    "ansi-12-hex": "#888888",
-    "ansi-13-hex": "#999999",
-    "ansi-14-hex": "#aaaaaa",
-    "ansi-15-hex": "#c1c1c1",
-    "ansi-2-hex": "#f3ecd4",
-    "ansi-3-hex": "#eecc6c",
-    "ansi-4-hex": "#888888",
-    "ansi-5-hex": "#999999",
-    "ansi-6-hex": "#aaaaaa",
-    "ansi-7-hex": "#c1c1c1",
-    "ansi-8-hex": "#333333",
-    "ansi-9-hex": "#5f8787",
-    "background-hex": "#000000",
-    "cursor-hex": "#c1c1c1",
-    "foreground-hex": "#c1c1c1",
-    "selection-hex": "#999999",
-    "selection-text-hex": "#121212",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#5f8787",
+        "hexterm": "5f/87/87"
+    },
+    "ansi-10": {
+        "hex": "#f3ecd4",
+        "hexterm": "f3/ec/d4"
+    },
+    "ansi-11": {
+        "hex": "#eecc6c",
+        "hexterm": "ee/cc/6c"
+    },
+    "ansi-12": {
+        "hex": "#888888",
+        "hexterm": "88/88/88"
+    },
+    "ansi-13": {
+        "hex": "#999999",
+        "hexterm": "99/99/99"
+    },
+    "ansi-14": {
+        "hex": "#aaaaaa",
+        "hexterm": "aa/aa/aa"
+    },
+    "ansi-15": {
+        "hex": "#c1c1c1",
+        "hexterm": "c1/c1/c1"
+    },
+    "ansi-2": {
+        "hex": "#f3ecd4",
+        "hexterm": "f3/ec/d4"
+    },
+    "ansi-3": {
+        "hex": "#eecc6c",
+        "hexterm": "ee/cc/6c"
+    },
+    "ansi-4": {
+        "hex": "#888888",
+        "hexterm": "88/88/88"
+    },
+    "ansi-5": {
+        "hex": "#999999",
+        "hexterm": "99/99/99"
+    },
+    "ansi-6": {
+        "hex": "#aaaaaa",
+        "hexterm": "aa/aa/aa"
+    },
+    "ansi-7": {
+        "hex": "#c1c1c1",
+        "hexterm": "c1/c1/c1"
+    },
+    "ansi-8": {
+        "hex": "#333333",
+        "hexterm": "33/33/33"
+    },
+    "ansi-9": {
+        "hex": "#5f8787",
+        "hexterm": "5f/87/87"
+    },
+    "background": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "cursor": {
+        "hex": "#c1c1c1",
+        "hexterm": "c1/c1/c1"
+    },
+    "foreground": {
+        "hex": "#c1c1c1",
+        "hexterm": "c1/c1/c1"
+    },
+    "selection": {
+        "hex": "#999999",
+        "hexterm": "99/99/99"
+    },
+    "selection-text": {
+        "hex": "#121212",
+        "hexterm": "12/12/12"
+    },
     "theme-author": "metalelf0 (https://github.com/metalelf0)",
     "theme-name": "Black Metal (Mayhem)",
     "theme-slug": "black-metal-mayhem",

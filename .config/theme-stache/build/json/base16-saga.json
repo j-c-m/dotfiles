@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#05080a",
-    "ansi-1-hex": "#ffd4e9",
-    "ansi-10-hex": "#f7ddff",
-    "ansi-11-hex": "#fbebc8",
-    "ansi-12-hex": "#c9fff7",
-    "ansi-13-hex": "#dcc3f9",
-    "ansi-14-hex": "#c5edc1",
-    "ansi-15-hex": "#ccd3fe",
-    "ansi-2-hex": "#f7ddff",
-    "ansi-3-hex": "#fbebc8",
-    "ansi-4-hex": "#c9fff7",
-    "ansi-5-hex": "#dcc3f9",
-    "ansi-6-hex": "#c5edc1",
-    "ansi-7-hex": "#dce2f7",
-    "ansi-8-hex": "#141f27",
-    "ansi-9-hex": "#ffd4e9",
-    "background-hex": "#05080a",
-    "cursor-hex": "#dce2f7",
-    "foreground-hex": "#dce2f7",
-    "selection-hex": "#f8eae7",
-    "selection-text-hex": "#0a1014",
+    "ansi-0": {
+        "hex": "#05080a",
+        "hexterm": "05/08/0a"
+    },
+    "ansi-1": {
+        "hex": "#ffd4e9",
+        "hexterm": "ff/d4/e9"
+    },
+    "ansi-10": {
+        "hex": "#f7ddff",
+        "hexterm": "f7/dd/ff"
+    },
+    "ansi-11": {
+        "hex": "#fbebc8",
+        "hexterm": "fb/eb/c8"
+    },
+    "ansi-12": {
+        "hex": "#c9fff7",
+        "hexterm": "c9/ff/f7"
+    },
+    "ansi-13": {
+        "hex": "#dcc3f9",
+        "hexterm": "dc/c3/f9"
+    },
+    "ansi-14": {
+        "hex": "#c5edc1",
+        "hexterm": "c5/ed/c1"
+    },
+    "ansi-15": {
+        "hex": "#ccd3fe",
+        "hexterm": "cc/d3/fe"
+    },
+    "ansi-2": {
+        "hex": "#f7ddff",
+        "hexterm": "f7/dd/ff"
+    },
+    "ansi-3": {
+        "hex": "#fbebc8",
+        "hexterm": "fb/eb/c8"
+    },
+    "ansi-4": {
+        "hex": "#c9fff7",
+        "hexterm": "c9/ff/f7"
+    },
+    "ansi-5": {
+        "hex": "#dcc3f9",
+        "hexterm": "dc/c3/f9"
+    },
+    "ansi-6": {
+        "hex": "#c5edc1",
+        "hexterm": "c5/ed/c1"
+    },
+    "ansi-7": {
+        "hex": "#dce2f7",
+        "hexterm": "dc/e2/f7"
+    },
+    "ansi-8": {
+        "hex": "#141f27",
+        "hexterm": "14/1f/27"
+    },
+    "ansi-9": {
+        "hex": "#ffd4e9",
+        "hexterm": "ff/d4/e9"
+    },
+    "background": {
+        "hex": "#05080a",
+        "hexterm": "05/08/0a"
+    },
+    "cursor": {
+        "hex": "#dce2f7",
+        "hexterm": "dc/e2/f7"
+    },
+    "foreground": {
+        "hex": "#dce2f7",
+        "hexterm": "dc/e2/f7"
+    },
+    "selection": {
+        "hex": "#f8eae7",
+        "hexterm": "f8/ea/e7"
+    },
+    "selection-text": {
+        "hex": "#0a1014",
+        "hexterm": "0a/10/14"
+    },
     "theme-author": "https://github.com/SAGAtheme/SAGA",
     "theme-name": "SAGA",
     "theme-slug": "saga",

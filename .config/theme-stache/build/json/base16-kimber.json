@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#222222",
-    "ansi-1-hex": "#c88c8c",
-    "ansi-10-hex": "#99c899",
-    "ansi-11-hex": "#d8b56d",
-    "ansi-12-hex": "#537c9c",
-    "ansi-13-hex": "#86cacd",
-    "ansi-14-hex": "#78b4b4",
-    "ansi-15-hex": "#ffffe6",
-    "ansi-2-hex": "#99c899",
-    "ansi-3-hex": "#d8b56d",
-    "ansi-4-hex": "#537c9c",
-    "ansi-5-hex": "#86cacd",
-    "ansi-6-hex": "#78b4b4",
-    "ansi-7-hex": "#dedee7",
-    "ansi-8-hex": "#644646",
-    "ansi-9-hex": "#c88c8c",
-    "background-hex": "#222222",
-    "cursor-hex": "#dedee7",
-    "foreground-hex": "#dedee7",
-    "selection-hex": "#c3c3b4",
-    "selection-text-hex": "#313131",
+    "ansi-0": {
+        "hex": "#222222",
+        "hexterm": "22/22/22"
+    },
+    "ansi-1": {
+        "hex": "#c88c8c",
+        "hexterm": "c8/8c/8c"
+    },
+    "ansi-10": {
+        "hex": "#99c899",
+        "hexterm": "99/c8/99"
+    },
+    "ansi-11": {
+        "hex": "#d8b56d",
+        "hexterm": "d8/b5/6d"
+    },
+    "ansi-12": {
+        "hex": "#537c9c",
+        "hexterm": "53/7c/9c"
+    },
+    "ansi-13": {
+        "hex": "#86cacd",
+        "hexterm": "86/ca/cd"
+    },
+    "ansi-14": {
+        "hex": "#78b4b4",
+        "hexterm": "78/b4/b4"
+    },
+    "ansi-15": {
+        "hex": "#ffffe6",
+        "hexterm": "ff/ff/e6"
+    },
+    "ansi-2": {
+        "hex": "#99c899",
+        "hexterm": "99/c8/99"
+    },
+    "ansi-3": {
+        "hex": "#d8b56d",
+        "hexterm": "d8/b5/6d"
+    },
+    "ansi-4": {
+        "hex": "#537c9c",
+        "hexterm": "53/7c/9c"
+    },
+    "ansi-5": {
+        "hex": "#86cacd",
+        "hexterm": "86/ca/cd"
+    },
+    "ansi-6": {
+        "hex": "#78b4b4",
+        "hexterm": "78/b4/b4"
+    },
+    "ansi-7": {
+        "hex": "#dedee7",
+        "hexterm": "de/de/e7"
+    },
+    "ansi-8": {
+        "hex": "#644646",
+        "hexterm": "64/46/46"
+    },
+    "ansi-9": {
+        "hex": "#c88c8c",
+        "hexterm": "c8/8c/8c"
+    },
+    "background": {
+        "hex": "#222222",
+        "hexterm": "22/22/22"
+    },
+    "cursor": {
+        "hex": "#dedee7",
+        "hexterm": "de/de/e7"
+    },
+    "foreground": {
+        "hex": "#dedee7",
+        "hexterm": "de/de/e7"
+    },
+    "selection": {
+        "hex": "#c3c3b4",
+        "hexterm": "c3/c3/b4"
+    },
+    "selection-text": {
+        "hex": "#313131",
+        "hexterm": "31/31/31"
+    },
     "theme-author": "Mishka Nguyen (https://github.com/akhsiM)",
     "theme-name": "Kimber",
     "theme-slug": "kimber",

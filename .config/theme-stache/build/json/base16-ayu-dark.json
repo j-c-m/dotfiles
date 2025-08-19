@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#0b0e14",
-    "ansi-1-hex": "#f07178",
-    "ansi-10-hex": "#aad94c",
-    "ansi-11-hex": "#ffb454",
-    "ansi-12-hex": "#59c2ff",
-    "ansi-13-hex": "#d2a6ff",
-    "ansi-14-hex": "#95e6cb",
-    "ansi-15-hex": "#f2f0e7",
-    "ansi-2-hex": "#aad94c",
-    "ansi-3-hex": "#ffb454",
-    "ansi-4-hex": "#59c2ff",
-    "ansi-5-hex": "#d2a6ff",
-    "ansi-6-hex": "#95e6cb",
-    "ansi-7-hex": "#e6e1cf",
-    "ansi-8-hex": "#3e4b59",
-    "ansi-9-hex": "#f07178",
-    "background-hex": "#0b0e14",
-    "cursor-hex": "#e6e1cf",
-    "foreground-hex": "#e6e1cf",
-    "selection-hex": "#ece8db",
-    "selection-text-hex": "#131721",
+    "ansi-0": {
+        "hex": "#0b0e14",
+        "hexterm": "0b/0e/14"
+    },
+    "ansi-1": {
+        "hex": "#f07178",
+        "hexterm": "f0/71/78"
+    },
+    "ansi-10": {
+        "hex": "#aad94c",
+        "hexterm": "aa/d9/4c"
+    },
+    "ansi-11": {
+        "hex": "#ffb454",
+        "hexterm": "ff/b4/54"
+    },
+    "ansi-12": {
+        "hex": "#59c2ff",
+        "hexterm": "59/c2/ff"
+    },
+    "ansi-13": {
+        "hex": "#d2a6ff",
+        "hexterm": "d2/a6/ff"
+    },
+    "ansi-14": {
+        "hex": "#95e6cb",
+        "hexterm": "95/e6/cb"
+    },
+    "ansi-15": {
+        "hex": "#f2f0e7",
+        "hexterm": "f2/f0/e7"
+    },
+    "ansi-2": {
+        "hex": "#aad94c",
+        "hexterm": "aa/d9/4c"
+    },
+    "ansi-3": {
+        "hex": "#ffb454",
+        "hexterm": "ff/b4/54"
+    },
+    "ansi-4": {
+        "hex": "#59c2ff",
+        "hexterm": "59/c2/ff"
+    },
+    "ansi-5": {
+        "hex": "#d2a6ff",
+        "hexterm": "d2/a6/ff"
+    },
+    "ansi-6": {
+        "hex": "#95e6cb",
+        "hexterm": "95/e6/cb"
+    },
+    "ansi-7": {
+        "hex": "#e6e1cf",
+        "hexterm": "e6/e1/cf"
+    },
+    "ansi-8": {
+        "hex": "#3e4b59",
+        "hexterm": "3e/4b/59"
+    },
+    "ansi-9": {
+        "hex": "#f07178",
+        "hexterm": "f0/71/78"
+    },
+    "background": {
+        "hex": "#0b0e14",
+        "hexterm": "0b/0e/14"
+    },
+    "cursor": {
+        "hex": "#e6e1cf",
+        "hexterm": "e6/e1/cf"
+    },
+    "foreground": {
+        "hex": "#e6e1cf",
+        "hexterm": "e6/e1/cf"
+    },
+    "selection": {
+        "hex": "#ece8db",
+        "hexterm": "ec/e8/db"
+    },
+    "selection-text": {
+        "hex": "#131721",
+        "hexterm": "13/17/21"
+    },
     "theme-author": "Tinted Theming (https://github.com/tinted-theming), Ayu Theme (https://github.com/ayu-theme)",
     "theme-name": "Ayu Dark",
     "theme-slug": "ayu-dark",

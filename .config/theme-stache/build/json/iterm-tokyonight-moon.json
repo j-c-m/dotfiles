@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1b1c2b",
-    "ansi-1-hex": "#ff757f",
-    "ansi-10-hex": "#c3e88d",
-    "ansi-11-hex": "#ffc777",
-    "ansi-12-hex": "#82aaff",
-    "ansi-13-hex": "#c099ff",
-    "ansi-14-hex": "#86e1fc",
-    "ansi-15-hex": "#c8d3f5",
-    "ansi-2-hex": "#c3e88d",
-    "ansi-3-hex": "#ffc777",
-    "ansi-4-hex": "#82aaff",
-    "ansi-5-hex": "#c099ff",
-    "ansi-6-hex": "#86e1fc",
-    "ansi-7-hex": "#828bb8",
-    "ansi-8-hex": "#444a73",
-    "ansi-9-hex": "#ff757f",
-    "background-hex": "#212435",
-    "cursor-hex": "#c8d3f5",
-    "foreground-hex": "#c8d3f5",
-    "selection-hex": "#2c3f76",
-    "selection-text-hex": "#c8d3f5",
+    "ansi-0": {
+        "hex": "#1b1c2b",
+        "hexterm": "1b/1c/2b"
+    },
+    "ansi-1": {
+        "hex": "#ff757f",
+        "hexterm": "ff/75/7f"
+    },
+    "ansi-10": {
+        "hex": "#c3e88d",
+        "hexterm": "c3/e8/8d"
+    },
+    "ansi-11": {
+        "hex": "#ffc777",
+        "hexterm": "ff/c7/77"
+    },
+    "ansi-12": {
+        "hex": "#82aaff",
+        "hexterm": "82/aa/ff"
+    },
+    "ansi-13": {
+        "hex": "#c099ff",
+        "hexterm": "c0/99/ff"
+    },
+    "ansi-14": {
+        "hex": "#86e1fc",
+        "hexterm": "86/e1/fc"
+    },
+    "ansi-15": {
+        "hex": "#c8d3f5",
+        "hexterm": "c8/d3/f5"
+    },
+    "ansi-2": {
+        "hex": "#c3e88d",
+        "hexterm": "c3/e8/8d"
+    },
+    "ansi-3": {
+        "hex": "#ffc777",
+        "hexterm": "ff/c7/77"
+    },
+    "ansi-4": {
+        "hex": "#82aaff",
+        "hexterm": "82/aa/ff"
+    },
+    "ansi-5": {
+        "hex": "#c099ff",
+        "hexterm": "c0/99/ff"
+    },
+    "ansi-6": {
+        "hex": "#86e1fc",
+        "hexterm": "86/e1/fc"
+    },
+    "ansi-7": {
+        "hex": "#828bb8",
+        "hexterm": "82/8b/b8"
+    },
+    "ansi-8": {
+        "hex": "#444a73",
+        "hexterm": "44/4a/73"
+    },
+    "ansi-9": {
+        "hex": "#ff757f",
+        "hexterm": "ff/75/7f"
+    },
+    "background": {
+        "hex": "#212435",
+        "hexterm": "21/24/35"
+    },
+    "cursor": {
+        "hex": "#c8d3f5",
+        "hexterm": "c8/d3/f5"
+    },
+    "foreground": {
+        "hex": "#c8d3f5",
+        "hexterm": "c8/d3/f5"
+    },
+    "selection": {
+        "hex": "#2c3f76",
+        "hexterm": "2c/3f/76"
+    },
+    "selection-text": {
+        "hex": "#c8d3f5",
+        "hexterm": "c8/d3/f5"
+    },
     "theme-author": "unknown",
     "theme-name": "tokyonight_moon",
     "theme-slug": "tokyonight-moon",

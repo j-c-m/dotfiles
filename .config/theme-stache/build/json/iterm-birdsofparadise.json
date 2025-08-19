@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#573d25",
-    "ansi-1-hex": "#be2d26",
-    "ansi-10-hex": "#94d7ba",
-    "ansi-11-hex": "#d0d04f",
-    "ansi-12-hex": "#b8d3ed",
-    "ansi-13-hex": "#d09dca",
-    "ansi-14-hex": "#92ced6",
-    "ansi-15-hex": "#fff9d4",
-    "ansi-2-hex": "#6ba08a",
-    "ansi-3-hex": "#e99c29",
-    "ansi-4-hex": "#5a86ac",
-    "ansi-5-hex": "#ab80a6",
-    "ansi-6-hex": "#74a5ac",
-    "ansi-7-hex": "#dfdab7",
-    "ansi-8-hex": "#9a6b49",
-    "ansi-9-hex": "#e84526",
-    "background-hex": "#2a1e1d",
-    "cursor-hex": "#573d25",
-    "foreground-hex": "#dfdab7",
-    "selection-hex": "#563c27",
-    "selection-text-hex": "#dfdaba",
+    "ansi-0": {
+        "hex": "#573d25",
+        "hexterm": "57/3d/25"
+    },
+    "ansi-1": {
+        "hex": "#be2d26",
+        "hexterm": "be/2d/26"
+    },
+    "ansi-10": {
+        "hex": "#94d7ba",
+        "hexterm": "94/d7/ba"
+    },
+    "ansi-11": {
+        "hex": "#d0d04f",
+        "hexterm": "d0/d0/4f"
+    },
+    "ansi-12": {
+        "hex": "#b8d3ed",
+        "hexterm": "b8/d3/ed"
+    },
+    "ansi-13": {
+        "hex": "#d09dca",
+        "hexterm": "d0/9d/ca"
+    },
+    "ansi-14": {
+        "hex": "#92ced6",
+        "hexterm": "92/ce/d6"
+    },
+    "ansi-15": {
+        "hex": "#fff9d4",
+        "hexterm": "ff/f9/d4"
+    },
+    "ansi-2": {
+        "hex": "#6ba08a",
+        "hexterm": "6b/a0/8a"
+    },
+    "ansi-3": {
+        "hex": "#e99c29",
+        "hexterm": "e9/9c/29"
+    },
+    "ansi-4": {
+        "hex": "#5a86ac",
+        "hexterm": "5a/86/ac"
+    },
+    "ansi-5": {
+        "hex": "#ab80a6",
+        "hexterm": "ab/80/a6"
+    },
+    "ansi-6": {
+        "hex": "#74a5ac",
+        "hexterm": "74/a5/ac"
+    },
+    "ansi-7": {
+        "hex": "#dfdab7",
+        "hexterm": "df/da/b7"
+    },
+    "ansi-8": {
+        "hex": "#9a6b49",
+        "hexterm": "9a/6b/49"
+    },
+    "ansi-9": {
+        "hex": "#e84526",
+        "hexterm": "e8/45/26"
+    },
+    "background": {
+        "hex": "#2a1e1d",
+        "hexterm": "2a/1e/1d"
+    },
+    "cursor": {
+        "hex": "#573d25",
+        "hexterm": "57/3d/25"
+    },
+    "foreground": {
+        "hex": "#dfdab7",
+        "hexterm": "df/da/b7"
+    },
+    "selection": {
+        "hex": "#563c27",
+        "hexterm": "56/3c/27"
+    },
+    "selection-text": {
+        "hex": "#dfdaba",
+        "hexterm": "df/da/ba"
+    },
     "theme-author": "unknown",
     "theme-name": "BirdsOfParadise",
     "theme-slug": "birdsofparadise",

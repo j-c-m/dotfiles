@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#fafafa",
-    "ansi-1-hex": "#ff5370",
-    "ansi-10-hex": "#91b859",
-    "ansi-11-hex": "#ffb62c",
-    "ansi-12-hex": "#6182b8",
-    "ansi-13-hex": "#7c4dff",
-    "ansi-14-hex": "#39adb5",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#91b859",
-    "ansi-3-hex": "#ffb62c",
-    "ansi-4-hex": "#6182b8",
-    "ansi-5-hex": "#7c4dff",
-    "ansi-6-hex": "#39adb5",
-    "ansi-7-hex": "#80cbc4",
-    "ansi-8-hex": "#ccd7da",
-    "ansi-9-hex": "#ff5370",
-    "background-hex": "#fafafa",
-    "cursor-hex": "#80cbc4",
-    "foreground-hex": "#80cbc4",
-    "selection-hex": "#80cbc4",
-    "selection-text-hex": "#e7eaec",
+    "ansi-0": {
+        "hex": "#fafafa",
+        "hexterm": "fa/fa/fa"
+    },
+    "ansi-1": {
+        "hex": "#ff5370",
+        "hexterm": "ff/53/70"
+    },
+    "ansi-10": {
+        "hex": "#91b859",
+        "hexterm": "91/b8/59"
+    },
+    "ansi-11": {
+        "hex": "#ffb62c",
+        "hexterm": "ff/b6/2c"
+    },
+    "ansi-12": {
+        "hex": "#6182b8",
+        "hexterm": "61/82/b8"
+    },
+    "ansi-13": {
+        "hex": "#7c4dff",
+        "hexterm": "7c/4d/ff"
+    },
+    "ansi-14": {
+        "hex": "#39adb5",
+        "hexterm": "39/ad/b5"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#91b859",
+        "hexterm": "91/b8/59"
+    },
+    "ansi-3": {
+        "hex": "#ffb62c",
+        "hexterm": "ff/b6/2c"
+    },
+    "ansi-4": {
+        "hex": "#6182b8",
+        "hexterm": "61/82/b8"
+    },
+    "ansi-5": {
+        "hex": "#7c4dff",
+        "hexterm": "7c/4d/ff"
+    },
+    "ansi-6": {
+        "hex": "#39adb5",
+        "hexterm": "39/ad/b5"
+    },
+    "ansi-7": {
+        "hex": "#80cbc4",
+        "hexterm": "80/cb/c4"
+    },
+    "ansi-8": {
+        "hex": "#ccd7da",
+        "hexterm": "cc/d7/da"
+    },
+    "ansi-9": {
+        "hex": "#ff5370",
+        "hexterm": "ff/53/70"
+    },
+    "background": {
+        "hex": "#fafafa",
+        "hexterm": "fa/fa/fa"
+    },
+    "cursor": {
+        "hex": "#80cbc4",
+        "hexterm": "80/cb/c4"
+    },
+    "foreground": {
+        "hex": "#80cbc4",
+        "hexterm": "80/cb/c4"
+    },
+    "selection": {
+        "hex": "#80cbc4",
+        "hexterm": "80/cb/c4"
+    },
+    "selection-text": {
+        "hex": "#e7eaec",
+        "hexterm": "e7/ea/ec"
+    },
     "theme-author": "Nate Peterson",
     "theme-name": "Material Lighter",
     "theme-slug": "material-lighter",

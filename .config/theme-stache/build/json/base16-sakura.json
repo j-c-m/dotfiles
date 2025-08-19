@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#feedf3",
-    "ansi-1-hex": "#df2d52",
-    "ansi-10-hex": "#2e916d",
-    "ansi-11-hex": "#c29461",
-    "ansi-12-hex": "#006e93",
-    "ansi-13-hex": "#5e2180",
-    "ansi-14-hex": "#1d8991",
-    "ansi-15-hex": "#33292b",
-    "ansi-2-hex": "#2e916d",
-    "ansi-3-hex": "#c29461",
-    "ansi-4-hex": "#006e93",
-    "ansi-5-hex": "#5e2180",
-    "ansi-6-hex": "#1d8991",
-    "ansi-7-hex": "#564448",
-    "ansi-8-hex": "#755f64",
-    "ansi-9-hex": "#df2d52",
-    "background-hex": "#feedf3",
-    "cursor-hex": "#564448",
-    "foreground-hex": "#564448",
-    "selection-hex": "#42383a",
-    "selection-text-hex": "#f8e2e7",
+    "ansi-0": {
+        "hex": "#feedf3",
+        "hexterm": "fe/ed/f3"
+    },
+    "ansi-1": {
+        "hex": "#df2d52",
+        "hexterm": "df/2d/52"
+    },
+    "ansi-10": {
+        "hex": "#2e916d",
+        "hexterm": "2e/91/6d"
+    },
+    "ansi-11": {
+        "hex": "#c29461",
+        "hexterm": "c2/94/61"
+    },
+    "ansi-12": {
+        "hex": "#006e93",
+        "hexterm": "00/6e/93"
+    },
+    "ansi-13": {
+        "hex": "#5e2180",
+        "hexterm": "5e/21/80"
+    },
+    "ansi-14": {
+        "hex": "#1d8991",
+        "hexterm": "1d/89/91"
+    },
+    "ansi-15": {
+        "hex": "#33292b",
+        "hexterm": "33/29/2b"
+    },
+    "ansi-2": {
+        "hex": "#2e916d",
+        "hexterm": "2e/91/6d"
+    },
+    "ansi-3": {
+        "hex": "#c29461",
+        "hexterm": "c2/94/61"
+    },
+    "ansi-4": {
+        "hex": "#006e93",
+        "hexterm": "00/6e/93"
+    },
+    "ansi-5": {
+        "hex": "#5e2180",
+        "hexterm": "5e/21/80"
+    },
+    "ansi-6": {
+        "hex": "#1d8991",
+        "hexterm": "1d/89/91"
+    },
+    "ansi-7": {
+        "hex": "#564448",
+        "hexterm": "56/44/48"
+    },
+    "ansi-8": {
+        "hex": "#755f64",
+        "hexterm": "75/5f/64"
+    },
+    "ansi-9": {
+        "hex": "#df2d52",
+        "hexterm": "df/2d/52"
+    },
+    "background": {
+        "hex": "#feedf3",
+        "hexterm": "fe/ed/f3"
+    },
+    "cursor": {
+        "hex": "#564448",
+        "hexterm": "56/44/48"
+    },
+    "foreground": {
+        "hex": "#564448",
+        "hexterm": "56/44/48"
+    },
+    "selection": {
+        "hex": "#42383a",
+        "hexterm": "42/38/3a"
+    },
+    "selection-text": {
+        "hex": "#f8e2e7",
+        "hexterm": "f8/e2/e7"
+    },
     "theme-author": "Misterio77 (http://github.com/Misterio77)",
     "theme-name": "Sakura",
     "theme-slug": "sakura",

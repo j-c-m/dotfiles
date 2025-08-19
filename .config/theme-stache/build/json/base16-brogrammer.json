@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1f1f1f",
-    "ansi-1-hex": "#d6dbe5",
-    "ansi-10-hex": "#f3bd09",
-    "ansi-11-hex": "#1dd361",
-    "ansi-12-hex": "#5350b9",
-    "ansi-13-hex": "#0f7ddb",
-    "ansi-14-hex": "#1081d6",
-    "ansi-15-hex": "#d6dbe5",
-    "ansi-2-hex": "#f3bd09",
-    "ansi-3-hex": "#1dd361",
-    "ansi-4-hex": "#5350b9",
-    "ansi-5-hex": "#0f7ddb",
-    "ansi-6-hex": "#1081d6",
-    "ansi-7-hex": "#4e5ab7",
-    "ansi-8-hex": "#ecba0f",
-    "ansi-9-hex": "#d6dbe5",
-    "background-hex": "#1f1f1f",
-    "cursor-hex": "#4e5ab7",
-    "foreground-hex": "#4e5ab7",
-    "selection-hex": "#1081d6",
-    "selection-text-hex": "#f81118",
+    "ansi-0": {
+        "hex": "#1f1f1f",
+        "hexterm": "1f/1f/1f"
+    },
+    "ansi-1": {
+        "hex": "#d6dbe5",
+        "hexterm": "d6/db/e5"
+    },
+    "ansi-10": {
+        "hex": "#f3bd09",
+        "hexterm": "f3/bd/09"
+    },
+    "ansi-11": {
+        "hex": "#1dd361",
+        "hexterm": "1d/d3/61"
+    },
+    "ansi-12": {
+        "hex": "#5350b9",
+        "hexterm": "53/50/b9"
+    },
+    "ansi-13": {
+        "hex": "#0f7ddb",
+        "hexterm": "0f/7d/db"
+    },
+    "ansi-14": {
+        "hex": "#1081d6",
+        "hexterm": "10/81/d6"
+    },
+    "ansi-15": {
+        "hex": "#d6dbe5",
+        "hexterm": "d6/db/e5"
+    },
+    "ansi-2": {
+        "hex": "#f3bd09",
+        "hexterm": "f3/bd/09"
+    },
+    "ansi-3": {
+        "hex": "#1dd361",
+        "hexterm": "1d/d3/61"
+    },
+    "ansi-4": {
+        "hex": "#5350b9",
+        "hexterm": "53/50/b9"
+    },
+    "ansi-5": {
+        "hex": "#0f7ddb",
+        "hexterm": "0f/7d/db"
+    },
+    "ansi-6": {
+        "hex": "#1081d6",
+        "hexterm": "10/81/d6"
+    },
+    "ansi-7": {
+        "hex": "#4e5ab7",
+        "hexterm": "4e/5a/b7"
+    },
+    "ansi-8": {
+        "hex": "#ecba0f",
+        "hexterm": "ec/ba/0f"
+    },
+    "ansi-9": {
+        "hex": "#d6dbe5",
+        "hexterm": "d6/db/e5"
+    },
+    "background": {
+        "hex": "#1f1f1f",
+        "hexterm": "1f/1f/1f"
+    },
+    "cursor": {
+        "hex": "#4e5ab7",
+        "hexterm": "4e/5a/b7"
+    },
+    "foreground": {
+        "hex": "#4e5ab7",
+        "hexterm": "4e/5a/b7"
+    },
+    "selection": {
+        "hex": "#1081d6",
+        "hexterm": "10/81/d6"
+    },
+    "selection-text": {
+        "hex": "#f81118",
+        "hexterm": "f8/11/18"
+    },
     "theme-author": "Vik Ramanujam (http://github.com/piggyslasher)",
     "theme-name": "Brogrammer",
     "theme-slug": "brogrammer",

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#ff8cd9",
-    "ansi-1-hex": "#a80f20",
-    "ansi-10-hex": "#d2ffaf",
-    "ansi-11-hex": "#ffee50",
-    "ansi-12-hex": "#0074ea",
-    "ansi-13-hex": "#fdd5e5",
-    "ansi-14-hex": "#79ebd5",
-    "ansi-15-hex": "#fff2fd",
-    "ansi-2-hex": "#bafc8b",
-    "ansi-3-hex": "#0074ea",
-    "ansi-4-hex": "#145fcd",
-    "ansi-5-hex": "#ff36a2",
-    "ansi-6-hex": "#6bd0bc",
-    "ansi-7-hex": "#b9b1b8",
-    "ansi-8-hex": "#696769",
-    "ansi-9-hex": "#d81329",
-    "background-hex": "#ff8cd9",
-    "cursor-hex": "#b9b1b8",
-    "foreground-hex": "#b9b1b8",
-    "selection-hex": "#e1d6e0",
-    "selection-text-hex": "#0c0c0c",
+    "ansi-0": {
+        "hex": "#ff8cd9",
+        "hexterm": "ff/8c/d9"
+    },
+    "ansi-1": {
+        "hex": "#a80f20",
+        "hexterm": "a8/0f/20"
+    },
+    "ansi-10": {
+        "hex": "#d2ffaf",
+        "hexterm": "d2/ff/af"
+    },
+    "ansi-11": {
+        "hex": "#ffee50",
+        "hexterm": "ff/ee/50"
+    },
+    "ansi-12": {
+        "hex": "#0074ea",
+        "hexterm": "00/74/ea"
+    },
+    "ansi-13": {
+        "hex": "#fdd5e5",
+        "hexterm": "fd/d5/e5"
+    },
+    "ansi-14": {
+        "hex": "#79ebd5",
+        "hexterm": "79/eb/d5"
+    },
+    "ansi-15": {
+        "hex": "#fff2fd",
+        "hexterm": "ff/f2/fd"
+    },
+    "ansi-2": {
+        "hex": "#bafc8b",
+        "hexterm": "ba/fc/8b"
+    },
+    "ansi-3": {
+        "hex": "#0074ea",
+        "hexterm": "00/74/ea"
+    },
+    "ansi-4": {
+        "hex": "#145fcd",
+        "hexterm": "14/5f/cd"
+    },
+    "ansi-5": {
+        "hex": "#ff36a2",
+        "hexterm": "ff/36/a2"
+    },
+    "ansi-6": {
+        "hex": "#6bd0bc",
+        "hexterm": "6b/d0/bc"
+    },
+    "ansi-7": {
+        "hex": "#b9b1b8",
+        "hexterm": "b9/b1/b8"
+    },
+    "ansi-8": {
+        "hex": "#696769",
+        "hexterm": "69/67/69"
+    },
+    "ansi-9": {
+        "hex": "#d81329",
+        "hexterm": "d8/13/29"
+    },
+    "background": {
+        "hex": "#ff8cd9",
+        "hexterm": "ff/8c/d9"
+    },
+    "cursor": {
+        "hex": "#b9b1b8",
+        "hexterm": "b9/b1/b8"
+    },
+    "foreground": {
+        "hex": "#b9b1b8",
+        "hexterm": "b9/b1/b8"
+    },
+    "selection": {
+        "hex": "#e1d6e0",
+        "hexterm": "e1/d6/e0"
+    },
+    "selection-text": {
+        "hex": "#0c0c0c",
+        "hexterm": "0c/0c/0c"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Unikitty",
     "theme-slug": "unikitty",

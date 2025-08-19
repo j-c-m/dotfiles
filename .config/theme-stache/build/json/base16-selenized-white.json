@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#ffffff",
-    "ansi-1-hex": "#bf0000",
-    "ansi-10-hex": "#008400",
-    "ansi-11-hex": "#af8500",
-    "ansi-12-hex": "#0054cf",
-    "ansi-13-hex": "#6b40c3",
-    "ansi-14-hex": "#009a8a",
-    "ansi-15-hex": "#282828",
-    "ansi-2-hex": "#008400",
-    "ansi-3-hex": "#af8500",
-    "ansi-4-hex": "#0054cf",
-    "ansi-5-hex": "#6b40c3",
-    "ansi-6-hex": "#009a8a",
-    "ansi-7-hex": "#474747",
-    "ansi-8-hex": "#878787",
-    "ansi-9-hex": "#bf0000",
-    "background-hex": "#ffffff",
-    "cursor-hex": "#474747",
-    "foreground-hex": "#474747",
-    "selection-hex": "#282828",
-    "selection-text-hex": "#ebebeb",
+    "ansi-0": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-1": {
+        "hex": "#bf0000",
+        "hexterm": "bf/00/00"
+    },
+    "ansi-10": {
+        "hex": "#008400",
+        "hexterm": "00/84/00"
+    },
+    "ansi-11": {
+        "hex": "#af8500",
+        "hexterm": "af/85/00"
+    },
+    "ansi-12": {
+        "hex": "#0054cf",
+        "hexterm": "00/54/cf"
+    },
+    "ansi-13": {
+        "hex": "#6b40c3",
+        "hexterm": "6b/40/c3"
+    },
+    "ansi-14": {
+        "hex": "#009a8a",
+        "hexterm": "00/9a/8a"
+    },
+    "ansi-15": {
+        "hex": "#282828",
+        "hexterm": "28/28/28"
+    },
+    "ansi-2": {
+        "hex": "#008400",
+        "hexterm": "00/84/00"
+    },
+    "ansi-3": {
+        "hex": "#af8500",
+        "hexterm": "af/85/00"
+    },
+    "ansi-4": {
+        "hex": "#0054cf",
+        "hexterm": "00/54/cf"
+    },
+    "ansi-5": {
+        "hex": "#6b40c3",
+        "hexterm": "6b/40/c3"
+    },
+    "ansi-6": {
+        "hex": "#009a8a",
+        "hexterm": "00/9a/8a"
+    },
+    "ansi-7": {
+        "hex": "#474747",
+        "hexterm": "47/47/47"
+    },
+    "ansi-8": {
+        "hex": "#878787",
+        "hexterm": "87/87/87"
+    },
+    "ansi-9": {
+        "hex": "#bf0000",
+        "hexterm": "bf/00/00"
+    },
+    "background": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "cursor": {
+        "hex": "#474747",
+        "hexterm": "47/47/47"
+    },
+    "foreground": {
+        "hex": "#474747",
+        "hexterm": "47/47/47"
+    },
+    "selection": {
+        "hex": "#282828",
+        "hexterm": "28/28/28"
+    },
+    "selection-text": {
+        "hex": "#ebebeb",
+        "hexterm": "eb/eb/eb"
+    },
     "theme-author": "Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali",
     "theme-name": "selenized-white",
     "theme-slug": "selenized-white",

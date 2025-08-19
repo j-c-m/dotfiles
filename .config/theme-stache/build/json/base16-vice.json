@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#17191e",
-    "ansi-1-hex": "#ff29a8",
-    "ansi-10-hex": "#0badff",
-    "ansi-11-hex": "#f0ffaa",
-    "ansi-12-hex": "#00eaff",
-    "ansi-13-hex": "#00f6d9",
-    "ansi-14-hex": "#8265ff",
-    "ansi-15-hex": "#f4f4f7",
-    "ansi-2-hex": "#0badff",
-    "ansi-3-hex": "#f0ffaa",
-    "ansi-4-hex": "#00eaff",
-    "ansi-5-hex": "#00f6d9",
-    "ansi-6-hex": "#8265ff",
-    "ansi-7-hex": "#8b9cbe",
-    "ansi-8-hex": "#383a47",
-    "ansi-9-hex": "#ff29a8",
-    "background-hex": "#17191e",
-    "cursor-hex": "#8b9cbe",
-    "foreground-hex": "#8b9cbe",
-    "selection-hex": "#b2bfd9",
-    "selection-text-hex": "#22262d",
+    "ansi-0": {
+        "hex": "#17191e",
+        "hexterm": "17/19/1e"
+    },
+    "ansi-1": {
+        "hex": "#ff29a8",
+        "hexterm": "ff/29/a8"
+    },
+    "ansi-10": {
+        "hex": "#0badff",
+        "hexterm": "0b/ad/ff"
+    },
+    "ansi-11": {
+        "hex": "#f0ffaa",
+        "hexterm": "f0/ff/aa"
+    },
+    "ansi-12": {
+        "hex": "#00eaff",
+        "hexterm": "00/ea/ff"
+    },
+    "ansi-13": {
+        "hex": "#00f6d9",
+        "hexterm": "00/f6/d9"
+    },
+    "ansi-14": {
+        "hex": "#8265ff",
+        "hexterm": "82/65/ff"
+    },
+    "ansi-15": {
+        "hex": "#f4f4f7",
+        "hexterm": "f4/f4/f7"
+    },
+    "ansi-2": {
+        "hex": "#0badff",
+        "hexterm": "0b/ad/ff"
+    },
+    "ansi-3": {
+        "hex": "#f0ffaa",
+        "hexterm": "f0/ff/aa"
+    },
+    "ansi-4": {
+        "hex": "#00eaff",
+        "hexterm": "00/ea/ff"
+    },
+    "ansi-5": {
+        "hex": "#00f6d9",
+        "hexterm": "00/f6/d9"
+    },
+    "ansi-6": {
+        "hex": "#8265ff",
+        "hexterm": "82/65/ff"
+    },
+    "ansi-7": {
+        "hex": "#8b9cbe",
+        "hexterm": "8b/9c/be"
+    },
+    "ansi-8": {
+        "hex": "#383a47",
+        "hexterm": "38/3a/47"
+    },
+    "ansi-9": {
+        "hex": "#ff29a8",
+        "hexterm": "ff/29/a8"
+    },
+    "background": {
+        "hex": "#17191e",
+        "hexterm": "17/19/1e"
+    },
+    "cursor": {
+        "hex": "#8b9cbe",
+        "hexterm": "8b/9c/be"
+    },
+    "foreground": {
+        "hex": "#8b9cbe",
+        "hexterm": "8b/9c/be"
+    },
+    "selection": {
+        "hex": "#b2bfd9",
+        "hexterm": "b2/bf/d9"
+    },
+    "selection-text": {
+        "hex": "#22262d",
+        "hexterm": "22/26/2d"
+    },
     "theme-author": "Thomas Leon Highbaugh thighbaugh@zoho.com",
     "theme-name": "vice",
     "theme-slug": "vice",

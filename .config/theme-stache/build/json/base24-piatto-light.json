@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#ffffff",
-    "ansi-1-hex": "#b23771",
-    "ansi-10-hex": "#829429",
-    "ansi-11-hex": "#cd6f34",
-    "ansi-12-hex": "#3c5ea8",
-    "ansi-13-hex": "#a454b2",
-    "ansi-14-hex": "#829429",
-    "ansi-15-hex": "#f2f2f2",
-    "ansi-2-hex": "#66781e",
-    "ansi-3-hex": "#3c5ea8",
-    "ansi-4-hex": "#3c5ea8",
-    "ansi-5-hex": "#a454b2",
-    "ansi-6-hex": "#66781e",
-    "ansi-7-hex": "#cfcfcf",
-    "ansi-8-hex": "#6f6f6f",
-    "ansi-9-hex": "#db3365",
-    "background-hex": "#ffffff",
-    "cursor-hex": "#cfcfcf",
-    "foreground-hex": "#cfcfcf",
-    "selection-hex": "#ffffff",
-    "selection-text-hex": "#414141",
+    "ansi-0": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-1": {
+        "hex": "#b23771",
+        "hexterm": "b2/37/71"
+    },
+    "ansi-10": {
+        "hex": "#829429",
+        "hexterm": "82/94/29"
+    },
+    "ansi-11": {
+        "hex": "#cd6f34",
+        "hexterm": "cd/6f/34"
+    },
+    "ansi-12": {
+        "hex": "#3c5ea8",
+        "hexterm": "3c/5e/a8"
+    },
+    "ansi-13": {
+        "hex": "#a454b2",
+        "hexterm": "a4/54/b2"
+    },
+    "ansi-14": {
+        "hex": "#829429",
+        "hexterm": "82/94/29"
+    },
+    "ansi-15": {
+        "hex": "#f2f2f2",
+        "hexterm": "f2/f2/f2"
+    },
+    "ansi-2": {
+        "hex": "#66781e",
+        "hexterm": "66/78/1e"
+    },
+    "ansi-3": {
+        "hex": "#3c5ea8",
+        "hexterm": "3c/5e/a8"
+    },
+    "ansi-4": {
+        "hex": "#3c5ea8",
+        "hexterm": "3c/5e/a8"
+    },
+    "ansi-5": {
+        "hex": "#a454b2",
+        "hexterm": "a4/54/b2"
+    },
+    "ansi-6": {
+        "hex": "#66781e",
+        "hexterm": "66/78/1e"
+    },
+    "ansi-7": {
+        "hex": "#cfcfcf",
+        "hexterm": "cf/cf/cf"
+    },
+    "ansi-8": {
+        "hex": "#6f6f6f",
+        "hexterm": "6f/6f/6f"
+    },
+    "ansi-9": {
+        "hex": "#db3365",
+        "hexterm": "db/33/65"
+    },
+    "background": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "cursor": {
+        "hex": "#cfcfcf",
+        "hexterm": "cf/cf/cf"
+    },
+    "foreground": {
+        "hex": "#cfcfcf",
+        "hexterm": "cf/cf/cf"
+    },
+    "selection": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "selection-text": {
+        "hex": "#414141",
+        "hexterm": "41/41/41"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Piatto Light",
     "theme-slug": "piatto-light",

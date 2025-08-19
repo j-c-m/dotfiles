@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#282b35",
-    "ansi-1-hex": "#b21889",
-    "ansi-10-hex": "#df0002",
-    "ansi-11-hex": "#438288",
-    "ansi-12-hex": "#790ead",
-    "ansi-13-hex": "#b21889",
-    "ansi-14-hex": "#00a0be",
-    "ansi-15-hex": "#bebfc2",
-    "ansi-2-hex": "#df0002",
-    "ansi-3-hex": "#438288",
-    "ansi-4-hex": "#790ead",
-    "ansi-5-hex": "#b21889",
-    "ansi-6-hex": "#00a0be",
-    "ansi-7-hex": "#939599",
-    "ansi-8-hex": "#686a71",
-    "ansi-9-hex": "#b21889",
-    "background-hex": "#282b35",
-    "cursor-hex": "#939599",
-    "foreground-hex": "#939599",
-    "selection-hex": "#a9aaae",
-    "selection-text-hex": "#3d4048",
+    "ansi-0": {
+        "hex": "#282b35",
+        "hexterm": "28/2b/35"
+    },
+    "ansi-1": {
+        "hex": "#b21889",
+        "hexterm": "b2/18/89"
+    },
+    "ansi-10": {
+        "hex": "#df0002",
+        "hexterm": "df/00/02"
+    },
+    "ansi-11": {
+        "hex": "#438288",
+        "hexterm": "43/82/88"
+    },
+    "ansi-12": {
+        "hex": "#790ead",
+        "hexterm": "79/0e/ad"
+    },
+    "ansi-13": {
+        "hex": "#b21889",
+        "hexterm": "b2/18/89"
+    },
+    "ansi-14": {
+        "hex": "#00a0be",
+        "hexterm": "00/a0/be"
+    },
+    "ansi-15": {
+        "hex": "#bebfc2",
+        "hexterm": "be/bf/c2"
+    },
+    "ansi-2": {
+        "hex": "#df0002",
+        "hexterm": "df/00/02"
+    },
+    "ansi-3": {
+        "hex": "#438288",
+        "hexterm": "43/82/88"
+    },
+    "ansi-4": {
+        "hex": "#790ead",
+        "hexterm": "79/0e/ad"
+    },
+    "ansi-5": {
+        "hex": "#b21889",
+        "hexterm": "b2/18/89"
+    },
+    "ansi-6": {
+        "hex": "#00a0be",
+        "hexterm": "00/a0/be"
+    },
+    "ansi-7": {
+        "hex": "#939599",
+        "hexterm": "93/95/99"
+    },
+    "ansi-8": {
+        "hex": "#686a71",
+        "hexterm": "68/6a/71"
+    },
+    "ansi-9": {
+        "hex": "#b21889",
+        "hexterm": "b2/18/89"
+    },
+    "background": {
+        "hex": "#282b35",
+        "hexterm": "28/2b/35"
+    },
+    "cursor": {
+        "hex": "#939599",
+        "hexterm": "93/95/99"
+    },
+    "foreground": {
+        "hex": "#939599",
+        "hexterm": "93/95/99"
+    },
+    "selection": {
+        "hex": "#a9aaae",
+        "hexterm": "a9/aa/ae"
+    },
+    "selection-text": {
+        "hex": "#3d4048",
+        "hexterm": "3d/40/48"
+    },
     "theme-author": "Elsa Gonsiorowski (https://github.com/gonsie)",
     "theme-name": "XCode Dusk",
     "theme-slug": "xcode-dusk",

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#21211c",
-    "ansi-1-hex": "#97280f",
-    "ansi-10-hex": "#60e06f",
-    "ansi-11-hex": "#d69827",
-    "ansi-12-hex": "#78d8d8",
-    "ansi-13-hex": "#cd7c53",
-    "ansi-14-hex": "#58d598",
-    "ansi-15-hex": "#fff1e8",
-    "ansi-2-hex": "#479942",
-    "ansi-3-hex": "#78d8d8",
-    "ansi-4-hex": "#497f7d",
-    "ansi-5-hex": "#7e4e2e",
-    "ansi-6-hex": "#387f58",
-    "ansi-7-hex": "#756f68",
-    "ansi-8-hex": "#5f5d50",
-    "ansi-9-hex": "#df502a",
-    "background-hex": "#21211c",
-    "cursor-hex": "#756f68",
-    "foreground-hex": "#756f68",
-    "selection-hex": "#807974",
-    "selection-text-hex": "#3c3b30",
+    "ansi-0": {
+        "hex": "#21211c",
+        "hexterm": "21/21/1c"
+    },
+    "ansi-1": {
+        "hex": "#97280f",
+        "hexterm": "97/28/0f"
+    },
+    "ansi-10": {
+        "hex": "#60e06f",
+        "hexterm": "60/e0/6f"
+    },
+    "ansi-11": {
+        "hex": "#d69827",
+        "hexterm": "d6/98/27"
+    },
+    "ansi-12": {
+        "hex": "#78d8d8",
+        "hexterm": "78/d8/d8"
+    },
+    "ansi-13": {
+        "hex": "#cd7c53",
+        "hexterm": "cd/7c/53"
+    },
+    "ansi-14": {
+        "hex": "#58d598",
+        "hexterm": "58/d5/98"
+    },
+    "ansi-15": {
+        "hex": "#fff1e8",
+        "hexterm": "ff/f1/e8"
+    },
+    "ansi-2": {
+        "hex": "#479942",
+        "hexterm": "47/99/42"
+    },
+    "ansi-3": {
+        "hex": "#78d8d8",
+        "hexterm": "78/d8/d8"
+    },
+    "ansi-4": {
+        "hex": "#497f7d",
+        "hexterm": "49/7f/7d"
+    },
+    "ansi-5": {
+        "hex": "#7e4e2e",
+        "hexterm": "7e/4e/2e"
+    },
+    "ansi-6": {
+        "hex": "#387f58",
+        "hexterm": "38/7f/58"
+    },
+    "ansi-7": {
+        "hex": "#756f68",
+        "hexterm": "75/6f/68"
+    },
+    "ansi-8": {
+        "hex": "#5f5d50",
+        "hexterm": "5f/5d/50"
+    },
+    "ansi-9": {
+        "hex": "#df502a",
+        "hexterm": "df/50/2a"
+    },
+    "background": {
+        "hex": "#21211c",
+        "hexterm": "21/21/1c"
+    },
+    "cursor": {
+        "hex": "#756f68",
+        "hexterm": "75/6f/68"
+    },
+    "foreground": {
+        "hex": "#756f68",
+        "hexterm": "75/6f/68"
+    },
+    "selection": {
+        "hex": "#807974",
+        "hexterm": "80/79/74"
+    },
+    "selection-text": {
+        "hex": "#3c3b30",
+        "hexterm": "3c/3b/30"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Elemental",
     "theme-slug": "elemental",

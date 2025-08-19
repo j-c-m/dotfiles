@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#26233a",
-    "ansi-1-hex": "#eb6f92",
-    "ansi-10-hex": "#9ccfd8",
-    "ansi-11-hex": "#f6c177",
-    "ansi-12-hex": "#31748f",
-    "ansi-13-hex": "#c4a7e7",
-    "ansi-14-hex": "#ebbcba",
-    "ansi-15-hex": "#e0def4",
-    "ansi-2-hex": "#9ccfd8",
-    "ansi-3-hex": "#f6c177",
-    "ansi-4-hex": "#31748f",
-    "ansi-5-hex": "#c4a7e7",
-    "ansi-6-hex": "#ebbcba",
-    "ansi-7-hex": "#e0def4",
-    "ansi-8-hex": "#6e6a86",
-    "ansi-9-hex": "#eb6f92",
-    "background-hex": "#191724",
-    "cursor-hex": "#e0def4",
-    "foreground-hex": "#e0def4",
-    "selection-hex": "#e0def4",
-    "selection-text-hex": "#191724",
+    "ansi-0": {
+        "hex": "#26233a",
+        "hexterm": "26/23/3a"
+    },
+    "ansi-1": {
+        "hex": "#eb6f92",
+        "hexterm": "eb/6f/92"
+    },
+    "ansi-10": {
+        "hex": "#9ccfd8",
+        "hexterm": "9c/cf/d8"
+    },
+    "ansi-11": {
+        "hex": "#f6c177",
+        "hexterm": "f6/c1/77"
+    },
+    "ansi-12": {
+        "hex": "#31748f",
+        "hexterm": "31/74/8f"
+    },
+    "ansi-13": {
+        "hex": "#c4a7e7",
+        "hexterm": "c4/a7/e7"
+    },
+    "ansi-14": {
+        "hex": "#ebbcba",
+        "hexterm": "eb/bc/ba"
+    },
+    "ansi-15": {
+        "hex": "#e0def4",
+        "hexterm": "e0/de/f4"
+    },
+    "ansi-2": {
+        "hex": "#9ccfd8",
+        "hexterm": "9c/cf/d8"
+    },
+    "ansi-3": {
+        "hex": "#f6c177",
+        "hexterm": "f6/c1/77"
+    },
+    "ansi-4": {
+        "hex": "#31748f",
+        "hexterm": "31/74/8f"
+    },
+    "ansi-5": {
+        "hex": "#c4a7e7",
+        "hexterm": "c4/a7/e7"
+    },
+    "ansi-6": {
+        "hex": "#ebbcba",
+        "hexterm": "eb/bc/ba"
+    },
+    "ansi-7": {
+        "hex": "#e0def4",
+        "hexterm": "e0/de/f4"
+    },
+    "ansi-8": {
+        "hex": "#6e6a86",
+        "hexterm": "6e/6a/86"
+    },
+    "ansi-9": {
+        "hex": "#eb6f92",
+        "hexterm": "eb/6f/92"
+    },
+    "background": {
+        "hex": "#191724",
+        "hexterm": "19/17/24"
+    },
+    "cursor": {
+        "hex": "#e0def4",
+        "hexterm": "e0/de/f4"
+    },
+    "foreground": {
+        "hex": "#e0def4",
+        "hexterm": "e0/de/f4"
+    },
+    "selection": {
+        "hex": "#e0def4",
+        "hexterm": "e0/de/f4"
+    },
+    "selection-text": {
+        "hex": "#191724",
+        "hexterm": "19/17/24"
+    },
     "theme-author": "",
     "theme-name": "Rosé Pine",
     "theme-slug": "rose-pine",

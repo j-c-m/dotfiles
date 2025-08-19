@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1b1d1e",
-    "ansi-1-hex": "#259d1a",
-    "ansi-10-hex": "#48ff76",
-    "ansi-11-hex": "#3afe15",
-    "ansi-12-hex": "#4f6a95",
-    "ansi-13-hex": "#72579d",
-    "ansi-14-hex": "#3f85a5",
-    "ansi-15-hex": "#e5e5e0",
-    "ansi-2-hex": "#13ce2f",
-    "ansi-3-hex": "#62e456",
-    "ansi-4-hex": "#2424f4",
-    "ansi-5-hex": "#641e73",
-    "ansi-6-hex": "#378ca9",
-    "ansi-7-hex": "#d8d8d0",
-    "ansi-8-hex": "#505354",
-    "ansi-9-hex": "#8dff2a",
-    "background-hex": "#1b1d1e",
-    "cursor-hex": "#15b61a",
-    "foreground-hex": "#b4b4b4",
-    "selection-hex": "#4d4f4c",
-    "selection-text-hex": "#0b6208",
+    "ansi-0": {
+        "hex": "#1b1d1e",
+        "hexterm": "1b/1d/1e"
+    },
+    "ansi-1": {
+        "hex": "#259d1a",
+        "hexterm": "25/9d/1a"
+    },
+    "ansi-10": {
+        "hex": "#48ff76",
+        "hexterm": "48/ff/76"
+    },
+    "ansi-11": {
+        "hex": "#3afe15",
+        "hexterm": "3a/fe/15"
+    },
+    "ansi-12": {
+        "hex": "#4f6a95",
+        "hexterm": "4f/6a/95"
+    },
+    "ansi-13": {
+        "hex": "#72579d",
+        "hexterm": "72/57/9d"
+    },
+    "ansi-14": {
+        "hex": "#3f85a5",
+        "hexterm": "3f/85/a5"
+    },
+    "ansi-15": {
+        "hex": "#e5e5e0",
+        "hexterm": "e5/e5/e0"
+    },
+    "ansi-2": {
+        "hex": "#13ce2f",
+        "hexterm": "13/ce/2f"
+    },
+    "ansi-3": {
+        "hex": "#62e456",
+        "hexterm": "62/e4/56"
+    },
+    "ansi-4": {
+        "hex": "#2424f4",
+        "hexterm": "24/24/f4"
+    },
+    "ansi-5": {
+        "hex": "#641e73",
+        "hexterm": "64/1e/73"
+    },
+    "ansi-6": {
+        "hex": "#378ca9",
+        "hexterm": "37/8c/a9"
+    },
+    "ansi-7": {
+        "hex": "#d8d8d0",
+        "hexterm": "d8/d8/d0"
+    },
+    "ansi-8": {
+        "hex": "#505354",
+        "hexterm": "50/53/54"
+    },
+    "ansi-9": {
+        "hex": "#8dff2a",
+        "hexterm": "8d/ff/2a"
+    },
+    "background": {
+        "hex": "#1b1d1e",
+        "hexterm": "1b/1d/1e"
+    },
+    "cursor": {
+        "hex": "#15b61a",
+        "hexterm": "15/b6/1a"
+    },
+    "foreground": {
+        "hex": "#b4b4b4",
+        "hexterm": "b4/b4/b4"
+    },
+    "selection": {
+        "hex": "#4d4f4c",
+        "hexterm": "4d/4f/4c"
+    },
+    "selection-text": {
+        "hex": "#0b6208",
+        "hexterm": "0b/62/08"
+    },
     "theme-author": "unknown",
     "theme-name": "The Hulk",
     "theme-slug": "the-hulk",

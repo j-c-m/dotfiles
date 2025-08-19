@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#f5708a",
-    "ansi-10-hex": "#54bc5c",
-    "ansi-11-hex": "#b8a300",
-    "ansi-12-hex": "#00aff2",
-    "ansi-13-hex": "#9095ff",
-    "ansi-14-hex": "#00bab3",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#54bc5c",
-    "ansi-3-hex": "#b8a300",
-    "ansi-4-hex": "#00aff2",
-    "ansi-5-hex": "#9095ff",
-    "ansi-6-hex": "#00bab3",
-    "ansi-7-hex": "#d0d0d0",
-    "ansi-8-hex": "#505050",
-    "ansi-9-hex": "#f5708a",
-    "background-hex": "#000000",
-    "cursor-hex": "#d0d0d0",
-    "foreground-hex": "#d0d0d0",
-    "selection-hex": "#e0e0e0",
-    "selection-text-hex": "#202020",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#f5708a",
+        "hexterm": "f5/70/8a"
+    },
+    "ansi-10": {
+        "hex": "#54bc5c",
+        "hexterm": "54/bc/5c"
+    },
+    "ansi-11": {
+        "hex": "#b8a300",
+        "hexterm": "b8/a3/00"
+    },
+    "ansi-12": {
+        "hex": "#00aff2",
+        "hexterm": "00/af/f2"
+    },
+    "ansi-13": {
+        "hex": "#9095ff",
+        "hexterm": "90/95/ff"
+    },
+    "ansi-14": {
+        "hex": "#00bab3",
+        "hexterm": "00/ba/b3"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#54bc5c",
+        "hexterm": "54/bc/5c"
+    },
+    "ansi-3": {
+        "hex": "#b8a300",
+        "hexterm": "b8/a3/00"
+    },
+    "ansi-4": {
+        "hex": "#00aff2",
+        "hexterm": "00/af/f2"
+    },
+    "ansi-5": {
+        "hex": "#9095ff",
+        "hexterm": "90/95/ff"
+    },
+    "ansi-6": {
+        "hex": "#00bab3",
+        "hexterm": "00/ba/b3"
+    },
+    "ansi-7": {
+        "hex": "#d0d0d0",
+        "hexterm": "d0/d0/d0"
+    },
+    "ansi-8": {
+        "hex": "#505050",
+        "hexterm": "50/50/50"
+    },
+    "ansi-9": {
+        "hex": "#f5708a",
+        "hexterm": "f5/70/8a"
+    },
+    "background": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "cursor": {
+        "hex": "#d0d0d0",
+        "hexterm": "d0/d0/d0"
+    },
+    "foreground": {
+        "hex": "#d0d0d0",
+        "hexterm": "d0/d0/d0"
+    },
+    "selection": {
+        "hex": "#e0e0e0",
+        "hexterm": "e0/e0/e0"
+    },
+    "selection-text": {
+        "hex": "#202020",
+        "hexterm": "20/20/20"
+    },
     "theme-author": "Mekeor Melire",
     "theme-name": "Evenok Dark",
     "theme-slug": "evenok-dark",

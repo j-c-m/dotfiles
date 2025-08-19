@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#efecf4",
-    "ansi-1-hex": "#be4678",
-    "ansi-10-hex": "#2a9292",
-    "ansi-11-hex": "#a06e3b",
-    "ansi-12-hex": "#576ddb",
-    "ansi-13-hex": "#955ae7",
-    "ansi-14-hex": "#398bc6",
-    "ansi-15-hex": "#19171c",
-    "ansi-2-hex": "#2a9292",
-    "ansi-3-hex": "#a06e3b",
-    "ansi-4-hex": "#576ddb",
-    "ansi-5-hex": "#955ae7",
-    "ansi-6-hex": "#398bc6",
-    "ansi-7-hex": "#585260",
-    "ansi-8-hex": "#7e7887",
-    "ansi-9-hex": "#be4678",
-    "background-hex": "#efecf4",
-    "cursor-hex": "#585260",
-    "foreground-hex": "#585260",
-    "selection-hex": "#26232a",
-    "selection-text-hex": "#e2dfe7",
+    "ansi-0": {
+        "hex": "#efecf4",
+        "hexterm": "ef/ec/f4"
+    },
+    "ansi-1": {
+        "hex": "#be4678",
+        "hexterm": "be/46/78"
+    },
+    "ansi-10": {
+        "hex": "#2a9292",
+        "hexterm": "2a/92/92"
+    },
+    "ansi-11": {
+        "hex": "#a06e3b",
+        "hexterm": "a0/6e/3b"
+    },
+    "ansi-12": {
+        "hex": "#576ddb",
+        "hexterm": "57/6d/db"
+    },
+    "ansi-13": {
+        "hex": "#955ae7",
+        "hexterm": "95/5a/e7"
+    },
+    "ansi-14": {
+        "hex": "#398bc6",
+        "hexterm": "39/8b/c6"
+    },
+    "ansi-15": {
+        "hex": "#19171c",
+        "hexterm": "19/17/1c"
+    },
+    "ansi-2": {
+        "hex": "#2a9292",
+        "hexterm": "2a/92/92"
+    },
+    "ansi-3": {
+        "hex": "#a06e3b",
+        "hexterm": "a0/6e/3b"
+    },
+    "ansi-4": {
+        "hex": "#576ddb",
+        "hexterm": "57/6d/db"
+    },
+    "ansi-5": {
+        "hex": "#955ae7",
+        "hexterm": "95/5a/e7"
+    },
+    "ansi-6": {
+        "hex": "#398bc6",
+        "hexterm": "39/8b/c6"
+    },
+    "ansi-7": {
+        "hex": "#585260",
+        "hexterm": "58/52/60"
+    },
+    "ansi-8": {
+        "hex": "#7e7887",
+        "hexterm": "7e/78/87"
+    },
+    "ansi-9": {
+        "hex": "#be4678",
+        "hexterm": "be/46/78"
+    },
+    "background": {
+        "hex": "#efecf4",
+        "hexterm": "ef/ec/f4"
+    },
+    "cursor": {
+        "hex": "#585260",
+        "hexterm": "58/52/60"
+    },
+    "foreground": {
+        "hex": "#585260",
+        "hexterm": "58/52/60"
+    },
+    "selection": {
+        "hex": "#26232a",
+        "hexterm": "26/23/2a"
+    },
+    "selection-text": {
+        "hex": "#e2dfe7",
+        "hexterm": "e2/df/e7"
+    },
     "theme-author": "Bram de Haan (http://atelierbramdehaan.nl)",
     "theme-name": "Atelier Cave Light",
     "theme-slug": "atelier-cave-light",

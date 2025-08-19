@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#ff4c83",
-    "ansi-10-hex": "#1fc231",
-    "ansi-11-hex": "#d4b706",
-    "ansi-12-hex": "#15a9fd",
-    "ansi-13-hex": "#8959a8",
-    "ansi-14-hex": "#3e999f",
-    "ansi-15-hex": "#fffefe",
-    "ansi-2-hex": "#1f8c3a",
-    "ansi-3-hex": "#1fc95a",
-    "ansi-4-hex": "#1cd2ee",
-    "ansi-5-hex": "#8959a8",
-    "ansi-6-hex": "#3e999f",
-    "ansi-7-hex": "#fffefe",
-    "ansi-8-hex": "#000000",
-    "ansi-9-hex": "#ff0021",
-    "background-hex": "#ffffff",
-    "cursor-hex": "#4d4d4c",
-    "foreground-hex": "#4d4d4c",
-    "selection-hex": "#d6d6d6",
-    "selection-text-hex": "#4d4d4c",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#ff4c83",
+        "hexterm": "ff/4c/83"
+    },
+    "ansi-10": {
+        "hex": "#1fc231",
+        "hexterm": "1f/c2/31"
+    },
+    "ansi-11": {
+        "hex": "#d4b706",
+        "hexterm": "d4/b7/06"
+    },
+    "ansi-12": {
+        "hex": "#15a9fd",
+        "hexterm": "15/a9/fd"
+    },
+    "ansi-13": {
+        "hex": "#8959a8",
+        "hexterm": "89/59/a8"
+    },
+    "ansi-14": {
+        "hex": "#3e999f",
+        "hexterm": "3e/99/9f"
+    },
+    "ansi-15": {
+        "hex": "#fffefe",
+        "hexterm": "ff/fe/fe"
+    },
+    "ansi-2": {
+        "hex": "#1f8c3a",
+        "hexterm": "1f/8c/3a"
+    },
+    "ansi-3": {
+        "hex": "#1fc95a",
+        "hexterm": "1f/c9/5a"
+    },
+    "ansi-4": {
+        "hex": "#1cd2ee",
+        "hexterm": "1c/d2/ee"
+    },
+    "ansi-5": {
+        "hex": "#8959a8",
+        "hexterm": "89/59/a8"
+    },
+    "ansi-6": {
+        "hex": "#3e999f",
+        "hexterm": "3e/99/9f"
+    },
+    "ansi-7": {
+        "hex": "#fffefe",
+        "hexterm": "ff/fe/fe"
+    },
+    "ansi-8": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-9": {
+        "hex": "#ff0021",
+        "hexterm": "ff/00/21"
+    },
+    "background": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "cursor": {
+        "hex": "#4d4d4c",
+        "hexterm": "4d/4d/4c"
+    },
+    "foreground": {
+        "hex": "#4d4d4c",
+        "hexterm": "4d/4d/4c"
+    },
+    "selection": {
+        "hex": "#d6d6d6",
+        "hexterm": "d6/d6/d6"
+    },
+    "selection-text": {
+        "hex": "#4d4d4c",
+        "hexterm": "4d/4d/4c"
+    },
     "theme-author": "unknown",
     "theme-name": "Spring",
     "theme-slug": "spring",

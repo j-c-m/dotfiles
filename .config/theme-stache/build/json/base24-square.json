@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1a1a1a",
-    "ansi-1-hex": "#e9897c",
-    "ansi-10-hex": "#c3f786",
-    "ansi-11-hex": "#fcfbcc",
-    "ansi-12-hex": "#b6defb",
-    "ansi-13-hex": "#ad7fa8",
-    "ansi-14-hex": "#d7d9fc",
-    "ansi-15-hex": "#e2e2e2",
-    "ansi-2-hex": "#b6377d",
-    "ansi-3-hex": "#b6defb",
-    "ansi-4-hex": "#a9cdeb",
-    "ansi-5-hex": "#75507b",
-    "ansi-6-hex": "#c9caec",
-    "ansi-7-hex": "#bababa",
-    "ansi-8-hex": "#4b4b4b",
-    "ansi-9-hex": "#f99286",
-    "background-hex": "#1a1a1a",
-    "cursor-hex": "#bababa",
-    "foreground-hex": "#bababa",
-    "selection-hex": "#f2f2f2",
-    "selection-text-hex": "#050505",
+    "ansi-0": {
+        "hex": "#1a1a1a",
+        "hexterm": "1a/1a/1a"
+    },
+    "ansi-1": {
+        "hex": "#e9897c",
+        "hexterm": "e9/89/7c"
+    },
+    "ansi-10": {
+        "hex": "#c3f786",
+        "hexterm": "c3/f7/86"
+    },
+    "ansi-11": {
+        "hex": "#fcfbcc",
+        "hexterm": "fc/fb/cc"
+    },
+    "ansi-12": {
+        "hex": "#b6defb",
+        "hexterm": "b6/de/fb"
+    },
+    "ansi-13": {
+        "hex": "#ad7fa8",
+        "hexterm": "ad/7f/a8"
+    },
+    "ansi-14": {
+        "hex": "#d7d9fc",
+        "hexterm": "d7/d9/fc"
+    },
+    "ansi-15": {
+        "hex": "#e2e2e2",
+        "hexterm": "e2/e2/e2"
+    },
+    "ansi-2": {
+        "hex": "#b6377d",
+        "hexterm": "b6/37/7d"
+    },
+    "ansi-3": {
+        "hex": "#b6defb",
+        "hexterm": "b6/de/fb"
+    },
+    "ansi-4": {
+        "hex": "#a9cdeb",
+        "hexterm": "a9/cd/eb"
+    },
+    "ansi-5": {
+        "hex": "#75507b",
+        "hexterm": "75/50/7b"
+    },
+    "ansi-6": {
+        "hex": "#c9caec",
+        "hexterm": "c9/ca/ec"
+    },
+    "ansi-7": {
+        "hex": "#bababa",
+        "hexterm": "ba/ba/ba"
+    },
+    "ansi-8": {
+        "hex": "#4b4b4b",
+        "hexterm": "4b/4b/4b"
+    },
+    "ansi-9": {
+        "hex": "#f99286",
+        "hexterm": "f9/92/86"
+    },
+    "background": {
+        "hex": "#1a1a1a",
+        "hexterm": "1a/1a/1a"
+    },
+    "cursor": {
+        "hex": "#bababa",
+        "hexterm": "ba/ba/ba"
+    },
+    "foreground": {
+        "hex": "#bababa",
+        "hexterm": "ba/ba/ba"
+    },
+    "selection": {
+        "hex": "#f2f2f2",
+        "hexterm": "f2/f2/f2"
+    },
+    "selection-text": {
+        "hex": "#050505",
+        "hexterm": "05/05/05"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Square",
     "theme-slug": "square",

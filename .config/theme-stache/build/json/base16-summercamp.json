@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1c1810",
-    "ansi-1-hex": "#e35142",
-    "ansi-10-hex": "#5ceb5a",
-    "ansi-11-hex": "#f2ff27",
-    "ansi-12-hex": "#489bf0",
-    "ansi-13-hex": "#ff8080",
-    "ansi-14-hex": "#5aebbc",
-    "ansi-15-hex": "#f8f5de",
-    "ansi-2-hex": "#5ceb5a",
-    "ansi-3-hex": "#f2ff27",
-    "ansi-4-hex": "#489bf0",
-    "ansi-5-hex": "#ff8080",
-    "ansi-6-hex": "#5aebbc",
-    "ansi-7-hex": "#736e55",
-    "ansi-8-hex": "#504b38",
-    "ansi-9-hex": "#e35142",
-    "background-hex": "#1c1810",
-    "cursor-hex": "#736e55",
-    "foreground-hex": "#736e55",
-    "selection-hex": "#bab696",
-    "selection-text-hex": "#2a261c",
+    "ansi-0": {
+        "hex": "#1c1810",
+        "hexterm": "1c/18/10"
+    },
+    "ansi-1": {
+        "hex": "#e35142",
+        "hexterm": "e3/51/42"
+    },
+    "ansi-10": {
+        "hex": "#5ceb5a",
+        "hexterm": "5c/eb/5a"
+    },
+    "ansi-11": {
+        "hex": "#f2ff27",
+        "hexterm": "f2/ff/27"
+    },
+    "ansi-12": {
+        "hex": "#489bf0",
+        "hexterm": "48/9b/f0"
+    },
+    "ansi-13": {
+        "hex": "#ff8080",
+        "hexterm": "ff/80/80"
+    },
+    "ansi-14": {
+        "hex": "#5aebbc",
+        "hexterm": "5a/eb/bc"
+    },
+    "ansi-15": {
+        "hex": "#f8f5de",
+        "hexterm": "f8/f5/de"
+    },
+    "ansi-2": {
+        "hex": "#5ceb5a",
+        "hexterm": "5c/eb/5a"
+    },
+    "ansi-3": {
+        "hex": "#f2ff27",
+        "hexterm": "f2/ff/27"
+    },
+    "ansi-4": {
+        "hex": "#489bf0",
+        "hexterm": "48/9b/f0"
+    },
+    "ansi-5": {
+        "hex": "#ff8080",
+        "hexterm": "ff/80/80"
+    },
+    "ansi-6": {
+        "hex": "#5aebbc",
+        "hexterm": "5a/eb/bc"
+    },
+    "ansi-7": {
+        "hex": "#736e55",
+        "hexterm": "73/6e/55"
+    },
+    "ansi-8": {
+        "hex": "#504b38",
+        "hexterm": "50/4b/38"
+    },
+    "ansi-9": {
+        "hex": "#e35142",
+        "hexterm": "e3/51/42"
+    },
+    "background": {
+        "hex": "#1c1810",
+        "hexterm": "1c/18/10"
+    },
+    "cursor": {
+        "hex": "#736e55",
+        "hexterm": "73/6e/55"
+    },
+    "foreground": {
+        "hex": "#736e55",
+        "hexterm": "73/6e/55"
+    },
+    "selection": {
+        "hex": "#bab696",
+        "hexterm": "ba/b6/96"
+    },
+    "selection-text": {
+        "hex": "#2a261c",
+        "hexterm": "2a/26/1c"
+    },
     "theme-author": "zoe firi (zoefiri.github.io)",
     "theme-name": "summercamp",
     "theme-slug": "summercamp",

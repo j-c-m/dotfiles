@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#232c31",
-    "ansi-1-hex": "#2a5491",
-    "ansi-10-hex": "#237986",
-    "ansi-11-hex": "#a03b1e",
-    "ansi-12-hex": "#484d79",
-    "ansi-13-hex": "#c59820",
-    "ansi-14-hex": "#b02f30",
-    "ansi-15-hex": "#b5d8f6",
-    "ansi-2-hex": "#237986",
-    "ansi-3-hex": "#a03b1e",
-    "ansi-4-hex": "#484d79",
-    "ansi-5-hex": "#c59820",
-    "ansi-6-hex": "#b02f30",
-    "ansi-7-hex": "#9ea7a6",
-    "ansi-8-hex": "#3f4944",
-    "ansi-9-hex": "#2a5491",
-    "background-hex": "#232c31",
-    "cursor-hex": "#9ea7a6",
-    "foreground-hex": "#9ea7a6",
-    "selection-hex": "#a7cfa3",
-    "selection-text-hex": "#1c3657",
+    "ansi-0": {
+        "hex": "#232c31",
+        "hexterm": "23/2c/31"
+    },
+    "ansi-1": {
+        "hex": "#2a5491",
+        "hexterm": "2a/54/91"
+    },
+    "ansi-10": {
+        "hex": "#237986",
+        "hexterm": "23/79/86"
+    },
+    "ansi-11": {
+        "hex": "#a03b1e",
+        "hexterm": "a0/3b/1e"
+    },
+    "ansi-12": {
+        "hex": "#484d79",
+        "hexterm": "48/4d/79"
+    },
+    "ansi-13": {
+        "hex": "#c59820",
+        "hexterm": "c5/98/20"
+    },
+    "ansi-14": {
+        "hex": "#b02f30",
+        "hexterm": "b0/2f/30"
+    },
+    "ansi-15": {
+        "hex": "#b5d8f6",
+        "hexterm": "b5/d8/f6"
+    },
+    "ansi-2": {
+        "hex": "#237986",
+        "hexterm": "23/79/86"
+    },
+    "ansi-3": {
+        "hex": "#a03b1e",
+        "hexterm": "a0/3b/1e"
+    },
+    "ansi-4": {
+        "hex": "#484d79",
+        "hexterm": "48/4d/79"
+    },
+    "ansi-5": {
+        "hex": "#c59820",
+        "hexterm": "c5/98/20"
+    },
+    "ansi-6": {
+        "hex": "#b02f30",
+        "hexterm": "b0/2f/30"
+    },
+    "ansi-7": {
+        "hex": "#9ea7a6",
+        "hexterm": "9e/a7/a6"
+    },
+    "ansi-8": {
+        "hex": "#3f4944",
+        "hexterm": "3f/49/44"
+    },
+    "ansi-9": {
+        "hex": "#2a5491",
+        "hexterm": "2a/54/91"
+    },
+    "background": {
+        "hex": "#232c31",
+        "hexterm": "23/2c/31"
+    },
+    "cursor": {
+        "hex": "#9ea7a6",
+        "hexterm": "9e/a7/a6"
+    },
+    "foreground": {
+        "hex": "#9ea7a6",
+        "hexterm": "9e/a7/a6"
+    },
+    "selection": {
+        "hex": "#a7cfa3",
+        "hexterm": "a7/cf/a3"
+    },
+    "selection-text": {
+        "hex": "#1c3657",
+        "hexterm": "1c/36/57"
+    },
     "theme-author": "blockloop",
     "theme-name": "Codeschool",
     "theme-slug": "codeschool",

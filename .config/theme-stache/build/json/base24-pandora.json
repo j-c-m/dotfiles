@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#131d42",
-    "ansi-1-hex": "#ff4242",
-    "ansi-10-hex": "#74cd68",
-    "ansi-11-hex": "#ffb929",
-    "ansi-12-hex": "#23d7d7",
-    "ansi-13-hex": "#ff37ff",
-    "ansi-14-hex": "#00ede1",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#74af68",
-    "ansi-3-hex": "#23d7d7",
-    "ansi-4-hex": "#338f86",
-    "ansi-5-hex": "#9413e5",
-    "ansi-6-hex": "#23d7d7",
-    "ansi-7-hex": "#b8beba",
-    "ansi-8-hex": "#66786e",
-    "ansi-9-hex": "#ff3242",
-    "background-hex": "#131d42",
-    "cursor-hex": "#b8beba",
-    "foreground-hex": "#b8beba",
-    "selection-hex": "#e1e1e1",
-    "selection-text-hex": "#000000",
+    "ansi-0": {
+        "hex": "#131d42",
+        "hexterm": "13/1d/42"
+    },
+    "ansi-1": {
+        "hex": "#ff4242",
+        "hexterm": "ff/42/42"
+    },
+    "ansi-10": {
+        "hex": "#74cd68",
+        "hexterm": "74/cd/68"
+    },
+    "ansi-11": {
+        "hex": "#ffb929",
+        "hexterm": "ff/b9/29"
+    },
+    "ansi-12": {
+        "hex": "#23d7d7",
+        "hexterm": "23/d7/d7"
+    },
+    "ansi-13": {
+        "hex": "#ff37ff",
+        "hexterm": "ff/37/ff"
+    },
+    "ansi-14": {
+        "hex": "#00ede1",
+        "hexterm": "00/ed/e1"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#74af68",
+        "hexterm": "74/af/68"
+    },
+    "ansi-3": {
+        "hex": "#23d7d7",
+        "hexterm": "23/d7/d7"
+    },
+    "ansi-4": {
+        "hex": "#338f86",
+        "hexterm": "33/8f/86"
+    },
+    "ansi-5": {
+        "hex": "#9413e5",
+        "hexterm": "94/13/e5"
+    },
+    "ansi-6": {
+        "hex": "#23d7d7",
+        "hexterm": "23/d7/d7"
+    },
+    "ansi-7": {
+        "hex": "#b8beba",
+        "hexterm": "b8/be/ba"
+    },
+    "ansi-8": {
+        "hex": "#66786e",
+        "hexterm": "66/78/6e"
+    },
+    "ansi-9": {
+        "hex": "#ff3242",
+        "hexterm": "ff/32/42"
+    },
+    "background": {
+        "hex": "#131d42",
+        "hexterm": "13/1d/42"
+    },
+    "cursor": {
+        "hex": "#b8beba",
+        "hexterm": "b8/be/ba"
+    },
+    "foreground": {
+        "hex": "#b8beba",
+        "hexterm": "b8/be/ba"
+    },
+    "selection": {
+        "hex": "#e1e1e1",
+        "hexterm": "e1/e1/e1"
+    },
+    "selection-text": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Pandora",
     "theme-slug": "pandora",

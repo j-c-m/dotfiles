@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1e2132",
-    "ansi-1-hex": "#e27878",
-    "ansi-10-hex": "#c0ca8e",
-    "ansi-11-hex": "#e9b189",
-    "ansi-12-hex": "#91acd1",
-    "ansi-13-hex": "#ada0d3",
-    "ansi-14-hex": "#95c4ce",
-    "ansi-15-hex": "#d2d4de",
-    "ansi-2-hex": "#b4be82",
-    "ansi-3-hex": "#e2a478",
-    "ansi-4-hex": "#84a0c6",
-    "ansi-5-hex": "#a093c7",
-    "ansi-6-hex": "#89b8c2",
-    "ansi-7-hex": "#c6c8d1",
-    "ansi-8-hex": "#6b7089",
-    "ansi-9-hex": "#e98989",
-    "background-hex": "#161821",
-    "cursor-hex": "#c6c8d1",
-    "foreground-hex": "#c6c8d1",
-    "selection-hex": "#c6c8d1",
-    "selection-text-hex": "#161821",
+    "ansi-0": {
+        "hex": "#1e2132",
+        "hexterm": "1e/21/32"
+    },
+    "ansi-1": {
+        "hex": "#e27878",
+        "hexterm": "e2/78/78"
+    },
+    "ansi-10": {
+        "hex": "#c0ca8e",
+        "hexterm": "c0/ca/8e"
+    },
+    "ansi-11": {
+        "hex": "#e9b189",
+        "hexterm": "e9/b1/89"
+    },
+    "ansi-12": {
+        "hex": "#91acd1",
+        "hexterm": "91/ac/d1"
+    },
+    "ansi-13": {
+        "hex": "#ada0d3",
+        "hexterm": "ad/a0/d3"
+    },
+    "ansi-14": {
+        "hex": "#95c4ce",
+        "hexterm": "95/c4/ce"
+    },
+    "ansi-15": {
+        "hex": "#d2d4de",
+        "hexterm": "d2/d4/de"
+    },
+    "ansi-2": {
+        "hex": "#b4be82",
+        "hexterm": "b4/be/82"
+    },
+    "ansi-3": {
+        "hex": "#e2a478",
+        "hexterm": "e2/a4/78"
+    },
+    "ansi-4": {
+        "hex": "#84a0c6",
+        "hexterm": "84/a0/c6"
+    },
+    "ansi-5": {
+        "hex": "#a093c7",
+        "hexterm": "a0/93/c7"
+    },
+    "ansi-6": {
+        "hex": "#89b8c2",
+        "hexterm": "89/b8/c2"
+    },
+    "ansi-7": {
+        "hex": "#c6c8d1",
+        "hexterm": "c6/c8/d1"
+    },
+    "ansi-8": {
+        "hex": "#6b7089",
+        "hexterm": "6b/70/89"
+    },
+    "ansi-9": {
+        "hex": "#e98989",
+        "hexterm": "e9/89/89"
+    },
+    "background": {
+        "hex": "#161821",
+        "hexterm": "16/18/21"
+    },
+    "cursor": {
+        "hex": "#c6c8d1",
+        "hexterm": "c6/c8/d1"
+    },
+    "foreground": {
+        "hex": "#c6c8d1",
+        "hexterm": "c6/c8/d1"
+    },
+    "selection": {
+        "hex": "#c6c8d1",
+        "hexterm": "c6/c8/d1"
+    },
+    "selection-text": {
+        "hex": "#161821",
+        "hexterm": "16/18/21"
+    },
     "theme-author": "unknown",
     "theme-name": "iceberg-dark",
     "theme-slug": "iceberg-dark",

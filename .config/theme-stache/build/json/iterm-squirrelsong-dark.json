@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#37291f",
-    "ansi-1-hex": "#b94038",
-    "ansi-10-hex": "#649a4b",
-    "ansi-11-hex": "#e8c13e",
-    "ansi-12-hex": "#4ba4da",
-    "ansi-13-hex": "#9c70da",
-    "ansi-14-hex": "#5faba8",
-    "ansi-15-hex": "#f1d3ba",
-    "ansi-2-hex": "#458336",
-    "ansi-3-hex": "#d3b039",
-    "ansi-4-hex": "#4394c6",
-    "ansi-5-hex": "#845fb8",
-    "ansi-6-hex": "#2e9793",
-    "ansi-7-hex": "#d3b9a2",
-    "ansi-8-hex": "#704e38",
-    "ansi-9-hex": "#de4c42",
-    "background-hex": "#37291f",
-    "cursor-hex": "#b09b88",
-    "foreground-hex": "#b09b88",
-    "selection-hex": "#5b3f2e",
-    "selection-text-hex": "#b09b88",
+    "ansi-0": {
+        "hex": "#37291f",
+        "hexterm": "37/29/1f"
+    },
+    "ansi-1": {
+        "hex": "#b94038",
+        "hexterm": "b9/40/38"
+    },
+    "ansi-10": {
+        "hex": "#649a4b",
+        "hexterm": "64/9a/4b"
+    },
+    "ansi-11": {
+        "hex": "#e8c13e",
+        "hexterm": "e8/c1/3e"
+    },
+    "ansi-12": {
+        "hex": "#4ba4da",
+        "hexterm": "4b/a4/da"
+    },
+    "ansi-13": {
+        "hex": "#9c70da",
+        "hexterm": "9c/70/da"
+    },
+    "ansi-14": {
+        "hex": "#5faba8",
+        "hexterm": "5f/ab/a8"
+    },
+    "ansi-15": {
+        "hex": "#f1d3ba",
+        "hexterm": "f1/d3/ba"
+    },
+    "ansi-2": {
+        "hex": "#458336",
+        "hexterm": "45/83/36"
+    },
+    "ansi-3": {
+        "hex": "#d3b039",
+        "hexterm": "d3/b0/39"
+    },
+    "ansi-4": {
+        "hex": "#4394c6",
+        "hexterm": "43/94/c6"
+    },
+    "ansi-5": {
+        "hex": "#845fb8",
+        "hexterm": "84/5f/b8"
+    },
+    "ansi-6": {
+        "hex": "#2e9793",
+        "hexterm": "2e/97/93"
+    },
+    "ansi-7": {
+        "hex": "#d3b9a2",
+        "hexterm": "d3/b9/a2"
+    },
+    "ansi-8": {
+        "hex": "#704e38",
+        "hexterm": "70/4e/38"
+    },
+    "ansi-9": {
+        "hex": "#de4c42",
+        "hexterm": "de/4c/42"
+    },
+    "background": {
+        "hex": "#37291f",
+        "hexterm": "37/29/1f"
+    },
+    "cursor": {
+        "hex": "#b09b88",
+        "hexterm": "b0/9b/88"
+    },
+    "foreground": {
+        "hex": "#b09b88",
+        "hexterm": "b0/9b/88"
+    },
+    "selection": {
+        "hex": "#5b3f2e",
+        "hexterm": "5b/3f/2e"
+    },
+    "selection-text": {
+        "hex": "#b09b88",
+        "hexterm": "b0/9b/88"
+    },
     "theme-author": "unknown",
     "theme-name": "Squirrelsong Dark",
     "theme-slug": "squirrelsong-dark",

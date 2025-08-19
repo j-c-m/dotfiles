@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#dcdfe7",
-    "ansi-1-hex": "#cc517a",
-    "ansi-10-hex": "#598030",
-    "ansi-11-hex": "#b6662d",
-    "ansi-12-hex": "#22478e",
-    "ansi-13-hex": "#6845ad",
-    "ansi-14-hex": "#327698",
-    "ansi-15-hex": "#262a3f",
-    "ansi-2-hex": "#668e3d",
-    "ansi-3-hex": "#c57339",
-    "ansi-4-hex": "#2d539e",
-    "ansi-5-hex": "#7759b4",
-    "ansi-6-hex": "#3f83a6",
-    "ansi-7-hex": "#33374c",
-    "ansi-8-hex": "#8389a3",
-    "ansi-9-hex": "#cc3768",
-    "background-hex": "#e8e9ec",
-    "cursor-hex": "#33374c",
-    "foreground-hex": "#33374c",
-    "selection-hex": "#33374c",
-    "selection-text-hex": "#e8e9ec",
+    "ansi-0": {
+        "hex": "#dcdfe7",
+        "hexterm": "dc/df/e7"
+    },
+    "ansi-1": {
+        "hex": "#cc517a",
+        "hexterm": "cc/51/7a"
+    },
+    "ansi-10": {
+        "hex": "#598030",
+        "hexterm": "59/80/30"
+    },
+    "ansi-11": {
+        "hex": "#b6662d",
+        "hexterm": "b6/66/2d"
+    },
+    "ansi-12": {
+        "hex": "#22478e",
+        "hexterm": "22/47/8e"
+    },
+    "ansi-13": {
+        "hex": "#6845ad",
+        "hexterm": "68/45/ad"
+    },
+    "ansi-14": {
+        "hex": "#327698",
+        "hexterm": "32/76/98"
+    },
+    "ansi-15": {
+        "hex": "#262a3f",
+        "hexterm": "26/2a/3f"
+    },
+    "ansi-2": {
+        "hex": "#668e3d",
+        "hexterm": "66/8e/3d"
+    },
+    "ansi-3": {
+        "hex": "#c57339",
+        "hexterm": "c5/73/39"
+    },
+    "ansi-4": {
+        "hex": "#2d539e",
+        "hexterm": "2d/53/9e"
+    },
+    "ansi-5": {
+        "hex": "#7759b4",
+        "hexterm": "77/59/b4"
+    },
+    "ansi-6": {
+        "hex": "#3f83a6",
+        "hexterm": "3f/83/a6"
+    },
+    "ansi-7": {
+        "hex": "#33374c",
+        "hexterm": "33/37/4c"
+    },
+    "ansi-8": {
+        "hex": "#8389a3",
+        "hexterm": "83/89/a3"
+    },
+    "ansi-9": {
+        "hex": "#cc3768",
+        "hexterm": "cc/37/68"
+    },
+    "background": {
+        "hex": "#e8e9ec",
+        "hexterm": "e8/e9/ec"
+    },
+    "cursor": {
+        "hex": "#33374c",
+        "hexterm": "33/37/4c"
+    },
+    "foreground": {
+        "hex": "#33374c",
+        "hexterm": "33/37/4c"
+    },
+    "selection": {
+        "hex": "#33374c",
+        "hexterm": "33/37/4c"
+    },
+    "selection-text": {
+        "hex": "#e8e9ec",
+        "hexterm": "e8/e9/ec"
+    },
     "theme-author": "unknown",
     "theme-name": "iceberg-light",
     "theme-slug": "iceberg-light",

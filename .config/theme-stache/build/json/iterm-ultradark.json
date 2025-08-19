@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#f07178",
-    "ansi-10-hex": "#dbf1ba",
-    "ansi-11-hex": "#ffdfa6",
-    "ansi-12-hex": "#b4ccff",
-    "ansi-13-hex": "#ddbdf2",
-    "ansi-14-hex": "#b8eaff",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#c3e88d",
-    "ansi-3-hex": "#ffcb6b",
-    "ansi-4-hex": "#82aaff",
-    "ansi-5-hex": "#c792ea",
-    "ansi-6-hex": "#89ddff",
-    "ansi-7-hex": "#cccccc",
-    "ansi-8-hex": "#333333",
-    "ansi-9-hex": "#f6a9ae",
-    "background-hex": "#000000",
-    "cursor-hex": "#fefefe",
-    "foreground-hex": "#ffffff",
-    "selection-hex": "#222222",
-    "selection-text-hex": "#cccccc",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#f07178",
+        "hexterm": "f0/71/78"
+    },
+    "ansi-10": {
+        "hex": "#dbf1ba",
+        "hexterm": "db/f1/ba"
+    },
+    "ansi-11": {
+        "hex": "#ffdfa6",
+        "hexterm": "ff/df/a6"
+    },
+    "ansi-12": {
+        "hex": "#b4ccff",
+        "hexterm": "b4/cc/ff"
+    },
+    "ansi-13": {
+        "hex": "#ddbdf2",
+        "hexterm": "dd/bd/f2"
+    },
+    "ansi-14": {
+        "hex": "#b8eaff",
+        "hexterm": "b8/ea/ff"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#c3e88d",
+        "hexterm": "c3/e8/8d"
+    },
+    "ansi-3": {
+        "hex": "#ffcb6b",
+        "hexterm": "ff/cb/6b"
+    },
+    "ansi-4": {
+        "hex": "#82aaff",
+        "hexterm": "82/aa/ff"
+    },
+    "ansi-5": {
+        "hex": "#c792ea",
+        "hexterm": "c7/92/ea"
+    },
+    "ansi-6": {
+        "hex": "#89ddff",
+        "hexterm": "89/dd/ff"
+    },
+    "ansi-7": {
+        "hex": "#cccccc",
+        "hexterm": "cc/cc/cc"
+    },
+    "ansi-8": {
+        "hex": "#333333",
+        "hexterm": "33/33/33"
+    },
+    "ansi-9": {
+        "hex": "#f6a9ae",
+        "hexterm": "f6/a9/ae"
+    },
+    "background": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "cursor": {
+        "hex": "#fefefe",
+        "hexterm": "fe/fe/fe"
+    },
+    "foreground": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "selection": {
+        "hex": "#222222",
+        "hexterm": "22/22/22"
+    },
+    "selection-text": {
+        "hex": "#cccccc",
+        "hexterm": "cc/cc/cc"
+    },
     "theme-author": "unknown",
     "theme-name": "UltraDark",
     "theme-slug": "ultradark",

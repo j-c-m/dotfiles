@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#e9f1ef",
-    "ansi-1-hex": "#cf432e",
-    "ansi-10-hex": "#6ca38c",
-    "ansi-11-hex": "#cfad25",
-    "ansi-12-hex": "#39aac9",
-    "ansi-13-hex": "#6e6582",
-    "ansi-14-hex": "#329ca2",
-    "ansi-15-hex": "#d2faff",
-    "ansi-2-hex": "#6ca38c",
-    "ansi-3-hex": "#cfad25",
-    "ansi-4-hex": "#39aac9",
-    "ansi-5-hex": "#6e6582",
-    "ansi-6-hex": "#329ca2",
-    "ansi-7-hex": "#385156",
-    "ansi-8-hex": "#5c787b",
-    "ansi-9-hex": "#cf432e",
-    "background-hex": "#e9f1ef",
-    "cursor-hex": "#385156",
-    "foreground-hex": "#385156",
-    "selection-hex": "#0e3c46",
-    "selection-text-hex": "#ccd4d3",
+    "ansi-0": {
+        "hex": "#e9f1ef",
+        "hexterm": "e9/f1/ef"
+    },
+    "ansi-1": {
+        "hex": "#cf432e",
+        "hexterm": "cf/43/2e"
+    },
+    "ansi-10": {
+        "hex": "#6ca38c",
+        "hexterm": "6c/a3/8c"
+    },
+    "ansi-11": {
+        "hex": "#cfad25",
+        "hexterm": "cf/ad/25"
+    },
+    "ansi-12": {
+        "hex": "#39aac9",
+        "hexterm": "39/aa/c9"
+    },
+    "ansi-13": {
+        "hex": "#6e6582",
+        "hexterm": "6e/65/82"
+    },
+    "ansi-14": {
+        "hex": "#329ca2",
+        "hexterm": "32/9c/a2"
+    },
+    "ansi-15": {
+        "hex": "#d2faff",
+        "hexterm": "d2/fa/ff"
+    },
+    "ansi-2": {
+        "hex": "#6ca38c",
+        "hexterm": "6c/a3/8c"
+    },
+    "ansi-3": {
+        "hex": "#cfad25",
+        "hexterm": "cf/ad/25"
+    },
+    "ansi-4": {
+        "hex": "#39aac9",
+        "hexterm": "39/aa/c9"
+    },
+    "ansi-5": {
+        "hex": "#6e6582",
+        "hexterm": "6e/65/82"
+    },
+    "ansi-6": {
+        "hex": "#329ca2",
+        "hexterm": "32/9c/a2"
+    },
+    "ansi-7": {
+        "hex": "#385156",
+        "hexterm": "38/51/56"
+    },
+    "ansi-8": {
+        "hex": "#5c787b",
+        "hexterm": "5c/78/7b"
+    },
+    "ansi-9": {
+        "hex": "#cf432e",
+        "hexterm": "cf/43/2e"
+    },
+    "background": {
+        "hex": "#e9f1ef",
+        "hexterm": "e9/f1/ef"
+    },
+    "cursor": {
+        "hex": "#385156",
+        "hexterm": "38/51/56"
+    },
+    "foreground": {
+        "hex": "#385156",
+        "hexterm": "38/51/56"
+    },
+    "selection": {
+        "hex": "#0e3c46",
+        "hexterm": "0e/3c/46"
+    },
+    "selection-text": {
+        "hex": "#ccd4d3",
+        "hexterm": "cc/d4/d3"
+    },
     "theme-author": "Gabriel Fontes (https://github.com/Misterio77)",
     "theme-name": "Silk Light",
     "theme-slug": "silk-light",

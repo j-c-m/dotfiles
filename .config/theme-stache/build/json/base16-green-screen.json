@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#001100",
-    "ansi-1-hex": "#007700",
-    "ansi-10-hex": "#00bb00",
-    "ansi-11-hex": "#007700",
-    "ansi-12-hex": "#009900",
-    "ansi-13-hex": "#00bb00",
-    "ansi-14-hex": "#005500",
-    "ansi-15-hex": "#00ff00",
-    "ansi-2-hex": "#00bb00",
-    "ansi-3-hex": "#007700",
-    "ansi-4-hex": "#009900",
-    "ansi-5-hex": "#00bb00",
-    "ansi-6-hex": "#005500",
-    "ansi-7-hex": "#00bb00",
-    "ansi-8-hex": "#007700",
-    "ansi-9-hex": "#007700",
-    "background-hex": "#001100",
-    "cursor-hex": "#00bb00",
-    "foreground-hex": "#00bb00",
-    "selection-hex": "#00dd00",
-    "selection-text-hex": "#003300",
+    "ansi-0": {
+        "hex": "#001100",
+        "hexterm": "00/11/00"
+    },
+    "ansi-1": {
+        "hex": "#007700",
+        "hexterm": "00/77/00"
+    },
+    "ansi-10": {
+        "hex": "#00bb00",
+        "hexterm": "00/bb/00"
+    },
+    "ansi-11": {
+        "hex": "#007700",
+        "hexterm": "00/77/00"
+    },
+    "ansi-12": {
+        "hex": "#009900",
+        "hexterm": "00/99/00"
+    },
+    "ansi-13": {
+        "hex": "#00bb00",
+        "hexterm": "00/bb/00"
+    },
+    "ansi-14": {
+        "hex": "#005500",
+        "hexterm": "00/55/00"
+    },
+    "ansi-15": {
+        "hex": "#00ff00",
+        "hexterm": "00/ff/00"
+    },
+    "ansi-2": {
+        "hex": "#00bb00",
+        "hexterm": "00/bb/00"
+    },
+    "ansi-3": {
+        "hex": "#007700",
+        "hexterm": "00/77/00"
+    },
+    "ansi-4": {
+        "hex": "#009900",
+        "hexterm": "00/99/00"
+    },
+    "ansi-5": {
+        "hex": "#00bb00",
+        "hexterm": "00/bb/00"
+    },
+    "ansi-6": {
+        "hex": "#005500",
+        "hexterm": "00/55/00"
+    },
+    "ansi-7": {
+        "hex": "#00bb00",
+        "hexterm": "00/bb/00"
+    },
+    "ansi-8": {
+        "hex": "#007700",
+        "hexterm": "00/77/00"
+    },
+    "ansi-9": {
+        "hex": "#007700",
+        "hexterm": "00/77/00"
+    },
+    "background": {
+        "hex": "#001100",
+        "hexterm": "00/11/00"
+    },
+    "cursor": {
+        "hex": "#00bb00",
+        "hexterm": "00/bb/00"
+    },
+    "foreground": {
+        "hex": "#00bb00",
+        "hexterm": "00/bb/00"
+    },
+    "selection": {
+        "hex": "#00dd00",
+        "hexterm": "00/dd/00"
+    },
+    "selection-text": {
+        "hex": "#003300",
+        "hexterm": "00/33/00"
+    },
     "theme-author": "Chris Kempson (http://chriskempson.com)",
     "theme-name": "Green Screen",
     "theme-slug": "green-screen",

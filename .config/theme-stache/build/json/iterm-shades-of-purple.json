@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#d90429",
-    "ansi-10-hex": "#42d425",
-    "ansi-11-hex": "#f1d000",
-    "ansi-12-hex": "#6871ff",
-    "ansi-13-hex": "#ff76ff",
-    "ansi-14-hex": "#79e7fa",
-    "ansi-15-hex": "#feffff",
-    "ansi-2-hex": "#3ad900",
-    "ansi-3-hex": "#ffe700",
-    "ansi-4-hex": "#6943ff",
-    "ansi-5-hex": "#ff2b70",
-    "ansi-6-hex": "#00c5c7",
-    "ansi-7-hex": "#c7c7c7",
-    "ansi-8-hex": "#676767",
-    "ansi-9-hex": "#f9291b",
-    "background-hex": "#1e1d40",
-    "cursor-hex": "#fad000",
-    "foreground-hex": "#feffff",
-    "selection-hex": "#b362ff",
-    "selection-text-hex": "#c1c1c1",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#d90429",
+        "hexterm": "d9/04/29"
+    },
+    "ansi-10": {
+        "hex": "#42d425",
+        "hexterm": "42/d4/25"
+    },
+    "ansi-11": {
+        "hex": "#f1d000",
+        "hexterm": "f1/d0/00"
+    },
+    "ansi-12": {
+        "hex": "#6871ff",
+        "hexterm": "68/71/ff"
+    },
+    "ansi-13": {
+        "hex": "#ff76ff",
+        "hexterm": "ff/76/ff"
+    },
+    "ansi-14": {
+        "hex": "#79e7fa",
+        "hexterm": "79/e7/fa"
+    },
+    "ansi-15": {
+        "hex": "#feffff",
+        "hexterm": "fe/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#3ad900",
+        "hexterm": "3a/d9/00"
+    },
+    "ansi-3": {
+        "hex": "#ffe700",
+        "hexterm": "ff/e7/00"
+    },
+    "ansi-4": {
+        "hex": "#6943ff",
+        "hexterm": "69/43/ff"
+    },
+    "ansi-5": {
+        "hex": "#ff2b70",
+        "hexterm": "ff/2b/70"
+    },
+    "ansi-6": {
+        "hex": "#00c5c7",
+        "hexterm": "00/c5/c7"
+    },
+    "ansi-7": {
+        "hex": "#c7c7c7",
+        "hexterm": "c7/c7/c7"
+    },
+    "ansi-8": {
+        "hex": "#676767",
+        "hexterm": "67/67/67"
+    },
+    "ansi-9": {
+        "hex": "#f9291b",
+        "hexterm": "f9/29/1b"
+    },
+    "background": {
+        "hex": "#1e1d40",
+        "hexterm": "1e/1d/40"
+    },
+    "cursor": {
+        "hex": "#fad000",
+        "hexterm": "fa/d0/00"
+    },
+    "foreground": {
+        "hex": "#feffff",
+        "hexterm": "fe/ff/ff"
+    },
+    "selection": {
+        "hex": "#b362ff",
+        "hexterm": "b3/62/ff"
+    },
+    "selection-text": {
+        "hex": "#c1c1c1",
+        "hexterm": "c1/c1/c1"
+    },
     "theme-author": "unknown",
     "theme-name": "shades-of-purple",
     "theme-slug": "shades-of-purple",

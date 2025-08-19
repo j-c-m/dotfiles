@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1c1f24",
-    "ansi-1-hex": "#cb4b16",
-    "ansi-10-hex": "#98be65",
-    "ansi-11-hex": "#e5f871",
-    "ansi-12-hex": "#51afef",
-    "ansi-13-hex": "#c678dd",
-    "ansi-14-hex": "#46d9ff",
-    "ansi-15-hex": "#dfdfdf",
-    "ansi-2-hex": "#26a6a6",
-    "ansi-3-hex": "#bcd42a",
-    "ansi-4-hex": "#2a6bc5",
-    "ansi-5-hex": "#a9a1e1",
-    "ansi-6-hex": "#5699af",
-    "ansi-7-hex": "#ede0ce",
-    "ansi-8-hex": "#2b2a27",
-    "ansi-9-hex": "#ff5d38",
-    "background-hex": "#2b2a27",
-    "cursor-hex": "#9c9c9d",
-    "foreground-hex": "#ecdfcd",
-    "selection-hex": "#a60033",
-    "selection-text-hex": "#fefefe",
+    "ansi-0": {
+        "hex": "#1c1f24",
+        "hexterm": "1c/1f/24"
+    },
+    "ansi-1": {
+        "hex": "#cb4b16",
+        "hexterm": "cb/4b/16"
+    },
+    "ansi-10": {
+        "hex": "#98be65",
+        "hexterm": "98/be/65"
+    },
+    "ansi-11": {
+        "hex": "#e5f871",
+        "hexterm": "e5/f8/71"
+    },
+    "ansi-12": {
+        "hex": "#51afef",
+        "hexterm": "51/af/ef"
+    },
+    "ansi-13": {
+        "hex": "#c678dd",
+        "hexterm": "c6/78/dd"
+    },
+    "ansi-14": {
+        "hex": "#46d9ff",
+        "hexterm": "46/d9/ff"
+    },
+    "ansi-15": {
+        "hex": "#dfdfdf",
+        "hexterm": "df/df/df"
+    },
+    "ansi-2": {
+        "hex": "#26a6a6",
+        "hexterm": "26/a6/a6"
+    },
+    "ansi-3": {
+        "hex": "#bcd42a",
+        "hexterm": "bc/d4/2a"
+    },
+    "ansi-4": {
+        "hex": "#2a6bc5",
+        "hexterm": "2a/6b/c5"
+    },
+    "ansi-5": {
+        "hex": "#a9a1e1",
+        "hexterm": "a9/a1/e1"
+    },
+    "ansi-6": {
+        "hex": "#5699af",
+        "hexterm": "56/99/af"
+    },
+    "ansi-7": {
+        "hex": "#ede0ce",
+        "hexterm": "ed/e0/ce"
+    },
+    "ansi-8": {
+        "hex": "#2b2a27",
+        "hexterm": "2b/2a/27"
+    },
+    "ansi-9": {
+        "hex": "#ff5d38",
+        "hexterm": "ff/5d/38"
+    },
+    "background": {
+        "hex": "#2b2a27",
+        "hexterm": "2b/2a/27"
+    },
+    "cursor": {
+        "hex": "#9c9c9d",
+        "hexterm": "9c/9c/9d"
+    },
+    "foreground": {
+        "hex": "#ecdfcd",
+        "hexterm": "ec/df/cd"
+    },
+    "selection": {
+        "hex": "#a60033",
+        "hexterm": "a6/00/33"
+    },
+    "selection-text": {
+        "hex": "#fefefe",
+        "hexterm": "fe/fe/fe"
+    },
     "theme-author": "unknown",
     "theme-name": "Doom Peacock",
     "theme-slug": "doom-peacock",

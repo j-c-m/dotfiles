@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#0e3c46",
-    "ansi-1-hex": "#fb6953",
-    "ansi-10-hex": "#73d8ad",
-    "ansi-11-hex": "#fce380",
-    "ansi-12-hex": "#46bddd",
-    "ansi-13-hex": "#756b8a",
-    "ansi-14-hex": "#3fb2b9",
-    "ansi-15-hex": "#d2faff",
-    "ansi-2-hex": "#73d8ad",
-    "ansi-3-hex": "#fce380",
-    "ansi-4-hex": "#46bddd",
-    "ansi-5-hex": "#756b8a",
-    "ansi-6-hex": "#3fb2b9",
-    "ansi-7-hex": "#c7dbdd",
-    "ansi-8-hex": "#587073",
-    "ansi-9-hex": "#fb6953",
-    "background-hex": "#0e3c46",
-    "cursor-hex": "#c7dbdd",
-    "foreground-hex": "#c7dbdd",
-    "selection-hex": "#cbf2f7",
-    "selection-text-hex": "#1d494e",
+    "ansi-0": {
+        "hex": "#0e3c46",
+        "hexterm": "0e/3c/46"
+    },
+    "ansi-1": {
+        "hex": "#fb6953",
+        "hexterm": "fb/69/53"
+    },
+    "ansi-10": {
+        "hex": "#73d8ad",
+        "hexterm": "73/d8/ad"
+    },
+    "ansi-11": {
+        "hex": "#fce380",
+        "hexterm": "fc/e3/80"
+    },
+    "ansi-12": {
+        "hex": "#46bddd",
+        "hexterm": "46/bd/dd"
+    },
+    "ansi-13": {
+        "hex": "#756b8a",
+        "hexterm": "75/6b/8a"
+    },
+    "ansi-14": {
+        "hex": "#3fb2b9",
+        "hexterm": "3f/b2/b9"
+    },
+    "ansi-15": {
+        "hex": "#d2faff",
+        "hexterm": "d2/fa/ff"
+    },
+    "ansi-2": {
+        "hex": "#73d8ad",
+        "hexterm": "73/d8/ad"
+    },
+    "ansi-3": {
+        "hex": "#fce380",
+        "hexterm": "fc/e3/80"
+    },
+    "ansi-4": {
+        "hex": "#46bddd",
+        "hexterm": "46/bd/dd"
+    },
+    "ansi-5": {
+        "hex": "#756b8a",
+        "hexterm": "75/6b/8a"
+    },
+    "ansi-6": {
+        "hex": "#3fb2b9",
+        "hexterm": "3f/b2/b9"
+    },
+    "ansi-7": {
+        "hex": "#c7dbdd",
+        "hexterm": "c7/db/dd"
+    },
+    "ansi-8": {
+        "hex": "#587073",
+        "hexterm": "58/70/73"
+    },
+    "ansi-9": {
+        "hex": "#fb6953",
+        "hexterm": "fb/69/53"
+    },
+    "background": {
+        "hex": "#0e3c46",
+        "hexterm": "0e/3c/46"
+    },
+    "cursor": {
+        "hex": "#c7dbdd",
+        "hexterm": "c7/db/dd"
+    },
+    "foreground": {
+        "hex": "#c7dbdd",
+        "hexterm": "c7/db/dd"
+    },
+    "selection": {
+        "hex": "#cbf2f7",
+        "hexterm": "cb/f2/f7"
+    },
+    "selection-text": {
+        "hex": "#1d494e",
+        "hexterm": "1d/49/4e"
+    },
     "theme-author": "Gabriel Fontes (https://github.com/Misterio77)",
     "theme-name": "Silk Dark",
     "theme-slug": "silk-dark",

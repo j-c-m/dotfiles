@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#aa1717",
-    "ansi-10-hex": "#5fff5f",
-    "ansi-11-hex": "#ffff55",
-    "ansi-12-hex": "#4b4bff",
-    "ansi-13-hex": "#ff54ff",
-    "ansi-14-hex": "#69ffff",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#18b218",
-    "ansi-3-hex": "#ebae1f",
-    "ansi-4-hex": "#2323a5",
-    "ansi-5-hex": "#ad1edc",
-    "ansi-6-hex": "#42b0c8",
-    "ansi-7-hex": "#c8c1c1",
-    "ansi-8-hex": "#7b716e",
-    "ansi-9-hex": "#ff4141",
-    "background-hex": "#060606",
-    "cursor-hex": "#c8c1c1",
-    "foreground-hex": "#c8c1c1",
-    "selection-hex": "#060606",
-    "selection-text-hex": "#c8c1c1",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#aa1717",
+        "hexterm": "aa/17/17"
+    },
+    "ansi-10": {
+        "hex": "#5fff5f",
+        "hexterm": "5f/ff/5f"
+    },
+    "ansi-11": {
+        "hex": "#ffff55",
+        "hexterm": "ff/ff/55"
+    },
+    "ansi-12": {
+        "hex": "#4b4bff",
+        "hexterm": "4b/4b/ff"
+    },
+    "ansi-13": {
+        "hex": "#ff54ff",
+        "hexterm": "ff/54/ff"
+    },
+    "ansi-14": {
+        "hex": "#69ffff",
+        "hexterm": "69/ff/ff"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#18b218",
+        "hexterm": "18/b2/18"
+    },
+    "ansi-3": {
+        "hex": "#ebae1f",
+        "hexterm": "eb/ae/1f"
+    },
+    "ansi-4": {
+        "hex": "#2323a5",
+        "hexterm": "23/23/a5"
+    },
+    "ansi-5": {
+        "hex": "#ad1edc",
+        "hexterm": "ad/1e/dc"
+    },
+    "ansi-6": {
+        "hex": "#42b0c8",
+        "hexterm": "42/b0/c8"
+    },
+    "ansi-7": {
+        "hex": "#c8c1c1",
+        "hexterm": "c8/c1/c1"
+    },
+    "ansi-8": {
+        "hex": "#7b716e",
+        "hexterm": "7b/71/6e"
+    },
+    "ansi-9": {
+        "hex": "#ff4141",
+        "hexterm": "ff/41/41"
+    },
+    "background": {
+        "hex": "#060606",
+        "hexterm": "06/06/06"
+    },
+    "cursor": {
+        "hex": "#c8c1c1",
+        "hexterm": "c8/c1/c1"
+    },
+    "foreground": {
+        "hex": "#c8c1c1",
+        "hexterm": "c8/c1/c1"
+    },
+    "selection": {
+        "hex": "#060606",
+        "hexterm": "06/06/06"
+    },
+    "selection-text": {
+        "hex": "#c8c1c1",
+        "hexterm": "c8/c1/c1"
+    },
     "theme-author": "unknown",
     "theme-name": "Konsolas",
     "theme-slug": "konsolas",

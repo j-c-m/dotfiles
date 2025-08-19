@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#ef596f",
-    "ansi-10-hex": "#89ca78",
-    "ansi-11-hex": "#e5c07b",
-    "ansi-12-hex": "#61afef",
-    "ansi-13-hex": "#d55fde",
-    "ansi-14-hex": "#2bbac5",
-    "ansi-15-hex": "#c8ccd4",
-    "ansi-2-hex": "#89ca78",
-    "ansi-3-hex": "#e5c07b",
-    "ansi-4-hex": "#61afef",
-    "ansi-5-hex": "#d55fde",
-    "ansi-6-hex": "#2bbac5",
-    "ansi-7-hex": "#abb2bf",
-    "ansi-8-hex": "#434852",
-    "ansi-9-hex": "#ef596f",
-    "background-hex": "#000000",
-    "cursor-hex": "#abb2bf",
-    "foreground-hex": "#abb2bf",
-    "selection-hex": "#b6bdca",
-    "selection-text-hex": "#1c1f24",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#ef596f",
+        "hexterm": "ef/59/6f"
+    },
+    "ansi-10": {
+        "hex": "#89ca78",
+        "hexterm": "89/ca/78"
+    },
+    "ansi-11": {
+        "hex": "#e5c07b",
+        "hexterm": "e5/c0/7b"
+    },
+    "ansi-12": {
+        "hex": "#61afef",
+        "hexterm": "61/af/ef"
+    },
+    "ansi-13": {
+        "hex": "#d55fde",
+        "hexterm": "d5/5f/de"
+    },
+    "ansi-14": {
+        "hex": "#2bbac5",
+        "hexterm": "2b/ba/c5"
+    },
+    "ansi-15": {
+        "hex": "#c8ccd4",
+        "hexterm": "c8/cc/d4"
+    },
+    "ansi-2": {
+        "hex": "#89ca78",
+        "hexterm": "89/ca/78"
+    },
+    "ansi-3": {
+        "hex": "#e5c07b",
+        "hexterm": "e5/c0/7b"
+    },
+    "ansi-4": {
+        "hex": "#61afef",
+        "hexterm": "61/af/ef"
+    },
+    "ansi-5": {
+        "hex": "#d55fde",
+        "hexterm": "d5/5f/de"
+    },
+    "ansi-6": {
+        "hex": "#2bbac5",
+        "hexterm": "2b/ba/c5"
+    },
+    "ansi-7": {
+        "hex": "#abb2bf",
+        "hexterm": "ab/b2/bf"
+    },
+    "ansi-8": {
+        "hex": "#434852",
+        "hexterm": "43/48/52"
+    },
+    "ansi-9": {
+        "hex": "#ef596f",
+        "hexterm": "ef/59/6f"
+    },
+    "background": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "cursor": {
+        "hex": "#abb2bf",
+        "hexterm": "ab/b2/bf"
+    },
+    "foreground": {
+        "hex": "#abb2bf",
+        "hexterm": "ab/b2/bf"
+    },
+    "selection": {
+        "hex": "#b6bdca",
+        "hexterm": "b6/bd/ca"
+    },
+    "selection-text": {
+        "hex": "#1c1f24",
+        "hexterm": "1c/1f/24"
+    },
     "theme-author": "olimorris (https://github.com/olimorris)",
     "theme-name": "OneDark Dark",
     "theme-slug": "onedark-dark",

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#131213",
-    "ansi-1-hex": "#b00b69",
-    "ansi-10-hex": "#9ddf69",
-    "ansi-11-hex": "#ffcc00",
-    "ansi-12-hex": "#008080",
-    "ansi-13-hex": "#a24030",
-    "ansi-14-hex": "#714ca6",
-    "ansi-15-hex": "#632227",
-    "ansi-2-hex": "#9ddf69",
-    "ansi-3-hex": "#ffcc00",
-    "ansi-4-hex": "#008080",
-    "ansi-5-hex": "#a24030",
-    "ansi-6-hex": "#714ca6",
-    "ansi-7-hex": "#f15c99",
-    "ansi-8-hex": "#ffbee3",
-    "ansi-9-hex": "#b00b69",
-    "background-hex": "#131213",
-    "cursor-hex": "#f15c99",
-    "foreground-hex": "#f15c99",
-    "selection-hex": "#81506a",
-    "selection-text-hex": "#2f1823",
+    "ansi-0": {
+        "hex": "#131213",
+        "hexterm": "13/12/13"
+    },
+    "ansi-1": {
+        "hex": "#b00b69",
+        "hexterm": "b0/0b/69"
+    },
+    "ansi-10": {
+        "hex": "#9ddf69",
+        "hexterm": "9d/df/69"
+    },
+    "ansi-11": {
+        "hex": "#ffcc00",
+        "hexterm": "ff/cc/00"
+    },
+    "ansi-12": {
+        "hex": "#008080",
+        "hexterm": "00/80/80"
+    },
+    "ansi-13": {
+        "hex": "#a24030",
+        "hexterm": "a2/40/30"
+    },
+    "ansi-14": {
+        "hex": "#714ca6",
+        "hexterm": "71/4c/a6"
+    },
+    "ansi-15": {
+        "hex": "#632227",
+        "hexterm": "63/22/27"
+    },
+    "ansi-2": {
+        "hex": "#9ddf69",
+        "hexterm": "9d/df/69"
+    },
+    "ansi-3": {
+        "hex": "#ffcc00",
+        "hexterm": "ff/cc/00"
+    },
+    "ansi-4": {
+        "hex": "#008080",
+        "hexterm": "00/80/80"
+    },
+    "ansi-5": {
+        "hex": "#a24030",
+        "hexterm": "a2/40/30"
+    },
+    "ansi-6": {
+        "hex": "#714ca6",
+        "hexterm": "71/4c/a6"
+    },
+    "ansi-7": {
+        "hex": "#f15c99",
+        "hexterm": "f1/5c/99"
+    },
+    "ansi-8": {
+        "hex": "#ffbee3",
+        "hexterm": "ff/be/e3"
+    },
+    "ansi-9": {
+        "hex": "#b00b69",
+        "hexterm": "b0/0b/69"
+    },
+    "background": {
+        "hex": "#131213",
+        "hexterm": "13/12/13"
+    },
+    "cursor": {
+        "hex": "#f15c99",
+        "hexterm": "f1/5c/99"
+    },
+    "foreground": {
+        "hex": "#f15c99",
+        "hexterm": "f1/5c/99"
+    },
+    "selection": {
+        "hex": "#81506a",
+        "hexterm": "81/50/6a"
+    },
+    "selection-text": {
+        "hex": "#2f1823",
+        "hexterm": "2f/18/23"
+    },
     "theme-author": "Cassandra Fox",
     "theme-name": "pandora",
     "theme-slug": "pandora",

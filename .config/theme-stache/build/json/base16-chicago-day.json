@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#e8f0ea",
-    "ansi-1-hex": "#c60c30",
-    "ansi-10-hex": "#009b3a",
-    "ansi-11-hex": "#968400",
-    "ansi-12-hex": "#522398",
-    "ansi-13-hex": "#e27ea6",
-    "ansi-14-hex": "#00a1de",
-    "ansi-15-hex": "#1e2a24",
-    "ansi-2-hex": "#009b3a",
-    "ansi-3-hex": "#968400",
-    "ansi-4-hex": "#522398",
-    "ansi-5-hex": "#e27ea6",
-    "ansi-6-hex": "#00a1de",
-    "ansi-7-hex": "#364c40",
-    "ansi-8-hex": "#8a9a91",
-    "ansi-9-hex": "#c60c30",
-    "background-hex": "#e8f0ea",
-    "cursor-hex": "#364c40",
-    "foreground-hex": "#364c40",
-    "selection-hex": "#2a3b32",
-    "selection-text-hex": "#d1e0d7",
+    "ansi-0": {
+        "hex": "#e8f0ea",
+        "hexterm": "e8/f0/ea"
+    },
+    "ansi-1": {
+        "hex": "#c60c30",
+        "hexterm": "c6/0c/30"
+    },
+    "ansi-10": {
+        "hex": "#009b3a",
+        "hexterm": "00/9b/3a"
+    },
+    "ansi-11": {
+        "hex": "#968400",
+        "hexterm": "96/84/00"
+    },
+    "ansi-12": {
+        "hex": "#522398",
+        "hexterm": "52/23/98"
+    },
+    "ansi-13": {
+        "hex": "#e27ea6",
+        "hexterm": "e2/7e/a6"
+    },
+    "ansi-14": {
+        "hex": "#00a1de",
+        "hexterm": "00/a1/de"
+    },
+    "ansi-15": {
+        "hex": "#1e2a24",
+        "hexterm": "1e/2a/24"
+    },
+    "ansi-2": {
+        "hex": "#009b3a",
+        "hexterm": "00/9b/3a"
+    },
+    "ansi-3": {
+        "hex": "#968400",
+        "hexterm": "96/84/00"
+    },
+    "ansi-4": {
+        "hex": "#522398",
+        "hexterm": "52/23/98"
+    },
+    "ansi-5": {
+        "hex": "#e27ea6",
+        "hexterm": "e2/7e/a6"
+    },
+    "ansi-6": {
+        "hex": "#00a1de",
+        "hexterm": "00/a1/de"
+    },
+    "ansi-7": {
+        "hex": "#364c40",
+        "hexterm": "36/4c/40"
+    },
+    "ansi-8": {
+        "hex": "#8a9a91",
+        "hexterm": "8a/9a/91"
+    },
+    "ansi-9": {
+        "hex": "#c60c30",
+        "hexterm": "c6/0c/30"
+    },
+    "background": {
+        "hex": "#e8f0ea",
+        "hexterm": "e8/f0/ea"
+    },
+    "cursor": {
+        "hex": "#364c40",
+        "hexterm": "36/4c/40"
+    },
+    "foreground": {
+        "hex": "#364c40",
+        "hexterm": "36/4c/40"
+    },
+    "selection": {
+        "hex": "#2a3b32",
+        "hexterm": "2a/3b/32"
+    },
+    "selection-text": {
+        "hex": "#d1e0d7",
+        "hexterm": "d1/e0/d7"
+    },
     "theme-author": "Wendell, Ryan <ryanjwendell@gmail.com>",
     "theme-name": "Chicago Day",
     "theme-slug": "chicago-day",

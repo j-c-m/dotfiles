@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1f252d",
-    "ansi-1-hex": "#cb8d56",
-    "ansi-10-hex": "#80b48f",
-    "ansi-11-hex": "#bda75a",
-    "ansi-12-hex": "#9ca5de",
-    "ansi-13-hex": "#c69ac6",
-    "ansi-14-hex": "#8caeb6",
-    "ansi-15-hex": "#a2a8ba",
-    "ansi-2-hex": "#8ba089",
-    "ansi-3-hex": "#a79c46",
-    "ansi-4-hex": "#8c9abe",
-    "ansi-5-hex": "#b190af",
-    "ansi-6-hex": "#8e9aba",
-    "ansi-7-hex": "#a29899",
-    "ansi-8-hex": "#2c3150",
-    "ansi-9-hex": "#d39d74",
-    "background-hex": "#1f252d",
-    "cursor-hex": "#a2a8ba",
-    "foreground-hex": "#a2a8ba",
-    "selection-hex": "#a2a8ba",
-    "selection-text-hex": "#1f252d",
+    "ansi-0": {
+        "hex": "#1f252d",
+        "hexterm": "1f/25/2d"
+    },
+    "ansi-1": {
+        "hex": "#cb8d56",
+        "hexterm": "cb/8d/56"
+    },
+    "ansi-10": {
+        "hex": "#80b48f",
+        "hexterm": "80/b4/8f"
+    },
+    "ansi-11": {
+        "hex": "#bda75a",
+        "hexterm": "bd/a7/5a"
+    },
+    "ansi-12": {
+        "hex": "#9ca5de",
+        "hexterm": "9c/a5/de"
+    },
+    "ansi-13": {
+        "hex": "#c69ac6",
+        "hexterm": "c6/9a/c6"
+    },
+    "ansi-14": {
+        "hex": "#8caeb6",
+        "hexterm": "8c/ae/b6"
+    },
+    "ansi-15": {
+        "hex": "#a2a8ba",
+        "hexterm": "a2/a8/ba"
+    },
+    "ansi-2": {
+        "hex": "#8ba089",
+        "hexterm": "8b/a0/89"
+    },
+    "ansi-3": {
+        "hex": "#a79c46",
+        "hexterm": "a7/9c/46"
+    },
+    "ansi-4": {
+        "hex": "#8c9abe",
+        "hexterm": "8c/9a/be"
+    },
+    "ansi-5": {
+        "hex": "#b190af",
+        "hexterm": "b1/90/af"
+    },
+    "ansi-6": {
+        "hex": "#8e9aba",
+        "hexterm": "8e/9a/ba"
+    },
+    "ansi-7": {
+        "hex": "#a29899",
+        "hexterm": "a2/98/99"
+    },
+    "ansi-8": {
+        "hex": "#2c3150",
+        "hexterm": "2c/31/50"
+    },
+    "ansi-9": {
+        "hex": "#d39d74",
+        "hexterm": "d3/9d/74"
+    },
+    "background": {
+        "hex": "#1f252d",
+        "hexterm": "1f/25/2d"
+    },
+    "cursor": {
+        "hex": "#a2a8ba",
+        "hexterm": "a2/a8/ba"
+    },
+    "foreground": {
+        "hex": "#a2a8ba",
+        "hexterm": "a2/a8/ba"
+    },
+    "selection": {
+        "hex": "#a2a8ba",
+        "hexterm": "a2/a8/ba"
+    },
+    "selection-text": {
+        "hex": "#1f252d",
+        "hexterm": "1f/25/2d"
+    },
     "theme-author": "Protesilaos Stavrou (https://protesilaos.com)",
     "theme-name": "Tempus Dusk",
     "theme-slug": "tempus-dusk",

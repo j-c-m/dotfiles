@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#212121",
-    "ansi-1-hex": "#f07178",
-    "ansi-10-hex": "#c3e88d",
-    "ansi-11-hex": "#ffcb6b",
-    "ansi-12-hex": "#82aaff",
-    "ansi-13-hex": "#c792ea",
-    "ansi-14-hex": "#89ddff",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#c3e88d",
-    "ansi-3-hex": "#ffcb6b",
-    "ansi-4-hex": "#82aaff",
-    "ansi-5-hex": "#c792ea",
-    "ansi-6-hex": "#89ddff",
-    "ansi-7-hex": "#eeffff",
-    "ansi-8-hex": "#4a4a4a",
-    "ansi-9-hex": "#f07178",
-    "background-hex": "#212121",
-    "cursor-hex": "#eeffff",
-    "foreground-hex": "#eeffff",
-    "selection-hex": "#eeffff",
-    "selection-text-hex": "#303030",
+    "ansi-0": {
+        "hex": "#212121",
+        "hexterm": "21/21/21"
+    },
+    "ansi-1": {
+        "hex": "#f07178",
+        "hexterm": "f0/71/78"
+    },
+    "ansi-10": {
+        "hex": "#c3e88d",
+        "hexterm": "c3/e8/8d"
+    },
+    "ansi-11": {
+        "hex": "#ffcb6b",
+        "hexterm": "ff/cb/6b"
+    },
+    "ansi-12": {
+        "hex": "#82aaff",
+        "hexterm": "82/aa/ff"
+    },
+    "ansi-13": {
+        "hex": "#c792ea",
+        "hexterm": "c7/92/ea"
+    },
+    "ansi-14": {
+        "hex": "#89ddff",
+        "hexterm": "89/dd/ff"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#c3e88d",
+        "hexterm": "c3/e8/8d"
+    },
+    "ansi-3": {
+        "hex": "#ffcb6b",
+        "hexterm": "ff/cb/6b"
+    },
+    "ansi-4": {
+        "hex": "#82aaff",
+        "hexterm": "82/aa/ff"
+    },
+    "ansi-5": {
+        "hex": "#c792ea",
+        "hexterm": "c7/92/ea"
+    },
+    "ansi-6": {
+        "hex": "#89ddff",
+        "hexterm": "89/dd/ff"
+    },
+    "ansi-7": {
+        "hex": "#eeffff",
+        "hexterm": "ee/ff/ff"
+    },
+    "ansi-8": {
+        "hex": "#4a4a4a",
+        "hexterm": "4a/4a/4a"
+    },
+    "ansi-9": {
+        "hex": "#f07178",
+        "hexterm": "f0/71/78"
+    },
+    "background": {
+        "hex": "#212121",
+        "hexterm": "21/21/21"
+    },
+    "cursor": {
+        "hex": "#eeffff",
+        "hexterm": "ee/ff/ff"
+    },
+    "foreground": {
+        "hex": "#eeffff",
+        "hexterm": "ee/ff/ff"
+    },
+    "selection": {
+        "hex": "#eeffff",
+        "hexterm": "ee/ff/ff"
+    },
+    "selection-text": {
+        "hex": "#303030",
+        "hexterm": "30/30/30"
+    },
     "theme-author": "Nate Peterson",
     "theme-name": "Material Darker",
     "theme-slug": "material-darker",

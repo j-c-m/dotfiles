@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#242c46",
-    "ansi-1-hex": "#ea553e",
-    "ansi-10-hex": "#8b9d8e",
-    "ansi-11-hex": "#eac48b",
-    "ansi-12-hex": "#5086cb",
-    "ansi-13-hex": "#9a7bee",
-    "ansi-14-hex": "#d079b5",
-    "ansi-15-hex": "#fef5e0",
-    "ansi-2-hex": "#6dac7a",
-    "ansi-3-hex": "#f8b330",
-    "ansi-4-hex": "#596bf7",
-    "ansi-5-hex": "#7b719d",
-    "ansi-6-hex": "#d488c1",
-    "ansi-7-hex": "#dce0ee",
-    "ansi-8-hex": "#1f2841",
-    "ansi-9-hex": "#d07263",
-    "background-hex": "#111521",
-    "cursor-hex": "#27796e",
-    "foreground-hex": "#d6dbeb",
-    "selection-hex": "#2b514a",
-    "selection-text-hex": "#dbdfef",
+    "ansi-0": {
+        "hex": "#242c46",
+        "hexterm": "24/2c/46"
+    },
+    "ansi-1": {
+        "hex": "#ea553e",
+        "hexterm": "ea/55/3e"
+    },
+    "ansi-10": {
+        "hex": "#8b9d8e",
+        "hexterm": "8b/9d/8e"
+    },
+    "ansi-11": {
+        "hex": "#eac48b",
+        "hexterm": "ea/c4/8b"
+    },
+    "ansi-12": {
+        "hex": "#5086cb",
+        "hexterm": "50/86/cb"
+    },
+    "ansi-13": {
+        "hex": "#9a7bee",
+        "hexterm": "9a/7b/ee"
+    },
+    "ansi-14": {
+        "hex": "#d079b5",
+        "hexterm": "d0/79/b5"
+    },
+    "ansi-15": {
+        "hex": "#fef5e0",
+        "hexterm": "fe/f5/e0"
+    },
+    "ansi-2": {
+        "hex": "#6dac7a",
+        "hexterm": "6d/ac/7a"
+    },
+    "ansi-3": {
+        "hex": "#f8b330",
+        "hexterm": "f8/b3/30"
+    },
+    "ansi-4": {
+        "hex": "#596bf7",
+        "hexterm": "59/6b/f7"
+    },
+    "ansi-5": {
+        "hex": "#7b719d",
+        "hexterm": "7b/71/9d"
+    },
+    "ansi-6": {
+        "hex": "#d488c1",
+        "hexterm": "d4/88/c1"
+    },
+    "ansi-7": {
+        "hex": "#dce0ee",
+        "hexterm": "dc/e0/ee"
+    },
+    "ansi-8": {
+        "hex": "#1f2841",
+        "hexterm": "1f/28/41"
+    },
+    "ansi-9": {
+        "hex": "#d07263",
+        "hexterm": "d0/72/63"
+    },
+    "background": {
+        "hex": "#111521",
+        "hexterm": "11/15/21"
+    },
+    "cursor": {
+        "hex": "#27796e",
+        "hexterm": "27/79/6e"
+    },
+    "foreground": {
+        "hex": "#d6dbeb",
+        "hexterm": "d6/db/eb"
+    },
+    "selection": {
+        "hex": "#2b514a",
+        "hexterm": "2b/51/4a"
+    },
+    "selection-text": {
+        "hex": "#dbdfef",
+        "hexterm": "db/df/ef"
+    },
     "theme-author": "unknown",
     "theme-name": "Havn Skumring",
     "theme-slug": "havn-skumring",

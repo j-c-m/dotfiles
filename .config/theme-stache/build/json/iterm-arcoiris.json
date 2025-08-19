@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#333333",
-    "ansi-1-hex": "#da2700",
-    "ansi-10-hex": "#e3f6aa",
-    "ansi-11-hex": "#ffddaa",
-    "ansi-12-hex": "#b3e8f3",
-    "ansi-13-hex": "#cbbaf9",
-    "ansi-14-hex": "#bcffc7",
-    "ansi-15-hex": "#efefef",
-    "ansi-2-hex": "#12c258",
-    "ansi-3-hex": "#ffc656",
-    "ansi-4-hex": "#518bfc",
-    "ansi-5-hex": "#e37bd9",
-    "ansi-6-hex": "#63fad5",
-    "ansi-7-hex": "#bab2b2",
-    "ansi-8-hex": "#777777",
-    "ansi-9-hex": "#ffb9b9",
-    "background-hex": "#201f1e",
-    "cursor-hex": "#7a1c1c",
-    "foreground-hex": "#eee4d9",
-    "selection-hex": "#25524a",
-    "selection-text-hex": "#f3fffd",
+    "ansi-0": {
+        "hex": "#333333",
+        "hexterm": "33/33/33"
+    },
+    "ansi-1": {
+        "hex": "#da2700",
+        "hexterm": "da/27/00"
+    },
+    "ansi-10": {
+        "hex": "#e3f6aa",
+        "hexterm": "e3/f6/aa"
+    },
+    "ansi-11": {
+        "hex": "#ffddaa",
+        "hexterm": "ff/dd/aa"
+    },
+    "ansi-12": {
+        "hex": "#b3e8f3",
+        "hexterm": "b3/e8/f3"
+    },
+    "ansi-13": {
+        "hex": "#cbbaf9",
+        "hexterm": "cb/ba/f9"
+    },
+    "ansi-14": {
+        "hex": "#bcffc7",
+        "hexterm": "bc/ff/c7"
+    },
+    "ansi-15": {
+        "hex": "#efefef",
+        "hexterm": "ef/ef/ef"
+    },
+    "ansi-2": {
+        "hex": "#12c258",
+        "hexterm": "12/c2/58"
+    },
+    "ansi-3": {
+        "hex": "#ffc656",
+        "hexterm": "ff/c6/56"
+    },
+    "ansi-4": {
+        "hex": "#518bfc",
+        "hexterm": "51/8b/fc"
+    },
+    "ansi-5": {
+        "hex": "#e37bd9",
+        "hexterm": "e3/7b/d9"
+    },
+    "ansi-6": {
+        "hex": "#63fad5",
+        "hexterm": "63/fa/d5"
+    },
+    "ansi-7": {
+        "hex": "#bab2b2",
+        "hexterm": "ba/b2/b2"
+    },
+    "ansi-8": {
+        "hex": "#777777",
+        "hexterm": "77/77/77"
+    },
+    "ansi-9": {
+        "hex": "#ffb9b9",
+        "hexterm": "ff/b9/b9"
+    },
+    "background": {
+        "hex": "#201f1e",
+        "hexterm": "20/1f/1e"
+    },
+    "cursor": {
+        "hex": "#7a1c1c",
+        "hexterm": "7a/1c/1c"
+    },
+    "foreground": {
+        "hex": "#eee4d9",
+        "hexterm": "ee/e4/d9"
+    },
+    "selection": {
+        "hex": "#25524a",
+        "hexterm": "25/52/4a"
+    },
+    "selection-text": {
+        "hex": "#f3fffd",
+        "hexterm": "f3/ff/fd"
+    },
     "theme-author": "unknown",
     "theme-name": "arcoiris",
     "theme-slug": "arcoiris",

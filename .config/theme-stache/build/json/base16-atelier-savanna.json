@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#171c19",
-    "ansi-1-hex": "#b16139",
-    "ansi-10-hex": "#489963",
-    "ansi-11-hex": "#a07e3b",
-    "ansi-12-hex": "#478c90",
-    "ansi-13-hex": "#55859b",
-    "ansi-14-hex": "#1c9aa0",
-    "ansi-15-hex": "#ecf4ee",
-    "ansi-2-hex": "#489963",
-    "ansi-3-hex": "#a07e3b",
-    "ansi-4-hex": "#478c90",
-    "ansi-5-hex": "#55859b",
-    "ansi-6-hex": "#1c9aa0",
-    "ansi-7-hex": "#87928a",
-    "ansi-8-hex": "#5f6d64",
-    "ansi-9-hex": "#b16139",
-    "background-hex": "#171c19",
-    "cursor-hex": "#87928a",
-    "foreground-hex": "#87928a",
-    "selection-hex": "#dfe7e2",
-    "selection-text-hex": "#232a25",
+    "ansi-0": {
+        "hex": "#171c19",
+        "hexterm": "17/1c/19"
+    },
+    "ansi-1": {
+        "hex": "#b16139",
+        "hexterm": "b1/61/39"
+    },
+    "ansi-10": {
+        "hex": "#489963",
+        "hexterm": "48/99/63"
+    },
+    "ansi-11": {
+        "hex": "#a07e3b",
+        "hexterm": "a0/7e/3b"
+    },
+    "ansi-12": {
+        "hex": "#478c90",
+        "hexterm": "47/8c/90"
+    },
+    "ansi-13": {
+        "hex": "#55859b",
+        "hexterm": "55/85/9b"
+    },
+    "ansi-14": {
+        "hex": "#1c9aa0",
+        "hexterm": "1c/9a/a0"
+    },
+    "ansi-15": {
+        "hex": "#ecf4ee",
+        "hexterm": "ec/f4/ee"
+    },
+    "ansi-2": {
+        "hex": "#489963",
+        "hexterm": "48/99/63"
+    },
+    "ansi-3": {
+        "hex": "#a07e3b",
+        "hexterm": "a0/7e/3b"
+    },
+    "ansi-4": {
+        "hex": "#478c90",
+        "hexterm": "47/8c/90"
+    },
+    "ansi-5": {
+        "hex": "#55859b",
+        "hexterm": "55/85/9b"
+    },
+    "ansi-6": {
+        "hex": "#1c9aa0",
+        "hexterm": "1c/9a/a0"
+    },
+    "ansi-7": {
+        "hex": "#87928a",
+        "hexterm": "87/92/8a"
+    },
+    "ansi-8": {
+        "hex": "#5f6d64",
+        "hexterm": "5f/6d/64"
+    },
+    "ansi-9": {
+        "hex": "#b16139",
+        "hexterm": "b1/61/39"
+    },
+    "background": {
+        "hex": "#171c19",
+        "hexterm": "17/1c/19"
+    },
+    "cursor": {
+        "hex": "#87928a",
+        "hexterm": "87/92/8a"
+    },
+    "foreground": {
+        "hex": "#87928a",
+        "hexterm": "87/92/8a"
+    },
+    "selection": {
+        "hex": "#dfe7e2",
+        "hexterm": "df/e7/e2"
+    },
+    "selection-text": {
+        "hex": "#232a25",
+        "hexterm": "23/2a/25"
+    },
     "theme-author": "Bram de Haan (http://atelierbramdehaan.nl)",
     "theme-name": "Atelier Savanna",
     "theme-slug": "atelier-savanna",

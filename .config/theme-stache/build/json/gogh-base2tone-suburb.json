@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1e202f",
-    "ansi-1-hex": "#7586f5",
-    "ansi-10-hex": "#292c3d",
-    "ansi-11-hex": "#444864",
-    "ansi-12-hex": "#5b6080",
-    "ansi-13-hex": "#d2d8fe",
-    "ansi-14-hex": "#f764a1",
-    "ansi-15-hex": "#ebedff",
-    "ansi-2-hex": "#fb6fa9",
-    "ansi-3-hex": "#ffb3d2",
-    "ansi-4-hex": "#8696fd",
-    "ansi-5-hex": "#fb6fa9",
-    "ansi-6-hex": "#a0acfe",
-    "ansi-7-hex": "#878ba6",
-    "ansi-8-hex": "#4f5472",
-    "ansi-9-hex": "#fe81b5",
-    "background-hex": "#1e202f",
-    "cursor-hex": "#d14781",
-    "foreground-hex": "#878ba6",
-    "selection-hex": "#878ba6",
-    "selection-text-hex": "#1e202f",
+    "ansi-0": {
+        "hex": "#1e202f",
+        "hexterm": "1e/20/2f"
+    },
+    "ansi-1": {
+        "hex": "#7586f5",
+        "hexterm": "75/86/f5"
+    },
+    "ansi-10": {
+        "hex": "#292c3d",
+        "hexterm": "29/2c/3d"
+    },
+    "ansi-11": {
+        "hex": "#444864",
+        "hexterm": "44/48/64"
+    },
+    "ansi-12": {
+        "hex": "#5b6080",
+        "hexterm": "5b/60/80"
+    },
+    "ansi-13": {
+        "hex": "#d2d8fe",
+        "hexterm": "d2/d8/fe"
+    },
+    "ansi-14": {
+        "hex": "#f764a1",
+        "hexterm": "f7/64/a1"
+    },
+    "ansi-15": {
+        "hex": "#ebedff",
+        "hexterm": "eb/ed/ff"
+    },
+    "ansi-2": {
+        "hex": "#fb6fa9",
+        "hexterm": "fb/6f/a9"
+    },
+    "ansi-3": {
+        "hex": "#ffb3d2",
+        "hexterm": "ff/b3/d2"
+    },
+    "ansi-4": {
+        "hex": "#8696fd",
+        "hexterm": "86/96/fd"
+    },
+    "ansi-5": {
+        "hex": "#fb6fa9",
+        "hexterm": "fb/6f/a9"
+    },
+    "ansi-6": {
+        "hex": "#a0acfe",
+        "hexterm": "a0/ac/fe"
+    },
+    "ansi-7": {
+        "hex": "#878ba6",
+        "hexterm": "87/8b/a6"
+    },
+    "ansi-8": {
+        "hex": "#4f5472",
+        "hexterm": "4f/54/72"
+    },
+    "ansi-9": {
+        "hex": "#fe81b5",
+        "hexterm": "fe/81/b5"
+    },
+    "background": {
+        "hex": "#1e202f",
+        "hexterm": "1e/20/2f"
+    },
+    "cursor": {
+        "hex": "#d14781",
+        "hexterm": "d1/47/81"
+    },
+    "foreground": {
+        "hex": "#878ba6",
+        "hexterm": "87/8b/a6"
+    },
+    "selection": {
+        "hex": "#878ba6",
+        "hexterm": "87/8b/a6"
+    },
+    "selection-text": {
+        "hex": "#1e202f",
+        "hexterm": "1e/20/2f"
+    },
     "theme-author": "",
     "theme-name": "Base2Tone Suburb",
     "theme-slug": "base2tone-suburb",

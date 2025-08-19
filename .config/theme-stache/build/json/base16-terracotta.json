@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#efeae8",
-    "ansi-1-hex": "#a75045",
-    "ansi-10-hex": "#7a894a",
-    "ansi-11-hex": "#ce943e",
-    "ansi-12-hex": "#625574",
-    "ansi-13-hex": "#8d5968",
-    "ansi-14-hex": "#847f9e",
-    "ansi-15-hex": "#241c19",
-    "ansi-2-hex": "#7a894a",
-    "ansi-3-hex": "#ce943e",
-    "ansi-4-hex": "#625574",
-    "ansi-5-hex": "#8d5968",
-    "ansi-6-hex": "#847f9e",
-    "ansi-7-hex": "#473731",
-    "ansi-8-hex": "#c0aca4",
-    "ansi-9-hex": "#a75045",
-    "background-hex": "#efeae8",
-    "cursor-hex": "#473731",
-    "foreground-hex": "#473731",
-    "selection-hex": "#352a25",
-    "selection-text-hex": "#dfd6d1",
+    "ansi-0": {
+        "hex": "#efeae8",
+        "hexterm": "ef/ea/e8"
+    },
+    "ansi-1": {
+        "hex": "#a75045",
+        "hexterm": "a7/50/45"
+    },
+    "ansi-10": {
+        "hex": "#7a894a",
+        "hexterm": "7a/89/4a"
+    },
+    "ansi-11": {
+        "hex": "#ce943e",
+        "hexterm": "ce/94/3e"
+    },
+    "ansi-12": {
+        "hex": "#625574",
+        "hexterm": "62/55/74"
+    },
+    "ansi-13": {
+        "hex": "#8d5968",
+        "hexterm": "8d/59/68"
+    },
+    "ansi-14": {
+        "hex": "#847f9e",
+        "hexterm": "84/7f/9e"
+    },
+    "ansi-15": {
+        "hex": "#241c19",
+        "hexterm": "24/1c/19"
+    },
+    "ansi-2": {
+        "hex": "#7a894a",
+        "hexterm": "7a/89/4a"
+    },
+    "ansi-3": {
+        "hex": "#ce943e",
+        "hexterm": "ce/94/3e"
+    },
+    "ansi-4": {
+        "hex": "#625574",
+        "hexterm": "62/55/74"
+    },
+    "ansi-5": {
+        "hex": "#8d5968",
+        "hexterm": "8d/59/68"
+    },
+    "ansi-6": {
+        "hex": "#847f9e",
+        "hexterm": "84/7f/9e"
+    },
+    "ansi-7": {
+        "hex": "#473731",
+        "hexterm": "47/37/31"
+    },
+    "ansi-8": {
+        "hex": "#c0aca4",
+        "hexterm": "c0/ac/a4"
+    },
+    "ansi-9": {
+        "hex": "#a75045",
+        "hexterm": "a7/50/45"
+    },
+    "background": {
+        "hex": "#efeae8",
+        "hexterm": "ef/ea/e8"
+    },
+    "cursor": {
+        "hex": "#473731",
+        "hexterm": "47/37/31"
+    },
+    "foreground": {
+        "hex": "#473731",
+        "hexterm": "47/37/31"
+    },
+    "selection": {
+        "hex": "#352a25",
+        "hexterm": "35/2a/25"
+    },
+    "selection-text": {
+        "hex": "#dfd6d1",
+        "hexterm": "df/d6/d1"
+    },
     "theme-author": "Alexander Rossell Hayes (https://github.com/rossellhayes)",
     "theme-name": "Terracotta",
     "theme-slug": "terracotta",

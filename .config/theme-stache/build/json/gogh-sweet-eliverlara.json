@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#282c34",
-    "ansi-1-hex": "#ed254e",
-    "ansi-10-hex": "#71f79f",
-    "ansi-11-hex": "#f9dc5c",
-    "ansi-12-hex": "#7cb7ff",
-    "ansi-13-hex": "#c74ded",
-    "ansi-14-hex": "#00c1e4",
-    "ansi-15-hex": "#dcdfe4",
-    "ansi-2-hex": "#71f79f",
-    "ansi-3-hex": "#f9dc5c",
-    "ansi-4-hex": "#7cb7ff",
-    "ansi-5-hex": "#c74ded",
-    "ansi-6-hex": "#00c1e4",
-    "ansi-7-hex": "#dcdfe4",
-    "ansi-8-hex": "#282c34",
-    "ansi-9-hex": "#ed254e",
-    "background-hex": "#282c34",
-    "cursor-hex": "#c3c7d1",
-    "foreground-hex": "#c3c7d1",
-    "selection-hex": "#c3c7d1",
-    "selection-text-hex": "#282c34",
+    "ansi-0": {
+        "hex": "#282c34",
+        "hexterm": "28/2c/34"
+    },
+    "ansi-1": {
+        "hex": "#ed254e",
+        "hexterm": "ed/25/4e"
+    },
+    "ansi-10": {
+        "hex": "#71f79f",
+        "hexterm": "71/f7/9f"
+    },
+    "ansi-11": {
+        "hex": "#f9dc5c",
+        "hexterm": "f9/dc/5c"
+    },
+    "ansi-12": {
+        "hex": "#7cb7ff",
+        "hexterm": "7c/b7/ff"
+    },
+    "ansi-13": {
+        "hex": "#c74ded",
+        "hexterm": "c7/4d/ed"
+    },
+    "ansi-14": {
+        "hex": "#00c1e4",
+        "hexterm": "00/c1/e4"
+    },
+    "ansi-15": {
+        "hex": "#dcdfe4",
+        "hexterm": "dc/df/e4"
+    },
+    "ansi-2": {
+        "hex": "#71f79f",
+        "hexterm": "71/f7/9f"
+    },
+    "ansi-3": {
+        "hex": "#f9dc5c",
+        "hexterm": "f9/dc/5c"
+    },
+    "ansi-4": {
+        "hex": "#7cb7ff",
+        "hexterm": "7c/b7/ff"
+    },
+    "ansi-5": {
+        "hex": "#c74ded",
+        "hexterm": "c7/4d/ed"
+    },
+    "ansi-6": {
+        "hex": "#00c1e4",
+        "hexterm": "00/c1/e4"
+    },
+    "ansi-7": {
+        "hex": "#dcdfe4",
+        "hexterm": "dc/df/e4"
+    },
+    "ansi-8": {
+        "hex": "#282c34",
+        "hexterm": "28/2c/34"
+    },
+    "ansi-9": {
+        "hex": "#ed254e",
+        "hexterm": "ed/25/4e"
+    },
+    "background": {
+        "hex": "#282c34",
+        "hexterm": "28/2c/34"
+    },
+    "cursor": {
+        "hex": "#c3c7d1",
+        "hexterm": "c3/c7/d1"
+    },
+    "foreground": {
+        "hex": "#c3c7d1",
+        "hexterm": "c3/c7/d1"
+    },
+    "selection": {
+        "hex": "#c3c7d1",
+        "hexterm": "c3/c7/d1"
+    },
+    "selection-text": {
+        "hex": "#282c34",
+        "hexterm": "28/2c/34"
+    },
     "theme-author": "",
     "theme-name": "Sweet Eliverlara",
     "theme-slug": "sweet-eliverlara",

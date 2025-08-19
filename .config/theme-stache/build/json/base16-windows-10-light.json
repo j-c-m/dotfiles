@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#f2f2f2",
-    "ansi-1-hex": "#c50f1f",
-    "ansi-10-hex": "#13a10e",
-    "ansi-11-hex": "#c19c00",
-    "ansi-12-hex": "#0037da",
-    "ansi-13-hex": "#881798",
-    "ansi-14-hex": "#3a96dd",
-    "ansi-15-hex": "#0c0c0c",
-    "ansi-2-hex": "#13a10e",
-    "ansi-3-hex": "#c19c00",
-    "ansi-4-hex": "#0037da",
-    "ansi-5-hex": "#881798",
-    "ansi-6-hex": "#3a96dd",
-    "ansi-7-hex": "#767676",
-    "ansi-8-hex": "#cccccc",
-    "ansi-9-hex": "#c50f1f",
-    "background-hex": "#f2f2f2",
-    "cursor-hex": "#767676",
-    "foreground-hex": "#767676",
-    "selection-hex": "#414141",
-    "selection-text-hex": "#e5e5e5",
+    "ansi-0": {
+        "hex": "#f2f2f2",
+        "hexterm": "f2/f2/f2"
+    },
+    "ansi-1": {
+        "hex": "#c50f1f",
+        "hexterm": "c5/0f/1f"
+    },
+    "ansi-10": {
+        "hex": "#13a10e",
+        "hexterm": "13/a1/0e"
+    },
+    "ansi-11": {
+        "hex": "#c19c00",
+        "hexterm": "c1/9c/00"
+    },
+    "ansi-12": {
+        "hex": "#0037da",
+        "hexterm": "00/37/da"
+    },
+    "ansi-13": {
+        "hex": "#881798",
+        "hexterm": "88/17/98"
+    },
+    "ansi-14": {
+        "hex": "#3a96dd",
+        "hexterm": "3a/96/dd"
+    },
+    "ansi-15": {
+        "hex": "#0c0c0c",
+        "hexterm": "0c/0c/0c"
+    },
+    "ansi-2": {
+        "hex": "#13a10e",
+        "hexterm": "13/a1/0e"
+    },
+    "ansi-3": {
+        "hex": "#c19c00",
+        "hexterm": "c1/9c/00"
+    },
+    "ansi-4": {
+        "hex": "#0037da",
+        "hexterm": "00/37/da"
+    },
+    "ansi-5": {
+        "hex": "#881798",
+        "hexterm": "88/17/98"
+    },
+    "ansi-6": {
+        "hex": "#3a96dd",
+        "hexterm": "3a/96/dd"
+    },
+    "ansi-7": {
+        "hex": "#767676",
+        "hexterm": "76/76/76"
+    },
+    "ansi-8": {
+        "hex": "#cccccc",
+        "hexterm": "cc/cc/cc"
+    },
+    "ansi-9": {
+        "hex": "#c50f1f",
+        "hexterm": "c5/0f/1f"
+    },
+    "background": {
+        "hex": "#f2f2f2",
+        "hexterm": "f2/f2/f2"
+    },
+    "cursor": {
+        "hex": "#767676",
+        "hexterm": "76/76/76"
+    },
+    "foreground": {
+        "hex": "#767676",
+        "hexterm": "76/76/76"
+    },
+    "selection": {
+        "hex": "#414141",
+        "hexterm": "41/41/41"
+    },
+    "selection-text": {
+        "hex": "#e5e5e5",
+        "hexterm": "e5/e5/e5"
+    },
     "theme-author": "Fergus Collins (https://github.com/ferguscollins)",
     "theme-name": "Windows 10 Light",
     "theme-slug": "windows-10-light",

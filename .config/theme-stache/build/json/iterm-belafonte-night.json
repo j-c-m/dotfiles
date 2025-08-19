@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#20111b",
-    "ansi-1-hex": "#be100e",
-    "ansi-10-hex": "#858162",
-    "ansi-11-hex": "#eaa549",
-    "ansi-12-hex": "#426a79",
-    "ansi-13-hex": "#97522c",
-    "ansi-14-hex": "#989a9c",
-    "ansi-15-hex": "#d5ccba",
-    "ansi-2-hex": "#858162",
-    "ansi-3-hex": "#eaa549",
-    "ansi-4-hex": "#426a79",
-    "ansi-5-hex": "#97522c",
-    "ansi-6-hex": "#989a9c",
-    "ansi-7-hex": "#968c83",
-    "ansi-8-hex": "#5e5252",
-    "ansi-9-hex": "#be100e",
-    "background-hex": "#20111b",
-    "cursor-hex": "#968c83",
-    "foreground-hex": "#968c83",
-    "selection-hex": "#45373c",
-    "selection-text-hex": "#968c83",
+    "ansi-0": {
+        "hex": "#20111b",
+        "hexterm": "20/11/1b"
+    },
+    "ansi-1": {
+        "hex": "#be100e",
+        "hexterm": "be/10/0e"
+    },
+    "ansi-10": {
+        "hex": "#858162",
+        "hexterm": "85/81/62"
+    },
+    "ansi-11": {
+        "hex": "#eaa549",
+        "hexterm": "ea/a5/49"
+    },
+    "ansi-12": {
+        "hex": "#426a79",
+        "hexterm": "42/6a/79"
+    },
+    "ansi-13": {
+        "hex": "#97522c",
+        "hexterm": "97/52/2c"
+    },
+    "ansi-14": {
+        "hex": "#989a9c",
+        "hexterm": "98/9a/9c"
+    },
+    "ansi-15": {
+        "hex": "#d5ccba",
+        "hexterm": "d5/cc/ba"
+    },
+    "ansi-2": {
+        "hex": "#858162",
+        "hexterm": "85/81/62"
+    },
+    "ansi-3": {
+        "hex": "#eaa549",
+        "hexterm": "ea/a5/49"
+    },
+    "ansi-4": {
+        "hex": "#426a79",
+        "hexterm": "42/6a/79"
+    },
+    "ansi-5": {
+        "hex": "#97522c",
+        "hexterm": "97/52/2c"
+    },
+    "ansi-6": {
+        "hex": "#989a9c",
+        "hexterm": "98/9a/9c"
+    },
+    "ansi-7": {
+        "hex": "#968c83",
+        "hexterm": "96/8c/83"
+    },
+    "ansi-8": {
+        "hex": "#5e5252",
+        "hexterm": "5e/52/52"
+    },
+    "ansi-9": {
+        "hex": "#be100e",
+        "hexterm": "be/10/0e"
+    },
+    "background": {
+        "hex": "#20111b",
+        "hexterm": "20/11/1b"
+    },
+    "cursor": {
+        "hex": "#968c83",
+        "hexterm": "96/8c/83"
+    },
+    "foreground": {
+        "hex": "#968c83",
+        "hexterm": "96/8c/83"
+    },
+    "selection": {
+        "hex": "#45373c",
+        "hexterm": "45/37/3c"
+    },
+    "selection-text": {
+        "hex": "#968c83",
+        "hexterm": "96/8c/83"
+    },
     "theme-author": "unknown",
     "theme-name": "Belafonte Night",
     "theme-slug": "belafonte-night",

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#191919",
-    "ansi-1-hex": "#aa332d",
-    "ansi-10-hex": "#94dc54",
-    "ansi-11-hex": "#ffe762",
-    "ansi-12-hex": "#60a3ec",
-    "ansi-13-hex": "#e16ae1",
-    "ansi-14-hex": "#60b6cb",
-    "ansi-15-hex": "#f7f7f7",
-    "ansi-2-hex": "#4a8c0f",
-    "ansi-3-hex": "#dbb900",
-    "ansi-4-hex": "#126fd3",
-    "ansi-5-hex": "#c33ac2",
-    "ansi-6-hex": "#008db0",
-    "ansi-7-hex": "#bebebe",
-    "ansi-8-hex": "#444444",
-    "ansi-9-hex": "#f05a50",
-    "background-hex": "#102040",
-    "cursor-hex": "#007acc",
-    "foreground-hex": "#dcdcdc",
-    "selection-hex": "#bfdbfe",
-    "selection-text-hex": "#000000",
+    "ansi-0": {
+        "hex": "#191919",
+        "hexterm": "19/19/19"
+    },
+    "ansi-1": {
+        "hex": "#aa332d",
+        "hexterm": "aa/33/2d"
+    },
+    "ansi-10": {
+        "hex": "#94dc54",
+        "hexterm": "94/dc/54"
+    },
+    "ansi-11": {
+        "hex": "#ffe762",
+        "hexterm": "ff/e7/62"
+    },
+    "ansi-12": {
+        "hex": "#60a3ec",
+        "hexterm": "60/a3/ec"
+    },
+    "ansi-13": {
+        "hex": "#e16ae1",
+        "hexterm": "e1/6a/e1"
+    },
+    "ansi-14": {
+        "hex": "#60b6cb",
+        "hexterm": "60/b6/cb"
+    },
+    "ansi-15": {
+        "hex": "#f7f7f7",
+        "hexterm": "f7/f7/f7"
+    },
+    "ansi-2": {
+        "hex": "#4a8c0f",
+        "hexterm": "4a/8c/0f"
+    },
+    "ansi-3": {
+        "hex": "#dbb900",
+        "hexterm": "db/b9/00"
+    },
+    "ansi-4": {
+        "hex": "#126fd3",
+        "hexterm": "12/6f/d3"
+    },
+    "ansi-5": {
+        "hex": "#c33ac2",
+        "hexterm": "c3/3a/c2"
+    },
+    "ansi-6": {
+        "hex": "#008db0",
+        "hexterm": "00/8d/b0"
+    },
+    "ansi-7": {
+        "hex": "#bebebe",
+        "hexterm": "be/be/be"
+    },
+    "ansi-8": {
+        "hex": "#444444",
+        "hexterm": "44/44/44"
+    },
+    "ansi-9": {
+        "hex": "#f05a50",
+        "hexterm": "f0/5a/50"
+    },
+    "background": {
+        "hex": "#102040",
+        "hexterm": "10/20/40"
+    },
+    "cursor": {
+        "hex": "#007acc",
+        "hexterm": "00/7a/cc"
+    },
+    "foreground": {
+        "hex": "#dcdcdc",
+        "hexterm": "dc/dc/dc"
+    },
+    "selection": {
+        "hex": "#bfdbfe",
+        "hexterm": "bf/db/fe"
+    },
+    "selection-text": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
     "theme-author": "unknown",
     "theme-name": "Aardvark Blue",
     "theme-slug": "aardvark-blue",

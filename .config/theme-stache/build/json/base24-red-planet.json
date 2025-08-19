@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#222222",
-    "ansi-1-hex": "#8c3432",
-    "ansi-10-hex": "#869985",
-    "ansi-11-hex": "#ebeb91",
-    "ansi-12-hex": "#60827e",
-    "ansi-13-hex": "#de4873",
-    "ansi-14-hex": "#38add8",
-    "ansi-15-hex": "#d6bfb8",
-    "ansi-2-hex": "#728271",
-    "ansi-3-hex": "#60827e",
-    "ansi-4-hex": "#69809e",
-    "ansi-5-hex": "#896492",
-    "ansi-6-hex": "#5b8390",
-    "ansi-7-hex": "#a4998c",
-    "ansi-8-hex": "#7b7773",
-    "ansi-9-hex": "#b55242",
-    "background-hex": "#222222",
-    "cursor-hex": "#a4998c",
-    "foreground-hex": "#a4998c",
-    "selection-hex": "#b9aa99",
-    "selection-text-hex": "#201f1f",
+    "ansi-0": {
+        "hex": "#222222",
+        "hexterm": "22/22/22"
+    },
+    "ansi-1": {
+        "hex": "#8c3432",
+        "hexterm": "8c/34/32"
+    },
+    "ansi-10": {
+        "hex": "#869985",
+        "hexterm": "86/99/85"
+    },
+    "ansi-11": {
+        "hex": "#ebeb91",
+        "hexterm": "eb/eb/91"
+    },
+    "ansi-12": {
+        "hex": "#60827e",
+        "hexterm": "60/82/7e"
+    },
+    "ansi-13": {
+        "hex": "#de4873",
+        "hexterm": "de/48/73"
+    },
+    "ansi-14": {
+        "hex": "#38add8",
+        "hexterm": "38/ad/d8"
+    },
+    "ansi-15": {
+        "hex": "#d6bfb8",
+        "hexterm": "d6/bf/b8"
+    },
+    "ansi-2": {
+        "hex": "#728271",
+        "hexterm": "72/82/71"
+    },
+    "ansi-3": {
+        "hex": "#60827e",
+        "hexterm": "60/82/7e"
+    },
+    "ansi-4": {
+        "hex": "#69809e",
+        "hexterm": "69/80/9e"
+    },
+    "ansi-5": {
+        "hex": "#896492",
+        "hexterm": "89/64/92"
+    },
+    "ansi-6": {
+        "hex": "#5b8390",
+        "hexterm": "5b/83/90"
+    },
+    "ansi-7": {
+        "hex": "#a4998c",
+        "hexterm": "a4/99/8c"
+    },
+    "ansi-8": {
+        "hex": "#7b7773",
+        "hexterm": "7b/77/73"
+    },
+    "ansi-9": {
+        "hex": "#b55242",
+        "hexterm": "b5/52/42"
+    },
+    "background": {
+        "hex": "#222222",
+        "hexterm": "22/22/22"
+    },
+    "cursor": {
+        "hex": "#a4998c",
+        "hexterm": "a4/99/8c"
+    },
+    "foreground": {
+        "hex": "#a4998c",
+        "hexterm": "a4/99/8c"
+    },
+    "selection": {
+        "hex": "#b9aa99",
+        "hexterm": "b9/aa/99"
+    },
+    "selection-text": {
+        "hex": "#201f1f",
+        "hexterm": "20/1f/1f"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Red Planet",
     "theme-slug": "red-planet",

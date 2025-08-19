@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#ece3cc",
-    "ansi-1-hex": "#d2212d",
-    "ansi-10-hex": "#428b00",
-    "ansi-11-hex": "#a78300",
-    "ansi-12-hex": "#006dce",
-    "ansi-13-hex": "#c44392",
-    "ansi-14-hex": "#00978a",
-    "ansi-15-hex": "#3a4d53",
-    "ansi-2-hex": "#489100",
-    "ansi-3-hex": "#ad8900",
-    "ansi-4-hex": "#0072d4",
-    "ansi-5-hex": "#ca4898",
-    "ansi-6-hex": "#009c8f",
-    "ansi-7-hex": "#909995",
-    "ansi-8-hex": "#d5cdb6",
-    "ansi-9-hex": "#cc1729",
-    "background-hex": "#fbf3db",
-    "cursor-hex": "#3a4d53",
-    "foreground-hex": "#53676d",
-    "selection-hex": "#53676d",
-    "selection-text-hex": "#fbf3db",
+    "ansi-0": {
+        "hex": "#ece3cc",
+        "hexterm": "ec/e3/cc"
+    },
+    "ansi-1": {
+        "hex": "#d2212d",
+        "hexterm": "d2/21/2d"
+    },
+    "ansi-10": {
+        "hex": "#428b00",
+        "hexterm": "42/8b/00"
+    },
+    "ansi-11": {
+        "hex": "#a78300",
+        "hexterm": "a7/83/00"
+    },
+    "ansi-12": {
+        "hex": "#006dce",
+        "hexterm": "00/6d/ce"
+    },
+    "ansi-13": {
+        "hex": "#c44392",
+        "hexterm": "c4/43/92"
+    },
+    "ansi-14": {
+        "hex": "#00978a",
+        "hexterm": "00/97/8a"
+    },
+    "ansi-15": {
+        "hex": "#3a4d53",
+        "hexterm": "3a/4d/53"
+    },
+    "ansi-2": {
+        "hex": "#489100",
+        "hexterm": "48/91/00"
+    },
+    "ansi-3": {
+        "hex": "#ad8900",
+        "hexterm": "ad/89/00"
+    },
+    "ansi-4": {
+        "hex": "#0072d4",
+        "hexterm": "00/72/d4"
+    },
+    "ansi-5": {
+        "hex": "#ca4898",
+        "hexterm": "ca/48/98"
+    },
+    "ansi-6": {
+        "hex": "#009c8f",
+        "hexterm": "00/9c/8f"
+    },
+    "ansi-7": {
+        "hex": "#909995",
+        "hexterm": "90/99/95"
+    },
+    "ansi-8": {
+        "hex": "#d5cdb6",
+        "hexterm": "d5/cd/b6"
+    },
+    "ansi-9": {
+        "hex": "#cc1729",
+        "hexterm": "cc/17/29"
+    },
+    "background": {
+        "hex": "#fbf3db",
+        "hexterm": "fb/f3/db"
+    },
+    "cursor": {
+        "hex": "#3a4d53",
+        "hexterm": "3a/4d/53"
+    },
+    "foreground": {
+        "hex": "#53676d",
+        "hexterm": "53/67/6d"
+    },
+    "selection": {
+        "hex": "#53676d",
+        "hexterm": "53/67/6d"
+    },
+    "selection-text": {
+        "hex": "#fbf3db",
+        "hexterm": "fb/f3/db"
+    },
     "theme-author": "",
     "theme-name": "Selenized Light",
     "theme-slug": "selenized-light",

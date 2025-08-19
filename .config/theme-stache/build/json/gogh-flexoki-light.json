@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#282726",
-    "ansi-1-hex": "#af3029",
-    "ansi-10-hex": "#879a39",
-    "ansi-11-hex": "#d0a215",
-    "ansi-12-hex": "#4385be",
-    "ansi-13-hex": "#ce5d97",
-    "ansi-14-hex": "#3aa99f",
-    "ansi-15-hex": "#6f6e69",
-    "ansi-2-hex": "#66800b",
-    "ansi-3-hex": "#ad8301",
-    "ansi-4-hex": "#205ea6",
-    "ansi-5-hex": "#a02f6f",
-    "ansi-6-hex": "#24837b",
-    "ansi-7-hex": "#878580",
-    "ansi-8-hex": "#1c1b1a",
-    "ansi-9-hex": "#d14d41",
-    "background-hex": "#fffcf0",
-    "cursor-hex": "#100f0f",
-    "foreground-hex": "#100f0f",
-    "selection-hex": "#100f0f",
-    "selection-text-hex": "#fffcf0",
+    "ansi-0": {
+        "hex": "#282726",
+        "hexterm": "28/27/26"
+    },
+    "ansi-1": {
+        "hex": "#af3029",
+        "hexterm": "af/30/29"
+    },
+    "ansi-10": {
+        "hex": "#879a39",
+        "hexterm": "87/9a/39"
+    },
+    "ansi-11": {
+        "hex": "#d0a215",
+        "hexterm": "d0/a2/15"
+    },
+    "ansi-12": {
+        "hex": "#4385be",
+        "hexterm": "43/85/be"
+    },
+    "ansi-13": {
+        "hex": "#ce5d97",
+        "hexterm": "ce/5d/97"
+    },
+    "ansi-14": {
+        "hex": "#3aa99f",
+        "hexterm": "3a/a9/9f"
+    },
+    "ansi-15": {
+        "hex": "#6f6e69",
+        "hexterm": "6f/6e/69"
+    },
+    "ansi-2": {
+        "hex": "#66800b",
+        "hexterm": "66/80/0b"
+    },
+    "ansi-3": {
+        "hex": "#ad8301",
+        "hexterm": "ad/83/01"
+    },
+    "ansi-4": {
+        "hex": "#205ea6",
+        "hexterm": "20/5e/a6"
+    },
+    "ansi-5": {
+        "hex": "#a02f6f",
+        "hexterm": "a0/2f/6f"
+    },
+    "ansi-6": {
+        "hex": "#24837b",
+        "hexterm": "24/83/7b"
+    },
+    "ansi-7": {
+        "hex": "#878580",
+        "hexterm": "87/85/80"
+    },
+    "ansi-8": {
+        "hex": "#1c1b1a",
+        "hexterm": "1c/1b/1a"
+    },
+    "ansi-9": {
+        "hex": "#d14d41",
+        "hexterm": "d1/4d/41"
+    },
+    "background": {
+        "hex": "#fffcf0",
+        "hexterm": "ff/fc/f0"
+    },
+    "cursor": {
+        "hex": "#100f0f",
+        "hexterm": "10/0f/0f"
+    },
+    "foreground": {
+        "hex": "#100f0f",
+        "hexterm": "10/0f/0f"
+    },
+    "selection": {
+        "hex": "#100f0f",
+        "hexterm": "10/0f/0f"
+    },
+    "selection-text": {
+        "hex": "#fffcf0",
+        "hexterm": "ff/fc/f0"
+    },
     "theme-author": "",
     "theme-name": "Flexoki Light",
     "theme-slug": "flexoki-light",

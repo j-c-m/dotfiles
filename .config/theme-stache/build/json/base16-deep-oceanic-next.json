@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#001c1f",
-    "ansi-1-hex": "#d3464d",
-    "ansi-10-hex": "#63b784",
-    "ansi-11-hex": "#f3b863",
-    "ansi-12-hex": "#568ccf",
-    "ansi-13-hex": "#8b66d6",
-    "ansi-14-hex": "#4fb7ae",
-    "ansi-15-hex": "#f2f7f9",
-    "ansi-2-hex": "#63b784",
-    "ansi-3-hex": "#f3b863",
-    "ansi-4-hex": "#568ccf",
-    "ansi-5-hex": "#8b66d6",
-    "ansi-6-hex": "#4fb7ae",
-    "ansi-7-hex": "#d4e1e8",
-    "ansi-8-hex": "#004852",
-    "ansi-9-hex": "#d3464d",
-    "background-hex": "#001c1f",
-    "cursor-hex": "#d4e1e8",
-    "foreground-hex": "#d4e1e8",
-    "selection-hex": "#e0e9ef",
-    "selection-text-hex": "#002931",
+    "ansi-0": {
+        "hex": "#001c1f",
+        "hexterm": "00/1c/1f"
+    },
+    "ansi-1": {
+        "hex": "#d3464d",
+        "hexterm": "d3/46/4d"
+    },
+    "ansi-10": {
+        "hex": "#63b784",
+        "hexterm": "63/b7/84"
+    },
+    "ansi-11": {
+        "hex": "#f3b863",
+        "hexterm": "f3/b8/63"
+    },
+    "ansi-12": {
+        "hex": "#568ccf",
+        "hexterm": "56/8c/cf"
+    },
+    "ansi-13": {
+        "hex": "#8b66d6",
+        "hexterm": "8b/66/d6"
+    },
+    "ansi-14": {
+        "hex": "#4fb7ae",
+        "hexterm": "4f/b7/ae"
+    },
+    "ansi-15": {
+        "hex": "#f2f7f9",
+        "hexterm": "f2/f7/f9"
+    },
+    "ansi-2": {
+        "hex": "#63b784",
+        "hexterm": "63/b7/84"
+    },
+    "ansi-3": {
+        "hex": "#f3b863",
+        "hexterm": "f3/b8/63"
+    },
+    "ansi-4": {
+        "hex": "#568ccf",
+        "hexterm": "56/8c/cf"
+    },
+    "ansi-5": {
+        "hex": "#8b66d6",
+        "hexterm": "8b/66/d6"
+    },
+    "ansi-6": {
+        "hex": "#4fb7ae",
+        "hexterm": "4f/b7/ae"
+    },
+    "ansi-7": {
+        "hex": "#d4e1e8",
+        "hexterm": "d4/e1/e8"
+    },
+    "ansi-8": {
+        "hex": "#004852",
+        "hexterm": "00/48/52"
+    },
+    "ansi-9": {
+        "hex": "#d3464d",
+        "hexterm": "d3/46/4d"
+    },
+    "background": {
+        "hex": "#001c1f",
+        "hexterm": "00/1c/1f"
+    },
+    "cursor": {
+        "hex": "#d4e1e8",
+        "hexterm": "d4/e1/e8"
+    },
+    "foreground": {
+        "hex": "#d4e1e8",
+        "hexterm": "d4/e1/e8"
+    },
+    "selection": {
+        "hex": "#e0e9ef",
+        "hexterm": "e0/e9/ef"
+    },
+    "selection-text": {
+        "hex": "#002931",
+        "hexterm": "00/29/31"
+    },
     "theme-author": "spearkkk (https://github.com/spearkkk)",
     "theme-name": "Deep Oceanic Next",
     "theme-slug": "deep-oceanic-next",

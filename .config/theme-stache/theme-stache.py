@@ -76,27 +76,27 @@ def update_preview(win, file_path):
 
     # Redefine colors (1-25)
     for i in range(16):
-        hex_val = theme.get(f'ansi-{i}-hex', '#000000')
+        hex_val = theme.get(f'ansi-{i}', {}).get('hex', '#000000')
         r, g, b = hex_to_rgb(hex_val)
         curses.init_color(i + 1, r * 1000 // 255, g * 1000 // 255, b * 1000 // 255)
 
-    fg_hex = theme.get('foreground-hex', '#FFFFFF')
+    fg_hex = theme.get('foreground', {}).get('hex', '#FFFFFF')
     r, g, b = hex_to_rgb(fg_hex)
     curses.init_color(17, r * 1000 // 255, g * 1000 // 255, b * 1000 // 255)
 
-    bg_hex = theme.get('background-hex', '#000000')
+    bg_hex = theme.get('background', {}).get('hex', '#000000')
     r, g, b = hex_to_rgb(bg_hex)
     curses.init_color(18, r * 1000 // 255, g * 1000 // 255, b * 1000 // 255)
 
-    cursor_hex = theme.get('cursor-hex', '#FFFFFF')
+    cursor_hex = theme.get('cursor', {}).get('hex', '#FFFFFF')
     r, g, b = hex_to_rgb(cursor_hex)
     curses.init_color(19, r * 1000 // 255, g * 1000 // 255, b * 1000 // 255)
 
-    sel_hex = theme.get('selection-hex', '#CCCCCC')
+    sel_hex = theme.get('selection', {}).get('hex', '#CCCCCC')
     r, g, b = hex_to_rgb(sel_hex)
     curses.init_color(20, r * 1000 // 255, g * 1000 // 255, b * 1000 // 255)
 
-    sel_text_hex = theme.get('selection-text-hex', '#000000')
+    sel_text_hex = theme.get('selection-text', {}).get('hex', '#000000')
     r, g, b = hex_to_rgb(sel_text_hex)
     curses.init_color(21, r * 1000 // 255, g * 1000 // 255, b * 1000 // 255)
 
@@ -105,8 +105,8 @@ def update_preview(win, file_path):
     r, g, b = hex_to_rgb('#FFFFFF')
     curses.init_color(24, r * 1000 // 255, g * 1000 // 255, b * 1000 // 255)
 
-    # Color pair for key names (ansi-1-hex on bg)
-    ansi_1_hex = theme.get('ansi-1-hex', '#FF0000')
+    # Color pair for key names (ansi-1.hex on bg)
+    ansi_1_hex = theme.get('ansi-1', {}).get('hex', '#FF0000')
     r, g, b = hex_to_rgb(ansi_1_hex)
     curses.init_color(25, r * 1000 // 255, g * 1000 // 255, b * 1000 // 255)
     fg = choose_readable_foreground(ansi_1_hex, bg_hex)
@@ -116,7 +116,7 @@ def update_preview(win, file_path):
     # Define color pairs
     curses.init_pair(1, 17, 18)  # fg on bg (default)
     for i in range(16):
-        fg = choose_readable_foreground(fg_hex, theme.get(f'ansi-{i}-hex', '#000000'))
+        fg = choose_readable_foreground(fg_hex, theme.get(f'ansi-{i}', {}).get('hex', '#000000'))
         fg_color = 23 if fg == '#000000' else 24 if fg == '#FFFFFF' else 17
         curses.init_pair(2 + i, fg_color, i + 1)  # adjusted fg on ansi-i bg
     fg = choose_readable_foreground(fg_hex, cursor_hex)
@@ -147,7 +147,7 @@ def update_preview(win, file_path):
     metadata_lines = 6  # Title + Theme + Author + Variant + Source + blank
     header_lines = 2  # "ANSI Colors:" + "Other Colors:"
     shortcuts_lines = 1  # Shortcuts at bottom
-    box_height = 2  # Fixed height for each rectangle (name + hex, no padding)
+    box_height = 2  # Fixed height for each rectangle (name + hex)
     min_box_width = 10  # Minimum width for each rectangle
     # Fixed 2-column grid
     cols = 2
@@ -185,9 +185,9 @@ def update_preview(win, file_path):
                     x = 1 + col * box_width
                     y = line + row * box_height
                     name = ansi_names[idx][:box_width-2]
-                    hex_val = theme.get(f'ansi-{idx}-hex', '#000000')[:box_width-2]
+                    hex_val = theme.get(f'ansi-{idx}', {}).get('hex', '#000000')[:box_width-2]
                     win.addstr(y, x, f"{name:^{box_width-2}}", curses.color_pair(2 + idx))
-                    if y + 1 < height:
+                    if y + 1 < height and box_height >= 2:
                         win.addstr(y + 1, x, f"{hex_val:^{box_width-2}}", curses.color_pair(2 + idx))
                 except curses.error:
                     pass
@@ -197,11 +197,11 @@ def update_preview(win, file_path):
         win.addstr(line, 1, "Other Colors:", curses.color_pair(1))
         line += 1
         other_colors = [
-            ("Foreground", fg_hex, 21),
-            ("Background", bg_hex, 20),
-            ("Cursor", cursor_hex, 18),
-            ("Selection", sel_hex, 22),
-            ("Sel Text", sel_text_hex, 23)
+            ("Foreground", theme.get('foreground', {}).get('hex', '#FFFFFF'), 21),
+            ("Background", theme.get('background', {}).get('hex', '#000000'), 20),
+            ("Cursor", theme.get('cursor', {}).get('hex', '#FFFFFF'), 18),
+            ("Selection", theme.get('selection', {}).get('hex', '#CCCCCC'), 22),
+            ("Sel Text", theme.get('selection-text', {}).get('hex', '#000000'), 23)
         ]
         for idx, (name, hex_val, pair) in enumerate(other_colors):
             col = idx % cols
@@ -212,7 +212,7 @@ def update_preview(win, file_path):
                 name_text = name[:box_width-2]
                 hex_text = hex_val[:box_width-2]
                 win.addstr(y, x, f"{name_text:^{box_width-2}}", curses.color_pair(pair))
-                if y + 1 < height:
+                if y + 1 < height and box_height >= 2:
                     win.addstr(y + 1, x, f"{hex_text:^{box_width-2}}", curses.color_pair(pair))
             except curses.error:
                 pass
@@ -352,7 +352,7 @@ def main(stdscr, themes):
 if __name__ == "__main__":
     default_dir = Path(__file__).resolve().parent / "build" / "json"
     if len(sys.argv) > 2:
-        print("Usage: python preview.py [directory]")
+        print("Usage: python theme-stache.py [directory]")
         sys.exit(1)
     directory = Path(sys.argv[1]) if len(sys.argv) == 2 else default_dir
     if directory.is_dir():

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#090618",
-    "ansi-1-hex": "#c34043",
-    "ansi-10-hex": "#98bb6c",
-    "ansi-11-hex": "#e6c384",
-    "ansi-12-hex": "#7fb4ca",
-    "ansi-13-hex": "#938aa9",
-    "ansi-14-hex": "#7aa89f",
-    "ansi-15-hex": "#dcd7ba",
-    "ansi-2-hex": "#76946a",
-    "ansi-3-hex": "#c0a36e",
-    "ansi-4-hex": "#7e9cd8",
-    "ansi-5-hex": "#957fb8",
-    "ansi-6-hex": "#6a9589",
-    "ansi-7-hex": "#c8c093",
-    "ansi-8-hex": "#727169",
-    "ansi-9-hex": "#e82424",
-    "background-hex": "#1f1f28",
-    "cursor-hex": "#c8c093",
-    "foreground-hex": "#dcd7ba",
-    "selection-hex": "#2d4f67",
-    "selection-text-hex": "#c8c093",
+    "ansi-0": {
+        "hex": "#090618",
+        "hexterm": "09/06/18"
+    },
+    "ansi-1": {
+        "hex": "#c34043",
+        "hexterm": "c3/40/43"
+    },
+    "ansi-10": {
+        "hex": "#98bb6c",
+        "hexterm": "98/bb/6c"
+    },
+    "ansi-11": {
+        "hex": "#e6c384",
+        "hexterm": "e6/c3/84"
+    },
+    "ansi-12": {
+        "hex": "#7fb4ca",
+        "hexterm": "7f/b4/ca"
+    },
+    "ansi-13": {
+        "hex": "#938aa9",
+        "hexterm": "93/8a/a9"
+    },
+    "ansi-14": {
+        "hex": "#7aa89f",
+        "hexterm": "7a/a8/9f"
+    },
+    "ansi-15": {
+        "hex": "#dcd7ba",
+        "hexterm": "dc/d7/ba"
+    },
+    "ansi-2": {
+        "hex": "#76946a",
+        "hexterm": "76/94/6a"
+    },
+    "ansi-3": {
+        "hex": "#c0a36e",
+        "hexterm": "c0/a3/6e"
+    },
+    "ansi-4": {
+        "hex": "#7e9cd8",
+        "hexterm": "7e/9c/d8"
+    },
+    "ansi-5": {
+        "hex": "#957fb8",
+        "hexterm": "95/7f/b8"
+    },
+    "ansi-6": {
+        "hex": "#6a9589",
+        "hexterm": "6a/95/89"
+    },
+    "ansi-7": {
+        "hex": "#c8c093",
+        "hexterm": "c8/c0/93"
+    },
+    "ansi-8": {
+        "hex": "#727169",
+        "hexterm": "72/71/69"
+    },
+    "ansi-9": {
+        "hex": "#e82424",
+        "hexterm": "e8/24/24"
+    },
+    "background": {
+        "hex": "#1f1f28",
+        "hexterm": "1f/1f/28"
+    },
+    "cursor": {
+        "hex": "#c8c093",
+        "hexterm": "c8/c0/93"
+    },
+    "foreground": {
+        "hex": "#dcd7ba",
+        "hexterm": "dc/d7/ba"
+    },
+    "selection": {
+        "hex": "#2d4f67",
+        "hexterm": "2d/4f/67"
+    },
+    "selection-text": {
+        "hex": "#c8c093",
+        "hexterm": "c8/c0/93"
+    },
     "theme-author": "unknown",
     "theme-name": "Kanagawa Wave",
     "theme-slug": "kanagawa-wave",

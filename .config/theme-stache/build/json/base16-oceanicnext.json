@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1b2b34",
-    "ansi-1-hex": "#ec5f67",
-    "ansi-10-hex": "#99c794",
-    "ansi-11-hex": "#fac863",
-    "ansi-12-hex": "#6699cc",
-    "ansi-13-hex": "#c594c5",
-    "ansi-14-hex": "#5fb3b3",
-    "ansi-15-hex": "#d8dee9",
-    "ansi-2-hex": "#99c794",
-    "ansi-3-hex": "#fac863",
-    "ansi-4-hex": "#6699cc",
-    "ansi-5-hex": "#c594c5",
-    "ansi-6-hex": "#5fb3b3",
-    "ansi-7-hex": "#c0c5ce",
-    "ansi-8-hex": "#65737e",
-    "ansi-9-hex": "#ec5f67",
-    "background-hex": "#1b2b34",
-    "cursor-hex": "#c0c5ce",
-    "foreground-hex": "#c0c5ce",
-    "selection-hex": "#cdd3de",
-    "selection-text-hex": "#343d46",
+    "ansi-0": {
+        "hex": "#1b2b34",
+        "hexterm": "1b/2b/34"
+    },
+    "ansi-1": {
+        "hex": "#ec5f67",
+        "hexterm": "ec/5f/67"
+    },
+    "ansi-10": {
+        "hex": "#99c794",
+        "hexterm": "99/c7/94"
+    },
+    "ansi-11": {
+        "hex": "#fac863",
+        "hexterm": "fa/c8/63"
+    },
+    "ansi-12": {
+        "hex": "#6699cc",
+        "hexterm": "66/99/cc"
+    },
+    "ansi-13": {
+        "hex": "#c594c5",
+        "hexterm": "c5/94/c5"
+    },
+    "ansi-14": {
+        "hex": "#5fb3b3",
+        "hexterm": "5f/b3/b3"
+    },
+    "ansi-15": {
+        "hex": "#d8dee9",
+        "hexterm": "d8/de/e9"
+    },
+    "ansi-2": {
+        "hex": "#99c794",
+        "hexterm": "99/c7/94"
+    },
+    "ansi-3": {
+        "hex": "#fac863",
+        "hexterm": "fa/c8/63"
+    },
+    "ansi-4": {
+        "hex": "#6699cc",
+        "hexterm": "66/99/cc"
+    },
+    "ansi-5": {
+        "hex": "#c594c5",
+        "hexterm": "c5/94/c5"
+    },
+    "ansi-6": {
+        "hex": "#5fb3b3",
+        "hexterm": "5f/b3/b3"
+    },
+    "ansi-7": {
+        "hex": "#c0c5ce",
+        "hexterm": "c0/c5/ce"
+    },
+    "ansi-8": {
+        "hex": "#65737e",
+        "hexterm": "65/73/7e"
+    },
+    "ansi-9": {
+        "hex": "#ec5f67",
+        "hexterm": "ec/5f/67"
+    },
+    "background": {
+        "hex": "#1b2b34",
+        "hexterm": "1b/2b/34"
+    },
+    "cursor": {
+        "hex": "#c0c5ce",
+        "hexterm": "c0/c5/ce"
+    },
+    "foreground": {
+        "hex": "#c0c5ce",
+        "hexterm": "c0/c5/ce"
+    },
+    "selection": {
+        "hex": "#cdd3de",
+        "hexterm": "cd/d3/de"
+    },
+    "selection-text": {
+        "hex": "#343d46",
+        "hexterm": "34/3d/46"
+    },
     "theme-author": "https://github.com/voronianski/oceanic-next-color-scheme",
     "theme-name": "OceanicNext",
     "theme-slug": "oceanicnext",

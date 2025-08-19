@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#fffefe",
-    "ansi-1-hex": "#ff0000",
-    "ansi-10-hex": "#8af600",
-    "ansi-11-hex": "#ffeb00",
-    "ansi-12-hex": "#75beff",
-    "ansi-13-hex": "#d798d0",
-    "ansi-14-hex": "#00f6fa",
-    "ansi-15-hex": "#f3f3f1",
-    "ansi-2-hex": "#4cc300",
-    "ansi-3-hex": "#75beff",
-    "ansi-4-hex": "#008df5",
-    "ansi-5-hex": "#a86bb2",
-    "ansi-6-hex": "#00bdc3",
-    "ansi-7-hex": "#c6cac1",
-    "ansi-8-hex": "#92968e",
-    "ansi-9-hex": "#ff0012",
-    "background-hex": "#fffefe",
-    "cursor-hex": "#c6cac1",
-    "foreground-hex": "#c6cac1",
-    "selection-hex": "#e0e4db",
-    "selection-text-hex": "#000000",
+    "ansi-0": {
+        "hex": "#fffefe",
+        "hexterm": "ff/fe/fe"
+    },
+    "ansi-1": {
+        "hex": "#ff0000",
+        "hexterm": "ff/00/00"
+    },
+    "ansi-10": {
+        "hex": "#8af600",
+        "hexterm": "8a/f6/00"
+    },
+    "ansi-11": {
+        "hex": "#ffeb00",
+        "hexterm": "ff/eb/00"
+    },
+    "ansi-12": {
+        "hex": "#75beff",
+        "hexterm": "75/be/ff"
+    },
+    "ansi-13": {
+        "hex": "#d798d0",
+        "hexterm": "d7/98/d0"
+    },
+    "ansi-14": {
+        "hex": "#00f6fa",
+        "hexterm": "00/f6/fa"
+    },
+    "ansi-15": {
+        "hex": "#f3f3f1",
+        "hexterm": "f3/f3/f1"
+    },
+    "ansi-2": {
+        "hex": "#4cc300",
+        "hexterm": "4c/c3/00"
+    },
+    "ansi-3": {
+        "hex": "#75beff",
+        "hexterm": "75/be/ff"
+    },
+    "ansi-4": {
+        "hex": "#008df5",
+        "hexterm": "00/8d/f5"
+    },
+    "ansi-5": {
+        "hex": "#a86bb2",
+        "hexterm": "a8/6b/b2"
+    },
+    "ansi-6": {
+        "hex": "#00bdc3",
+        "hexterm": "00/bd/c3"
+    },
+    "ansi-7": {
+        "hex": "#c6cac1",
+        "hexterm": "c6/ca/c1"
+    },
+    "ansi-8": {
+        "hex": "#92968e",
+        "hexterm": "92/96/8e"
+    },
+    "ansi-9": {
+        "hex": "#ff0012",
+        "hexterm": "ff/00/12"
+    },
+    "background": {
+        "hex": "#fffefe",
+        "hexterm": "ff/fe/fe"
+    },
+    "cursor": {
+        "hex": "#c6cac1",
+        "hexterm": "c6/ca/c1"
+    },
+    "foreground": {
+        "hex": "#c6cac1",
+        "hexterm": "c6/ca/c1"
+    },
+    "selection": {
+        "hex": "#e0e4db",
+        "hexterm": "e0/e4/db"
+    },
+    "selection-text": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Tango Half Adapted",
     "theme-slug": "tango-half-adapted",

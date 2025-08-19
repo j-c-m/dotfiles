@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#fbf3db",
-    "ansi-1-hex": "#cc1729",
-    "ansi-10-hex": "#428b00",
-    "ansi-11-hex": "#a78300",
-    "ansi-12-hex": "#006dce",
-    "ansi-13-hex": "#825dc0",
-    "ansi-14-hex": "#00978a",
-    "ansi-15-hex": "#3a4d53",
-    "ansi-2-hex": "#428b00",
-    "ansi-3-hex": "#a78300",
-    "ansi-4-hex": "#006dce",
-    "ansi-5-hex": "#825dc0",
-    "ansi-6-hex": "#00978a",
-    "ansi-7-hex": "#53676d",
-    "ansi-8-hex": "#909995",
-    "ansi-9-hex": "#cc1729",
-    "background-hex": "#fbf3db",
-    "cursor-hex": "#53676d",
-    "foreground-hex": "#53676d",
-    "selection-hex": "#3a4d53",
-    "selection-text-hex": "#ece3cc",
+    "ansi-0": {
+        "hex": "#fbf3db",
+        "hexterm": "fb/f3/db"
+    },
+    "ansi-1": {
+        "hex": "#cc1729",
+        "hexterm": "cc/17/29"
+    },
+    "ansi-10": {
+        "hex": "#428b00",
+        "hexterm": "42/8b/00"
+    },
+    "ansi-11": {
+        "hex": "#a78300",
+        "hexterm": "a7/83/00"
+    },
+    "ansi-12": {
+        "hex": "#006dce",
+        "hexterm": "00/6d/ce"
+    },
+    "ansi-13": {
+        "hex": "#825dc0",
+        "hexterm": "82/5d/c0"
+    },
+    "ansi-14": {
+        "hex": "#00978a",
+        "hexterm": "00/97/8a"
+    },
+    "ansi-15": {
+        "hex": "#3a4d53",
+        "hexterm": "3a/4d/53"
+    },
+    "ansi-2": {
+        "hex": "#428b00",
+        "hexterm": "42/8b/00"
+    },
+    "ansi-3": {
+        "hex": "#a78300",
+        "hexterm": "a7/83/00"
+    },
+    "ansi-4": {
+        "hex": "#006dce",
+        "hexterm": "00/6d/ce"
+    },
+    "ansi-5": {
+        "hex": "#825dc0",
+        "hexterm": "82/5d/c0"
+    },
+    "ansi-6": {
+        "hex": "#00978a",
+        "hexterm": "00/97/8a"
+    },
+    "ansi-7": {
+        "hex": "#53676d",
+        "hexterm": "53/67/6d"
+    },
+    "ansi-8": {
+        "hex": "#909995",
+        "hexterm": "90/99/95"
+    },
+    "ansi-9": {
+        "hex": "#cc1729",
+        "hexterm": "cc/17/29"
+    },
+    "background": {
+        "hex": "#fbf3db",
+        "hexterm": "fb/f3/db"
+    },
+    "cursor": {
+        "hex": "#53676d",
+        "hexterm": "53/67/6d"
+    },
+    "foreground": {
+        "hex": "#53676d",
+        "hexterm": "53/67/6d"
+    },
+    "selection": {
+        "hex": "#3a4d53",
+        "hexterm": "3a/4d/53"
+    },
+    "selection-text": {
+        "hex": "#ece3cc",
+        "hexterm": "ec/e3/cc"
+    },
     "theme-author": "Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali",
     "theme-name": "selenized-light",
     "theme-slug": "selenized-light",

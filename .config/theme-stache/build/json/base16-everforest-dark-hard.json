@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#272e33",
-    "ansi-1-hex": "#e67e80",
-    "ansi-10-hex": "#a7c080",
-    "ansi-11-hex": "#dbbc7f",
-    "ansi-12-hex": "#7fbbb3",
-    "ansi-13-hex": "#d699b6",
-    "ansi-14-hex": "#83c092",
-    "ansi-15-hex": "#fffbef",
-    "ansi-2-hex": "#a7c080",
-    "ansi-3-hex": "#dbbc7f",
-    "ansi-4-hex": "#7fbbb3",
-    "ansi-5-hex": "#d699b6",
-    "ansi-6-hex": "#83c092",
-    "ansi-7-hex": "#d3c6aa",
-    "ansi-8-hex": "#859289",
-    "ansi-9-hex": "#e67e80",
-    "background-hex": "#272e33",
-    "cursor-hex": "#d3c6aa",
-    "foreground-hex": "#d3c6aa",
-    "selection-hex": "#edeada",
-    "selection-text-hex": "#2e383c",
+    "ansi-0": {
+        "hex": "#272e33",
+        "hexterm": "27/2e/33"
+    },
+    "ansi-1": {
+        "hex": "#e67e80",
+        "hexterm": "e6/7e/80"
+    },
+    "ansi-10": {
+        "hex": "#a7c080",
+        "hexterm": "a7/c0/80"
+    },
+    "ansi-11": {
+        "hex": "#dbbc7f",
+        "hexterm": "db/bc/7f"
+    },
+    "ansi-12": {
+        "hex": "#7fbbb3",
+        "hexterm": "7f/bb/b3"
+    },
+    "ansi-13": {
+        "hex": "#d699b6",
+        "hexterm": "d6/99/b6"
+    },
+    "ansi-14": {
+        "hex": "#83c092",
+        "hexterm": "83/c0/92"
+    },
+    "ansi-15": {
+        "hex": "#fffbef",
+        "hexterm": "ff/fb/ef"
+    },
+    "ansi-2": {
+        "hex": "#a7c080",
+        "hexterm": "a7/c0/80"
+    },
+    "ansi-3": {
+        "hex": "#dbbc7f",
+        "hexterm": "db/bc/7f"
+    },
+    "ansi-4": {
+        "hex": "#7fbbb3",
+        "hexterm": "7f/bb/b3"
+    },
+    "ansi-5": {
+        "hex": "#d699b6",
+        "hexterm": "d6/99/b6"
+    },
+    "ansi-6": {
+        "hex": "#83c092",
+        "hexterm": "83/c0/92"
+    },
+    "ansi-7": {
+        "hex": "#d3c6aa",
+        "hexterm": "d3/c6/aa"
+    },
+    "ansi-8": {
+        "hex": "#859289",
+        "hexterm": "85/92/89"
+    },
+    "ansi-9": {
+        "hex": "#e67e80",
+        "hexterm": "e6/7e/80"
+    },
+    "background": {
+        "hex": "#272e33",
+        "hexterm": "27/2e/33"
+    },
+    "cursor": {
+        "hex": "#d3c6aa",
+        "hexterm": "d3/c6/aa"
+    },
+    "foreground": {
+        "hex": "#d3c6aa",
+        "hexterm": "d3/c6/aa"
+    },
+    "selection": {
+        "hex": "#edeada",
+        "hexterm": "ed/ea/da"
+    },
+    "selection-text": {
+        "hex": "#2e383c",
+        "hexterm": "2e/38/3c"
+    },
     "theme-author": "Sainnhe Park (https://github.com/sainnhe)",
     "theme-name": "Everforest Dark Hard",
     "theme-slug": "everforest-dark-hard",

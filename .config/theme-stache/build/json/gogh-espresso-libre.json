@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#cc0000",
-    "ansi-10-hex": "#9aff87",
-    "ansi-11-hex": "#fffb5c",
-    "ansi-12-hex": "#43a8ed",
-    "ansi-13-hex": "#ff818a",
-    "ansi-14-hex": "#34e2e2",
-    "ansi-15-hex": "#eeeeec",
-    "ansi-2-hex": "#1a921c",
-    "ansi-3-hex": "#f0e53a",
-    "ansi-4-hex": "#0066ff",
-    "ansi-5-hex": "#c5656b",
-    "ansi-6-hex": "#06989a",
-    "ansi-7-hex": "#d3d7cf",
-    "ansi-8-hex": "#555753",
-    "ansi-9-hex": "#ef2929",
-    "background-hex": "#2a211c",
-    "cursor-hex": "#b8a898",
-    "foreground-hex": "#b8a898",
-    "selection-hex": "#b8a898",
-    "selection-text-hex": "#2a211c",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#cc0000",
+        "hexterm": "cc/00/00"
+    },
+    "ansi-10": {
+        "hex": "#9aff87",
+        "hexterm": "9a/ff/87"
+    },
+    "ansi-11": {
+        "hex": "#fffb5c",
+        "hexterm": "ff/fb/5c"
+    },
+    "ansi-12": {
+        "hex": "#43a8ed",
+        "hexterm": "43/a8/ed"
+    },
+    "ansi-13": {
+        "hex": "#ff818a",
+        "hexterm": "ff/81/8a"
+    },
+    "ansi-14": {
+        "hex": "#34e2e2",
+        "hexterm": "34/e2/e2"
+    },
+    "ansi-15": {
+        "hex": "#eeeeec",
+        "hexterm": "ee/ee/ec"
+    },
+    "ansi-2": {
+        "hex": "#1a921c",
+        "hexterm": "1a/92/1c"
+    },
+    "ansi-3": {
+        "hex": "#f0e53a",
+        "hexterm": "f0/e5/3a"
+    },
+    "ansi-4": {
+        "hex": "#0066ff",
+        "hexterm": "00/66/ff"
+    },
+    "ansi-5": {
+        "hex": "#c5656b",
+        "hexterm": "c5/65/6b"
+    },
+    "ansi-6": {
+        "hex": "#06989a",
+        "hexterm": "06/98/9a"
+    },
+    "ansi-7": {
+        "hex": "#d3d7cf",
+        "hexterm": "d3/d7/cf"
+    },
+    "ansi-8": {
+        "hex": "#555753",
+        "hexterm": "55/57/53"
+    },
+    "ansi-9": {
+        "hex": "#ef2929",
+        "hexterm": "ef/29/29"
+    },
+    "background": {
+        "hex": "#2a211c",
+        "hexterm": "2a/21/1c"
+    },
+    "cursor": {
+        "hex": "#b8a898",
+        "hexterm": "b8/a8/98"
+    },
+    "foreground": {
+        "hex": "#b8a898",
+        "hexterm": "b8/a8/98"
+    },
+    "selection": {
+        "hex": "#b8a898",
+        "hexterm": "b8/a8/98"
+    },
+    "selection-text": {
+        "hex": "#2a211c",
+        "hexterm": "2a/21/1c"
+    },
     "theme-author": "",
     "theme-name": "Espresso Libre",
     "theme-slug": "espresso-libre",

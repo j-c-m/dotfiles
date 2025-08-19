@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#757575",
-    "ansi-1-hex": "#825d4d",
-    "ansi-10-hex": "#98d9aa",
-    "ansi-11-hex": "#fae79d",
-    "ansi-12-hex": "#7ac3cf",
-    "ansi-13-hex": "#d6b2a1",
-    "ansi-14-hex": "#ade0e0",
-    "ansi-15-hex": "#e0e0e0",
-    "ansi-2-hex": "#728c62",
-    "ansi-3-hex": "#ada16d",
-    "ansi-4-hex": "#4d7b82",
-    "ansi-5-hex": "#8a7267",
-    "ansi-6-hex": "#729494",
-    "ansi-7-hex": "#e0e0e0",
-    "ansi-8-hex": "#8a8a8a",
-    "ansi-9-hex": "#cf937a",
-    "background-hex": "#243435",
-    "cursor-hex": "#d4e7d4",
-    "foreground-hex": "#d4e7d4",
-    "selection-hex": "#d4e7d4",
-    "selection-text-hex": "#243435",
+    "ansi-0": {
+        "hex": "#757575",
+        "hexterm": "75/75/75"
+    },
+    "ansi-1": {
+        "hex": "#825d4d",
+        "hexterm": "82/5d/4d"
+    },
+    "ansi-10": {
+        "hex": "#98d9aa",
+        "hexterm": "98/d9/aa"
+    },
+    "ansi-11": {
+        "hex": "#fae79d",
+        "hexterm": "fa/e7/9d"
+    },
+    "ansi-12": {
+        "hex": "#7ac3cf",
+        "hexterm": "7a/c3/cf"
+    },
+    "ansi-13": {
+        "hex": "#d6b2a1",
+        "hexterm": "d6/b2/a1"
+    },
+    "ansi-14": {
+        "hex": "#ade0e0",
+        "hexterm": "ad/e0/e0"
+    },
+    "ansi-15": {
+        "hex": "#e0e0e0",
+        "hexterm": "e0/e0/e0"
+    },
+    "ansi-2": {
+        "hex": "#728c62",
+        "hexterm": "72/8c/62"
+    },
+    "ansi-3": {
+        "hex": "#ada16d",
+        "hexterm": "ad/a1/6d"
+    },
+    "ansi-4": {
+        "hex": "#4d7b82",
+        "hexterm": "4d/7b/82"
+    },
+    "ansi-5": {
+        "hex": "#8a7267",
+        "hexterm": "8a/72/67"
+    },
+    "ansi-6": {
+        "hex": "#729494",
+        "hexterm": "72/94/94"
+    },
+    "ansi-7": {
+        "hex": "#e0e0e0",
+        "hexterm": "e0/e0/e0"
+    },
+    "ansi-8": {
+        "hex": "#8a8a8a",
+        "hexterm": "8a/8a/8a"
+    },
+    "ansi-9": {
+        "hex": "#cf937a",
+        "hexterm": "cf/93/7a"
+    },
+    "background": {
+        "hex": "#243435",
+        "hexterm": "24/34/35"
+    },
+    "cursor": {
+        "hex": "#d4e7d4",
+        "hexterm": "d4/e7/d4"
+    },
+    "foreground": {
+        "hex": "#d4e7d4",
+        "hexterm": "d4/e7/d4"
+    },
+    "selection": {
+        "hex": "#d4e7d4",
+        "hexterm": "d4/e7/d4"
+    },
+    "selection-text": {
+        "hex": "#243435",
+        "hexterm": "24/34/35"
+    },
     "theme-author": "",
     "theme-name": "Seafoam Pastel",
     "theme-slug": "seafoam-pastel",

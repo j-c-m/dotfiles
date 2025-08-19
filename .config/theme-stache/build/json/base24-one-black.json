@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#e05561",
-    "ansi-10-hex": "#a5e075",
-    "ansi-11-hex": "#f0a45d",
-    "ansi-12-hex": "#4dc4ff",
-    "ansi-13-hex": "#de73ff",
-    "ansi-14-hex": "#4cd1e0",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#8cc265",
-    "ansi-3-hex": "#e6b965",
-    "ansi-4-hex": "#4aa5f0",
-    "ansi-5-hex": "#c162de",
-    "ansi-6-hex": "#42b3c2",
-    "ansi-7-hex": "#abb2bf",
-    "ansi-8-hex": "#545862",
-    "ansi-9-hex": "#ff616e",
-    "background-hex": "#000000",
-    "cursor-hex": "#abb2bf",
-    "foreground-hex": "#abb2bf",
-    "selection-hex": "#e6e6e6",
-    "selection-text-hex": "#000000",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#e05561",
+        "hexterm": "e0/55/61"
+    },
+    "ansi-10": {
+        "hex": "#a5e075",
+        "hexterm": "a5/e0/75"
+    },
+    "ansi-11": {
+        "hex": "#f0a45d",
+        "hexterm": "f0/a4/5d"
+    },
+    "ansi-12": {
+        "hex": "#4dc4ff",
+        "hexterm": "4d/c4/ff"
+    },
+    "ansi-13": {
+        "hex": "#de73ff",
+        "hexterm": "de/73/ff"
+    },
+    "ansi-14": {
+        "hex": "#4cd1e0",
+        "hexterm": "4c/d1/e0"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#8cc265",
+        "hexterm": "8c/c2/65"
+    },
+    "ansi-3": {
+        "hex": "#e6b965",
+        "hexterm": "e6/b9/65"
+    },
+    "ansi-4": {
+        "hex": "#4aa5f0",
+        "hexterm": "4a/a5/f0"
+    },
+    "ansi-5": {
+        "hex": "#c162de",
+        "hexterm": "c1/62/de"
+    },
+    "ansi-6": {
+        "hex": "#42b3c2",
+        "hexterm": "42/b3/c2"
+    },
+    "ansi-7": {
+        "hex": "#abb2bf",
+        "hexterm": "ab/b2/bf"
+    },
+    "ansi-8": {
+        "hex": "#545862",
+        "hexterm": "54/58/62"
+    },
+    "ansi-9": {
+        "hex": "#ff616e",
+        "hexterm": "ff/61/6e"
+    },
+    "background": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "cursor": {
+        "hex": "#abb2bf",
+        "hexterm": "ab/b2/bf"
+    },
+    "foreground": {
+        "hex": "#abb2bf",
+        "hexterm": "ab/b2/bf"
+    },
+    "selection": {
+        "hex": "#e6e6e6",
+        "hexterm": "e6/e6/e6"
+    },
+    "selection-text": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "One Black",
     "theme-slug": "one-black",

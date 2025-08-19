@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#ff6b60",
-    "ansi-10-hex": "#ceffab",
-    "ansi-11-hex": "#ffffcb",
-    "ansi-12-hex": "#b5dcfe",
-    "ansi-13-hex": "#ff9cfe",
-    "ansi-14-hex": "#dfdffe",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#a7ff60",
-    "ansi-3-hex": "#b5dcfe",
-    "ansi-4-hex": "#96cafd",
-    "ansi-5-hex": "#ff73fd",
-    "ansi-6-hex": "#c6c4fd",
-    "ansi-7-hex": "#d1d1d1",
-    "ansi-8-hex": "#989898",
-    "ansi-9-hex": "#ffb6b0",
-    "background-hex": "#000000",
-    "cursor-hex": "#d1d1d1",
-    "foreground-hex": "#d1d1d1",
-    "selection-hex": "#eeeeee",
-    "selection-text-hex": "#4e4e4e",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#ff6b60",
+        "hexterm": "ff/6b/60"
+    },
+    "ansi-10": {
+        "hex": "#ceffab",
+        "hexterm": "ce/ff/ab"
+    },
+    "ansi-11": {
+        "hex": "#ffffcb",
+        "hexterm": "ff/ff/cb"
+    },
+    "ansi-12": {
+        "hex": "#b5dcfe",
+        "hexterm": "b5/dc/fe"
+    },
+    "ansi-13": {
+        "hex": "#ff9cfe",
+        "hexterm": "ff/9c/fe"
+    },
+    "ansi-14": {
+        "hex": "#dfdffe",
+        "hexterm": "df/df/fe"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#a7ff60",
+        "hexterm": "a7/ff/60"
+    },
+    "ansi-3": {
+        "hex": "#b5dcfe",
+        "hexterm": "b5/dc/fe"
+    },
+    "ansi-4": {
+        "hex": "#96cafd",
+        "hexterm": "96/ca/fd"
+    },
+    "ansi-5": {
+        "hex": "#ff73fd",
+        "hexterm": "ff/73/fd"
+    },
+    "ansi-6": {
+        "hex": "#c6c4fd",
+        "hexterm": "c6/c4/fd"
+    },
+    "ansi-7": {
+        "hex": "#d1d1d1",
+        "hexterm": "d1/d1/d1"
+    },
+    "ansi-8": {
+        "hex": "#989898",
+        "hexterm": "98/98/98"
+    },
+    "ansi-9": {
+        "hex": "#ffb6b0",
+        "hexterm": "ff/b6/b0"
+    },
+    "background": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "cursor": {
+        "hex": "#d1d1d1",
+        "hexterm": "d1/d1/d1"
+    },
+    "foreground": {
+        "hex": "#d1d1d1",
+        "hexterm": "d1/d1/d1"
+    },
+    "selection": {
+        "hex": "#eeeeee",
+        "hexterm": "ee/ee/ee"
+    },
+    "selection-text": {
+        "hex": "#4e4e4e",
+        "hexterm": "4e/4e/4e"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Builtin Pastel Dark",
     "theme-slug": "builtin-pastel-dark",

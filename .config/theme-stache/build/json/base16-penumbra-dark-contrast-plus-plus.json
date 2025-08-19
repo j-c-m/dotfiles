@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#0d0f13",
-    "ansi-1-hex": "#f58c81",
-    "ansi-10-hex": "#54c794",
-    "ansi-11-hex": "#a9b852",
-    "ansi-12-hex": "#6eb2fd",
-    "ansi-13-hex": "#b69cf6",
-    "ansi-14-hex": "#00c4d7",
-    "ansi-15-hex": "#fffdfb",
-    "ansi-2-hex": "#54c794",
-    "ansi-3-hex": "#a9b852",
-    "ansi-4-hex": "#6eb2fd",
-    "ansi-5-hex": "#b69cf6",
-    "ansi-6-hex": "#00c4d7",
-    "ansi-7-hex": "#dedede",
-    "ansi-8-hex": "#636363",
-    "ansi-9-hex": "#f58c81",
-    "background-hex": "#0d0f13",
-    "cursor-hex": "#dedede",
-    "foreground-hex": "#dedede",
-    "selection-hex": "#fff7ed",
-    "selection-text-hex": "#181b1f",
+    "ansi-0": {
+        "hex": "#0d0f13",
+        "hexterm": "0d/0f/13"
+    },
+    "ansi-1": {
+        "hex": "#f58c81",
+        "hexterm": "f5/8c/81"
+    },
+    "ansi-10": {
+        "hex": "#54c794",
+        "hexterm": "54/c7/94"
+    },
+    "ansi-11": {
+        "hex": "#a9b852",
+        "hexterm": "a9/b8/52"
+    },
+    "ansi-12": {
+        "hex": "#6eb2fd",
+        "hexterm": "6e/b2/fd"
+    },
+    "ansi-13": {
+        "hex": "#b69cf6",
+        "hexterm": "b6/9c/f6"
+    },
+    "ansi-14": {
+        "hex": "#00c4d7",
+        "hexterm": "00/c4/d7"
+    },
+    "ansi-15": {
+        "hex": "#fffdfb",
+        "hexterm": "ff/fd/fb"
+    },
+    "ansi-2": {
+        "hex": "#54c794",
+        "hexterm": "54/c7/94"
+    },
+    "ansi-3": {
+        "hex": "#a9b852",
+        "hexterm": "a9/b8/52"
+    },
+    "ansi-4": {
+        "hex": "#6eb2fd",
+        "hexterm": "6e/b2/fd"
+    },
+    "ansi-5": {
+        "hex": "#b69cf6",
+        "hexterm": "b6/9c/f6"
+    },
+    "ansi-6": {
+        "hex": "#00c4d7",
+        "hexterm": "00/c4/d7"
+    },
+    "ansi-7": {
+        "hex": "#dedede",
+        "hexterm": "de/de/de"
+    },
+    "ansi-8": {
+        "hex": "#636363",
+        "hexterm": "63/63/63"
+    },
+    "ansi-9": {
+        "hex": "#f58c81",
+        "hexterm": "f5/8c/81"
+    },
+    "background": {
+        "hex": "#0d0f13",
+        "hexterm": "0d/0f/13"
+    },
+    "cursor": {
+        "hex": "#dedede",
+        "hexterm": "de/de/de"
+    },
+    "foreground": {
+        "hex": "#dedede",
+        "hexterm": "de/de/de"
+    },
+    "selection": {
+        "hex": "#fff7ed",
+        "hexterm": "ff/f7/ed"
+    },
+    "selection-text": {
+        "hex": "#181b1f",
+        "hexterm": "18/1b/1f"
+    },
     "theme-author": "Zachary Weiss (https://github.com/zacharyweiss)",
     "theme-name": "Penumbra Dark Contrast Plus Plus",
     "theme-slug": "penumbra-dark-contrast-plus-plus",

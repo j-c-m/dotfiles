@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#20212b",
-    "ansi-1-hex": "#ff5454",
-    "ansi-10-hex": "#69ff94",
-    "ansi-11-hex": "#ffffa5",
-    "ansi-12-hex": "#d5abff",
-    "ansi-13-hex": "#ff91de",
-    "ansi-14-hex": "#a3ffff",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#4ffa7b",
-    "ansi-3-hex": "#f1fa8b",
-    "ansi-4-hex": "#bd93f9",
-    "ansi-5-hex": "#ff78c6",
-    "ansi-6-hex": "#8be8fd",
-    "ansi-7-hex": "#f7f7f1",
-    "ansi-8-hex": "#6172a3",
-    "ansi-9-hex": "#ff6e6e",
-    "background-hex": "#282936",
-    "cursor-hex": "#f7f7f1",
-    "foreground-hex": "#f7f7f1",
-    "selection-hex": "#444659",
-    "selection-text-hex": "#ffffff",
+    "ansi-0": {
+        "hex": "#20212b",
+        "hexterm": "20/21/2b"
+    },
+    "ansi-1": {
+        "hex": "#ff5454",
+        "hexterm": "ff/54/54"
+    },
+    "ansi-10": {
+        "hex": "#69ff94",
+        "hexterm": "69/ff/94"
+    },
+    "ansi-11": {
+        "hex": "#ffffa5",
+        "hexterm": "ff/ff/a5"
+    },
+    "ansi-12": {
+        "hex": "#d5abff",
+        "hexterm": "d5/ab/ff"
+    },
+    "ansi-13": {
+        "hex": "#ff91de",
+        "hexterm": "ff/91/de"
+    },
+    "ansi-14": {
+        "hex": "#a3ffff",
+        "hexterm": "a3/ff/ff"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#4ffa7b",
+        "hexterm": "4f/fa/7b"
+    },
+    "ansi-3": {
+        "hex": "#f1fa8b",
+        "hexterm": "f1/fa/8b"
+    },
+    "ansi-4": {
+        "hex": "#bd93f9",
+        "hexterm": "bd/93/f9"
+    },
+    "ansi-5": {
+        "hex": "#ff78c6",
+        "hexterm": "ff/78/c6"
+    },
+    "ansi-6": {
+        "hex": "#8be8fd",
+        "hexterm": "8b/e8/fd"
+    },
+    "ansi-7": {
+        "hex": "#f7f7f1",
+        "hexterm": "f7/f7/f1"
+    },
+    "ansi-8": {
+        "hex": "#6172a3",
+        "hexterm": "61/72/a3"
+    },
+    "ansi-9": {
+        "hex": "#ff6e6e",
+        "hexterm": "ff/6e/6e"
+    },
+    "background": {
+        "hex": "#282936",
+        "hexterm": "28/29/36"
+    },
+    "cursor": {
+        "hex": "#f7f7f1",
+        "hexterm": "f7/f7/f1"
+    },
+    "foreground": {
+        "hex": "#f7f7f1",
+        "hexterm": "f7/f7/f1"
+    },
+    "selection": {
+        "hex": "#444659",
+        "hexterm": "44/46/59"
+    },
+    "selection-text": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
     "theme-author": "unknown",
     "theme-name": "Dracula",
     "theme-slug": "dracula",

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#2c3e50",
-    "ansi-1-hex": "#e74c3c",
-    "ansi-10-hex": "#2ecc71",
-    "ansi-11-hex": "#f1c40f",
-    "ansi-12-hex": "#3498db",
-    "ansi-13-hex": "#9b59b6",
-    "ansi-14-hex": "#1abc9c",
-    "ansi-15-hex": "#ecf0f1",
-    "ansi-2-hex": "#2ecc71",
-    "ansi-3-hex": "#f1c40f",
-    "ansi-4-hex": "#3498db",
-    "ansi-5-hex": "#9b59b6",
-    "ansi-6-hex": "#1abc9c",
-    "ansi-7-hex": "#e0e0e0",
-    "ansi-8-hex": "#95a5a6",
-    "ansi-9-hex": "#e74c3c",
-    "background-hex": "#2c3e50",
-    "cursor-hex": "#e0e0e0",
-    "foreground-hex": "#e0e0e0",
-    "selection-hex": "#f5f5f5",
-    "selection-text-hex": "#34495e",
+    "ansi-0": {
+        "hex": "#2c3e50",
+        "hexterm": "2c/3e/50"
+    },
+    "ansi-1": {
+        "hex": "#e74c3c",
+        "hexterm": "e7/4c/3c"
+    },
+    "ansi-10": {
+        "hex": "#2ecc71",
+        "hexterm": "2e/cc/71"
+    },
+    "ansi-11": {
+        "hex": "#f1c40f",
+        "hexterm": "f1/c4/0f"
+    },
+    "ansi-12": {
+        "hex": "#3498db",
+        "hexterm": "34/98/db"
+    },
+    "ansi-13": {
+        "hex": "#9b59b6",
+        "hexterm": "9b/59/b6"
+    },
+    "ansi-14": {
+        "hex": "#1abc9c",
+        "hexterm": "1a/bc/9c"
+    },
+    "ansi-15": {
+        "hex": "#ecf0f1",
+        "hexterm": "ec/f0/f1"
+    },
+    "ansi-2": {
+        "hex": "#2ecc71",
+        "hexterm": "2e/cc/71"
+    },
+    "ansi-3": {
+        "hex": "#f1c40f",
+        "hexterm": "f1/c4/0f"
+    },
+    "ansi-4": {
+        "hex": "#3498db",
+        "hexterm": "34/98/db"
+    },
+    "ansi-5": {
+        "hex": "#9b59b6",
+        "hexterm": "9b/59/b6"
+    },
+    "ansi-6": {
+        "hex": "#1abc9c",
+        "hexterm": "1a/bc/9c"
+    },
+    "ansi-7": {
+        "hex": "#e0e0e0",
+        "hexterm": "e0/e0/e0"
+    },
+    "ansi-8": {
+        "hex": "#95a5a6",
+        "hexterm": "95/a5/a6"
+    },
+    "ansi-9": {
+        "hex": "#e74c3c",
+        "hexterm": "e7/4c/3c"
+    },
+    "background": {
+        "hex": "#2c3e50",
+        "hexterm": "2c/3e/50"
+    },
+    "cursor": {
+        "hex": "#e0e0e0",
+        "hexterm": "e0/e0/e0"
+    },
+    "foreground": {
+        "hex": "#e0e0e0",
+        "hexterm": "e0/e0/e0"
+    },
+    "selection": {
+        "hex": "#f5f5f5",
+        "hexterm": "f5/f5/f5"
+    },
+    "selection-text": {
+        "hex": "#34495e",
+        "hexterm": "34/49/5e"
+    },
     "theme-author": "Chris Kempson (http://chriskempson.com)",
     "theme-name": "Flat",
     "theme-slug": "flat",

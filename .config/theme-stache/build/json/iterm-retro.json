@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#13a10e",
-    "ansi-1-hex": "#13a10e",
-    "ansi-10-hex": "#16ba10",
-    "ansi-11-hex": "#16ba10",
-    "ansi-12-hex": "#16ba10",
-    "ansi-13-hex": "#16ba10",
-    "ansi-14-hex": "#16ba10",
-    "ansi-15-hex": "#16ba10",
-    "ansi-2-hex": "#13a10e",
-    "ansi-3-hex": "#13a10e",
-    "ansi-4-hex": "#13a10e",
-    "ansi-5-hex": "#13a10e",
-    "ansi-6-hex": "#13a10e",
-    "ansi-7-hex": "#13a10e",
-    "ansi-8-hex": "#16ba10",
-    "ansi-9-hex": "#16ba10",
-    "background-hex": "#000000",
-    "cursor-hex": "#13a10e",
-    "foreground-hex": "#13a10e",
-    "selection-hex": "#fffefe",
-    "selection-text-hex": "#000000",
+    "ansi-0": {
+        "hex": "#13a10e",
+        "hexterm": "13/a1/0e"
+    },
+    "ansi-1": {
+        "hex": "#13a10e",
+        "hexterm": "13/a1/0e"
+    },
+    "ansi-10": {
+        "hex": "#16ba10",
+        "hexterm": "16/ba/10"
+    },
+    "ansi-11": {
+        "hex": "#16ba10",
+        "hexterm": "16/ba/10"
+    },
+    "ansi-12": {
+        "hex": "#16ba10",
+        "hexterm": "16/ba/10"
+    },
+    "ansi-13": {
+        "hex": "#16ba10",
+        "hexterm": "16/ba/10"
+    },
+    "ansi-14": {
+        "hex": "#16ba10",
+        "hexterm": "16/ba/10"
+    },
+    "ansi-15": {
+        "hex": "#16ba10",
+        "hexterm": "16/ba/10"
+    },
+    "ansi-2": {
+        "hex": "#13a10e",
+        "hexterm": "13/a1/0e"
+    },
+    "ansi-3": {
+        "hex": "#13a10e",
+        "hexterm": "13/a1/0e"
+    },
+    "ansi-4": {
+        "hex": "#13a10e",
+        "hexterm": "13/a1/0e"
+    },
+    "ansi-5": {
+        "hex": "#13a10e",
+        "hexterm": "13/a1/0e"
+    },
+    "ansi-6": {
+        "hex": "#13a10e",
+        "hexterm": "13/a1/0e"
+    },
+    "ansi-7": {
+        "hex": "#13a10e",
+        "hexterm": "13/a1/0e"
+    },
+    "ansi-8": {
+        "hex": "#16ba10",
+        "hexterm": "16/ba/10"
+    },
+    "ansi-9": {
+        "hex": "#16ba10",
+        "hexterm": "16/ba/10"
+    },
+    "background": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "cursor": {
+        "hex": "#13a10e",
+        "hexterm": "13/a1/0e"
+    },
+    "foreground": {
+        "hex": "#13a10e",
+        "hexterm": "13/a1/0e"
+    },
+    "selection": {
+        "hex": "#fffefe",
+        "hexterm": "ff/fe/fe"
+    },
+    "selection-text": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
     "theme-author": "unknown",
     "theme-name": "Retro",
     "theme-slug": "retro",

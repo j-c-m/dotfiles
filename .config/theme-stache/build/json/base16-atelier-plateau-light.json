@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#f4ecec",
-    "ansi-1-hex": "#ca4949",
-    "ansi-10-hex": "#4b8b8b",
-    "ansi-11-hex": "#a06e3b",
-    "ansi-12-hex": "#7272ca",
-    "ansi-13-hex": "#8464c4",
-    "ansi-14-hex": "#5485b6",
-    "ansi-15-hex": "#1b1818",
-    "ansi-2-hex": "#4b8b8b",
-    "ansi-3-hex": "#a06e3b",
-    "ansi-4-hex": "#7272ca",
-    "ansi-5-hex": "#8464c4",
-    "ansi-6-hex": "#5485b6",
-    "ansi-7-hex": "#585050",
-    "ansi-8-hex": "#7e7777",
-    "ansi-9-hex": "#ca4949",
-    "background-hex": "#f4ecec",
-    "cursor-hex": "#585050",
-    "foreground-hex": "#585050",
-    "selection-hex": "#292424",
-    "selection-text-hex": "#e7dfdf",
+    "ansi-0": {
+        "hex": "#f4ecec",
+        "hexterm": "f4/ec/ec"
+    },
+    "ansi-1": {
+        "hex": "#ca4949",
+        "hexterm": "ca/49/49"
+    },
+    "ansi-10": {
+        "hex": "#4b8b8b",
+        "hexterm": "4b/8b/8b"
+    },
+    "ansi-11": {
+        "hex": "#a06e3b",
+        "hexterm": "a0/6e/3b"
+    },
+    "ansi-12": {
+        "hex": "#7272ca",
+        "hexterm": "72/72/ca"
+    },
+    "ansi-13": {
+        "hex": "#8464c4",
+        "hexterm": "84/64/c4"
+    },
+    "ansi-14": {
+        "hex": "#5485b6",
+        "hexterm": "54/85/b6"
+    },
+    "ansi-15": {
+        "hex": "#1b1818",
+        "hexterm": "1b/18/18"
+    },
+    "ansi-2": {
+        "hex": "#4b8b8b",
+        "hexterm": "4b/8b/8b"
+    },
+    "ansi-3": {
+        "hex": "#a06e3b",
+        "hexterm": "a0/6e/3b"
+    },
+    "ansi-4": {
+        "hex": "#7272ca",
+        "hexterm": "72/72/ca"
+    },
+    "ansi-5": {
+        "hex": "#8464c4",
+        "hexterm": "84/64/c4"
+    },
+    "ansi-6": {
+        "hex": "#5485b6",
+        "hexterm": "54/85/b6"
+    },
+    "ansi-7": {
+        "hex": "#585050",
+        "hexterm": "58/50/50"
+    },
+    "ansi-8": {
+        "hex": "#7e7777",
+        "hexterm": "7e/77/77"
+    },
+    "ansi-9": {
+        "hex": "#ca4949",
+        "hexterm": "ca/49/49"
+    },
+    "background": {
+        "hex": "#f4ecec",
+        "hexterm": "f4/ec/ec"
+    },
+    "cursor": {
+        "hex": "#585050",
+        "hexterm": "58/50/50"
+    },
+    "foreground": {
+        "hex": "#585050",
+        "hexterm": "58/50/50"
+    },
+    "selection": {
+        "hex": "#292424",
+        "hexterm": "29/24/24"
+    },
+    "selection-text": {
+        "hex": "#e7dfdf",
+        "hexterm": "e7/df/df"
+    },
     "theme-author": "Bram de Haan (http://atelierbramdehaan.nl)",
     "theme-name": "Atelier Plateau Light",
     "theme-slug": "atelier-plateau-light",

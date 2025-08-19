@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1e2a24",
-    "ansi-1-hex": "#c60c30",
-    "ansi-10-hex": "#009b3a",
-    "ansi-11-hex": "#f9e300",
-    "ansi-12-hex": "#522398",
-    "ansi-13-hex": "#e27ea6",
-    "ansi-14-hex": "#00a1de",
-    "ansi-15-hex": "#dbe3de",
-    "ansi-2-hex": "#009b3a",
-    "ansi-3-hex": "#f9e300",
-    "ansi-4-hex": "#522398",
-    "ansi-5-hex": "#e27ea6",
-    "ansi-6-hex": "#00a1de",
-    "ansi-7-hex": "#a7b8af",
-    "ansi-8-hex": "#5f7368",
-    "ansi-9-hex": "#c60c30",
-    "background-hex": "#1e2a24",
-    "cursor-hex": "#a7b8af",
-    "foreground-hex": "#a7b8af",
-    "selection-hex": "#c1cdc7",
-    "selection-text-hex": "#2a3b32",
+    "ansi-0": {
+        "hex": "#1e2a24",
+        "hexterm": "1e/2a/24"
+    },
+    "ansi-1": {
+        "hex": "#c60c30",
+        "hexterm": "c6/0c/30"
+    },
+    "ansi-10": {
+        "hex": "#009b3a",
+        "hexterm": "00/9b/3a"
+    },
+    "ansi-11": {
+        "hex": "#f9e300",
+        "hexterm": "f9/e3/00"
+    },
+    "ansi-12": {
+        "hex": "#522398",
+        "hexterm": "52/23/98"
+    },
+    "ansi-13": {
+        "hex": "#e27ea6",
+        "hexterm": "e2/7e/a6"
+    },
+    "ansi-14": {
+        "hex": "#00a1de",
+        "hexterm": "00/a1/de"
+    },
+    "ansi-15": {
+        "hex": "#dbe3de",
+        "hexterm": "db/e3/de"
+    },
+    "ansi-2": {
+        "hex": "#009b3a",
+        "hexterm": "00/9b/3a"
+    },
+    "ansi-3": {
+        "hex": "#f9e300",
+        "hexterm": "f9/e3/00"
+    },
+    "ansi-4": {
+        "hex": "#522398",
+        "hexterm": "52/23/98"
+    },
+    "ansi-5": {
+        "hex": "#e27ea6",
+        "hexterm": "e2/7e/a6"
+    },
+    "ansi-6": {
+        "hex": "#00a1de",
+        "hexterm": "00/a1/de"
+    },
+    "ansi-7": {
+        "hex": "#a7b8af",
+        "hexterm": "a7/b8/af"
+    },
+    "ansi-8": {
+        "hex": "#5f7368",
+        "hexterm": "5f/73/68"
+    },
+    "ansi-9": {
+        "hex": "#c60c30",
+        "hexterm": "c6/0c/30"
+    },
+    "background": {
+        "hex": "#1e2a24",
+        "hexterm": "1e/2a/24"
+    },
+    "cursor": {
+        "hex": "#a7b8af",
+        "hexterm": "a7/b8/af"
+    },
+    "foreground": {
+        "hex": "#a7b8af",
+        "hexterm": "a7/b8/af"
+    },
+    "selection": {
+        "hex": "#c1cdc7",
+        "hexterm": "c1/cd/c7"
+    },
+    "selection-text": {
+        "hex": "#2a3b32",
+        "hexterm": "2a/3b/32"
+    },
     "theme-author": "Wendell, Ryan <ryanjwendell@gmail.com>",
     "theme-name": "Chicago Night",
     "theme-slug": "chicago-night",

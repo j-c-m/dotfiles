@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#271c3a",
-    "ansi-1-hex": "#a92258",
-    "ansi-10-hex": "#c6914b",
-    "ansi-11-hex": "#804ead",
-    "ansi-12-hex": "#8e7dc6",
-    "ansi-13-hex": "#953b9d",
-    "ansi-14-hex": "#7263aa",
-    "ansi-15-hex": "#bbaadd",
-    "ansi-2-hex": "#c6914b",
-    "ansi-3-hex": "#804ead",
-    "ansi-4-hex": "#8e7dc6",
-    "ansi-5-hex": "#953b9d",
-    "ansi-6-hex": "#7263aa",
-    "ansi-7-hex": "#dedcdf",
-    "ansi-8-hex": "#5d5766",
-    "ansi-9-hex": "#a92258",
-    "background-hex": "#271c3a",
-    "cursor-hex": "#dedcdf",
-    "foreground-hex": "#dedcdf",
-    "selection-hex": "#edeaef",
-    "selection-text-hex": "#100323",
+    "ansi-0": {
+        "hex": "#271c3a",
+        "hexterm": "27/1c/3a"
+    },
+    "ansi-1": {
+        "hex": "#a92258",
+        "hexterm": "a9/22/58"
+    },
+    "ansi-10": {
+        "hex": "#c6914b",
+        "hexterm": "c6/91/4b"
+    },
+    "ansi-11": {
+        "hex": "#804ead",
+        "hexterm": "80/4e/ad"
+    },
+    "ansi-12": {
+        "hex": "#8e7dc6",
+        "hexterm": "8e/7d/c6"
+    },
+    "ansi-13": {
+        "hex": "#953b9d",
+        "hexterm": "95/3b/9d"
+    },
+    "ansi-14": {
+        "hex": "#7263aa",
+        "hexterm": "72/63/aa"
+    },
+    "ansi-15": {
+        "hex": "#bbaadd",
+        "hexterm": "bb/aa/dd"
+    },
+    "ansi-2": {
+        "hex": "#c6914b",
+        "hexterm": "c6/91/4b"
+    },
+    "ansi-3": {
+        "hex": "#804ead",
+        "hexterm": "80/4e/ad"
+    },
+    "ansi-4": {
+        "hex": "#8e7dc6",
+        "hexterm": "8e/7d/c6"
+    },
+    "ansi-5": {
+        "hex": "#953b9d",
+        "hexterm": "95/3b/9d"
+    },
+    "ansi-6": {
+        "hex": "#7263aa",
+        "hexterm": "72/63/aa"
+    },
+    "ansi-7": {
+        "hex": "#dedcdf",
+        "hexterm": "de/dc/df"
+    },
+    "ansi-8": {
+        "hex": "#5d5766",
+        "hexterm": "5d/57/66"
+    },
+    "ansi-9": {
+        "hex": "#a92258",
+        "hexterm": "a9/22/58"
+    },
+    "background": {
+        "hex": "#271c3a",
+        "hexterm": "27/1c/3a"
+    },
+    "cursor": {
+        "hex": "#dedcdf",
+        "hexterm": "de/dc/df"
+    },
+    "foreground": {
+        "hex": "#dedcdf",
+        "hexterm": "de/dc/df"
+    },
+    "selection": {
+        "hex": "#edeaef",
+        "hexterm": "ed/ea/ef"
+    },
+    "selection-text": {
+        "hex": "#100323",
+        "hexterm": "10/03/23"
+    },
     "theme-author": "Gabriel Fontes (https://github.com/Misterio77)",
     "theme-name": "Pasque",
     "theme-slug": "pasque",

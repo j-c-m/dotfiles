@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#242728",
-    "ansi-1-hex": "#ff0090",
-    "ansi-10-hex": "#deff8b",
-    "ansi-11-hex": "#ebdf86",
-    "ansi-12-hex": "#7febff",
-    "ansi-13-hex": "#e681ff",
-    "ansi-14-hex": "#68fcd2",
-    "ansi-15-hex": "#f9f9f4",
-    "ansi-2-hex": "#b5ff00",
-    "ansi-3-hex": "#7febff",
-    "ansi-4-hex": "#47dffb",
-    "ansi-5-hex": "#d630ff",
-    "ansi-6-hex": "#0effbb",
-    "ansi-7-hex": "#c1c2c2",
-    "ansi-8-hex": "#818484",
-    "ansi-9-hex": "#fb57b4",
-    "background-hex": "#242728",
-    "cursor-hex": "#c1c2c2",
-    "foreground-hex": "#c1c2c2",
-    "selection-hex": "#e1e1e1",
-    "selection-text-hex": "#232628",
+    "ansi-0": {
+        "hex": "#242728",
+        "hexterm": "24/27/28"
+    },
+    "ansi-1": {
+        "hex": "#ff0090",
+        "hexterm": "ff/00/90"
+    },
+    "ansi-10": {
+        "hex": "#deff8b",
+        "hexterm": "de/ff/8b"
+    },
+    "ansi-11": {
+        "hex": "#ebdf86",
+        "hexterm": "eb/df/86"
+    },
+    "ansi-12": {
+        "hex": "#7febff",
+        "hexterm": "7f/eb/ff"
+    },
+    "ansi-13": {
+        "hex": "#e681ff",
+        "hexterm": "e6/81/ff"
+    },
+    "ansi-14": {
+        "hex": "#68fcd2",
+        "hexterm": "68/fc/d2"
+    },
+    "ansi-15": {
+        "hex": "#f9f9f4",
+        "hexterm": "f9/f9/f4"
+    },
+    "ansi-2": {
+        "hex": "#b5ff00",
+        "hexterm": "b5/ff/00"
+    },
+    "ansi-3": {
+        "hex": "#7febff",
+        "hexterm": "7f/eb/ff"
+    },
+    "ansi-4": {
+        "hex": "#47dffb",
+        "hexterm": "47/df/fb"
+    },
+    "ansi-5": {
+        "hex": "#d630ff",
+        "hexterm": "d6/30/ff"
+    },
+    "ansi-6": {
+        "hex": "#0effbb",
+        "hexterm": "0e/ff/bb"
+    },
+    "ansi-7": {
+        "hex": "#c1c2c2",
+        "hexterm": "c1/c2/c2"
+    },
+    "ansi-8": {
+        "hex": "#818484",
+        "hexterm": "81/84/84"
+    },
+    "ansi-9": {
+        "hex": "#fb57b4",
+        "hexterm": "fb/57/b4"
+    },
+    "background": {
+        "hex": "#242728",
+        "hexterm": "24/27/28"
+    },
+    "cursor": {
+        "hex": "#c1c2c2",
+        "hexterm": "c1/c2/c2"
+    },
+    "foreground": {
+        "hex": "#c1c2c2",
+        "hexterm": "c1/c2/c2"
+    },
+    "selection": {
+        "hex": "#e1e1e1",
+        "hexterm": "e1/e1/e1"
+    },
+    "selection-text": {
+        "hex": "#232628",
+        "hexterm": "23/26/28"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Ultra Violet",
     "theme-slug": "ultra-violet",

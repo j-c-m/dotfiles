@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#dddfe0",
-    "ansi-1-hex": "#b53b50",
-    "ansi-10-hex": "#06ea61",
-    "ansi-11-hex": "#c9d364",
-    "ansi-12-hex": "#03aeff",
-    "ansi-13-hex": "#ea5ce2",
-    "ansi-14-hex": "#42fff9",
-    "ansi-15-hex": "#050608",
-    "ansi-2-hex": "#06ea61",
-    "ansi-3-hex": "#c9d364",
-    "ansi-4-hex": "#03aeff",
-    "ansi-5-hex": "#ea5ce2",
-    "ansi-6-hex": "#42fff9",
-    "ansi-7-hex": "#28292a",
-    "ansi-8-hex": "#a3a5a6",
-    "ansi-9-hex": "#b53b50",
-    "background-hex": "#dddfe0",
-    "cursor-hex": "#28292a",
-    "foreground-hex": "#28292a",
-    "selection-hex": "#1a1b1c",
-    "selection-text-hex": "#cfd1d2",
+    "ansi-0": {
+        "hex": "#dddfe0",
+        "hexterm": "dd/df/e0"
+    },
+    "ansi-1": {
+        "hex": "#b53b50",
+        "hexterm": "b5/3b/50"
+    },
+    "ansi-10": {
+        "hex": "#06ea61",
+        "hexterm": "06/ea/61"
+    },
+    "ansi-11": {
+        "hex": "#c9d364",
+        "hexterm": "c9/d3/64"
+    },
+    "ansi-12": {
+        "hex": "#03aeff",
+        "hexterm": "03/ae/ff"
+    },
+    "ansi-13": {
+        "hex": "#ea5ce2",
+        "hexterm": "ea/5c/e2"
+    },
+    "ansi-14": {
+        "hex": "#42fff9",
+        "hexterm": "42/ff/f9"
+    },
+    "ansi-15": {
+        "hex": "#050608",
+        "hexterm": "05/06/08"
+    },
+    "ansi-2": {
+        "hex": "#06ea61",
+        "hexterm": "06/ea/61"
+    },
+    "ansi-3": {
+        "hex": "#c9d364",
+        "hexterm": "c9/d3/64"
+    },
+    "ansi-4": {
+        "hex": "#03aeff",
+        "hexterm": "03/ae/ff"
+    },
+    "ansi-5": {
+        "hex": "#ea5ce2",
+        "hexterm": "ea/5c/e2"
+    },
+    "ansi-6": {
+        "hex": "#42fff9",
+        "hexterm": "42/ff/f9"
+    },
+    "ansi-7": {
+        "hex": "#28292a",
+        "hexterm": "28/29/2a"
+    },
+    "ansi-8": {
+        "hex": "#a3a5a6",
+        "hexterm": "a3/a5/a6"
+    },
+    "ansi-9": {
+        "hex": "#b53b50",
+        "hexterm": "b5/3b/50"
+    },
+    "background": {
+        "hex": "#dddfe0",
+        "hexterm": "dd/df/e0"
+    },
+    "cursor": {
+        "hex": "#28292a",
+        "hexterm": "28/29/2a"
+    },
+    "foreground": {
+        "hex": "#28292a",
+        "hexterm": "28/29/2a"
+    },
+    "selection": {
+        "hex": "#1a1b1c",
+        "hexterm": "1a/1b/1c"
+    },
+    "selection-text": {
+        "hex": "#cfd1d2",
+        "hexterm": "cf/d1/d2"
+    },
     "theme-author": "Michaël Ball (http://github.com/michael-ball/)",
     "theme-name": "Synth Midnight Terminal Light",
     "theme-slug": "synth-midnight-terminal-light",

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#212337",
-    "ansi-1-hex": "#ff5370",
-    "ansi-10-hex": "#2df4c0",
-    "ansi-11-hex": "#ffc777",
-    "ansi-12-hex": "#40ffff",
-    "ansi-13-hex": "#b994f1",
-    "ansi-14-hex": "#04d1f9",
-    "ansi-15-hex": "#ef43fa",
-    "ansi-2-hex": "#2df4c0",
-    "ansi-3-hex": "#ffc777",
-    "ansi-4-hex": "#40ffff",
-    "ansi-5-hex": "#b994f1",
-    "ansi-6-hex": "#04d1f9",
-    "ansi-7-hex": "#a3ace1",
-    "ansi-8-hex": "#748cd6",
-    "ansi-9-hex": "#ff5370",
-    "background-hex": "#212337",
-    "cursor-hex": "#a3ace1",
-    "foreground-hex": "#a3ace1",
-    "selection-hex": "#b4a4f4",
-    "selection-text-hex": "#403c64",
+    "ansi-0": {
+        "hex": "#212337",
+        "hexterm": "21/23/37"
+    },
+    "ansi-1": {
+        "hex": "#ff5370",
+        "hexterm": "ff/53/70"
+    },
+    "ansi-10": {
+        "hex": "#2df4c0",
+        "hexterm": "2d/f4/c0"
+    },
+    "ansi-11": {
+        "hex": "#ffc777",
+        "hexterm": "ff/c7/77"
+    },
+    "ansi-12": {
+        "hex": "#40ffff",
+        "hexterm": "40/ff/ff"
+    },
+    "ansi-13": {
+        "hex": "#b994f1",
+        "hexterm": "b9/94/f1"
+    },
+    "ansi-14": {
+        "hex": "#04d1f9",
+        "hexterm": "04/d1/f9"
+    },
+    "ansi-15": {
+        "hex": "#ef43fa",
+        "hexterm": "ef/43/fa"
+    },
+    "ansi-2": {
+        "hex": "#2df4c0",
+        "hexterm": "2d/f4/c0"
+    },
+    "ansi-3": {
+        "hex": "#ffc777",
+        "hexterm": "ff/c7/77"
+    },
+    "ansi-4": {
+        "hex": "#40ffff",
+        "hexterm": "40/ff/ff"
+    },
+    "ansi-5": {
+        "hex": "#b994f1",
+        "hexterm": "b9/94/f1"
+    },
+    "ansi-6": {
+        "hex": "#04d1f9",
+        "hexterm": "04/d1/f9"
+    },
+    "ansi-7": {
+        "hex": "#a3ace1",
+        "hexterm": "a3/ac/e1"
+    },
+    "ansi-8": {
+        "hex": "#748cd6",
+        "hexterm": "74/8c/d6"
+    },
+    "ansi-9": {
+        "hex": "#ff5370",
+        "hexterm": "ff/53/70"
+    },
+    "background": {
+        "hex": "#212337",
+        "hexterm": "21/23/37"
+    },
+    "cursor": {
+        "hex": "#a3ace1",
+        "hexterm": "a3/ac/e1"
+    },
+    "foreground": {
+        "hex": "#a3ace1",
+        "hexterm": "a3/ac/e1"
+    },
+    "selection": {
+        "hex": "#b4a4f4",
+        "hexterm": "b4/a4/f4"
+    },
+    "selection-text": {
+        "hex": "#403c64",
+        "hexterm": "40/3c/64"
+    },
     "theme-author": "Jeremy Swinarton (https://github.com/jswinarton)",
     "theme-name": "Moonlight",
     "theme-slug": "moonlight",

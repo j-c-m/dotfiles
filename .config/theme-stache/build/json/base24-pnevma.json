@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1c1c1c",
-    "ansi-1-hex": "#a36666",
-    "ansi-10-hex": "#afbea2",
-    "ansi-11-hex": "#e4c9af",
-    "ansi-12-hex": "#a1bdce",
-    "ansi-13-hex": "#d7beda",
-    "ansi-14-hex": "#b1e7dd",
-    "ansi-15-hex": "#efefef",
-    "ansi-2-hex": "#90a57d",
-    "ansi-3-hex": "#a1bdce",
-    "ansi-4-hex": "#7fa5bd",
-    "ansi-5-hex": "#c79ec4",
-    "ansi-6-hex": "#8adbb4",
-    "ansi-7-hex": "#aeaead",
-    "ansi-8-hex": "#6b6a67",
-    "ansi-9-hex": "#d78787",
-    "background-hex": "#1c1c1c",
-    "cursor-hex": "#aeaead",
-    "foreground-hex": "#aeaead",
-    "selection-hex": "#d0d0d0",
-    "selection-text-hex": "#2f2e2d",
+    "ansi-0": {
+        "hex": "#1c1c1c",
+        "hexterm": "1c/1c/1c"
+    },
+    "ansi-1": {
+        "hex": "#a36666",
+        "hexterm": "a3/66/66"
+    },
+    "ansi-10": {
+        "hex": "#afbea2",
+        "hexterm": "af/be/a2"
+    },
+    "ansi-11": {
+        "hex": "#e4c9af",
+        "hexterm": "e4/c9/af"
+    },
+    "ansi-12": {
+        "hex": "#a1bdce",
+        "hexterm": "a1/bd/ce"
+    },
+    "ansi-13": {
+        "hex": "#d7beda",
+        "hexterm": "d7/be/da"
+    },
+    "ansi-14": {
+        "hex": "#b1e7dd",
+        "hexterm": "b1/e7/dd"
+    },
+    "ansi-15": {
+        "hex": "#efefef",
+        "hexterm": "ef/ef/ef"
+    },
+    "ansi-2": {
+        "hex": "#90a57d",
+        "hexterm": "90/a5/7d"
+    },
+    "ansi-3": {
+        "hex": "#a1bdce",
+        "hexterm": "a1/bd/ce"
+    },
+    "ansi-4": {
+        "hex": "#7fa5bd",
+        "hexterm": "7f/a5/bd"
+    },
+    "ansi-5": {
+        "hex": "#c79ec4",
+        "hexterm": "c7/9e/c4"
+    },
+    "ansi-6": {
+        "hex": "#8adbb4",
+        "hexterm": "8a/db/b4"
+    },
+    "ansi-7": {
+        "hex": "#aeaead",
+        "hexterm": "ae/ae/ad"
+    },
+    "ansi-8": {
+        "hex": "#6b6a67",
+        "hexterm": "6b/6a/67"
+    },
+    "ansi-9": {
+        "hex": "#d78787",
+        "hexterm": "d7/87/87"
+    },
+    "background": {
+        "hex": "#1c1c1c",
+        "hexterm": "1c/1c/1c"
+    },
+    "cursor": {
+        "hex": "#aeaead",
+        "hexterm": "ae/ae/ad"
+    },
+    "foreground": {
+        "hex": "#aeaead",
+        "hexterm": "ae/ae/ad"
+    },
+    "selection": {
+        "hex": "#d0d0d0",
+        "hexterm": "d0/d0/d0"
+    },
+    "selection-text": {
+        "hex": "#2f2e2d",
+        "hexterm": "2f/2e/2d"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Pnevma",
     "theme-slug": "pnevma",

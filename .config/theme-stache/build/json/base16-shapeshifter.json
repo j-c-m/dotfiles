@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#f9f9f9",
-    "ansi-1-hex": "#e92f2f",
-    "ansi-10-hex": "#0ed839",
-    "ansi-11-hex": "#dddd13",
-    "ansi-12-hex": "#3b48e3",
-    "ansi-13-hex": "#f996e2",
-    "ansi-14-hex": "#23edda",
-    "ansi-15-hex": "#000000",
-    "ansi-2-hex": "#0ed839",
-    "ansi-3-hex": "#dddd13",
-    "ansi-4-hex": "#3b48e3",
-    "ansi-5-hex": "#f996e2",
-    "ansi-6-hex": "#23edda",
-    "ansi-7-hex": "#102015",
-    "ansi-8-hex": "#555555",
-    "ansi-9-hex": "#e92f2f",
-    "background-hex": "#f9f9f9",
-    "cursor-hex": "#102015",
-    "foreground-hex": "#102015",
-    "selection-hex": "#040404",
-    "selection-text-hex": "#e0e0e0",
+    "ansi-0": {
+        "hex": "#f9f9f9",
+        "hexterm": "f9/f9/f9"
+    },
+    "ansi-1": {
+        "hex": "#e92f2f",
+        "hexterm": "e9/2f/2f"
+    },
+    "ansi-10": {
+        "hex": "#0ed839",
+        "hexterm": "0e/d8/39"
+    },
+    "ansi-11": {
+        "hex": "#dddd13",
+        "hexterm": "dd/dd/13"
+    },
+    "ansi-12": {
+        "hex": "#3b48e3",
+        "hexterm": "3b/48/e3"
+    },
+    "ansi-13": {
+        "hex": "#f996e2",
+        "hexterm": "f9/96/e2"
+    },
+    "ansi-14": {
+        "hex": "#23edda",
+        "hexterm": "23/ed/da"
+    },
+    "ansi-15": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-2": {
+        "hex": "#0ed839",
+        "hexterm": "0e/d8/39"
+    },
+    "ansi-3": {
+        "hex": "#dddd13",
+        "hexterm": "dd/dd/13"
+    },
+    "ansi-4": {
+        "hex": "#3b48e3",
+        "hexterm": "3b/48/e3"
+    },
+    "ansi-5": {
+        "hex": "#f996e2",
+        "hexterm": "f9/96/e2"
+    },
+    "ansi-6": {
+        "hex": "#23edda",
+        "hexterm": "23/ed/da"
+    },
+    "ansi-7": {
+        "hex": "#102015",
+        "hexterm": "10/20/15"
+    },
+    "ansi-8": {
+        "hex": "#555555",
+        "hexterm": "55/55/55"
+    },
+    "ansi-9": {
+        "hex": "#e92f2f",
+        "hexterm": "e9/2f/2f"
+    },
+    "background": {
+        "hex": "#f9f9f9",
+        "hexterm": "f9/f9/f9"
+    },
+    "cursor": {
+        "hex": "#102015",
+        "hexterm": "10/20/15"
+    },
+    "foreground": {
+        "hex": "#102015",
+        "hexterm": "10/20/15"
+    },
+    "selection": {
+        "hex": "#040404",
+        "hexterm": "04/04/04"
+    },
+    "selection-text": {
+        "hex": "#e0e0e0",
+        "hexterm": "e0/e0/e0"
+    },
     "theme-author": "Tyler Benziger (http://tybenz.com)",
     "theme-name": "Shapeshifter",
     "theme-slug": "shapeshifter",

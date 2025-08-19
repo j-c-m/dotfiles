@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#2a1a4a",
-    "ansi-1-hex": "#ff786c",
-    "ansi-10-hex": "#b4bd8e",
-    "ansi-11-hex": "#f1e9bf",
-    "ansi-12-hex": "#79daed",
-    "ansi-13-hex": "#b991d4",
-    "ansi-14-hex": "#a0a0d6",
-    "ansi-15-hex": "#b9aed3",
-    "ansi-2-hex": "#98b481",
-    "ansi-3-hex": "#79daed",
-    "ansi-4-hex": "#66d9ef",
-    "ansi-5-hex": "#e68ecd",
-    "ansi-6-hex": "#b98cff",
-    "ansi-7-hex": "#c38e69",
-    "ansi-8-hex": "#4b3639",
-    "ansi-9-hex": "#f89f92",
-    "background-hex": "#2a1a4a",
-    "cursor-hex": "#c38e69",
-    "foreground-hex": "#c38e69",
-    "selection-hex": "#ffba81",
-    "selection-text-hex": "#0a041f",
+    "ansi-0": {
+        "hex": "#2a1a4a",
+        "hexterm": "2a/1a/4a"
+    },
+    "ansi-1": {
+        "hex": "#ff786c",
+        "hexterm": "ff/78/6c"
+    },
+    "ansi-10": {
+        "hex": "#b4bd8e",
+        "hexterm": "b4/bd/8e"
+    },
+    "ansi-11": {
+        "hex": "#f1e9bf",
+        "hexterm": "f1/e9/bf"
+    },
+    "ansi-12": {
+        "hex": "#79daed",
+        "hexterm": "79/da/ed"
+    },
+    "ansi-13": {
+        "hex": "#b991d4",
+        "hexterm": "b9/91/d4"
+    },
+    "ansi-14": {
+        "hex": "#a0a0d6",
+        "hexterm": "a0/a0/d6"
+    },
+    "ansi-15": {
+        "hex": "#b9aed3",
+        "hexterm": "b9/ae/d3"
+    },
+    "ansi-2": {
+        "hex": "#98b481",
+        "hexterm": "98/b4/81"
+    },
+    "ansi-3": {
+        "hex": "#79daed",
+        "hexterm": "79/da/ed"
+    },
+    "ansi-4": {
+        "hex": "#66d9ef",
+        "hexterm": "66/d9/ef"
+    },
+    "ansi-5": {
+        "hex": "#e68ecd",
+        "hexterm": "e6/8e/cd"
+    },
+    "ansi-6": {
+        "hex": "#b98cff",
+        "hexterm": "b9/8c/ff"
+    },
+    "ansi-7": {
+        "hex": "#c38e69",
+        "hexterm": "c3/8e/69"
+    },
+    "ansi-8": {
+        "hex": "#4b3639",
+        "hexterm": "4b/36/39"
+    },
+    "ansi-9": {
+        "hex": "#f89f92",
+        "hexterm": "f8/9f/92"
+    },
+    "background": {
+        "hex": "#2a1a4a",
+        "hexterm": "2a/1a/4a"
+    },
+    "cursor": {
+        "hex": "#c38e69",
+        "hexterm": "c3/8e/69"
+    },
+    "foreground": {
+        "hex": "#c38e69",
+        "hexterm": "c3/8e/69"
+    },
+    "selection": {
+        "hex": "#ffba81",
+        "hexterm": "ff/ba/81"
+    },
+    "selection-text": {
+        "hex": "#0a041f",
+        "hexterm": "0a/04/1f"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Purplepeter",
     "theme-slug": "purplepeter",

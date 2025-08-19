@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#0d1117",
-    "ansi-1-hex": "#c32424",
-    "ansi-10-hex": "#30d9a4",
-    "ansi-11-hex": "#d9bd30",
-    "ansi-12-hex": "#3063d9",
-    "ansi-13-hex": "#d930d9",
-    "ansi-14-hex": "#30d1d9",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#24c391",
-    "ansi-3-hex": "#c3a924",
-    "ansi-4-hex": "#2455c3",
-    "ansi-5-hex": "#c224c3",
-    "ansi-6-hex": "#24bac3",
-    "ansi-7-hex": "#e8ecf2",
-    "ansi-8-hex": "#3b4d68",
-    "ansi-9-hex": "#d93030",
-    "background-hex": "#0d1117",
-    "cursor-hex": "#00ff00",
-    "foreground-hex": "#9198a1",
-    "selection-hex": "#9198a1",
-    "selection-text-hex": "#0d1117",
+    "ansi-0": {
+        "hex": "#0d1117",
+        "hexterm": "0d/11/17"
+    },
+    "ansi-1": {
+        "hex": "#c32424",
+        "hexterm": "c3/24/24"
+    },
+    "ansi-10": {
+        "hex": "#30d9a4",
+        "hexterm": "30/d9/a4"
+    },
+    "ansi-11": {
+        "hex": "#d9bd30",
+        "hexterm": "d9/bd/30"
+    },
+    "ansi-12": {
+        "hex": "#3063d9",
+        "hexterm": "30/63/d9"
+    },
+    "ansi-13": {
+        "hex": "#d930d9",
+        "hexterm": "d9/30/d9"
+    },
+    "ansi-14": {
+        "hex": "#30d1d9",
+        "hexterm": "30/d1/d9"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#24c391",
+        "hexterm": "24/c3/91"
+    },
+    "ansi-3": {
+        "hex": "#c3a924",
+        "hexterm": "c3/a9/24"
+    },
+    "ansi-4": {
+        "hex": "#2455c3",
+        "hexterm": "24/55/c3"
+    },
+    "ansi-5": {
+        "hex": "#c224c3",
+        "hexterm": "c2/24/c3"
+    },
+    "ansi-6": {
+        "hex": "#24bac3",
+        "hexterm": "24/ba/c3"
+    },
+    "ansi-7": {
+        "hex": "#e8ecf2",
+        "hexterm": "e8/ec/f2"
+    },
+    "ansi-8": {
+        "hex": "#3b4d68",
+        "hexterm": "3b/4d/68"
+    },
+    "ansi-9": {
+        "hex": "#d93030",
+        "hexterm": "d9/30/30"
+    },
+    "background": {
+        "hex": "#0d1117",
+        "hexterm": "0d/11/17"
+    },
+    "cursor": {
+        "hex": "#00ff00",
+        "hexterm": "00/ff/00"
+    },
+    "foreground": {
+        "hex": "#9198a1",
+        "hexterm": "91/98/a1"
+    },
+    "selection": {
+        "hex": "#9198a1",
+        "hexterm": "91/98/a1"
+    },
+    "selection-text": {
+        "hex": "#0d1117",
+        "hexterm": "0d/11/17"
+    },
     "theme-author": "https://hesamrad.com",
     "theme-name": "Arc Dark",
     "theme-slug": "arc-dark",

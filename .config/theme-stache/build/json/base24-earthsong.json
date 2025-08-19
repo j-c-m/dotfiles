@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#282420",
-    "ansi-1-hex": "#c84134",
-    "ansi-10-hex": "#97e035",
-    "ansi-11-hex": "#dfd561",
-    "ansi-12-hex": "#5ed9ff",
-    "ansi-13-hex": "#ff9168",
-    "ansi-14-hex": "#83ef88",
-    "ansi-15-hex": "#f6f6ec",
-    "ansi-2-hex": "#84c44b",
-    "ansi-3-hex": "#5ed9ff",
-    "ansi-4-hex": "#1397b9",
-    "ansi-5-hex": "#d0623c",
-    "ansi-6-hex": "#4f9452",
-    "ansi-7-hex": "#c5ab93",
-    "ansi-8-hex": "#857769",
-    "ansi-9-hex": "#ff6459",
-    "background-hex": "#282420",
-    "cursor-hex": "#c5ab93",
-    "foreground-hex": "#c5ab93",
-    "selection-hex": "#e5c5a9",
-    "selection-text-hex": "#111417",
+    "ansi-0": {
+        "hex": "#282420",
+        "hexterm": "28/24/20"
+    },
+    "ansi-1": {
+        "hex": "#c84134",
+        "hexterm": "c8/41/34"
+    },
+    "ansi-10": {
+        "hex": "#97e035",
+        "hexterm": "97/e0/35"
+    },
+    "ansi-11": {
+        "hex": "#dfd561",
+        "hexterm": "df/d5/61"
+    },
+    "ansi-12": {
+        "hex": "#5ed9ff",
+        "hexterm": "5e/d9/ff"
+    },
+    "ansi-13": {
+        "hex": "#ff9168",
+        "hexterm": "ff/91/68"
+    },
+    "ansi-14": {
+        "hex": "#83ef88",
+        "hexterm": "83/ef/88"
+    },
+    "ansi-15": {
+        "hex": "#f6f6ec",
+        "hexterm": "f6/f6/ec"
+    },
+    "ansi-2": {
+        "hex": "#84c44b",
+        "hexterm": "84/c4/4b"
+    },
+    "ansi-3": {
+        "hex": "#5ed9ff",
+        "hexterm": "5e/d9/ff"
+    },
+    "ansi-4": {
+        "hex": "#1397b9",
+        "hexterm": "13/97/b9"
+    },
+    "ansi-5": {
+        "hex": "#d0623c",
+        "hexterm": "d0/62/3c"
+    },
+    "ansi-6": {
+        "hex": "#4f9452",
+        "hexterm": "4f/94/52"
+    },
+    "ansi-7": {
+        "hex": "#c5ab93",
+        "hexterm": "c5/ab/93"
+    },
+    "ansi-8": {
+        "hex": "#857769",
+        "hexterm": "85/77/69"
+    },
+    "ansi-9": {
+        "hex": "#ff6459",
+        "hexterm": "ff/64/59"
+    },
+    "background": {
+        "hex": "#282420",
+        "hexterm": "28/24/20"
+    },
+    "cursor": {
+        "hex": "#c5ab93",
+        "hexterm": "c5/ab/93"
+    },
+    "foreground": {
+        "hex": "#c5ab93",
+        "hexterm": "c5/ab/93"
+    },
+    "selection": {
+        "hex": "#e5c5a9",
+        "hexterm": "e5/c5/a9"
+    },
+    "selection-text": {
+        "hex": "#111417",
+        "hexterm": "11/14/17"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Earthsong",
     "theme-slug": "earthsong",

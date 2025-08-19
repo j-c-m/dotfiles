@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#d5d6db",
-    "ansi-1-hex": "#343b58",
-    "ansi-10-hex": "#485e30",
-    "ansi-11-hex": "#166775",
-    "ansi-12-hex": "#34548a",
-    "ansi-13-hex": "#5a4a78",
-    "ansi-14-hex": "#3e6968",
-    "ansi-15-hex": "#1a1b26",
-    "ansi-2-hex": "#485e30",
-    "ansi-3-hex": "#166775",
-    "ansi-4-hex": "#34548a",
-    "ansi-5-hex": "#5a4a78",
-    "ansi-6-hex": "#3e6968",
-    "ansi-7-hex": "#343b59",
-    "ansi-8-hex": "#9699a3",
-    "ansi-9-hex": "#343b58",
-    "background-hex": "#d5d6db",
-    "cursor-hex": "#343b59",
-    "foreground-hex": "#343b59",
-    "selection-hex": "#1a1b26",
-    "selection-text-hex": "#cbccd1",
+    "ansi-0": {
+        "hex": "#d5d6db",
+        "hexterm": "d5/d6/db"
+    },
+    "ansi-1": {
+        "hex": "#343b58",
+        "hexterm": "34/3b/58"
+    },
+    "ansi-10": {
+        "hex": "#485e30",
+        "hexterm": "48/5e/30"
+    },
+    "ansi-11": {
+        "hex": "#166775",
+        "hexterm": "16/67/75"
+    },
+    "ansi-12": {
+        "hex": "#34548a",
+        "hexterm": "34/54/8a"
+    },
+    "ansi-13": {
+        "hex": "#5a4a78",
+        "hexterm": "5a/4a/78"
+    },
+    "ansi-14": {
+        "hex": "#3e6968",
+        "hexterm": "3e/69/68"
+    },
+    "ansi-15": {
+        "hex": "#1a1b26",
+        "hexterm": "1a/1b/26"
+    },
+    "ansi-2": {
+        "hex": "#485e30",
+        "hexterm": "48/5e/30"
+    },
+    "ansi-3": {
+        "hex": "#166775",
+        "hexterm": "16/67/75"
+    },
+    "ansi-4": {
+        "hex": "#34548a",
+        "hexterm": "34/54/8a"
+    },
+    "ansi-5": {
+        "hex": "#5a4a78",
+        "hexterm": "5a/4a/78"
+    },
+    "ansi-6": {
+        "hex": "#3e6968",
+        "hexterm": "3e/69/68"
+    },
+    "ansi-7": {
+        "hex": "#343b59",
+        "hexterm": "34/3b/59"
+    },
+    "ansi-8": {
+        "hex": "#9699a3",
+        "hexterm": "96/99/a3"
+    },
+    "ansi-9": {
+        "hex": "#343b58",
+        "hexterm": "34/3b/58"
+    },
+    "background": {
+        "hex": "#d5d6db",
+        "hexterm": "d5/d6/db"
+    },
+    "cursor": {
+        "hex": "#343b59",
+        "hexterm": "34/3b/59"
+    },
+    "foreground": {
+        "hex": "#343b59",
+        "hexterm": "34/3b/59"
+    },
+    "selection": {
+        "hex": "#1a1b26",
+        "hexterm": "1a/1b/26"
+    },
+    "selection-text": {
+        "hex": "#cbccd1",
+        "hexterm": "cb/cc/d1"
+    },
     "theme-author": "Michaël Ball",
     "theme-name": "Tokyo Night Light",
     "theme-slug": "tokyo-night-light",

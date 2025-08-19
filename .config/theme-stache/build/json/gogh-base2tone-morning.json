@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#232834",
-    "ansi-1-hex": "#1659df",
-    "ansi-10-hex": "#31363f",
-    "ansi-11-hex": "#4f5664",
-    "ansi-12-hex": "#707a8f",
-    "ansi-13-hex": "#b7c9eb",
-    "ansi-14-hex": "#9a7c42",
-    "ansi-15-hex": "#dee6f7",
-    "ansi-2-hex": "#b29762",
-    "ansi-3-hex": "#e5ddcd",
-    "ansi-4-hex": "#3d75e6",
-    "ansi-5-hex": "#b29762",
-    "ansi-6-hex": "#728fcb",
-    "ansi-7-hex": "#8d95a5",
-    "ansi-8-hex": "#656e81",
-    "ansi-9-hex": "#c6b28b",
-    "background-hex": "#232834",
-    "cursor-hex": "#594212",
-    "foreground-hex": "#8d95a5",
-    "selection-hex": "#8d95a5",
-    "selection-text-hex": "#232834",
+    "ansi-0": {
+        "hex": "#232834",
+        "hexterm": "23/28/34"
+    },
+    "ansi-1": {
+        "hex": "#1659df",
+        "hexterm": "16/59/df"
+    },
+    "ansi-10": {
+        "hex": "#31363f",
+        "hexterm": "31/36/3f"
+    },
+    "ansi-11": {
+        "hex": "#4f5664",
+        "hexterm": "4f/56/64"
+    },
+    "ansi-12": {
+        "hex": "#707a8f",
+        "hexterm": "70/7a/8f"
+    },
+    "ansi-13": {
+        "hex": "#b7c9eb",
+        "hexterm": "b7/c9/eb"
+    },
+    "ansi-14": {
+        "hex": "#9a7c42",
+        "hexterm": "9a/7c/42"
+    },
+    "ansi-15": {
+        "hex": "#dee6f7",
+        "hexterm": "de/e6/f7"
+    },
+    "ansi-2": {
+        "hex": "#b29762",
+        "hexterm": "b2/97/62"
+    },
+    "ansi-3": {
+        "hex": "#e5ddcd",
+        "hexterm": "e5/dd/cd"
+    },
+    "ansi-4": {
+        "hex": "#3d75e6",
+        "hexterm": "3d/75/e6"
+    },
+    "ansi-5": {
+        "hex": "#b29762",
+        "hexterm": "b2/97/62"
+    },
+    "ansi-6": {
+        "hex": "#728fcb",
+        "hexterm": "72/8f/cb"
+    },
+    "ansi-7": {
+        "hex": "#8d95a5",
+        "hexterm": "8d/95/a5"
+    },
+    "ansi-8": {
+        "hex": "#656e81",
+        "hexterm": "65/6e/81"
+    },
+    "ansi-9": {
+        "hex": "#c6b28b",
+        "hexterm": "c6/b2/8b"
+    },
+    "background": {
+        "hex": "#232834",
+        "hexterm": "23/28/34"
+    },
+    "cursor": {
+        "hex": "#594212",
+        "hexterm": "59/42/12"
+    },
+    "foreground": {
+        "hex": "#8d95a5",
+        "hexterm": "8d/95/a5"
+    },
+    "selection": {
+        "hex": "#8d95a5",
+        "hexterm": "8d/95/a5"
+    },
+    "selection-text": {
+        "hex": "#232834",
+        "hexterm": "23/28/34"
+    },
     "theme-author": "",
     "theme-name": "Base2Tone Morning",
     "theme-slug": "base2tone-morning",

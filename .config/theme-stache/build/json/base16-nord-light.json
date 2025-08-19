@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#e5e9f0",
-    "ansi-1-hex": "#99324b",
-    "ansi-10-hex": "#4f894c",
-    "ansi-11-hex": "#9a7500",
-    "ansi-12-hex": "#3b6ea8",
-    "ansi-13-hex": "#97365b",
-    "ansi-14-hex": "#398eac",
-    "ansi-15-hex": "#29838d",
-    "ansi-2-hex": "#4f894c",
-    "ansi-3-hex": "#9a7500",
-    "ansi-4-hex": "#3b6ea8",
-    "ansi-5-hex": "#97365b",
-    "ansi-6-hex": "#398eac",
-    "ansi-7-hex": "#2e3440",
-    "ansi-8-hex": "#aebacf",
-    "ansi-9-hex": "#99324b",
-    "background-hex": "#e5e9f0",
-    "cursor-hex": "#2e3440",
-    "foreground-hex": "#2e3440",
-    "selection-hex": "#3b4252",
-    "selection-text-hex": "#c2d0e7",
+    "ansi-0": {
+        "hex": "#e5e9f0",
+        "hexterm": "e5/e9/f0"
+    },
+    "ansi-1": {
+        "hex": "#99324b",
+        "hexterm": "99/32/4b"
+    },
+    "ansi-10": {
+        "hex": "#4f894c",
+        "hexterm": "4f/89/4c"
+    },
+    "ansi-11": {
+        "hex": "#9a7500",
+        "hexterm": "9a/75/00"
+    },
+    "ansi-12": {
+        "hex": "#3b6ea8",
+        "hexterm": "3b/6e/a8"
+    },
+    "ansi-13": {
+        "hex": "#97365b",
+        "hexterm": "97/36/5b"
+    },
+    "ansi-14": {
+        "hex": "#398eac",
+        "hexterm": "39/8e/ac"
+    },
+    "ansi-15": {
+        "hex": "#29838d",
+        "hexterm": "29/83/8d"
+    },
+    "ansi-2": {
+        "hex": "#4f894c",
+        "hexterm": "4f/89/4c"
+    },
+    "ansi-3": {
+        "hex": "#9a7500",
+        "hexterm": "9a/75/00"
+    },
+    "ansi-4": {
+        "hex": "#3b6ea8",
+        "hexterm": "3b/6e/a8"
+    },
+    "ansi-5": {
+        "hex": "#97365b",
+        "hexterm": "97/36/5b"
+    },
+    "ansi-6": {
+        "hex": "#398eac",
+        "hexterm": "39/8e/ac"
+    },
+    "ansi-7": {
+        "hex": "#2e3440",
+        "hexterm": "2e/34/40"
+    },
+    "ansi-8": {
+        "hex": "#aebacf",
+        "hexterm": "ae/ba/cf"
+    },
+    "ansi-9": {
+        "hex": "#99324b",
+        "hexterm": "99/32/4b"
+    },
+    "background": {
+        "hex": "#e5e9f0",
+        "hexterm": "e5/e9/f0"
+    },
+    "cursor": {
+        "hex": "#2e3440",
+        "hexterm": "2e/34/40"
+    },
+    "foreground": {
+        "hex": "#2e3440",
+        "hexterm": "2e/34/40"
+    },
+    "selection": {
+        "hex": "#3b4252",
+        "hexterm": "3b/42/52"
+    },
+    "selection-text": {
+        "hex": "#c2d0e7",
+        "hexterm": "c2/d0/e7"
+    },
     "theme-author": "threddast, based on fuxialexander's doom-nord-light-theme (Doom Emacs)",
     "theme-name": "Nord Light",
     "theme-slug": "nord-light",

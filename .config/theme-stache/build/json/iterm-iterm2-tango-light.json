@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#d71e00",
-    "ansi-10-hex": "#98e342",
-    "ansi-11-hex": "#fcea60",
-    "ansi-12-hex": "#83afd8",
-    "ansi-13-hex": "#bc93b6",
-    "ansi-14-hex": "#37e5e7",
-    "ansi-15-hex": "#f1f1ef",
-    "ansi-2-hex": "#5da602",
-    "ansi-3-hex": "#cfad00",
-    "ansi-4-hex": "#417ab3",
-    "ansi-5-hex": "#88658d",
-    "ansi-6-hex": "#00a7aa",
-    "ansi-7-hex": "#dbded8",
-    "ansi-8-hex": "#676965",
-    "ansi-9-hex": "#f44135",
-    "background-hex": "#fffeff",
-    "cursor-hex": "#000000",
-    "foreground-hex": "#000000",
-    "selection-hex": "#c1ddff",
-    "selection-text-hex": "#000000",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#d71e00",
+        "hexterm": "d7/1e/00"
+    },
+    "ansi-10": {
+        "hex": "#98e342",
+        "hexterm": "98/e3/42"
+    },
+    "ansi-11": {
+        "hex": "#fcea60",
+        "hexterm": "fc/ea/60"
+    },
+    "ansi-12": {
+        "hex": "#83afd8",
+        "hexterm": "83/af/d8"
+    },
+    "ansi-13": {
+        "hex": "#bc93b6",
+        "hexterm": "bc/93/b6"
+    },
+    "ansi-14": {
+        "hex": "#37e5e7",
+        "hexterm": "37/e5/e7"
+    },
+    "ansi-15": {
+        "hex": "#f1f1ef",
+        "hexterm": "f1/f1/ef"
+    },
+    "ansi-2": {
+        "hex": "#5da602",
+        "hexterm": "5d/a6/02"
+    },
+    "ansi-3": {
+        "hex": "#cfad00",
+        "hexterm": "cf/ad/00"
+    },
+    "ansi-4": {
+        "hex": "#417ab3",
+        "hexterm": "41/7a/b3"
+    },
+    "ansi-5": {
+        "hex": "#88658d",
+        "hexterm": "88/65/8d"
+    },
+    "ansi-6": {
+        "hex": "#00a7aa",
+        "hexterm": "00/a7/aa"
+    },
+    "ansi-7": {
+        "hex": "#dbded8",
+        "hexterm": "db/de/d8"
+    },
+    "ansi-8": {
+        "hex": "#676965",
+        "hexterm": "67/69/65"
+    },
+    "ansi-9": {
+        "hex": "#f44135",
+        "hexterm": "f4/41/35"
+    },
+    "background": {
+        "hex": "#fffeff",
+        "hexterm": "ff/fe/ff"
+    },
+    "cursor": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "foreground": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "selection": {
+        "hex": "#c1ddff",
+        "hexterm": "c1/dd/ff"
+    },
+    "selection-text": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
     "theme-author": "unknown",
     "theme-name": "iTerm2 Tango Light",
     "theme-slug": "iterm2-tango-light",

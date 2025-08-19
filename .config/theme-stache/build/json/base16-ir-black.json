@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#ff6c60",
-    "ansi-10-hex": "#a8ff60",
-    "ansi-11-hex": "#ffffb6",
-    "ansi-12-hex": "#96cbfe",
-    "ansi-13-hex": "#ff73fd",
-    "ansi-14-hex": "#c6c5fe",
-    "ansi-15-hex": "#fdfbee",
-    "ansi-2-hex": "#a8ff60",
-    "ansi-3-hex": "#ffffb6",
-    "ansi-4-hex": "#96cbfe",
-    "ansi-5-hex": "#ff73fd",
-    "ansi-6-hex": "#c6c5fe",
-    "ansi-7-hex": "#b5b3aa",
-    "ansi-8-hex": "#6c6c66",
-    "ansi-9-hex": "#ff6c60",
-    "background-hex": "#000000",
-    "cursor-hex": "#b5b3aa",
-    "foreground-hex": "#b5b3aa",
-    "selection-hex": "#d9d7cc",
-    "selection-text-hex": "#242422",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#ff6c60",
+        "hexterm": "ff/6c/60"
+    },
+    "ansi-10": {
+        "hex": "#a8ff60",
+        "hexterm": "a8/ff/60"
+    },
+    "ansi-11": {
+        "hex": "#ffffb6",
+        "hexterm": "ff/ff/b6"
+    },
+    "ansi-12": {
+        "hex": "#96cbfe",
+        "hexterm": "96/cb/fe"
+    },
+    "ansi-13": {
+        "hex": "#ff73fd",
+        "hexterm": "ff/73/fd"
+    },
+    "ansi-14": {
+        "hex": "#c6c5fe",
+        "hexterm": "c6/c5/fe"
+    },
+    "ansi-15": {
+        "hex": "#fdfbee",
+        "hexterm": "fd/fb/ee"
+    },
+    "ansi-2": {
+        "hex": "#a8ff60",
+        "hexterm": "a8/ff/60"
+    },
+    "ansi-3": {
+        "hex": "#ffffb6",
+        "hexterm": "ff/ff/b6"
+    },
+    "ansi-4": {
+        "hex": "#96cbfe",
+        "hexterm": "96/cb/fe"
+    },
+    "ansi-5": {
+        "hex": "#ff73fd",
+        "hexterm": "ff/73/fd"
+    },
+    "ansi-6": {
+        "hex": "#c6c5fe",
+        "hexterm": "c6/c5/fe"
+    },
+    "ansi-7": {
+        "hex": "#b5b3aa",
+        "hexterm": "b5/b3/aa"
+    },
+    "ansi-8": {
+        "hex": "#6c6c66",
+        "hexterm": "6c/6c/66"
+    },
+    "ansi-9": {
+        "hex": "#ff6c60",
+        "hexterm": "ff/6c/60"
+    },
+    "background": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "cursor": {
+        "hex": "#b5b3aa",
+        "hexterm": "b5/b3/aa"
+    },
+    "foreground": {
+        "hex": "#b5b3aa",
+        "hexterm": "b5/b3/aa"
+    },
+    "selection": {
+        "hex": "#d9d7cc",
+        "hexterm": "d9/d7/cc"
+    },
+    "selection-text": {
+        "hex": "#242422",
+        "hexterm": "24/24/22"
+    },
     "theme-author": "Timothée Poisot (http://timotheepoisot.fr)",
     "theme-name": "IR Black",
     "theme-slug": "ir-black",

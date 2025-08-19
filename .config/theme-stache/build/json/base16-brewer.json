@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#0c0d0e",
-    "ansi-1-hex": "#e31a1c",
-    "ansi-10-hex": "#31a354",
-    "ansi-11-hex": "#dca060",
-    "ansi-12-hex": "#3182bd",
-    "ansi-13-hex": "#756bb1",
-    "ansi-14-hex": "#80b1d3",
-    "ansi-15-hex": "#fcfdfe",
-    "ansi-2-hex": "#31a354",
-    "ansi-3-hex": "#dca060",
-    "ansi-4-hex": "#3182bd",
-    "ansi-5-hex": "#756bb1",
-    "ansi-6-hex": "#80b1d3",
-    "ansi-7-hex": "#b7b8b9",
-    "ansi-8-hex": "#737475",
-    "ansi-9-hex": "#e31a1c",
-    "background-hex": "#0c0d0e",
-    "cursor-hex": "#b7b8b9",
-    "foreground-hex": "#b7b8b9",
-    "selection-hex": "#dadbdc",
-    "selection-text-hex": "#2e2f30",
+    "ansi-0": {
+        "hex": "#0c0d0e",
+        "hexterm": "0c/0d/0e"
+    },
+    "ansi-1": {
+        "hex": "#e31a1c",
+        "hexterm": "e3/1a/1c"
+    },
+    "ansi-10": {
+        "hex": "#31a354",
+        "hexterm": "31/a3/54"
+    },
+    "ansi-11": {
+        "hex": "#dca060",
+        "hexterm": "dc/a0/60"
+    },
+    "ansi-12": {
+        "hex": "#3182bd",
+        "hexterm": "31/82/bd"
+    },
+    "ansi-13": {
+        "hex": "#756bb1",
+        "hexterm": "75/6b/b1"
+    },
+    "ansi-14": {
+        "hex": "#80b1d3",
+        "hexterm": "80/b1/d3"
+    },
+    "ansi-15": {
+        "hex": "#fcfdfe",
+        "hexterm": "fc/fd/fe"
+    },
+    "ansi-2": {
+        "hex": "#31a354",
+        "hexterm": "31/a3/54"
+    },
+    "ansi-3": {
+        "hex": "#dca060",
+        "hexterm": "dc/a0/60"
+    },
+    "ansi-4": {
+        "hex": "#3182bd",
+        "hexterm": "31/82/bd"
+    },
+    "ansi-5": {
+        "hex": "#756bb1",
+        "hexterm": "75/6b/b1"
+    },
+    "ansi-6": {
+        "hex": "#80b1d3",
+        "hexterm": "80/b1/d3"
+    },
+    "ansi-7": {
+        "hex": "#b7b8b9",
+        "hexterm": "b7/b8/b9"
+    },
+    "ansi-8": {
+        "hex": "#737475",
+        "hexterm": "73/74/75"
+    },
+    "ansi-9": {
+        "hex": "#e31a1c",
+        "hexterm": "e3/1a/1c"
+    },
+    "background": {
+        "hex": "#0c0d0e",
+        "hexterm": "0c/0d/0e"
+    },
+    "cursor": {
+        "hex": "#b7b8b9",
+        "hexterm": "b7/b8/b9"
+    },
+    "foreground": {
+        "hex": "#b7b8b9",
+        "hexterm": "b7/b8/b9"
+    },
+    "selection": {
+        "hex": "#dadbdc",
+        "hexterm": "da/db/dc"
+    },
+    "selection-text": {
+        "hex": "#2e2f30",
+        "hexterm": "2e/2f/30"
+    },
     "theme-author": "Timothée Poisot (http://github.com/tpoisot)",
     "theme-name": "Brewer",
     "theme-slug": "brewer",

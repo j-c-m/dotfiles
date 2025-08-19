@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#292d3e",
-    "ansi-1-hex": "#6e98e1",
-    "ansi-10-hex": "#78c06e",
-    "ansi-11-hex": "#e0a557",
-    "ansi-12-hex": "#82aaff",
-    "ansi-13-hex": "#c792ea",
-    "ansi-14-hex": "#83b7e5",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#78c06e",
-    "ansi-3-hex": "#e0a557",
-    "ansi-4-hex": "#82aaff",
-    "ansi-5-hex": "#c792ea",
-    "ansi-6-hex": "#83b7e5",
-    "ansi-7-hex": "#959dcb",
-    "ansi-8-hex": "#676e95",
-    "ansi-9-hex": "#6e98e1",
-    "background-hex": "#292d3e",
-    "cursor-hex": "#959dcb",
-    "foreground-hex": "#959dcb",
-    "selection-hex": "#959dcb",
-    "selection-text-hex": "#444267",
+    "ansi-0": {
+        "hex": "#292d3e",
+        "hexterm": "29/2d/3e"
+    },
+    "ansi-1": {
+        "hex": "#6e98e1",
+        "hexterm": "6e/98/e1"
+    },
+    "ansi-10": {
+        "hex": "#78c06e",
+        "hexterm": "78/c0/6e"
+    },
+    "ansi-11": {
+        "hex": "#e0a557",
+        "hexterm": "e0/a5/57"
+    },
+    "ansi-12": {
+        "hex": "#82aaff",
+        "hexterm": "82/aa/ff"
+    },
+    "ansi-13": {
+        "hex": "#c792ea",
+        "hexterm": "c7/92/ea"
+    },
+    "ansi-14": {
+        "hex": "#83b7e5",
+        "hexterm": "83/b7/e5"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#78c06e",
+        "hexterm": "78/c0/6e"
+    },
+    "ansi-3": {
+        "hex": "#e0a557",
+        "hexterm": "e0/a5/57"
+    },
+    "ansi-4": {
+        "hex": "#82aaff",
+        "hexterm": "82/aa/ff"
+    },
+    "ansi-5": {
+        "hex": "#c792ea",
+        "hexterm": "c7/92/ea"
+    },
+    "ansi-6": {
+        "hex": "#83b7e5",
+        "hexterm": "83/b7/e5"
+    },
+    "ansi-7": {
+        "hex": "#959dcb",
+        "hexterm": "95/9d/cb"
+    },
+    "ansi-8": {
+        "hex": "#676e95",
+        "hexterm": "67/6e/95"
+    },
+    "ansi-9": {
+        "hex": "#6e98e1",
+        "hexterm": "6e/98/e1"
+    },
+    "background": {
+        "hex": "#292d3e",
+        "hexterm": "29/2d/3e"
+    },
+    "cursor": {
+        "hex": "#959dcb",
+        "hexterm": "95/9d/cb"
+    },
+    "foreground": {
+        "hex": "#959dcb",
+        "hexterm": "95/9d/cb"
+    },
+    "selection": {
+        "hex": "#959dcb",
+        "hexterm": "95/9d/cb"
+    },
+    "selection-text": {
+        "hex": "#444267",
+        "hexterm": "44/42/67"
+    },
     "theme-author": "George Essig (https://github.com/gessig)",
     "theme-name": "Katy",
     "theme-slug": "katy",

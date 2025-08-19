@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#003340",
-    "ansi-1-hex": "#00ccff",
-    "ansi-10-hex": "#00ccff",
-    "ansi-11-hex": "#00ccff",
-    "ansi-12-hex": "#00ccff",
-    "ansi-13-hex": "#00ccff",
-    "ansi-14-hex": "#00ccff",
-    "ansi-15-hex": "#00ccff",
-    "ansi-2-hex": "#00ccff",
-    "ansi-3-hex": "#00ccff",
-    "ansi-4-hex": "#00ccff",
-    "ansi-5-hex": "#00ccff",
-    "ansi-6-hex": "#00ccff",
-    "ansi-7-hex": "#00ccff",
-    "ansi-8-hex": "#00ccff",
-    "ansi-9-hex": "#00ccff",
-    "background-hex": "#00222b",
-    "cursor-hex": "#00ccff",
-    "foreground-hex": "#00ccff",
-    "selection-hex": "#00ccff",
-    "selection-text-hex": "#00222b",
+    "ansi-0": {
+        "hex": "#003340",
+        "hexterm": "00/33/40"
+    },
+    "ansi-1": {
+        "hex": "#00ccff",
+        "hexterm": "00/cc/ff"
+    },
+    "ansi-10": {
+        "hex": "#00ccff",
+        "hexterm": "00/cc/ff"
+    },
+    "ansi-11": {
+        "hex": "#00ccff",
+        "hexterm": "00/cc/ff"
+    },
+    "ansi-12": {
+        "hex": "#00ccff",
+        "hexterm": "00/cc/ff"
+    },
+    "ansi-13": {
+        "hex": "#00ccff",
+        "hexterm": "00/cc/ff"
+    },
+    "ansi-14": {
+        "hex": "#00ccff",
+        "hexterm": "00/cc/ff"
+    },
+    "ansi-15": {
+        "hex": "#00ccff",
+        "hexterm": "00/cc/ff"
+    },
+    "ansi-2": {
+        "hex": "#00ccff",
+        "hexterm": "00/cc/ff"
+    },
+    "ansi-3": {
+        "hex": "#00ccff",
+        "hexterm": "00/cc/ff"
+    },
+    "ansi-4": {
+        "hex": "#00ccff",
+        "hexterm": "00/cc/ff"
+    },
+    "ansi-5": {
+        "hex": "#00ccff",
+        "hexterm": "00/cc/ff"
+    },
+    "ansi-6": {
+        "hex": "#00ccff",
+        "hexterm": "00/cc/ff"
+    },
+    "ansi-7": {
+        "hex": "#00ccff",
+        "hexterm": "00/cc/ff"
+    },
+    "ansi-8": {
+        "hex": "#00ccff",
+        "hexterm": "00/cc/ff"
+    },
+    "ansi-9": {
+        "hex": "#00ccff",
+        "hexterm": "00/cc/ff"
+    },
+    "background": {
+        "hex": "#00222b",
+        "hexterm": "00/22/2b"
+    },
+    "cursor": {
+        "hex": "#00ccff",
+        "hexterm": "00/cc/ff"
+    },
+    "foreground": {
+        "hex": "#00ccff",
+        "hexterm": "00/cc/ff"
+    },
+    "selection": {
+        "hex": "#00ccff",
+        "hexterm": "00/cc/ff"
+    },
+    "selection-text": {
+        "hex": "#00222b",
+        "hexterm": "00/22/2b"
+    },
     "theme-author": "",
     "theme-name": "Mono Cyan",
     "theme-slug": "mono-cyan",

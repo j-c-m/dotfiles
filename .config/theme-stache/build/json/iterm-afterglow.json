@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#151515",
-    "ansi-1-hex": "#ac4142",
-    "ansi-10-hex": "#7e8d50",
-    "ansi-11-hex": "#e5b566",
-    "ansi-12-hex": "#6c99bb",
-    "ansi-13-hex": "#9e4e85",
-    "ansi-14-hex": "#7dd5cf",
-    "ansi-15-hex": "#f5f5f5",
-    "ansi-2-hex": "#7e8d50",
-    "ansi-3-hex": "#e5b567",
-    "ansi-4-hex": "#6c99ba",
-    "ansi-5-hex": "#9e4e85",
-    "ansi-6-hex": "#7dd5cf",
-    "ansi-7-hex": "#d0d0d0",
-    "ansi-8-hex": "#505050",
-    "ansi-9-hex": "#ac4142",
-    "background-hex": "#202020",
-    "cursor-hex": "#d0d0d0",
-    "foreground-hex": "#d0d0d0",
-    "selection-hex": "#303030",
-    "selection-text-hex": "#d0d0d0",
+    "ansi-0": {
+        "hex": "#151515",
+        "hexterm": "15/15/15"
+    },
+    "ansi-1": {
+        "hex": "#ac4142",
+        "hexterm": "ac/41/42"
+    },
+    "ansi-10": {
+        "hex": "#7e8d50",
+        "hexterm": "7e/8d/50"
+    },
+    "ansi-11": {
+        "hex": "#e5b566",
+        "hexterm": "e5/b5/66"
+    },
+    "ansi-12": {
+        "hex": "#6c99bb",
+        "hexterm": "6c/99/bb"
+    },
+    "ansi-13": {
+        "hex": "#9e4e85",
+        "hexterm": "9e/4e/85"
+    },
+    "ansi-14": {
+        "hex": "#7dd5cf",
+        "hexterm": "7d/d5/cf"
+    },
+    "ansi-15": {
+        "hex": "#f5f5f5",
+        "hexterm": "f5/f5/f5"
+    },
+    "ansi-2": {
+        "hex": "#7e8d50",
+        "hexterm": "7e/8d/50"
+    },
+    "ansi-3": {
+        "hex": "#e5b567",
+        "hexterm": "e5/b5/67"
+    },
+    "ansi-4": {
+        "hex": "#6c99ba",
+        "hexterm": "6c/99/ba"
+    },
+    "ansi-5": {
+        "hex": "#9e4e85",
+        "hexterm": "9e/4e/85"
+    },
+    "ansi-6": {
+        "hex": "#7dd5cf",
+        "hexterm": "7d/d5/cf"
+    },
+    "ansi-7": {
+        "hex": "#d0d0d0",
+        "hexterm": "d0/d0/d0"
+    },
+    "ansi-8": {
+        "hex": "#505050",
+        "hexterm": "50/50/50"
+    },
+    "ansi-9": {
+        "hex": "#ac4142",
+        "hexterm": "ac/41/42"
+    },
+    "background": {
+        "hex": "#202020",
+        "hexterm": "20/20/20"
+    },
+    "cursor": {
+        "hex": "#d0d0d0",
+        "hexterm": "d0/d0/d0"
+    },
+    "foreground": {
+        "hex": "#d0d0d0",
+        "hexterm": "d0/d0/d0"
+    },
+    "selection": {
+        "hex": "#303030",
+        "hexterm": "30/30/30"
+    },
+    "selection-text": {
+        "hex": "#d0d0d0",
+        "hexterm": "d0/d0/d0"
+    },
     "theme-author": "unknown",
     "theme-name": "Afterglow",
     "theme-slug": "afterglow",

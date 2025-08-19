@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#151718",
-    "ansi-1-hex": "#cd3f45",
-    "ansi-10-hex": "#9fca56",
-    "ansi-11-hex": "#e6cd69",
-    "ansi-12-hex": "#55b5db",
-    "ansi-13-hex": "#a074c4",
-    "ansi-14-hex": "#55dbbe",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#9fca56",
-    "ansi-3-hex": "#e6cd69",
-    "ansi-4-hex": "#55b5db",
-    "ansi-5-hex": "#a074c4",
-    "ansi-6-hex": "#55dbbe",
-    "ansi-7-hex": "#d6d6d6",
-    "ansi-8-hex": "#41535b",
-    "ansi-9-hex": "#cd3f45",
-    "background-hex": "#151718",
-    "cursor-hex": "#d6d6d6",
-    "foreground-hex": "#d6d6d6",
-    "selection-hex": "#eeeeee",
-    "selection-text-hex": "#282a2b",
+    "ansi-0": {
+        "hex": "#151718",
+        "hexterm": "15/17/18"
+    },
+    "ansi-1": {
+        "hex": "#cd3f45",
+        "hexterm": "cd/3f/45"
+    },
+    "ansi-10": {
+        "hex": "#9fca56",
+        "hexterm": "9f/ca/56"
+    },
+    "ansi-11": {
+        "hex": "#e6cd69",
+        "hexterm": "e6/cd/69"
+    },
+    "ansi-12": {
+        "hex": "#55b5db",
+        "hexterm": "55/b5/db"
+    },
+    "ansi-13": {
+        "hex": "#a074c4",
+        "hexterm": "a0/74/c4"
+    },
+    "ansi-14": {
+        "hex": "#55dbbe",
+        "hexterm": "55/db/be"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#9fca56",
+        "hexterm": "9f/ca/56"
+    },
+    "ansi-3": {
+        "hex": "#e6cd69",
+        "hexterm": "e6/cd/69"
+    },
+    "ansi-4": {
+        "hex": "#55b5db",
+        "hexterm": "55/b5/db"
+    },
+    "ansi-5": {
+        "hex": "#a074c4",
+        "hexterm": "a0/74/c4"
+    },
+    "ansi-6": {
+        "hex": "#55dbbe",
+        "hexterm": "55/db/be"
+    },
+    "ansi-7": {
+        "hex": "#d6d6d6",
+        "hexterm": "d6/d6/d6"
+    },
+    "ansi-8": {
+        "hex": "#41535b",
+        "hexterm": "41/53/5b"
+    },
+    "ansi-9": {
+        "hex": "#cd3f45",
+        "hexterm": "cd/3f/45"
+    },
+    "background": {
+        "hex": "#151718",
+        "hexterm": "15/17/18"
+    },
+    "cursor": {
+        "hex": "#d6d6d6",
+        "hexterm": "d6/d6/d6"
+    },
+    "foreground": {
+        "hex": "#d6d6d6",
+        "hexterm": "d6/d6/d6"
+    },
+    "selection": {
+        "hex": "#eeeeee",
+        "hexterm": "ee/ee/ee"
+    },
+    "selection-text": {
+        "hex": "#282a2b",
+        "hexterm": "28/2a/2b"
+    },
     "theme-author": "",
     "theme-name": "Seti UI",
     "theme-slug": "seti-ui",

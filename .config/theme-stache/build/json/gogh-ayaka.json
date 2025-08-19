@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#36283d",
-    "ansi-1-hex": "#71ade9",
-    "ansi-10-hex": "#e59db1",
-    "ansi-11-hex": "#9ea0d3",
-    "ansi-12-hex": "#8bb8e9",
-    "ansi-13-hex": "#e1b4ce",
-    "ansi-14-hex": "#cedaeb",
-    "ansi-15-hex": "#fffefe",
-    "ansi-2-hex": "#ab8cae",
-    "ansi-3-hex": "#9ea0d3",
-    "ansi-4-hex": "#8bb8e9",
-    "ansi-5-hex": "#e1b4ce",
-    "ansi-6-hex": "#cedaeb",
-    "ansi-7-hex": "#9098a4",
-    "ansi-8-hex": "#71ade9",
-    "ansi-9-hex": "#ab8cae",
-    "background-hex": "#36283d",
-    "cursor-hex": "#cedaeb",
-    "foreground-hex": "#cedaeb",
-    "selection-hex": "#cedaeb",
-    "selection-text-hex": "#36283d",
+    "ansi-0": {
+        "hex": "#36283d",
+        "hexterm": "36/28/3d"
+    },
+    "ansi-1": {
+        "hex": "#71ade9",
+        "hexterm": "71/ad/e9"
+    },
+    "ansi-10": {
+        "hex": "#e59db1",
+        "hexterm": "e5/9d/b1"
+    },
+    "ansi-11": {
+        "hex": "#9ea0d3",
+        "hexterm": "9e/a0/d3"
+    },
+    "ansi-12": {
+        "hex": "#8bb8e9",
+        "hexterm": "8b/b8/e9"
+    },
+    "ansi-13": {
+        "hex": "#e1b4ce",
+        "hexterm": "e1/b4/ce"
+    },
+    "ansi-14": {
+        "hex": "#cedaeb",
+        "hexterm": "ce/da/eb"
+    },
+    "ansi-15": {
+        "hex": "#fffefe",
+        "hexterm": "ff/fe/fe"
+    },
+    "ansi-2": {
+        "hex": "#ab8cae",
+        "hexterm": "ab/8c/ae"
+    },
+    "ansi-3": {
+        "hex": "#9ea0d3",
+        "hexterm": "9e/a0/d3"
+    },
+    "ansi-4": {
+        "hex": "#8bb8e9",
+        "hexterm": "8b/b8/e9"
+    },
+    "ansi-5": {
+        "hex": "#e1b4ce",
+        "hexterm": "e1/b4/ce"
+    },
+    "ansi-6": {
+        "hex": "#cedaeb",
+        "hexterm": "ce/da/eb"
+    },
+    "ansi-7": {
+        "hex": "#9098a4",
+        "hexterm": "90/98/a4"
+    },
+    "ansi-8": {
+        "hex": "#71ade9",
+        "hexterm": "71/ad/e9"
+    },
+    "ansi-9": {
+        "hex": "#ab8cae",
+        "hexterm": "ab/8c/ae"
+    },
+    "background": {
+        "hex": "#36283d",
+        "hexterm": "36/28/3d"
+    },
+    "cursor": {
+        "hex": "#cedaeb",
+        "hexterm": "ce/da/eb"
+    },
+    "foreground": {
+        "hex": "#cedaeb",
+        "hexterm": "ce/da/eb"
+    },
+    "selection": {
+        "hex": "#cedaeb",
+        "hexterm": "ce/da/eb"
+    },
+    "selection-text": {
+        "hex": "#36283d",
+        "hexterm": "36/28/3d"
+    },
     "theme-author": "Ruhannn (https://github.com/ruhannn)",
     "theme-name": "Ayaka",
     "theme-slug": "ayaka",

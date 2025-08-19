@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#b64c00",
-    "ansi-10-hex": "#b2ca3b",
-    "ansi-11-hex": "#ffe54a",
-    "ansi-12-hex": "#acb8ff",
-    "ansi-13-hex": "#ffa0ff",
-    "ansi-14-hex": "#ffbc51",
-    "ansi-15-hex": "#fed698",
-    "ansi-2-hex": "#7c8b16",
-    "ansi-3-hex": "#d3bd26",
-    "ansi-4-hex": "#616bb0",
-    "ansi-5-hex": "#8c5a90",
-    "ansi-6-hex": "#916c25",
-    "ansi-7-hex": "#cac29a",
-    "ansi-8-hex": "#5e5219",
-    "ansi-9-hex": "#ff9149",
-    "background-hex": "#1d1908",
-    "cursor-hex": "#cac296",
-    "foreground-hex": "#cac296",
-    "selection-hex": "#cac296",
-    "selection-text-hex": "#1d1908",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#b64c00",
+        "hexterm": "b6/4c/00"
+    },
+    "ansi-10": {
+        "hex": "#b2ca3b",
+        "hexterm": "b2/ca/3b"
+    },
+    "ansi-11": {
+        "hex": "#ffe54a",
+        "hexterm": "ff/e5/4a"
+    },
+    "ansi-12": {
+        "hex": "#acb8ff",
+        "hexterm": "ac/b8/ff"
+    },
+    "ansi-13": {
+        "hex": "#ffa0ff",
+        "hexterm": "ff/a0/ff"
+    },
+    "ansi-14": {
+        "hex": "#ffbc51",
+        "hexterm": "ff/bc/51"
+    },
+    "ansi-15": {
+        "hex": "#fed698",
+        "hexterm": "fe/d6/98"
+    },
+    "ansi-2": {
+        "hex": "#7c8b16",
+        "hexterm": "7c/8b/16"
+    },
+    "ansi-3": {
+        "hex": "#d3bd26",
+        "hexterm": "d3/bd/26"
+    },
+    "ansi-4": {
+        "hex": "#616bb0",
+        "hexterm": "61/6b/b0"
+    },
+    "ansi-5": {
+        "hex": "#8c5a90",
+        "hexterm": "8c/5a/90"
+    },
+    "ansi-6": {
+        "hex": "#916c25",
+        "hexterm": "91/6c/25"
+    },
+    "ansi-7": {
+        "hex": "#cac29a",
+        "hexterm": "ca/c2/9a"
+    },
+    "ansi-8": {
+        "hex": "#5e5219",
+        "hexterm": "5e/52/19"
+    },
+    "ansi-9": {
+        "hex": "#ff9149",
+        "hexterm": "ff/91/49"
+    },
+    "background": {
+        "hex": "#1d1908",
+        "hexterm": "1d/19/08"
+    },
+    "cursor": {
+        "hex": "#cac296",
+        "hexterm": "ca/c2/96"
+    },
+    "foreground": {
+        "hex": "#cac296",
+        "hexterm": "ca/c2/96"
+    },
+    "selection": {
+        "hex": "#cac296",
+        "hexterm": "ca/c2/96"
+    },
+    "selection-text": {
+        "hex": "#1d1908",
+        "hexterm": "1d/19/08"
+    },
     "theme-author": "",
     "theme-name": "Medallion",
     "theme-slug": "medallion",

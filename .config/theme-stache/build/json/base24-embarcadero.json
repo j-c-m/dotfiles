@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#252a2f",
-    "ansi-1-hex": "#ed5d86",
-    "ansi-10-hex": "#a0d0a0",
-    "ansi-11-hex": "#ffe089",
-    "ansi-12-hex": "#80b0f0",
-    "ansi-13-hex": "#c090f0",
-    "ansi-14-hex": "#40c0c0",
-    "ansi-15-hex": "#f8f8f8",
-    "ansi-2-hex": "#20c290",
-    "ansi-3-hex": "#eb824d",
-    "ansi-4-hex": "#4080d0",
-    "ansi-5-hex": "#a070d0",
-    "ansi-6-hex": "#02efef",
-    "ansi-7-hex": "#bcbdc0",
-    "ansi-8-hex": "#7f8285",
-    "ansi-9-hex": "#f57d9a",
-    "background-hex": "#252a2f",
-    "cursor-hex": "#bcbdc0",
-    "foreground-hex": "#bcbdc0",
-    "selection-hex": "#dadbdb",
-    "selection-text-hex": "#43474c",
+    "ansi-0": {
+        "hex": "#252a2f",
+        "hexterm": "25/2a/2f"
+    },
+    "ansi-1": {
+        "hex": "#ed5d86",
+        "hexterm": "ed/5d/86"
+    },
+    "ansi-10": {
+        "hex": "#a0d0a0",
+        "hexterm": "a0/d0/a0"
+    },
+    "ansi-11": {
+        "hex": "#ffe089",
+        "hexterm": "ff/e0/89"
+    },
+    "ansi-12": {
+        "hex": "#80b0f0",
+        "hexterm": "80/b0/f0"
+    },
+    "ansi-13": {
+        "hex": "#c090f0",
+        "hexterm": "c0/90/f0"
+    },
+    "ansi-14": {
+        "hex": "#40c0c0",
+        "hexterm": "40/c0/c0"
+    },
+    "ansi-15": {
+        "hex": "#f8f8f8",
+        "hexterm": "f8/f8/f8"
+    },
+    "ansi-2": {
+        "hex": "#20c290",
+        "hexterm": "20/c2/90"
+    },
+    "ansi-3": {
+        "hex": "#eb824d",
+        "hexterm": "eb/82/4d"
+    },
+    "ansi-4": {
+        "hex": "#4080d0",
+        "hexterm": "40/80/d0"
+    },
+    "ansi-5": {
+        "hex": "#a070d0",
+        "hexterm": "a0/70/d0"
+    },
+    "ansi-6": {
+        "hex": "#02efef",
+        "hexterm": "02/ef/ef"
+    },
+    "ansi-7": {
+        "hex": "#bcbdc0",
+        "hexterm": "bc/bd/c0"
+    },
+    "ansi-8": {
+        "hex": "#7f8285",
+        "hexterm": "7f/82/85"
+    },
+    "ansi-9": {
+        "hex": "#f57d9a",
+        "hexterm": "f5/7d/9a"
+    },
+    "background": {
+        "hex": "#252a2f",
+        "hexterm": "25/2a/2f"
+    },
+    "cursor": {
+        "hex": "#bcbdc0",
+        "hexterm": "bc/bd/c0"
+    },
+    "foreground": {
+        "hex": "#bcbdc0",
+        "hexterm": "bc/bd/c0"
+    },
+    "selection": {
+        "hex": "#dadbdb",
+        "hexterm": "da/db/db"
+    },
+    "selection-text": {
+        "hex": "#43474c",
+        "hexterm": "43/47/4c"
+    },
     "theme-author": "Thomas Leon Highbaugh",
     "theme-name": "Embarcadero",
     "theme-slug": "embarcadero",

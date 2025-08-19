@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#100510",
-    "ansi-1-hex": "#ff1d0d",
-    "ansi-10-hex": "#14cc64",
-    "ansi-11-hex": "#f000a0",
-    "ansi-12-hex": "#00a0f0",
-    "ansi-13-hex": "#b000d0",
-    "ansi-14-hex": "#0075b0",
-    "ansi-15-hex": "#fff0ff",
-    "ansi-2-hex": "#14cc64",
-    "ansi-3-hex": "#f000a0",
-    "ansi-4-hex": "#00a0f0",
-    "ansi-5-hex": "#b000d0",
-    "ansi-6-hex": "#0075b0",
-    "ansi-7-hex": "#ddd0dd",
-    "ansi-8-hex": "#605060",
-    "ansi-9-hex": "#ff1d0d",
-    "background-hex": "#100510",
-    "cursor-hex": "#ddd0dd",
-    "foreground-hex": "#ddd0dd",
-    "selection-hex": "#eee0ee",
-    "selection-text-hex": "#302030",
+    "ansi-0": {
+        "hex": "#100510",
+        "hexterm": "10/05/10"
+    },
+    "ansi-1": {
+        "hex": "#ff1d0d",
+        "hexterm": "ff/1d/0d"
+    },
+    "ansi-10": {
+        "hex": "#14cc64",
+        "hexterm": "14/cc/64"
+    },
+    "ansi-11": {
+        "hex": "#f000a0",
+        "hexterm": "f0/00/a0"
+    },
+    "ansi-12": {
+        "hex": "#00a0f0",
+        "hexterm": "00/a0/f0"
+    },
+    "ansi-13": {
+        "hex": "#b000d0",
+        "hexterm": "b0/00/d0"
+    },
+    "ansi-14": {
+        "hex": "#0075b0",
+        "hexterm": "00/75/b0"
+    },
+    "ansi-15": {
+        "hex": "#fff0ff",
+        "hexterm": "ff/f0/ff"
+    },
+    "ansi-2": {
+        "hex": "#14cc64",
+        "hexterm": "14/cc/64"
+    },
+    "ansi-3": {
+        "hex": "#f000a0",
+        "hexterm": "f0/00/a0"
+    },
+    "ansi-4": {
+        "hex": "#00a0f0",
+        "hexterm": "00/a0/f0"
+    },
+    "ansi-5": {
+        "hex": "#b000d0",
+        "hexterm": "b0/00/d0"
+    },
+    "ansi-6": {
+        "hex": "#0075b0",
+        "hexterm": "00/75/b0"
+    },
+    "ansi-7": {
+        "hex": "#ddd0dd",
+        "hexterm": "dd/d0/dd"
+    },
+    "ansi-8": {
+        "hex": "#605060",
+        "hexterm": "60/50/60"
+    },
+    "ansi-9": {
+        "hex": "#ff1d0d",
+        "hexterm": "ff/1d/0d"
+    },
+    "background": {
+        "hex": "#100510",
+        "hexterm": "10/05/10"
+    },
+    "cursor": {
+        "hex": "#ddd0dd",
+        "hexterm": "dd/d0/dd"
+    },
+    "foreground": {
+        "hex": "#ddd0dd",
+        "hexterm": "dd/d0/dd"
+    },
+    "selection": {
+        "hex": "#eee0ee",
+        "hexterm": "ee/e0/ee"
+    },
+    "selection-text": {
+        "hex": "#302030",
+        "hexterm": "30/20/30"
+    },
     "theme-author": "malet",
     "theme-name": "Purpledream",
     "theme-slug": "purpledream",

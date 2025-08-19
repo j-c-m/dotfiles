@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#7e0008",
-    "ansi-10-hex": "#1cfe3c",
-    "ansi-11-hex": "#fefe45",
-    "ansi-12-hex": "#268ad2",
-    "ansi-13-hex": "#fe13fa",
-    "ansi-14-hex": "#29fffe",
-    "ansi-15-hex": "#c2c1c3",
-    "ansi-2-hex": "#098003",
-    "ansi-3-hex": "#c4a000",
-    "ansi-4-hex": "#010083",
-    "ansi-5-hex": "#d33682",
-    "ansi-6-hex": "#0e807f",
-    "ansi-7-hex": "#7f7c7f",
-    "ansi-8-hex": "#808080",
-    "ansi-9-hex": "#ef2929",
-    "background-hex": "#052454",
-    "cursor-hex": "#f6f6f7",
-    "foreground-hex": "#f6f6f7",
-    "selection-hex": "#f6f6f7",
-    "selection-text-hex": "#052454",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#7e0008",
+        "hexterm": "7e/00/08"
+    },
+    "ansi-10": {
+        "hex": "#1cfe3c",
+        "hexterm": "1c/fe/3c"
+    },
+    "ansi-11": {
+        "hex": "#fefe45",
+        "hexterm": "fe/fe/45"
+    },
+    "ansi-12": {
+        "hex": "#268ad2",
+        "hexterm": "26/8a/d2"
+    },
+    "ansi-13": {
+        "hex": "#fe13fa",
+        "hexterm": "fe/13/fa"
+    },
+    "ansi-14": {
+        "hex": "#29fffe",
+        "hexterm": "29/ff/fe"
+    },
+    "ansi-15": {
+        "hex": "#c2c1c3",
+        "hexterm": "c2/c1/c3"
+    },
+    "ansi-2": {
+        "hex": "#098003",
+        "hexterm": "09/80/03"
+    },
+    "ansi-3": {
+        "hex": "#c4a000",
+        "hexterm": "c4/a0/00"
+    },
+    "ansi-4": {
+        "hex": "#010083",
+        "hexterm": "01/00/83"
+    },
+    "ansi-5": {
+        "hex": "#d33682",
+        "hexterm": "d3/36/82"
+    },
+    "ansi-6": {
+        "hex": "#0e807f",
+        "hexterm": "0e/80/7f"
+    },
+    "ansi-7": {
+        "hex": "#7f7c7f",
+        "hexterm": "7f/7c/7f"
+    },
+    "ansi-8": {
+        "hex": "#808080",
+        "hexterm": "80/80/80"
+    },
+    "ansi-9": {
+        "hex": "#ef2929",
+        "hexterm": "ef/29/29"
+    },
+    "background": {
+        "hex": "#052454",
+        "hexterm": "05/24/54"
+    },
+    "cursor": {
+        "hex": "#f6f6f7",
+        "hexterm": "f6/f6/f7"
+    },
+    "foreground": {
+        "hex": "#f6f6f7",
+        "hexterm": "f6/f6/f7"
+    },
+    "selection": {
+        "hex": "#f6f6f7",
+        "hexterm": "f6/f6/f7"
+    },
+    "selection-text": {
+        "hex": "#052454",
+        "hexterm": "05/24/54"
+    },
     "theme-author": "",
     "theme-name": "Powershell",
     "theme-slug": "powershell",

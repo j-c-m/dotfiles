@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#fc5454",
-    "ansi-10-hex": "#54fc54",
-    "ansi-11-hex": "#fcfc54",
-    "ansi-12-hex": "#5454fc",
-    "ansi-13-hex": "#fc54fc",
-    "ansi-14-hex": "#54fcfc",
-    "ansi-15-hex": "#fcfcfc",
-    "ansi-2-hex": "#54fc54",
-    "ansi-3-hex": "#fcfc54",
-    "ansi-4-hex": "#5454fc",
-    "ansi-5-hex": "#fc54fc",
-    "ansi-6-hex": "#54fcfc",
-    "ansi-7-hex": "#a8a8a8",
-    "ansi-8-hex": "#545454",
-    "ansi-9-hex": "#fc5454",
-    "background-hex": "#000000",
-    "cursor-hex": "#a8a8a8",
-    "foreground-hex": "#a8a8a8",
-    "selection-hex": "#d2d2d2",
-    "selection-text-hex": "#1c1c1c",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#fc5454",
+        "hexterm": "fc/54/54"
+    },
+    "ansi-10": {
+        "hex": "#54fc54",
+        "hexterm": "54/fc/54"
+    },
+    "ansi-11": {
+        "hex": "#fcfc54",
+        "hexterm": "fc/fc/54"
+    },
+    "ansi-12": {
+        "hex": "#5454fc",
+        "hexterm": "54/54/fc"
+    },
+    "ansi-13": {
+        "hex": "#fc54fc",
+        "hexterm": "fc/54/fc"
+    },
+    "ansi-14": {
+        "hex": "#54fcfc",
+        "hexterm": "54/fc/fc"
+    },
+    "ansi-15": {
+        "hex": "#fcfcfc",
+        "hexterm": "fc/fc/fc"
+    },
+    "ansi-2": {
+        "hex": "#54fc54",
+        "hexterm": "54/fc/54"
+    },
+    "ansi-3": {
+        "hex": "#fcfc54",
+        "hexterm": "fc/fc/54"
+    },
+    "ansi-4": {
+        "hex": "#5454fc",
+        "hexterm": "54/54/fc"
+    },
+    "ansi-5": {
+        "hex": "#fc54fc",
+        "hexterm": "fc/54/fc"
+    },
+    "ansi-6": {
+        "hex": "#54fcfc",
+        "hexterm": "54/fc/fc"
+    },
+    "ansi-7": {
+        "hex": "#a8a8a8",
+        "hexterm": "a8/a8/a8"
+    },
+    "ansi-8": {
+        "hex": "#545454",
+        "hexterm": "54/54/54"
+    },
+    "ansi-9": {
+        "hex": "#fc5454",
+        "hexterm": "fc/54/54"
+    },
+    "background": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "cursor": {
+        "hex": "#a8a8a8",
+        "hexterm": "a8/a8/a8"
+    },
+    "foreground": {
+        "hex": "#a8a8a8",
+        "hexterm": "a8/a8/a8"
+    },
+    "selection": {
+        "hex": "#d2d2d2",
+        "hexterm": "d2/d2/d2"
+    },
+    "selection-text": {
+        "hex": "#1c1c1c",
+        "hexterm": "1c/1c/1c"
+    },
     "theme-author": "Fergus Collins (https://github.com/ferguscollins)",
     "theme-name": "Windows 95",
     "theme-slug": "windows-95",

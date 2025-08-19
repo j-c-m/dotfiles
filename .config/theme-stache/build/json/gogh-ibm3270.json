@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#222222",
-    "ansi-1-hex": "#f01818",
-    "ansi-10-hex": "#7ed684",
-    "ansi-11-hex": "#efe28b",
-    "ansi-12-hex": "#b3bfef",
-    "ansi-13-hex": "#efb3e3",
-    "ansi-14-hex": "#9ce2e2",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#24d830",
-    "ansi-3-hex": "#f0d824",
-    "ansi-4-hex": "#7890f0",
-    "ansi-5-hex": "#f078d8",
-    "ansi-6-hex": "#54e4e4",
-    "ansi-7-hex": "#a5a5a5",
-    "ansi-8-hex": "#888888",
-    "ansi-9-hex": "#ef8383",
-    "background-hex": "#000000",
-    "cursor-hex": "#fdfdfd",
-    "foreground-hex": "#fdfdfd",
-    "selection-hex": "#fdfdfd",
-    "selection-text-hex": "#000000",
+    "ansi-0": {
+        "hex": "#222222",
+        "hexterm": "22/22/22"
+    },
+    "ansi-1": {
+        "hex": "#f01818",
+        "hexterm": "f0/18/18"
+    },
+    "ansi-10": {
+        "hex": "#7ed684",
+        "hexterm": "7e/d6/84"
+    },
+    "ansi-11": {
+        "hex": "#efe28b",
+        "hexterm": "ef/e2/8b"
+    },
+    "ansi-12": {
+        "hex": "#b3bfef",
+        "hexterm": "b3/bf/ef"
+    },
+    "ansi-13": {
+        "hex": "#efb3e3",
+        "hexterm": "ef/b3/e3"
+    },
+    "ansi-14": {
+        "hex": "#9ce2e2",
+        "hexterm": "9c/e2/e2"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#24d830",
+        "hexterm": "24/d8/30"
+    },
+    "ansi-3": {
+        "hex": "#f0d824",
+        "hexterm": "f0/d8/24"
+    },
+    "ansi-4": {
+        "hex": "#7890f0",
+        "hexterm": "78/90/f0"
+    },
+    "ansi-5": {
+        "hex": "#f078d8",
+        "hexterm": "f0/78/d8"
+    },
+    "ansi-6": {
+        "hex": "#54e4e4",
+        "hexterm": "54/e4/e4"
+    },
+    "ansi-7": {
+        "hex": "#a5a5a5",
+        "hexterm": "a5/a5/a5"
+    },
+    "ansi-8": {
+        "hex": "#888888",
+        "hexterm": "88/88/88"
+    },
+    "ansi-9": {
+        "hex": "#ef8383",
+        "hexterm": "ef/83/83"
+    },
+    "background": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "cursor": {
+        "hex": "#fdfdfd",
+        "hexterm": "fd/fd/fd"
+    },
+    "foreground": {
+        "hex": "#fdfdfd",
+        "hexterm": "fd/fd/fd"
+    },
+    "selection": {
+        "hex": "#fdfdfd",
+        "hexterm": "fd/fd/fd"
+    },
+    "selection-text": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
     "theme-author": "",
     "theme-name": "Ibm3270",
     "theme-slug": "ibm3270",

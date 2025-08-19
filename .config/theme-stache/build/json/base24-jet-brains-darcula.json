@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#202020",
-    "ansi-1-hex": "#fa5355",
-    "ansi-10-hex": "#67ff4f",
-    "ansi-11-hex": "#ffff00",
-    "ansi-12-hex": "#6d9df1",
-    "ansi-13-hex": "#fb82ff",
-    "ansi-14-hex": "#60d3d1",
-    "ansi-15-hex": "#eeeeee",
-    "ansi-2-hex": "#126e00",
-    "ansi-3-hex": "#6d9df1",
-    "ansi-4-hex": "#4581eb",
-    "ansi-5-hex": "#fa54ff",
-    "ansi-6-hex": "#33c2c1",
-    "ansi-7-hex": "#979797",
-    "ansi-8-hex": "#6b6b6b",
-    "ansi-9-hex": "#fb7172",
-    "background-hex": "#202020",
-    "cursor-hex": "#979797",
-    "foreground-hex": "#979797",
-    "selection-hex": "#adadad",
-    "selection-text-hex": "#000000",
+    "ansi-0": {
+        "hex": "#202020",
+        "hexterm": "20/20/20"
+    },
+    "ansi-1": {
+        "hex": "#fa5355",
+        "hexterm": "fa/53/55"
+    },
+    "ansi-10": {
+        "hex": "#67ff4f",
+        "hexterm": "67/ff/4f"
+    },
+    "ansi-11": {
+        "hex": "#ffff00",
+        "hexterm": "ff/ff/00"
+    },
+    "ansi-12": {
+        "hex": "#6d9df1",
+        "hexterm": "6d/9d/f1"
+    },
+    "ansi-13": {
+        "hex": "#fb82ff",
+        "hexterm": "fb/82/ff"
+    },
+    "ansi-14": {
+        "hex": "#60d3d1",
+        "hexterm": "60/d3/d1"
+    },
+    "ansi-15": {
+        "hex": "#eeeeee",
+        "hexterm": "ee/ee/ee"
+    },
+    "ansi-2": {
+        "hex": "#126e00",
+        "hexterm": "12/6e/00"
+    },
+    "ansi-3": {
+        "hex": "#6d9df1",
+        "hexterm": "6d/9d/f1"
+    },
+    "ansi-4": {
+        "hex": "#4581eb",
+        "hexterm": "45/81/eb"
+    },
+    "ansi-5": {
+        "hex": "#fa54ff",
+        "hexterm": "fa/54/ff"
+    },
+    "ansi-6": {
+        "hex": "#33c2c1",
+        "hexterm": "33/c2/c1"
+    },
+    "ansi-7": {
+        "hex": "#979797",
+        "hexterm": "97/97/97"
+    },
+    "ansi-8": {
+        "hex": "#6b6b6b",
+        "hexterm": "6b/6b/6b"
+    },
+    "ansi-9": {
+        "hex": "#fb7172",
+        "hexterm": "fb/71/72"
+    },
+    "background": {
+        "hex": "#202020",
+        "hexterm": "20/20/20"
+    },
+    "cursor": {
+        "hex": "#979797",
+        "hexterm": "97/97/97"
+    },
+    "foreground": {
+        "hex": "#979797",
+        "hexterm": "97/97/97"
+    },
+    "selection": {
+        "hex": "#adadad",
+        "hexterm": "ad/ad/ad"
+    },
+    "selection-text": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Jet Brains Darcula",
     "theme-slug": "jet-brains-darcula",

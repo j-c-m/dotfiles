@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#00002a",
-    "ansi-1-hex": "#ff4242",
-    "ansi-10-hex": "#59f176",
-    "ansi-11-hex": "#f3e877",
-    "ansi-12-hex": "#66b0ff",
-    "ansi-13-hex": "#f10596",
-    "ansi-14-hex": "#0ef0f0",
-    "ansi-15-hex": "#f5f5ff",
-    "ansi-2-hex": "#59f176",
-    "ansi-3-hex": "#f3e877",
-    "ansi-4-hex": "#66b0ff",
-    "ansi-5-hex": "#f10596",
-    "ansi-6-hex": "#0ef0f0",
-    "ansi-7-hex": "#d0d0fa",
-    "ansi-8-hex": "#50507a",
-    "ansi-9-hex": "#ff4242",
-    "background-hex": "#00002a",
-    "cursor-hex": "#d0d0fa",
-    "foreground-hex": "#d0d0fa",
-    "selection-hex": "#e0e0ff",
-    "selection-text-hex": "#20204a",
+    "ansi-0": {
+        "hex": "#00002a",
+        "hexterm": "00/00/2a"
+    },
+    "ansi-1": {
+        "hex": "#ff4242",
+        "hexterm": "ff/42/42"
+    },
+    "ansi-10": {
+        "hex": "#59f176",
+        "hexterm": "59/f1/76"
+    },
+    "ansi-11": {
+        "hex": "#f3e877",
+        "hexterm": "f3/e8/77"
+    },
+    "ansi-12": {
+        "hex": "#66b0ff",
+        "hexterm": "66/b0/ff"
+    },
+    "ansi-13": {
+        "hex": "#f10596",
+        "hexterm": "f1/05/96"
+    },
+    "ansi-14": {
+        "hex": "#0ef0f0",
+        "hexterm": "0e/f0/f0"
+    },
+    "ansi-15": {
+        "hex": "#f5f5ff",
+        "hexterm": "f5/f5/ff"
+    },
+    "ansi-2": {
+        "hex": "#59f176",
+        "hexterm": "59/f1/76"
+    },
+    "ansi-3": {
+        "hex": "#f3e877",
+        "hexterm": "f3/e8/77"
+    },
+    "ansi-4": {
+        "hex": "#66b0ff",
+        "hexterm": "66/b0/ff"
+    },
+    "ansi-5": {
+        "hex": "#f10596",
+        "hexterm": "f1/05/96"
+    },
+    "ansi-6": {
+        "hex": "#0ef0f0",
+        "hexterm": "0e/f0/f0"
+    },
+    "ansi-7": {
+        "hex": "#d0d0fa",
+        "hexterm": "d0/d0/fa"
+    },
+    "ansi-8": {
+        "hex": "#50507a",
+        "hexterm": "50/50/7a"
+    },
+    "ansi-9": {
+        "hex": "#ff4242",
+        "hexterm": "ff/42/42"
+    },
+    "background": {
+        "hex": "#00002a",
+        "hexterm": "00/00/2a"
+    },
+    "cursor": {
+        "hex": "#d0d0fa",
+        "hexterm": "d0/d0/fa"
+    },
+    "foreground": {
+        "hex": "#d0d0fa",
+        "hexterm": "d0/d0/fa"
+    },
+    "selection": {
+        "hex": "#e0e0ff",
+        "hexterm": "e0/e0/ff"
+    },
+    "selection-text": {
+        "hex": "#20204a",
+        "hexterm": "20/20/4a"
+    },
     "theme-author": "Hugo Delahousse (http://github.com/hugodelahousse/)",
     "theme-name": "Outrun Dark",
     "theme-slug": "outrun-dark",

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#eeeeee",
-    "ansi-1-hex": "#bcbcbc",
-    "ansi-10-hex": "#8700af",
-    "ansi-11-hex": "#d70087",
-    "ansi-12-hex": "#d75f00",
-    "ansi-13-hex": "#005faf",
-    "ansi-14-hex": "#d75f00",
-    "ansi-15-hex": "#878787",
-    "ansi-2-hex": "#8700af",
-    "ansi-3-hex": "#d70087",
-    "ansi-4-hex": "#d75f00",
-    "ansi-5-hex": "#005faf",
-    "ansi-6-hex": "#d75f00",
-    "ansi-7-hex": "#444444",
-    "ansi-8-hex": "#5f8700",
-    "ansi-9-hex": "#bcbcbc",
-    "background-hex": "#eeeeee",
-    "cursor-hex": "#444444",
-    "foreground-hex": "#444444",
-    "selection-hex": "#005f87",
-    "selection-text-hex": "#af0000",
+    "ansi-0": {
+        "hex": "#eeeeee",
+        "hexterm": "ee/ee/ee"
+    },
+    "ansi-1": {
+        "hex": "#bcbcbc",
+        "hexterm": "bc/bc/bc"
+    },
+    "ansi-10": {
+        "hex": "#8700af",
+        "hexterm": "87/00/af"
+    },
+    "ansi-11": {
+        "hex": "#d70087",
+        "hexterm": "d7/00/87"
+    },
+    "ansi-12": {
+        "hex": "#d75f00",
+        "hexterm": "d7/5f/00"
+    },
+    "ansi-13": {
+        "hex": "#005faf",
+        "hexterm": "00/5f/af"
+    },
+    "ansi-14": {
+        "hex": "#d75f00",
+        "hexterm": "d7/5f/00"
+    },
+    "ansi-15": {
+        "hex": "#878787",
+        "hexterm": "87/87/87"
+    },
+    "ansi-2": {
+        "hex": "#8700af",
+        "hexterm": "87/00/af"
+    },
+    "ansi-3": {
+        "hex": "#d70087",
+        "hexterm": "d7/00/87"
+    },
+    "ansi-4": {
+        "hex": "#d75f00",
+        "hexterm": "d7/5f/00"
+    },
+    "ansi-5": {
+        "hex": "#005faf",
+        "hexterm": "00/5f/af"
+    },
+    "ansi-6": {
+        "hex": "#d75f00",
+        "hexterm": "d7/5f/00"
+    },
+    "ansi-7": {
+        "hex": "#444444",
+        "hexterm": "44/44/44"
+    },
+    "ansi-8": {
+        "hex": "#5f8700",
+        "hexterm": "5f/87/00"
+    },
+    "ansi-9": {
+        "hex": "#bcbcbc",
+        "hexterm": "bc/bc/bc"
+    },
+    "background": {
+        "hex": "#eeeeee",
+        "hexterm": "ee/ee/ee"
+    },
+    "cursor": {
+        "hex": "#444444",
+        "hexterm": "44/44/44"
+    },
+    "foreground": {
+        "hex": "#444444",
+        "hexterm": "44/44/44"
+    },
+    "selection": {
+        "hex": "#005f87",
+        "hexterm": "00/5f/87"
+    },
+    "selection-text": {
+        "hex": "#af0000",
+        "hexterm": "af/00/00"
+    },
     "theme-author": "Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)",
     "theme-name": "PaperColor Light",
     "theme-slug": "papercolor-light",

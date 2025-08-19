@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#ff5360",
-    "ansi-10-hex": "#59d499",
-    "ansi-11-hex": "#ffc531",
-    "ansi-12-hex": "#56c2ff",
-    "ansi-13-hex": "#cf2f98",
-    "ansi-14-hex": "#52eee5",
-    "ansi-15-hex": "#feffff",
-    "ansi-2-hex": "#59d499",
-    "ansi-3-hex": "#ffc531",
-    "ansi-4-hex": "#56c2ff",
-    "ansi-5-hex": "#cf2f98",
-    "ansi-6-hex": "#52eee5",
-    "ansi-7-hex": "#ffffff",
-    "ansi-8-hex": "#000000",
-    "ansi-9-hex": "#ff6363",
-    "background-hex": "#191919",
-    "cursor-hex": "#cccccc",
-    "foreground-hex": "#ffffff",
-    "selection-hex": "#333333",
-    "selection-text-hex": "#000000",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#ff5360",
+        "hexterm": "ff/53/60"
+    },
+    "ansi-10": {
+        "hex": "#59d499",
+        "hexterm": "59/d4/99"
+    },
+    "ansi-11": {
+        "hex": "#ffc531",
+        "hexterm": "ff/c5/31"
+    },
+    "ansi-12": {
+        "hex": "#56c2ff",
+        "hexterm": "56/c2/ff"
+    },
+    "ansi-13": {
+        "hex": "#cf2f98",
+        "hexterm": "cf/2f/98"
+    },
+    "ansi-14": {
+        "hex": "#52eee5",
+        "hexterm": "52/ee/e5"
+    },
+    "ansi-15": {
+        "hex": "#feffff",
+        "hexterm": "fe/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#59d499",
+        "hexterm": "59/d4/99"
+    },
+    "ansi-3": {
+        "hex": "#ffc531",
+        "hexterm": "ff/c5/31"
+    },
+    "ansi-4": {
+        "hex": "#56c2ff",
+        "hexterm": "56/c2/ff"
+    },
+    "ansi-5": {
+        "hex": "#cf2f98",
+        "hexterm": "cf/2f/98"
+    },
+    "ansi-6": {
+        "hex": "#52eee5",
+        "hexterm": "52/ee/e5"
+    },
+    "ansi-7": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-8": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-9": {
+        "hex": "#ff6363",
+        "hexterm": "ff/63/63"
+    },
+    "background": {
+        "hex": "#191919",
+        "hexterm": "19/19/19"
+    },
+    "cursor": {
+        "hex": "#cccccc",
+        "hexterm": "cc/cc/cc"
+    },
+    "foreground": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "selection": {
+        "hex": "#333333",
+        "hexterm": "33/33/33"
+    },
+    "selection-text": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
     "theme-author": "unknown",
     "theme-name": "Raycast_Dark",
     "theme-slug": "raycast-dark",

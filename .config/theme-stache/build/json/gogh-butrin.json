@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#8c7e78",
-    "ansi-1-hex": "#e68a8a",
-    "ansi-10-hex": "#b2d8b2",
-    "ansi-11-hex": "#f7dcb4",
-    "ansi-12-hex": "#87cefa",
-    "ansi-13-hex": "#d8bfd8",
-    "ansi-14-hex": "#64dbdb",
-    "ansi-15-hex": "#f2f2f2",
-    "ansi-2-hex": "#99cc99",
-    "ansi-3-hex": "#fad7a0",
-    "ansi-4-hex": "#6699cc",
-    "ansi-5-hex": "#c8a2c8",
-    "ansi-6-hex": "#6fc3b2",
-    "ansi-7-hex": "#e2cebe",
-    "ansi-8-hex": "#bfaca4",
-    "ansi-9-hex": "#f2b1b1",
-    "background-hex": "#4b3b3c",
-    "cursor-hex": "#e39d93",
-    "foreground-hex": "#f2f2f2",
-    "selection-hex": "#f2f2f2",
-    "selection-text-hex": "#4b3b3c",
+    "ansi-0": {
+        "hex": "#8c7e78",
+        "hexterm": "8c/7e/78"
+    },
+    "ansi-1": {
+        "hex": "#e68a8a",
+        "hexterm": "e6/8a/8a"
+    },
+    "ansi-10": {
+        "hex": "#b2d8b2",
+        "hexterm": "b2/d8/b2"
+    },
+    "ansi-11": {
+        "hex": "#f7dcb4",
+        "hexterm": "f7/dc/b4"
+    },
+    "ansi-12": {
+        "hex": "#87cefa",
+        "hexterm": "87/ce/fa"
+    },
+    "ansi-13": {
+        "hex": "#d8bfd8",
+        "hexterm": "d8/bf/d8"
+    },
+    "ansi-14": {
+        "hex": "#64dbdb",
+        "hexterm": "64/db/db"
+    },
+    "ansi-15": {
+        "hex": "#f2f2f2",
+        "hexterm": "f2/f2/f2"
+    },
+    "ansi-2": {
+        "hex": "#99cc99",
+        "hexterm": "99/cc/99"
+    },
+    "ansi-3": {
+        "hex": "#fad7a0",
+        "hexterm": "fa/d7/a0"
+    },
+    "ansi-4": {
+        "hex": "#6699cc",
+        "hexterm": "66/99/cc"
+    },
+    "ansi-5": {
+        "hex": "#c8a2c8",
+        "hexterm": "c8/a2/c8"
+    },
+    "ansi-6": {
+        "hex": "#6fc3b2",
+        "hexterm": "6f/c3/b2"
+    },
+    "ansi-7": {
+        "hex": "#e2cebe",
+        "hexterm": "e2/ce/be"
+    },
+    "ansi-8": {
+        "hex": "#bfaca4",
+        "hexterm": "bf/ac/a4"
+    },
+    "ansi-9": {
+        "hex": "#f2b1b1",
+        "hexterm": "f2/b1/b1"
+    },
+    "background": {
+        "hex": "#4b3b3c",
+        "hexterm": "4b/3b/3c"
+    },
+    "cursor": {
+        "hex": "#e39d93",
+        "hexterm": "e3/9d/93"
+    },
+    "foreground": {
+        "hex": "#f2f2f2",
+        "hexterm": "f2/f2/f2"
+    },
+    "selection": {
+        "hex": "#f2f2f2",
+        "hexterm": "f2/f2/f2"
+    },
+    "selection-text": {
+        "hex": "#4b3b3c",
+        "hexterm": "4b/3b/3c"
+    },
     "theme-author": "",
     "theme-name": "Butrin",
     "theme-slug": "butrin",

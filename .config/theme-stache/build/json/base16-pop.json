@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#eb008a",
-    "ansi-10-hex": "#37b349",
-    "ansi-11-hex": "#f8ca12",
-    "ansi-12-hex": "#0e5a94",
-    "ansi-13-hex": "#b31e8d",
-    "ansi-14-hex": "#00aabb",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#37b349",
-    "ansi-3-hex": "#f8ca12",
-    "ansi-4-hex": "#0e5a94",
-    "ansi-5-hex": "#b31e8d",
-    "ansi-6-hex": "#00aabb",
-    "ansi-7-hex": "#d0d0d0",
-    "ansi-8-hex": "#505050",
-    "ansi-9-hex": "#eb008a",
-    "background-hex": "#000000",
-    "cursor-hex": "#d0d0d0",
-    "foreground-hex": "#d0d0d0",
-    "selection-hex": "#e0e0e0",
-    "selection-text-hex": "#202020",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#eb008a",
+        "hexterm": "eb/00/8a"
+    },
+    "ansi-10": {
+        "hex": "#37b349",
+        "hexterm": "37/b3/49"
+    },
+    "ansi-11": {
+        "hex": "#f8ca12",
+        "hexterm": "f8/ca/12"
+    },
+    "ansi-12": {
+        "hex": "#0e5a94",
+        "hexterm": "0e/5a/94"
+    },
+    "ansi-13": {
+        "hex": "#b31e8d",
+        "hexterm": "b3/1e/8d"
+    },
+    "ansi-14": {
+        "hex": "#00aabb",
+        "hexterm": "00/aa/bb"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#37b349",
+        "hexterm": "37/b3/49"
+    },
+    "ansi-3": {
+        "hex": "#f8ca12",
+        "hexterm": "f8/ca/12"
+    },
+    "ansi-4": {
+        "hex": "#0e5a94",
+        "hexterm": "0e/5a/94"
+    },
+    "ansi-5": {
+        "hex": "#b31e8d",
+        "hexterm": "b3/1e/8d"
+    },
+    "ansi-6": {
+        "hex": "#00aabb",
+        "hexterm": "00/aa/bb"
+    },
+    "ansi-7": {
+        "hex": "#d0d0d0",
+        "hexterm": "d0/d0/d0"
+    },
+    "ansi-8": {
+        "hex": "#505050",
+        "hexterm": "50/50/50"
+    },
+    "ansi-9": {
+        "hex": "#eb008a",
+        "hexterm": "eb/00/8a"
+    },
+    "background": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "cursor": {
+        "hex": "#d0d0d0",
+        "hexterm": "d0/d0/d0"
+    },
+    "foreground": {
+        "hex": "#d0d0d0",
+        "hexterm": "d0/d0/d0"
+    },
+    "selection": {
+        "hex": "#e0e0e0",
+        "hexterm": "e0/e0/e0"
+    },
+    "selection-text": {
+        "hex": "#202020",
+        "hexterm": "20/20/20"
+    },
     "theme-author": "Chris Kempson (http://chriskempson.com)",
     "theme-name": "Pop",
     "theme-slug": "pop",

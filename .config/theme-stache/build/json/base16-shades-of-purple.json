@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1e1e3f",
-    "ansi-1-hex": "#d90429",
-    "ansi-10-hex": "#3ad900",
-    "ansi-11-hex": "#ffe700",
-    "ansi-12-hex": "#6943ff",
-    "ansi-13-hex": "#ff2c70",
-    "ansi-14-hex": "#00c5c7",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#3ad900",
-    "ansi-3-hex": "#ffe700",
-    "ansi-4-hex": "#6943ff",
-    "ansi-5-hex": "#ff2c70",
-    "ansi-6-hex": "#00c5c7",
-    "ansi-7-hex": "#c7c7c7",
-    "ansi-8-hex": "#808080",
-    "ansi-9-hex": "#d90429",
-    "background-hex": "#1e1e3f",
-    "cursor-hex": "#c7c7c7",
-    "foreground-hex": "#c7c7c7",
-    "selection-hex": "#ff77ff",
-    "selection-text-hex": "#43d426",
+    "ansi-0": {
+        "hex": "#1e1e3f",
+        "hexterm": "1e/1e/3f"
+    },
+    "ansi-1": {
+        "hex": "#d90429",
+        "hexterm": "d9/04/29"
+    },
+    "ansi-10": {
+        "hex": "#3ad900",
+        "hexterm": "3a/d9/00"
+    },
+    "ansi-11": {
+        "hex": "#ffe700",
+        "hexterm": "ff/e7/00"
+    },
+    "ansi-12": {
+        "hex": "#6943ff",
+        "hexterm": "69/43/ff"
+    },
+    "ansi-13": {
+        "hex": "#ff2c70",
+        "hexterm": "ff/2c/70"
+    },
+    "ansi-14": {
+        "hex": "#00c5c7",
+        "hexterm": "00/c5/c7"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#3ad900",
+        "hexterm": "3a/d9/00"
+    },
+    "ansi-3": {
+        "hex": "#ffe700",
+        "hexterm": "ff/e7/00"
+    },
+    "ansi-4": {
+        "hex": "#6943ff",
+        "hexterm": "69/43/ff"
+    },
+    "ansi-5": {
+        "hex": "#ff2c70",
+        "hexterm": "ff/2c/70"
+    },
+    "ansi-6": {
+        "hex": "#00c5c7",
+        "hexterm": "00/c5/c7"
+    },
+    "ansi-7": {
+        "hex": "#c7c7c7",
+        "hexterm": "c7/c7/c7"
+    },
+    "ansi-8": {
+        "hex": "#808080",
+        "hexterm": "80/80/80"
+    },
+    "ansi-9": {
+        "hex": "#d90429",
+        "hexterm": "d9/04/29"
+    },
+    "background": {
+        "hex": "#1e1e3f",
+        "hexterm": "1e/1e/3f"
+    },
+    "cursor": {
+        "hex": "#c7c7c7",
+        "hexterm": "c7/c7/c7"
+    },
+    "foreground": {
+        "hex": "#c7c7c7",
+        "hexterm": "c7/c7/c7"
+    },
+    "selection": {
+        "hex": "#ff77ff",
+        "hexterm": "ff/77/ff"
+    },
+    "selection-text": {
+        "hex": "#43d426",
+        "hexterm": "43/d4/26"
+    },
     "theme-author": "Iolar Demartini Junior (http://github.com/demartini), based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode)",
     "theme-name": "Shades of Purple",
     "theme-slug": "shades-of-purple",

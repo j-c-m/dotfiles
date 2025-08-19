@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#000000",
-    "ansi-1-hex": "#b6214a",
-    "ansi-10-hex": "#86a93e",
-    "ansi-11-hex": "#e5e500",
-    "ansi-12-hex": "#0000ff",
-    "ansi-13-hex": "#e500e5",
-    "ansi-14-hex": "#00e5e5",
-    "ansi-15-hex": "#e5e5e5",
-    "ansi-2-hex": "#00a600",
-    "ansi-3-hex": "#bfbf00",
-    "ansi-4-hex": "#246eb2",
-    "ansi-5-hex": "#b200b2",
-    "ansi-6-hex": "#00a6b2",
-    "ansi-7-hex": "#bfbfbf",
-    "ansi-8-hex": "#666666",
-    "ansi-9-hex": "#e50000",
-    "background-hex": "#100b05",
-    "cursor-hex": "#84c138",
-    "foreground-hex": "#84c138",
-    "selection-hex": "#84c138",
-    "selection-text-hex": "#100b05",
+    "ansi-0": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "ansi-1": {
+        "hex": "#b6214a",
+        "hexterm": "b6/21/4a"
+    },
+    "ansi-10": {
+        "hex": "#86a93e",
+        "hexterm": "86/a9/3e"
+    },
+    "ansi-11": {
+        "hex": "#e5e500",
+        "hexterm": "e5/e5/00"
+    },
+    "ansi-12": {
+        "hex": "#0000ff",
+        "hexterm": "00/00/ff"
+    },
+    "ansi-13": {
+        "hex": "#e500e5",
+        "hexterm": "e5/00/e5"
+    },
+    "ansi-14": {
+        "hex": "#00e5e5",
+        "hexterm": "00/e5/e5"
+    },
+    "ansi-15": {
+        "hex": "#e5e5e5",
+        "hexterm": "e5/e5/e5"
+    },
+    "ansi-2": {
+        "hex": "#00a600",
+        "hexterm": "00/a6/00"
+    },
+    "ansi-3": {
+        "hex": "#bfbf00",
+        "hexterm": "bf/bf/00"
+    },
+    "ansi-4": {
+        "hex": "#246eb2",
+        "hexterm": "24/6e/b2"
+    },
+    "ansi-5": {
+        "hex": "#b200b2",
+        "hexterm": "b2/00/b2"
+    },
+    "ansi-6": {
+        "hex": "#00a6b2",
+        "hexterm": "00/a6/b2"
+    },
+    "ansi-7": {
+        "hex": "#bfbfbf",
+        "hexterm": "bf/bf/bf"
+    },
+    "ansi-8": {
+        "hex": "#666666",
+        "hexterm": "66/66/66"
+    },
+    "ansi-9": {
+        "hex": "#e50000",
+        "hexterm": "e5/00/00"
+    },
+    "background": {
+        "hex": "#100b05",
+        "hexterm": "10/0b/05"
+    },
+    "cursor": {
+        "hex": "#84c138",
+        "hexterm": "84/c1/38"
+    },
+    "foreground": {
+        "hex": "#84c138",
+        "hexterm": "84/c1/38"
+    },
+    "selection": {
+        "hex": "#84c138",
+        "hexterm": "84/c1/38"
+    },
+    "selection-text": {
+        "hex": "#100b05",
+        "hexterm": "10/0b/05"
+    },
     "theme-author": "",
     "theme-name": "Hipster Green",
     "theme-slug": "hipster-green",

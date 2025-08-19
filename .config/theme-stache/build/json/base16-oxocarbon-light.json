@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#f2f4f8",
-    "ansi-1-hex": "#ff7eb6",
-    "ansi-10-hex": "#0f62fe",
-    "ansi-11-hex": "#ff6f00",
-    "ansi-12-hex": "#42be65",
-    "ansi-13-hex": "#be95ff",
-    "ansi-14-hex": "#673ab7",
-    "ansi-15-hex": "#08bdba",
-    "ansi-2-hex": "#0f62fe",
-    "ansi-3-hex": "#ff6f00",
-    "ansi-4-hex": "#42be65",
-    "ansi-5-hex": "#be95ff",
-    "ansi-6-hex": "#673ab7",
-    "ansi-7-hex": "#393939",
-    "ansi-8-hex": "#161616",
-    "ansi-9-hex": "#ff7eb6",
-    "background-hex": "#f2f4f8",
-    "cursor-hex": "#393939",
-    "foreground-hex": "#393939",
-    "selection-hex": "#525252",
-    "selection-text-hex": "#dde1e6",
+    "ansi-0": {
+        "hex": "#f2f4f8",
+        "hexterm": "f2/f4/f8"
+    },
+    "ansi-1": {
+        "hex": "#ff7eb6",
+        "hexterm": "ff/7e/b6"
+    },
+    "ansi-10": {
+        "hex": "#0f62fe",
+        "hexterm": "0f/62/fe"
+    },
+    "ansi-11": {
+        "hex": "#ff6f00",
+        "hexterm": "ff/6f/00"
+    },
+    "ansi-12": {
+        "hex": "#42be65",
+        "hexterm": "42/be/65"
+    },
+    "ansi-13": {
+        "hex": "#be95ff",
+        "hexterm": "be/95/ff"
+    },
+    "ansi-14": {
+        "hex": "#673ab7",
+        "hexterm": "67/3a/b7"
+    },
+    "ansi-15": {
+        "hex": "#08bdba",
+        "hexterm": "08/bd/ba"
+    },
+    "ansi-2": {
+        "hex": "#0f62fe",
+        "hexterm": "0f/62/fe"
+    },
+    "ansi-3": {
+        "hex": "#ff6f00",
+        "hexterm": "ff/6f/00"
+    },
+    "ansi-4": {
+        "hex": "#42be65",
+        "hexterm": "42/be/65"
+    },
+    "ansi-5": {
+        "hex": "#be95ff",
+        "hexterm": "be/95/ff"
+    },
+    "ansi-6": {
+        "hex": "#673ab7",
+        "hexterm": "67/3a/b7"
+    },
+    "ansi-7": {
+        "hex": "#393939",
+        "hexterm": "39/39/39"
+    },
+    "ansi-8": {
+        "hex": "#161616",
+        "hexterm": "16/16/16"
+    },
+    "ansi-9": {
+        "hex": "#ff7eb6",
+        "hexterm": "ff/7e/b6"
+    },
+    "background": {
+        "hex": "#f2f4f8",
+        "hexterm": "f2/f4/f8"
+    },
+    "cursor": {
+        "hex": "#393939",
+        "hexterm": "39/39/39"
+    },
+    "foreground": {
+        "hex": "#393939",
+        "hexterm": "39/39/39"
+    },
+    "selection": {
+        "hex": "#525252",
+        "hexterm": "52/52/52"
+    },
+    "selection-text": {
+        "hex": "#dde1e6",
+        "hexterm": "dd/e1/e6"
+    },
     "theme-author": "shaunsingh/IBM",
     "theme-name": "Oxocarbon Light",
     "theme-slug": "oxocarbon-light",

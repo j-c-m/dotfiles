@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1a1919",
-    "ansi-1-hex": "#cb372e",
-    "ansi-10-hex": "#32d64a",
-    "ansi-11-hex": "#fed609",
-    "ansi-12-hex": "#0983fe",
-    "ansi-13-hex": "#be59f2",
-    "ansi-14-hex": "#75d5fe",
-    "ansi-15-hex": "#fefefe",
-    "ansi-2-hex": "#26a339",
-    "ansi-3-hex": "#ccab07",
-    "ansi-4-hex": "#0769cb",
-    "ansi-5-hex": "#9646be",
-    "ansi-6-hex": "#479ec1",
-    "ansi-7-hex": "#98979c",
-    "ansi-8-hex": "#464545",
-    "ansi-9-hex": "#fe4539",
-    "background-hex": "#fdfefe",
-    "cursor-hex": "#98979c",
-    "foreground-hex": "#000000",
-    "selection-hex": "#aad8fe",
-    "selection-text-hex": "#000000",
+    "ansi-0": {
+        "hex": "#1a1919",
+        "hexterm": "1a/19/19"
+    },
+    "ansi-1": {
+        "hex": "#cb372e",
+        "hexterm": "cb/37/2e"
+    },
+    "ansi-10": {
+        "hex": "#32d64a",
+        "hexterm": "32/d6/4a"
+    },
+    "ansi-11": {
+        "hex": "#fed609",
+        "hexterm": "fe/d6/09"
+    },
+    "ansi-12": {
+        "hex": "#0983fe",
+        "hexterm": "09/83/fe"
+    },
+    "ansi-13": {
+        "hex": "#be59f2",
+        "hexterm": "be/59/f2"
+    },
+    "ansi-14": {
+        "hex": "#75d5fe",
+        "hexterm": "75/d5/fe"
+    },
+    "ansi-15": {
+        "hex": "#fefefe",
+        "hexterm": "fe/fe/fe"
+    },
+    "ansi-2": {
+        "hex": "#26a339",
+        "hexterm": "26/a3/39"
+    },
+    "ansi-3": {
+        "hex": "#ccab07",
+        "hexterm": "cc/ab/07"
+    },
+    "ansi-4": {
+        "hex": "#0769cb",
+        "hexterm": "07/69/cb"
+    },
+    "ansi-5": {
+        "hex": "#9646be",
+        "hexterm": "96/46/be"
+    },
+    "ansi-6": {
+        "hex": "#479ec1",
+        "hexterm": "47/9e/c1"
+    },
+    "ansi-7": {
+        "hex": "#98979c",
+        "hexterm": "98/97/9c"
+    },
+    "ansi-8": {
+        "hex": "#464545",
+        "hexterm": "46/45/45"
+    },
+    "ansi-9": {
+        "hex": "#fe4539",
+        "hexterm": "fe/45/39"
+    },
+    "background": {
+        "hex": "#fdfefe",
+        "hexterm": "fd/fe/fe"
+    },
+    "cursor": {
+        "hex": "#98979c",
+        "hexterm": "98/97/9c"
+    },
+    "foreground": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
+    "selection": {
+        "hex": "#aad8fe",
+        "hexterm": "aa/d8/fe"
+    },
+    "selection-text": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
     "theme-author": "unknown",
     "theme-name": "Apple System Colors Light",
     "theme-slug": "apple-system-colors-light",

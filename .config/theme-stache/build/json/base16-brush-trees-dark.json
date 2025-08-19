@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#485867",
-    "ansi-1-hex": "#b38686",
-    "ansi-10-hex": "#87b386",
-    "ansi-11-hex": "#aab386",
-    "ansi-12-hex": "#868cb3",
-    "ansi-13-hex": "#b386b2",
-    "ansi-14-hex": "#86b3b3",
-    "ansi-15-hex": "#e3efef",
-    "ansi-2-hex": "#87b386",
-    "ansi-3-hex": "#aab386",
-    "ansi-4-hex": "#868cb3",
-    "ansi-5-hex": "#b386b2",
-    "ansi-6-hex": "#86b3b3",
-    "ansi-7-hex": "#b0c5c8",
-    "ansi-8-hex": "#8299a1",
-    "ansi-9-hex": "#b38686",
-    "background-hex": "#485867",
-    "cursor-hex": "#b0c5c8",
-    "foreground-hex": "#b0c5c8",
-    "selection-hex": "#c9dbdc",
-    "selection-text-hex": "#5a6d7a",
+    "ansi-0": {
+        "hex": "#485867",
+        "hexterm": "48/58/67"
+    },
+    "ansi-1": {
+        "hex": "#b38686",
+        "hexterm": "b3/86/86"
+    },
+    "ansi-10": {
+        "hex": "#87b386",
+        "hexterm": "87/b3/86"
+    },
+    "ansi-11": {
+        "hex": "#aab386",
+        "hexterm": "aa/b3/86"
+    },
+    "ansi-12": {
+        "hex": "#868cb3",
+        "hexterm": "86/8c/b3"
+    },
+    "ansi-13": {
+        "hex": "#b386b2",
+        "hexterm": "b3/86/b2"
+    },
+    "ansi-14": {
+        "hex": "#86b3b3",
+        "hexterm": "86/b3/b3"
+    },
+    "ansi-15": {
+        "hex": "#e3efef",
+        "hexterm": "e3/ef/ef"
+    },
+    "ansi-2": {
+        "hex": "#87b386",
+        "hexterm": "87/b3/86"
+    },
+    "ansi-3": {
+        "hex": "#aab386",
+        "hexterm": "aa/b3/86"
+    },
+    "ansi-4": {
+        "hex": "#868cb3",
+        "hexterm": "86/8c/b3"
+    },
+    "ansi-5": {
+        "hex": "#b386b2",
+        "hexterm": "b3/86/b2"
+    },
+    "ansi-6": {
+        "hex": "#86b3b3",
+        "hexterm": "86/b3/b3"
+    },
+    "ansi-7": {
+        "hex": "#b0c5c8",
+        "hexterm": "b0/c5/c8"
+    },
+    "ansi-8": {
+        "hex": "#8299a1",
+        "hexterm": "82/99/a1"
+    },
+    "ansi-9": {
+        "hex": "#b38686",
+        "hexterm": "b3/86/86"
+    },
+    "background": {
+        "hex": "#485867",
+        "hexterm": "48/58/67"
+    },
+    "cursor": {
+        "hex": "#b0c5c8",
+        "hexterm": "b0/c5/c8"
+    },
+    "foreground": {
+        "hex": "#b0c5c8",
+        "hexterm": "b0/c5/c8"
+    },
+    "selection": {
+        "hex": "#c9dbdc",
+        "hexterm": "c9/db/dc"
+    },
+    "selection-text": {
+        "hex": "#5a6d7a",
+        "hexterm": "5a/6d/7a"
+    },
     "theme-author": "Abraham White <abelincoln.white@gmail.com>",
     "theme-name": "Brush Trees Dark",
     "theme-slug": "brush-trees-dark",

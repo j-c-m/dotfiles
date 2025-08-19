@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#929292",
-    "ansi-1-hex": "#e27373",
-    "ansi-10-hex": "#bddeab",
-    "ansi-11-hex": "#ffdca0",
-    "ansi-12-hex": "#b1d8f6",
-    "ansi-13-hex": "#fbdaff",
-    "ansi-14-hex": "#1ab2a8",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#94b979",
-    "ansi-3-hex": "#ffba7b",
-    "ansi-4-hex": "#97bedc",
-    "ansi-5-hex": "#e1c0fa",
-    "ansi-6-hex": "#00988e",
-    "ansi-7-hex": "#dedede",
-    "ansi-8-hex": "#bdbdbd",
-    "ansi-9-hex": "#ffa1a1",
-    "background-hex": "#121212",
-    "cursor-hex": "#dedede",
-    "foreground-hex": "#dedede",
-    "selection-hex": "#dedede",
-    "selection-text-hex": "#121212",
+    "ansi-0": {
+        "hex": "#929292",
+        "hexterm": "92/92/92"
+    },
+    "ansi-1": {
+        "hex": "#e27373",
+        "hexterm": "e2/73/73"
+    },
+    "ansi-10": {
+        "hex": "#bddeab",
+        "hexterm": "bd/de/ab"
+    },
+    "ansi-11": {
+        "hex": "#ffdca0",
+        "hexterm": "ff/dc/a0"
+    },
+    "ansi-12": {
+        "hex": "#b1d8f6",
+        "hexterm": "b1/d8/f6"
+    },
+    "ansi-13": {
+        "hex": "#fbdaff",
+        "hexterm": "fb/da/ff"
+    },
+    "ansi-14": {
+        "hex": "#1ab2a8",
+        "hexterm": "1a/b2/a8"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#94b979",
+        "hexterm": "94/b9/79"
+    },
+    "ansi-3": {
+        "hex": "#ffba7b",
+        "hexterm": "ff/ba/7b"
+    },
+    "ansi-4": {
+        "hex": "#97bedc",
+        "hexterm": "97/be/dc"
+    },
+    "ansi-5": {
+        "hex": "#e1c0fa",
+        "hexterm": "e1/c0/fa"
+    },
+    "ansi-6": {
+        "hex": "#00988e",
+        "hexterm": "00/98/8e"
+    },
+    "ansi-7": {
+        "hex": "#dedede",
+        "hexterm": "de/de/de"
+    },
+    "ansi-8": {
+        "hex": "#bdbdbd",
+        "hexterm": "bd/bd/bd"
+    },
+    "ansi-9": {
+        "hex": "#ffa1a1",
+        "hexterm": "ff/a1/a1"
+    },
+    "background": {
+        "hex": "#121212",
+        "hexterm": "12/12/12"
+    },
+    "cursor": {
+        "hex": "#dedede",
+        "hexterm": "de/de/de"
+    },
+    "foreground": {
+        "hex": "#dedede",
+        "hexterm": "de/de/de"
+    },
+    "selection": {
+        "hex": "#dedede",
+        "hexterm": "de/de/de"
+    },
+    "selection-text": {
+        "hex": "#121212",
+        "hexterm": "12/12/12"
+    },
     "theme-author": "",
     "theme-name": "Jellybeans",
     "theme-slug": "jellybeans",

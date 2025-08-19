@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#131513",
-    "ansi-1-hex": "#e6193c",
-    "ansi-10-hex": "#29a329",
-    "ansi-11-hex": "#98981b",
-    "ansi-12-hex": "#3d62f5",
-    "ansi-13-hex": "#ad2bee",
-    "ansi-14-hex": "#1999b3",
-    "ansi-15-hex": "#f4fbf4",
-    "ansi-2-hex": "#29a329",
-    "ansi-3-hex": "#98981b",
-    "ansi-4-hex": "#3d62f5",
-    "ansi-5-hex": "#ad2bee",
-    "ansi-6-hex": "#1999b3",
-    "ansi-7-hex": "#8ca68c",
-    "ansi-8-hex": "#687d68",
-    "ansi-9-hex": "#e6193c",
-    "background-hex": "#131513",
-    "cursor-hex": "#8ca68c",
-    "foreground-hex": "#8ca68c",
-    "selection-hex": "#cfe8cf",
-    "selection-text-hex": "#242924",
+    "ansi-0": {
+        "hex": "#131513",
+        "hexterm": "13/15/13"
+    },
+    "ansi-1": {
+        "hex": "#e6193c",
+        "hexterm": "e6/19/3c"
+    },
+    "ansi-10": {
+        "hex": "#29a329",
+        "hexterm": "29/a3/29"
+    },
+    "ansi-11": {
+        "hex": "#98981b",
+        "hexterm": "98/98/1b"
+    },
+    "ansi-12": {
+        "hex": "#3d62f5",
+        "hexterm": "3d/62/f5"
+    },
+    "ansi-13": {
+        "hex": "#ad2bee",
+        "hexterm": "ad/2b/ee"
+    },
+    "ansi-14": {
+        "hex": "#1999b3",
+        "hexterm": "19/99/b3"
+    },
+    "ansi-15": {
+        "hex": "#f4fbf4",
+        "hexterm": "f4/fb/f4"
+    },
+    "ansi-2": {
+        "hex": "#29a329",
+        "hexterm": "29/a3/29"
+    },
+    "ansi-3": {
+        "hex": "#98981b",
+        "hexterm": "98/98/1b"
+    },
+    "ansi-4": {
+        "hex": "#3d62f5",
+        "hexterm": "3d/62/f5"
+    },
+    "ansi-5": {
+        "hex": "#ad2bee",
+        "hexterm": "ad/2b/ee"
+    },
+    "ansi-6": {
+        "hex": "#1999b3",
+        "hexterm": "19/99/b3"
+    },
+    "ansi-7": {
+        "hex": "#8ca68c",
+        "hexterm": "8c/a6/8c"
+    },
+    "ansi-8": {
+        "hex": "#687d68",
+        "hexterm": "68/7d/68"
+    },
+    "ansi-9": {
+        "hex": "#e6193c",
+        "hexterm": "e6/19/3c"
+    },
+    "background": {
+        "hex": "#131513",
+        "hexterm": "13/15/13"
+    },
+    "cursor": {
+        "hex": "#8ca68c",
+        "hexterm": "8c/a6/8c"
+    },
+    "foreground": {
+        "hex": "#8ca68c",
+        "hexterm": "8c/a6/8c"
+    },
+    "selection": {
+        "hex": "#cfe8cf",
+        "hexterm": "cf/e8/cf"
+    },
+    "selection-text": {
+        "hex": "#242924",
+        "hexterm": "24/29/24"
+    },
     "theme-author": "Bram de Haan (http://atelierbramdehaan.nl)",
     "theme-name": "Atelier Seaside",
     "theme-slug": "atelier-seaside",

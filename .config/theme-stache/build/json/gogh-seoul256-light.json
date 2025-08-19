@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#4e4e4e",
-    "ansi-1-hex": "#af5f5f",
-    "ansi-10-hex": "#005f00",
-    "ansi-11-hex": "#d8865f",
-    "ansi-12-hex": "#0087af",
-    "ansi-13-hex": "#87025f",
-    "ansi-14-hex": "#008787",
-    "ansi-15-hex": "#eeeeee",
-    "ansi-2-hex": "#5f885f",
-    "ansi-3-hex": "#af8760",
-    "ansi-4-hex": "#5f87ae",
-    "ansi-5-hex": "#875f87",
-    "ansi-6-hex": "#5f8787",
-    "ansi-7-hex": "#e4e4e4",
-    "ansi-8-hex": "#3a3a3a",
-    "ansi-9-hex": "#870100",
-    "background-hex": "#dadada",
-    "cursor-hex": "#4e4e4e",
-    "foreground-hex": "#4e4e4e",
-    "selection-hex": "#4e4e4e",
-    "selection-text-hex": "#dadada",
+    "ansi-0": {
+        "hex": "#4e4e4e",
+        "hexterm": "4e/4e/4e"
+    },
+    "ansi-1": {
+        "hex": "#af5f5f",
+        "hexterm": "af/5f/5f"
+    },
+    "ansi-10": {
+        "hex": "#005f00",
+        "hexterm": "00/5f/00"
+    },
+    "ansi-11": {
+        "hex": "#d8865f",
+        "hexterm": "d8/86/5f"
+    },
+    "ansi-12": {
+        "hex": "#0087af",
+        "hexterm": "00/87/af"
+    },
+    "ansi-13": {
+        "hex": "#87025f",
+        "hexterm": "87/02/5f"
+    },
+    "ansi-14": {
+        "hex": "#008787",
+        "hexterm": "00/87/87"
+    },
+    "ansi-15": {
+        "hex": "#eeeeee",
+        "hexterm": "ee/ee/ee"
+    },
+    "ansi-2": {
+        "hex": "#5f885f",
+        "hexterm": "5f/88/5f"
+    },
+    "ansi-3": {
+        "hex": "#af8760",
+        "hexterm": "af/87/60"
+    },
+    "ansi-4": {
+        "hex": "#5f87ae",
+        "hexterm": "5f/87/ae"
+    },
+    "ansi-5": {
+        "hex": "#875f87",
+        "hexterm": "87/5f/87"
+    },
+    "ansi-6": {
+        "hex": "#5f8787",
+        "hexterm": "5f/87/87"
+    },
+    "ansi-7": {
+        "hex": "#e4e4e4",
+        "hexterm": "e4/e4/e4"
+    },
+    "ansi-8": {
+        "hex": "#3a3a3a",
+        "hexterm": "3a/3a/3a"
+    },
+    "ansi-9": {
+        "hex": "#870100",
+        "hexterm": "87/01/00"
+    },
+    "background": {
+        "hex": "#dadada",
+        "hexterm": "da/da/da"
+    },
+    "cursor": {
+        "hex": "#4e4e4e",
+        "hexterm": "4e/4e/4e"
+    },
+    "foreground": {
+        "hex": "#4e4e4e",
+        "hexterm": "4e/4e/4e"
+    },
+    "selection": {
+        "hex": "#4e4e4e",
+        "hexterm": "4e/4e/4e"
+    },
+    "selection-text": {
+        "hex": "#dadada",
+        "hexterm": "da/da/da"
+    },
     "theme-author": "",
     "theme-name": "Seoul256 Light",
     "theme-slug": "seoul256-light",

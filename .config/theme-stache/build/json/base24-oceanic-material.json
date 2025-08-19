@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#1c262b",
-    "ansi-1-hex": "#ee2a29",
-    "ansi-10-hex": "#70be71",
-    "ansi-11-hex": "#fef063",
-    "ansi-12-hex": "#53a4f3",
-    "ansi-13-hex": "#a94dbb",
-    "ansi-14-hex": "#42c6d9",
-    "ansi-15-hex": "#fffefe",
-    "ansi-2-hex": "#3fa33f",
-    "ansi-3-hex": "#53a4f3",
-    "ansi-4-hex": "#1d80ef",
-    "ansi-5-hex": "#8800a0",
-    "ansi-6-hex": "#16aec9",
-    "ansi-7-hex": "#989898",
-    "ansi-8-hex": "#818181",
-    "ansi-9-hex": "#dc5b60",
-    "background-hex": "#1c262b",
-    "cursor-hex": "#989898",
-    "foreground-hex": "#989898",
-    "selection-hex": "#a4a4a4",
-    "selection-text-hex": "#000000",
+    "ansi-0": {
+        "hex": "#1c262b",
+        "hexterm": "1c/26/2b"
+    },
+    "ansi-1": {
+        "hex": "#ee2a29",
+        "hexterm": "ee/2a/29"
+    },
+    "ansi-10": {
+        "hex": "#70be71",
+        "hexterm": "70/be/71"
+    },
+    "ansi-11": {
+        "hex": "#fef063",
+        "hexterm": "fe/f0/63"
+    },
+    "ansi-12": {
+        "hex": "#53a4f3",
+        "hexterm": "53/a4/f3"
+    },
+    "ansi-13": {
+        "hex": "#a94dbb",
+        "hexterm": "a9/4d/bb"
+    },
+    "ansi-14": {
+        "hex": "#42c6d9",
+        "hexterm": "42/c6/d9"
+    },
+    "ansi-15": {
+        "hex": "#fffefe",
+        "hexterm": "ff/fe/fe"
+    },
+    "ansi-2": {
+        "hex": "#3fa33f",
+        "hexterm": "3f/a3/3f"
+    },
+    "ansi-3": {
+        "hex": "#53a4f3",
+        "hexterm": "53/a4/f3"
+    },
+    "ansi-4": {
+        "hex": "#1d80ef",
+        "hexterm": "1d/80/ef"
+    },
+    "ansi-5": {
+        "hex": "#8800a0",
+        "hexterm": "88/00/a0"
+    },
+    "ansi-6": {
+        "hex": "#16aec9",
+        "hexterm": "16/ae/c9"
+    },
+    "ansi-7": {
+        "hex": "#989898",
+        "hexterm": "98/98/98"
+    },
+    "ansi-8": {
+        "hex": "#818181",
+        "hexterm": "81/81/81"
+    },
+    "ansi-9": {
+        "hex": "#dc5b60",
+        "hexterm": "dc/5b/60"
+    },
+    "background": {
+        "hex": "#1c262b",
+        "hexterm": "1c/26/2b"
+    },
+    "cursor": {
+        "hex": "#989898",
+        "hexterm": "98/98/98"
+    },
+    "foreground": {
+        "hex": "#989898",
+        "hexterm": "98/98/98"
+    },
+    "selection": {
+        "hex": "#a4a4a4",
+        "hexterm": "a4/a4/a4"
+    },
+    "selection-text": {
+        "hex": "#000000",
+        "hexterm": "00/00/00"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Oceanic Material",
     "theme-slug": "oceanic-material",

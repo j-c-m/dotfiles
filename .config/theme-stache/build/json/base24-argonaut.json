@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#0d0f18",
-    "ansi-1-hex": "#ff000f",
-    "ansi-10-hex": "#abe05a",
-    "ansi-11-hex": "#ffd141",
-    "ansi-12-hex": "#0092ff",
-    "ansi-13-hex": "#9a5feb",
-    "ansi-14-hex": "#67ffef",
-    "ansi-15-hex": "#ffffff",
-    "ansi-2-hex": "#8ce00a",
-    "ansi-3-hex": "#0092ff",
-    "ansi-4-hex": "#008df8",
-    "ansi-5-hex": "#6c43a5",
-    "ansi-6-hex": "#00d7eb",
-    "ansi-7-hex": "#d0d0d0",
-    "ansi-8-hex": "#727272",
-    "ansi-9-hex": "#ff273f",
-    "background-hex": "#0d0f18",
-    "cursor-hex": "#d0d0d0",
-    "foreground-hex": "#d0d0d0",
-    "selection-hex": "#ffffff",
-    "selection-text-hex": "#222222",
+    "ansi-0": {
+        "hex": "#0d0f18",
+        "hexterm": "0d/0f/18"
+    },
+    "ansi-1": {
+        "hex": "#ff000f",
+        "hexterm": "ff/00/0f"
+    },
+    "ansi-10": {
+        "hex": "#abe05a",
+        "hexterm": "ab/e0/5a"
+    },
+    "ansi-11": {
+        "hex": "#ffd141",
+        "hexterm": "ff/d1/41"
+    },
+    "ansi-12": {
+        "hex": "#0092ff",
+        "hexterm": "00/92/ff"
+    },
+    "ansi-13": {
+        "hex": "#9a5feb",
+        "hexterm": "9a/5f/eb"
+    },
+    "ansi-14": {
+        "hex": "#67ffef",
+        "hexterm": "67/ff/ef"
+    },
+    "ansi-15": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "ansi-2": {
+        "hex": "#8ce00a",
+        "hexterm": "8c/e0/0a"
+    },
+    "ansi-3": {
+        "hex": "#0092ff",
+        "hexterm": "00/92/ff"
+    },
+    "ansi-4": {
+        "hex": "#008df8",
+        "hexterm": "00/8d/f8"
+    },
+    "ansi-5": {
+        "hex": "#6c43a5",
+        "hexterm": "6c/43/a5"
+    },
+    "ansi-6": {
+        "hex": "#00d7eb",
+        "hexterm": "00/d7/eb"
+    },
+    "ansi-7": {
+        "hex": "#d0d0d0",
+        "hexterm": "d0/d0/d0"
+    },
+    "ansi-8": {
+        "hex": "#727272",
+        "hexterm": "72/72/72"
+    },
+    "ansi-9": {
+        "hex": "#ff273f",
+        "hexterm": "ff/27/3f"
+    },
+    "background": {
+        "hex": "#0d0f18",
+        "hexterm": "0d/0f/18"
+    },
+    "cursor": {
+        "hex": "#d0d0d0",
+        "hexterm": "d0/d0/d0"
+    },
+    "foreground": {
+        "hex": "#d0d0d0",
+        "hexterm": "d0/d0/d0"
+    },
+    "selection": {
+        "hex": "#ffffff",
+        "hexterm": "ff/ff/ff"
+    },
+    "selection-text": {
+        "hex": "#222222",
+        "hexterm": "22/22/22"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Argonaut",
     "theme-slug": "argonaut",

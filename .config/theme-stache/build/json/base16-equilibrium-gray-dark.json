@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#111111",
-    "ansi-1-hex": "#f04339",
-    "ansi-10-hex": "#7f8b00",
-    "ansi-11-hex": "#bb8801",
-    "ansi-12-hex": "#008dd1",
-    "ansi-13-hex": "#6a7fd2",
-    "ansi-14-hex": "#00948b",
-    "ansi-15-hex": "#e2e2e2",
-    "ansi-2-hex": "#7f8b00",
-    "ansi-3-hex": "#bb8801",
-    "ansi-4-hex": "#008dd1",
-    "ansi-5-hex": "#6a7fd2",
-    "ansi-6-hex": "#00948b",
-    "ansi-7-hex": "#ababab",
-    "ansi-8-hex": "#777777",
-    "ansi-9-hex": "#f04339",
-    "background-hex": "#111111",
-    "cursor-hex": "#ababab",
-    "foreground-hex": "#ababab",
-    "selection-hex": "#c6c6c6",
-    "selection-text-hex": "#1b1b1b",
+    "ansi-0": {
+        "hex": "#111111",
+        "hexterm": "11/11/11"
+    },
+    "ansi-1": {
+        "hex": "#f04339",
+        "hexterm": "f0/43/39"
+    },
+    "ansi-10": {
+        "hex": "#7f8b00",
+        "hexterm": "7f/8b/00"
+    },
+    "ansi-11": {
+        "hex": "#bb8801",
+        "hexterm": "bb/88/01"
+    },
+    "ansi-12": {
+        "hex": "#008dd1",
+        "hexterm": "00/8d/d1"
+    },
+    "ansi-13": {
+        "hex": "#6a7fd2",
+        "hexterm": "6a/7f/d2"
+    },
+    "ansi-14": {
+        "hex": "#00948b",
+        "hexterm": "00/94/8b"
+    },
+    "ansi-15": {
+        "hex": "#e2e2e2",
+        "hexterm": "e2/e2/e2"
+    },
+    "ansi-2": {
+        "hex": "#7f8b00",
+        "hexterm": "7f/8b/00"
+    },
+    "ansi-3": {
+        "hex": "#bb8801",
+        "hexterm": "bb/88/01"
+    },
+    "ansi-4": {
+        "hex": "#008dd1",
+        "hexterm": "00/8d/d1"
+    },
+    "ansi-5": {
+        "hex": "#6a7fd2",
+        "hexterm": "6a/7f/d2"
+    },
+    "ansi-6": {
+        "hex": "#00948b",
+        "hexterm": "00/94/8b"
+    },
+    "ansi-7": {
+        "hex": "#ababab",
+        "hexterm": "ab/ab/ab"
+    },
+    "ansi-8": {
+        "hex": "#777777",
+        "hexterm": "77/77/77"
+    },
+    "ansi-9": {
+        "hex": "#f04339",
+        "hexterm": "f0/43/39"
+    },
+    "background": {
+        "hex": "#111111",
+        "hexterm": "11/11/11"
+    },
+    "cursor": {
+        "hex": "#ababab",
+        "hexterm": "ab/ab/ab"
+    },
+    "foreground": {
+        "hex": "#ababab",
+        "hexterm": "ab/ab/ab"
+    },
+    "selection": {
+        "hex": "#c6c6c6",
+        "hexterm": "c6/c6/c6"
+    },
+    "selection-text": {
+        "hex": "#1b1b1b",
+        "hexterm": "1b/1b/1b"
+    },
     "theme-author": "Carlo Abelli",
     "theme-name": "Equilibrium Gray Dark",
     "theme-slug": "equilibrium-gray-dark",

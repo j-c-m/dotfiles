@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#201d20",
-    "ansi-1-hex": "#ce672c",
-    "ansi-10-hex": "#d19af4",
-    "ansi-11-hex": "#e0baf7",
-    "ansi-12-hex": "#f8c3f2",
-    "ansi-13-hex": "#f17e8e",
-    "ansi-14-hex": "#f6b1ee",
-    "ansi-15-hex": "#f9f6f8",
-    "ansi-2-hex": "#aa52e0",
-    "ansi-3-hex": "#c988f2",
-    "ansi-4-hex": "#eb75dd",
-    "ansi-5-hex": "#e96375",
-    "ansi-6-hex": "#ba6cea",
-    "ansi-7-hex": "#ede8ed",
-    "ansi-8-hex": "#0d070c",
-    "ansi-9-hex": "#e78b55",
-    "background-hex": "#201d20",
-    "cursor-hex": "#7c7481",
-    "foreground-hex": "#9e949d",
-    "selection-hex": "#9e949d",
-    "selection-text-hex": "#201d20",
+    "ansi-0": {
+        "hex": "#201d20",
+        "hexterm": "20/1d/20"
+    },
+    "ansi-1": {
+        "hex": "#ce672c",
+        "hexterm": "ce/67/2c"
+    },
+    "ansi-10": {
+        "hex": "#d19af4",
+        "hexterm": "d1/9a/f4"
+    },
+    "ansi-11": {
+        "hex": "#e0baf7",
+        "hexterm": "e0/ba/f7"
+    },
+    "ansi-12": {
+        "hex": "#f8c3f2",
+        "hexterm": "f8/c3/f2"
+    },
+    "ansi-13": {
+        "hex": "#f17e8e",
+        "hexterm": "f1/7e/8e"
+    },
+    "ansi-14": {
+        "hex": "#f6b1ee",
+        "hexterm": "f6/b1/ee"
+    },
+    "ansi-15": {
+        "hex": "#f9f6f8",
+        "hexterm": "f9/f6/f8"
+    },
+    "ansi-2": {
+        "hex": "#aa52e0",
+        "hexterm": "aa/52/e0"
+    },
+    "ansi-3": {
+        "hex": "#c988f2",
+        "hexterm": "c9/88/f2"
+    },
+    "ansi-4": {
+        "hex": "#eb75dd",
+        "hexterm": "eb/75/dd"
+    },
+    "ansi-5": {
+        "hex": "#e96375",
+        "hexterm": "e9/63/75"
+    },
+    "ansi-6": {
+        "hex": "#ba6cea",
+        "hexterm": "ba/6c/ea"
+    },
+    "ansi-7": {
+        "hex": "#ede8ed",
+        "hexterm": "ed/e8/ed"
+    },
+    "ansi-8": {
+        "hex": "#0d070c",
+        "hexterm": "0d/07/0c"
+    },
+    "ansi-9": {
+        "hex": "#e78b55",
+        "hexterm": "e7/8b/55"
+    },
+    "background": {
+        "hex": "#201d20",
+        "hexterm": "20/1d/20"
+    },
+    "cursor": {
+        "hex": "#7c7481",
+        "hexterm": "7c/74/81"
+    },
+    "foreground": {
+        "hex": "#9e949d",
+        "hexterm": "9e/94/9d"
+    },
+    "selection": {
+        "hex": "#9e949d",
+        "hexterm": "9e/94/9d"
+    },
+    "selection-text": {
+        "hex": "#201d20",
+        "hexterm": "20/1d/20"
+    },
     "theme-author": "",
     "theme-name": "Base4Tone Classic U",
     "theme-slug": "base4tone-classic-u",

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#403f53",
-    "ansi-1-hex": "#de3d3b",
-    "ansi-10-hex": "#08916a",
-    "ansi-11-hex": "#daaa01",
-    "ansi-12-hex": "#288ed7",
-    "ansi-13-hex": "#d6438a",
-    "ansi-14-hex": "#2aa298",
-    "ansi-15-hex": "#f0f0f0",
-    "ansi-2-hex": "#08916a",
-    "ansi-3-hex": "#e0af02",
-    "ansi-4-hex": "#288ed7",
-    "ansi-5-hex": "#d6438a",
-    "ansi-6-hex": "#2aa298",
-    "ansi-7-hex": "#f0f0f0",
-    "ansi-8-hex": "#989fb1",
-    "ansi-9-hex": "#de3d3b",
-    "background-hex": "#fbfbfb",
-    "cursor-hex": "#403f53",
-    "foreground-hex": "#403f53",
-    "selection-hex": "#e0e0e0",
-    "selection-text-hex": "#403f53",
+    "ansi-0": {
+        "hex": "#403f53",
+        "hexterm": "40/3f/53"
+    },
+    "ansi-1": {
+        "hex": "#de3d3b",
+        "hexterm": "de/3d/3b"
+    },
+    "ansi-10": {
+        "hex": "#08916a",
+        "hexterm": "08/91/6a"
+    },
+    "ansi-11": {
+        "hex": "#daaa01",
+        "hexterm": "da/aa/01"
+    },
+    "ansi-12": {
+        "hex": "#288ed7",
+        "hexterm": "28/8e/d7"
+    },
+    "ansi-13": {
+        "hex": "#d6438a",
+        "hexterm": "d6/43/8a"
+    },
+    "ansi-14": {
+        "hex": "#2aa298",
+        "hexterm": "2a/a2/98"
+    },
+    "ansi-15": {
+        "hex": "#f0f0f0",
+        "hexterm": "f0/f0/f0"
+    },
+    "ansi-2": {
+        "hex": "#08916a",
+        "hexterm": "08/91/6a"
+    },
+    "ansi-3": {
+        "hex": "#e0af02",
+        "hexterm": "e0/af/02"
+    },
+    "ansi-4": {
+        "hex": "#288ed7",
+        "hexterm": "28/8e/d7"
+    },
+    "ansi-5": {
+        "hex": "#d6438a",
+        "hexterm": "d6/43/8a"
+    },
+    "ansi-6": {
+        "hex": "#2aa298",
+        "hexterm": "2a/a2/98"
+    },
+    "ansi-7": {
+        "hex": "#f0f0f0",
+        "hexterm": "f0/f0/f0"
+    },
+    "ansi-8": {
+        "hex": "#989fb1",
+        "hexterm": "98/9f/b1"
+    },
+    "ansi-9": {
+        "hex": "#de3d3b",
+        "hexterm": "de/3d/3b"
+    },
+    "background": {
+        "hex": "#fbfbfb",
+        "hexterm": "fb/fb/fb"
+    },
+    "cursor": {
+        "hex": "#403f53",
+        "hexterm": "40/3f/53"
+    },
+    "foreground": {
+        "hex": "#403f53",
+        "hexterm": "40/3f/53"
+    },
+    "selection": {
+        "hex": "#e0e0e0",
+        "hexterm": "e0/e0/e0"
+    },
+    "selection-text": {
+        "hex": "#403f53",
+        "hexterm": "40/3f/53"
+    },
     "theme-author": "unknown",
     "theme-name": "LightOwl",
     "theme-slug": "lightowl",

@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#283139",
-    "ansi-1-hex": "#efa9a9",
-    "ansi-10-hex": "#b5e090",
-    "ansi-11-hex": "#fff0b2",
-    "ansi-12-hex": "#c3d9fd",
-    "ansi-13-hex": "#e3c3e6",
-    "ansi-14-hex": "#b2f0fd",
-    "ansi-15-hex": "#e7ebee",
-    "ansi-2-hex": "#8cd4b0",
-    "ansi-3-hex": "#e0b88a",
-    "ansi-4-hex": "#a2c5fd",
-    "ansi-5-hex": "#ccb7db",
-    "ansi-6-hex": "#93dfec",
-    "ansi-7-hex": "#93a5b4",
-    "ansi-8-hex": "#60778a",
-    "ansi-9-hex": "#f6bfbf",
-    "background-hex": "#283139",
-    "cursor-hex": "#93a5b4",
-    "foreground-hex": "#93a5b4",
-    "selection-hex": "#abb9c4",
-    "selection-text-hex": "#3b4954",
+    "ansi-0": {
+        "hex": "#283139",
+        "hexterm": "28/31/39"
+    },
+    "ansi-1": {
+        "hex": "#efa9a9",
+        "hexterm": "ef/a9/a9"
+    },
+    "ansi-10": {
+        "hex": "#b5e090",
+        "hexterm": "b5/e0/90"
+    },
+    "ansi-11": {
+        "hex": "#fff0b2",
+        "hexterm": "ff/f0/b2"
+    },
+    "ansi-12": {
+        "hex": "#c3d9fd",
+        "hexterm": "c3/d9/fd"
+    },
+    "ansi-13": {
+        "hex": "#e3c3e6",
+        "hexterm": "e3/c3/e6"
+    },
+    "ansi-14": {
+        "hex": "#b2f0fd",
+        "hexterm": "b2/f0/fd"
+    },
+    "ansi-15": {
+        "hex": "#e7ebee",
+        "hexterm": "e7/eb/ee"
+    },
+    "ansi-2": {
+        "hex": "#8cd4b0",
+        "hexterm": "8c/d4/b0"
+    },
+    "ansi-3": {
+        "hex": "#e0b88a",
+        "hexterm": "e0/b8/8a"
+    },
+    "ansi-4": {
+        "hex": "#a2c5fd",
+        "hexterm": "a2/c5/fd"
+    },
+    "ansi-5": {
+        "hex": "#ccb7db",
+        "hexterm": "cc/b7/db"
+    },
+    "ansi-6": {
+        "hex": "#93dfec",
+        "hexterm": "93/df/ec"
+    },
+    "ansi-7": {
+        "hex": "#93a5b4",
+        "hexterm": "93/a5/b4"
+    },
+    "ansi-8": {
+        "hex": "#60778a",
+        "hexterm": "60/77/8a"
+    },
+    "ansi-9": {
+        "hex": "#f6bfbf",
+        "hexterm": "f6/bf/bf"
+    },
+    "background": {
+        "hex": "#283139",
+        "hexterm": "28/31/39"
+    },
+    "cursor": {
+        "hex": "#93a5b4",
+        "hexterm": "93/a5/b4"
+    },
+    "foreground": {
+        "hex": "#93a5b4",
+        "hexterm": "93/a5/b4"
+    },
+    "selection": {
+        "hex": "#abb9c4",
+        "hexterm": "ab/b9/c4"
+    },
+    "selection-text": {
+        "hex": "#3b4954",
+        "hexterm": "3b/49/54"
+    },
     "theme-author": "Thomas Leon Highbaugh",
     "theme-name": "Mission Brogue",
     "theme-slug": "mission-brogue",

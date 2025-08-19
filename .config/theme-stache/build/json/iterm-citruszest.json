@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#404040",
-    "ansi-1-hex": "#ff5454",
-    "ansi-10-hex": "#1affa3",
-    "ansi-11-hex": "#ffff00",
-    "ansi-12-hex": "#33cfff",
-    "ansi-13-hex": "#ffb1fe",
-    "ansi-14-hex": "#00fff2",
-    "ansi-15-hex": "#f9f9f9",
-    "ansi-2-hex": "#00cc7a",
-    "ansi-3-hex": "#ffd400",
-    "ansi-4-hex": "#00bfff",
-    "ansi-5-hex": "#ff8ffd",
-    "ansi-6-hex": "#48d1cc",
-    "ansi-7-hex": "#bfbfbf",
-    "ansi-8-hex": "#808080",
-    "ansi-9-hex": "#ff1a75",
-    "background-hex": "#121212",
-    "cursor-hex": "#666666",
-    "foreground-hex": "#bfbfbf",
-    "selection-hex": "#ff8c00",
-    "selection-text-hex": "#f4f4f4",
+    "ansi-0": {
+        "hex": "#404040",
+        "hexterm": "40/40/40"
+    },
+    "ansi-1": {
+        "hex": "#ff5454",
+        "hexterm": "ff/54/54"
+    },
+    "ansi-10": {
+        "hex": "#1affa3",
+        "hexterm": "1a/ff/a3"
+    },
+    "ansi-11": {
+        "hex": "#ffff00",
+        "hexterm": "ff/ff/00"
+    },
+    "ansi-12": {
+        "hex": "#33cfff",
+        "hexterm": "33/cf/ff"
+    },
+    "ansi-13": {
+        "hex": "#ffb1fe",
+        "hexterm": "ff/b1/fe"
+    },
+    "ansi-14": {
+        "hex": "#00fff2",
+        "hexterm": "00/ff/f2"
+    },
+    "ansi-15": {
+        "hex": "#f9f9f9",
+        "hexterm": "f9/f9/f9"
+    },
+    "ansi-2": {
+        "hex": "#00cc7a",
+        "hexterm": "00/cc/7a"
+    },
+    "ansi-3": {
+        "hex": "#ffd400",
+        "hexterm": "ff/d4/00"
+    },
+    "ansi-4": {
+        "hex": "#00bfff",
+        "hexterm": "00/bf/ff"
+    },
+    "ansi-5": {
+        "hex": "#ff8ffd",
+        "hexterm": "ff/8f/fd"
+    },
+    "ansi-6": {
+        "hex": "#48d1cc",
+        "hexterm": "48/d1/cc"
+    },
+    "ansi-7": {
+        "hex": "#bfbfbf",
+        "hexterm": "bf/bf/bf"
+    },
+    "ansi-8": {
+        "hex": "#808080",
+        "hexterm": "80/80/80"
+    },
+    "ansi-9": {
+        "hex": "#ff1a75",
+        "hexterm": "ff/1a/75"
+    },
+    "background": {
+        "hex": "#121212",
+        "hexterm": "12/12/12"
+    },
+    "cursor": {
+        "hex": "#666666",
+        "hexterm": "66/66/66"
+    },
+    "foreground": {
+        "hex": "#bfbfbf",
+        "hexterm": "bf/bf/bf"
+    },
+    "selection": {
+        "hex": "#ff8c00",
+        "hexterm": "ff/8c/00"
+    },
+    "selection-text": {
+        "hex": "#f4f4f4",
+        "hexterm": "f4/f4/f4"
+    },
     "theme-author": "unknown",
     "theme-name": "citruszest",
     "theme-slug": "citruszest",

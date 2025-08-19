@@ -28,27 +28,50 @@ git clone https://github.com/j-c-m/theme-stache.git
 sample .bashrc or .zshrc addtion
 
 ```bash
-THEME_STACHE="${HOME}/.config/theme-stache"
-DEFAULT_THEME="base16-eighties"
+THEME_STACHE="${HOME}/.config/theme-stache"         # Directory for theme-stache
+DEFAULT_THEME="iterm-spacegray-eighties"            # Default theme name
+THEME_STACHE_BIN="${HOME}/bin/theme-stache"         # Path to theme-stache binary symlink
 
-if [ ! -f "${HOME}/.shell_theme.sh" ]; then
-    ln -s "${THEME_STACHE}/build/shell/${DEFAULT_THEME}.sh" "${HOME}/.shell_theme.sh"
+if [[ ! -f ${HOME}/.shell_theme.sh ]]; then
+    ln -sf "${THEME_STACHE}/build/shell/${DEFAULT_THEME}.sh" "${HOME}/.shell_theme.sh"
 fi
 
-if [ ! -f "${HOME}/bin/theme-stache" ]; then
+if [[ ! -f $THEME_STACHE_BIN ]]; then
     mkdir -p "${HOME}/bin"
-    ln -s "${THEME_STACHE}/theme-stache.py" "${HOME}/bin/theme-stache"
+    ln -sf "${THEME_STACHE}/theme-stache.py" "$THEME_STACHE_BIN"
 fi
 
-source "${HOME}/.shell_theme.sh"
+function reset_theme() {
+    [[ -f ${HOME}/.shell_theme.sh ]] && source "${HOME}/.shell_theme.sh"
+}
 
-unset THEME_STACHE
-unset DEFAULT_THEME
+function precmd_reset_theme() {
+    local -a cmd_list=(ssh et mosh)
+    local last_cmd_line=$(fc -ln -1)
+    local last_cmd=${last_cmd_line[(w)1]}
+
+    if [[ -n "$last_cmd" ]] && (( ${cmd_list[(Ie)$last_cmd]} )); then
+        reset_theme
+    fi
+}
+
+if [[ -n $ZSH_VERSION ]]; then
+    autoload -U add-zsh-hook
+    add-zsh-hook precmd precmd_reset_theme
+fi
+
+alias reset="command reset && reset_theme"
+
+reset_theme
+
+unset THEME_STACHE DEFAULT_THEME THEME_STACHE_BIN
 ```
 
 Use theme-stache (theme-stach.py) to browse, activate, or install themes (create .shell_theme.sh symlink).
 
 ![theme-stache tool screenshot](/images/theme-stache-screenshot.png)
+
+[ansi-dim.vim](https://raw.githubusercontent.com/j-c-m/dotfiles/refs/heads/master/.vim/colors/ansi-dim.vim)
 
 Recommended vimrc colorscheme section, let the 16 colors do the work!
 
@@ -57,8 +80,7 @@ if &t_Co > 16
   set t_Co=16
 endif
 
-set notermguicolors
-colorscheme habamax
+colorscheme ansi-dim
 ```
 
 ### alacritty
@@ -74,5 +96,8 @@ import = [
     "~/.config/theme-stache/build/alacritty/{theme}.toml"
 ]
 ```
+### iterm2
+
+* [iterm2](/build/itermcolors/) iTerm2 terminal emulator
 
 # to be continued ...

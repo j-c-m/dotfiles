@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#494d5c",
-    "ansi-1-hex": "#bb383a",
-    "ansi-10-hex": "#94c66e",
-    "ansi-11-hex": "#d28e5d",
-    "ansi-12-hex": "#8884c5",
-    "ansi-13-hex": "#b73999",
-    "ansi-14-hex": "#00aba4",
-    "ansi-15-hex": "#e7e8eb",
-    "ansi-2-hex": "#94c66e",
-    "ansi-3-hex": "#d28e5d",
-    "ansi-4-hex": "#8884c5",
-    "ansi-5-hex": "#b73999",
-    "ansi-6-hex": "#00aba4",
-    "ansi-7-hex": "#e7e8eb",
-    "ansi-8-hex": "#7f869e",
-    "ansi-9-hex": "#bb383a",
-    "background-hex": "#292c36",
-    "cursor-hex": "#e7e8eb",
-    "foreground-hex": "#e7e8eb",
-    "selection-hex": "#494d5c",
-    "selection-text-hex": "#e7e8eb",
+    "ansi-0": {
+        "hex": "#494d5c",
+        "hexterm": "49/4d/5c"
+    },
+    "ansi-1": {
+        "hex": "#bb383a",
+        "hexterm": "bb/38/3a"
+    },
+    "ansi-10": {
+        "hex": "#94c66e",
+        "hexterm": "94/c6/6e"
+    },
+    "ansi-11": {
+        "hex": "#d28e5d",
+        "hexterm": "d2/8e/5d"
+    },
+    "ansi-12": {
+        "hex": "#8884c5",
+        "hexterm": "88/84/c5"
+    },
+    "ansi-13": {
+        "hex": "#b73999",
+        "hexterm": "b7/39/99"
+    },
+    "ansi-14": {
+        "hex": "#00aba4",
+        "hexterm": "00/ab/a4"
+    },
+    "ansi-15": {
+        "hex": "#e7e8eb",
+        "hexterm": "e7/e8/eb"
+    },
+    "ansi-2": {
+        "hex": "#94c66e",
+        "hexterm": "94/c6/6e"
+    },
+    "ansi-3": {
+        "hex": "#d28e5d",
+        "hexterm": "d2/8e/5d"
+    },
+    "ansi-4": {
+        "hex": "#8884c5",
+        "hexterm": "88/84/c5"
+    },
+    "ansi-5": {
+        "hex": "#b73999",
+        "hexterm": "b7/39/99"
+    },
+    "ansi-6": {
+        "hex": "#00aba4",
+        "hexterm": "00/ab/a4"
+    },
+    "ansi-7": {
+        "hex": "#e7e8eb",
+        "hexterm": "e7/e8/eb"
+    },
+    "ansi-8": {
+        "hex": "#7f869e",
+        "hexterm": "7f/86/9e"
+    },
+    "ansi-9": {
+        "hex": "#bb383a",
+        "hexterm": "bb/38/3a"
+    },
+    "background": {
+        "hex": "#292c36",
+        "hexterm": "29/2c/36"
+    },
+    "cursor": {
+        "hex": "#e7e8eb",
+        "hexterm": "e7/e8/eb"
+    },
+    "foreground": {
+        "hex": "#e7e8eb",
+        "hexterm": "e7/e8/eb"
+    },
+    "selection": {
+        "hex": "#494d5c",
+        "hexterm": "49/4d/5c"
+    },
+    "selection-text": {
+        "hex": "#e7e8eb",
+        "hexterm": "e7/e8/eb"
+    },
     "theme-author": "unknown",
     "theme-name": "xcodewwdc",
     "theme-slug": "xcodewwdc",

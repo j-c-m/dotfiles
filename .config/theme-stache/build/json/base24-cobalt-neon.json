@@ -1,25 +1,88 @@
 {
-    "ansi-0-hex": "#142838",
-    "ansi-1-hex": "#ff2320",
-    "ansi-10-hex": "#8ff586",
-    "ansi-11-hex": "#e9f06d",
-    "ansi-12-hex": "#3c7dd2",
-    "ansi-13-hex": "#8230a7",
-    "ansi-14-hex": "#6cbc67",
-    "ansi-15-hex": "#8ff586",
-    "ansi-2-hex": "#3aa5ff",
-    "ansi-3-hex": "#3c7dd2",
-    "ansi-4-hex": "#8ff586",
-    "ansi-5-hex": "#781aa0",
-    "ansi-6-hex": "#8ff586",
-    "ansi-7-hex": "#cc72a6",
-    "ansi-8-hex": "#eeca92",
-    "ansi-9-hex": "#d4312e",
-    "background-hex": "#142838",
-    "cursor-hex": "#cc72a6",
-    "foreground-hex": "#cc72a6",
-    "selection-hex": "#ba45b1",
-    "selection-text-hex": "#142630",
+    "ansi-0": {
+        "hex": "#142838",
+        "hexterm": "14/28/38"
+    },
+    "ansi-1": {
+        "hex": "#ff2320",
+        "hexterm": "ff/23/20"
+    },
+    "ansi-10": {
+        "hex": "#8ff586",
+        "hexterm": "8f/f5/86"
+    },
+    "ansi-11": {
+        "hex": "#e9f06d",
+        "hexterm": "e9/f0/6d"
+    },
+    "ansi-12": {
+        "hex": "#3c7dd2",
+        "hexterm": "3c/7d/d2"
+    },
+    "ansi-13": {
+        "hex": "#8230a7",
+        "hexterm": "82/30/a7"
+    },
+    "ansi-14": {
+        "hex": "#6cbc67",
+        "hexterm": "6c/bc/67"
+    },
+    "ansi-15": {
+        "hex": "#8ff586",
+        "hexterm": "8f/f5/86"
+    },
+    "ansi-2": {
+        "hex": "#3aa5ff",
+        "hexterm": "3a/a5/ff"
+    },
+    "ansi-3": {
+        "hex": "#3c7dd2",
+        "hexterm": "3c/7d/d2"
+    },
+    "ansi-4": {
+        "hex": "#8ff586",
+        "hexterm": "8f/f5/86"
+    },
+    "ansi-5": {
+        "hex": "#781aa0",
+        "hexterm": "78/1a/a0"
+    },
+    "ansi-6": {
+        "hex": "#8ff586",
+        "hexterm": "8f/f5/86"
+    },
+    "ansi-7": {
+        "hex": "#cc72a6",
+        "hexterm": "cc/72/a6"
+    },
+    "ansi-8": {
+        "hex": "#eeca92",
+        "hexterm": "ee/ca/92"
+    },
+    "ansi-9": {
+        "hex": "#d4312e",
+        "hexterm": "d4/31/2e"
+    },
+    "background": {
+        "hex": "#142838",
+        "hexterm": "14/28/38"
+    },
+    "cursor": {
+        "hex": "#cc72a6",
+        "hexterm": "cc/72/a6"
+    },
+    "foreground": {
+        "hex": "#cc72a6",
+        "hexterm": "cc/72/a6"
+    },
+    "selection": {
+        "hex": "#ba45b1",
+        "hexterm": "ba/45/b1"
+    },
+    "selection-text": {
+        "hex": "#142630",
+        "hexterm": "14/26/30"
+    },
     "theme-author": "FredHappyface (https://github.com/fredHappyface)",
     "theme-name": "Cobalt Neon",
     "theme-slug": "cobalt-neon",
