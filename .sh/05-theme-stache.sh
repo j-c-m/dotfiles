@@ -27,6 +27,6 @@ fi
 
 alias reset="command reset && source_theme"
 
-[[ -n "${SSH_TTY}" ]] && source_theme
+[[ -t 0 ]] && source_theme
 
 unset THEME_STACHE_BIN
