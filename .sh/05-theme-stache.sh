@@ -16,7 +16,7 @@ function precmd_reset_theme() {
     local last_cmd=${last_cmd_line[(w)1]}
 
     if [[ -n "$last_cmd" ]] && (( ${cmd_list[(Ie)$last_cmd]} )); then
-        reset_theme
+        source_theme
     fi
 }
 
@@ -25,7 +25,7 @@ if [[ -n $ZSH_VERSION ]]; then
     add-zsh-hook precmd precmd_reset_theme
 fi
 
-alias reset="command reset && reset_theme"
+alias reset="command reset && source_theme"
 
 source_theme
 
