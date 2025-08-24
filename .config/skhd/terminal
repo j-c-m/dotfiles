@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/dash
 
 # Get the current space ID
 current_space=$(yabai -m query --spaces --space | jq '.index')
