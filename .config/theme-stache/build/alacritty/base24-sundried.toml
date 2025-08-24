@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Sundried
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1a1818'
+foreground  = '#a9a9a7'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#1a1818'
+cursor      = '#a9a9a7'
+
+# Selection colors
+[colors.selection]
+background  = '#c8c8c8'
+text        = '#302b2a'
+
+# Normal colors
+[colors.normal]
+black       = '#1a1818'
+red         = '#a6463d'
+green       = '#577644'
+yellow      = '#7898f7'
+blue        = '#485a98'
+magenta     = '#854551'
+cyan        = '#9c814e'
+white       = '#a9a9a7'
+
+# Bright colors
+[colors.bright]
+black       = '#6b6b67'
+red         = '#aa000c'
+green       = '#128c20'
+yellow      = '#fc6a20'
+blue        = '#7898f7'
+magenta     = '#fc89a0'
+cyan        = '#fad384'
+white       = '#fffefe'

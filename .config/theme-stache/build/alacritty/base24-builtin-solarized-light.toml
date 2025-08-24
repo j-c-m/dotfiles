@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Builtin Solarized Light
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#fdf6e3'
+foreground  = '#b2b8ad'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#fdf6e3'
+cursor      = '#b2b8ad'
+
+# Selection colors
+[colors.selection]
+background  = '#eee8d5'
+text        = '#073642'
+
+# Normal colors
+[colors.normal]
+black       = '#fdf6e3'
+red         = '#dc322f'
+green       = '#859900'
+yellow      = '#839496'
+blue        = '#268bd2'
+magenta     = '#d33682'
+cyan        = '#2aa198'
+white       = '#b2b8ad'
+
+# Bright colors
+[colors.bright]
+black       = '#3b5a5d'
+red         = '#cb4b16'
+green       = '#586e75'
+yellow      = '#657b83'
+blue        = '#839496'
+magenta     = '#6c71c4'
+cyan        = '#93a1a1'
+white       = '#fdf6e3'

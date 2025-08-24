@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Aura
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#15141b'
+foreground  = '#edecee'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#110f18'
+cursor      = '#edecee'
+
+# Selection colors
+[colors.selection]
+background  = '#edecee'
+text        = '#15141b'
+
+# Normal colors
+[colors.normal]
+black       = '#110f18'
+red         = '#ff6767'
+green       = '#61ffca'
+yellow      = '#ffca85'
+blue        = '#a277ff'
+magenta     = '#a277ff'
+cyan        = '#61ffca'
+white       = '#edecee'
+
+# Bright colors
+[colors.bright]
+black       = '#6d6d6d'
+red         = '#ffca85'
+green       = '#a277ff'
+yellow      = '#ffca85'
+blue        = '#a277ff'
+magenta     = '#a277ff'
+cyan        = '#61ffca'
+white       = '#edecee'

@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    rose-pine-dawn
+# Author:   unknown
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#faf4ed'
+foreground  = '#575279'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#f2e9e1'
+cursor      = '#575279'
+
+# Selection colors
+[colors.selection]
+background  = '#dfdad9'
+text        = '#575279'
+
+# Normal colors
+[colors.normal]
+black       = '#f2e9e1'
+red         = '#b4637a'
+green       = '#286983'
+yellow      = '#ea9d34'
+blue        = '#56949f'
+magenta     = '#907aa9'
+cyan        = '#d7827e'
+white       = '#575279'
+
+# Bright colors
+[colors.bright]
+black       = '#9893a5'
+red         = '#b4637a'
+green       = '#286983'
+yellow      = '#ea9d34'
+blue        = '#56949f'
+magenta     = '#907aa9'
+cyan        = '#d7827e'
+white       = '#575279'

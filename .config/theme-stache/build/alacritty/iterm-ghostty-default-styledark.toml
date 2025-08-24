@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Ghostty Default StyleDark
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#282c33'
+foreground  = '#fefefe'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#1c1f21'
+cursor      = '#fefefe'
+
+# Selection colors
+[colors.selection]
+background  = '#fefefe'
+text        = '#282c33'
+
+# Normal colors
+[colors.normal]
+black       = '#1c1f21'
+red         = '#cc6566'
+green       = '#b5bd68'
+yellow      = '#efc674'
+blue        = '#81a1bd'
+magenta     = '#b193ba'
+cyan        = '#89beb7'
+white       = '#c4c8c5'
+
+# Bright colors
+[colors.bright]
+black       = '#666565'
+red         = '#d44d52'
+green       = '#b8c94a'
+yellow      = '#e6c447'
+blue        = '#79a6da'
+magenta     = '#c297d8'
+cyan        = '#70bfb0'
+white       = '#eae9e9'

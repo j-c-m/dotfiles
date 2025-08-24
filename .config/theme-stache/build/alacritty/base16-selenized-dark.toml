@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    selenized-dark
+# Author:   Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#103c48'
+foreground  = '#adbcbc'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#103c48'
+cursor      = '#adbcbc'
+
+# Selection colors
+[colors.selection]
+background  = '#cad8d9'
+text        = '#184956'
+
+# Normal colors
+[colors.normal]
+black       = '#103c48'
+red         = '#fa5750'
+green       = '#75b938'
+yellow      = '#dbb32d'
+blue        = '#4695f7'
+magenta     = '#af88eb'
+cyan        = '#41c7b9'
+white       = '#adbcbc'
+
+# Bright colors
+[colors.bright]
+black       = '#72898f'
+red         = '#fa5750'
+green       = '#75b938'
+yellow      = '#dbb32d'
+blue        = '#4695f7'
+magenta     = '#af88eb'
+cyan        = '#41c7b9'
+white       = '#cad8d9'

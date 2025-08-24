@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    zenbones_dark
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1b1816'
+foreground  = '#b4bdc3'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#1b1816'
+cursor      = '#c4cacf'
+
+# Selection colors
+[colors.selection]
+background  = '#3c3f41'
+text        = '#b4bdc3'
+
+# Normal colors
+[colors.normal]
+black       = '#1b1816'
+red         = '#de6e7c'
+green       = '#819b69'
+yellow      = '#b77e63'
+blue        = '#6099c0'
+magenta     = '#b279a7'
+cyan        = '#66a5ad'
+white       = '#b4bdc3'
+
+# Bright colors
+[colors.bright]
+black       = '#3f3833'
+red         = '#e8838f'
+green       = '#8bae68'
+yellow      = '#d68c67'
+blue        = '#61abda'
+magenta     = '#cf86c1'
+cyan        = '#65b8c1'
+white       = '#888f94'

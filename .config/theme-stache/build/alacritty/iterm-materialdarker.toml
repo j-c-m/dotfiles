@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    MaterialDarker
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#212121'
+foreground  = '#eeffff'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#ffffff'
+
+# Selection colors
+[colors.selection]
+background  = '#eeffff'
+text        = '#545454'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#ff5370'
+green       = '#c3e88d'
+yellow      = '#ffcb6b'
+blue        = '#82aaff'
+magenta     = '#c792ea'
+cyan        = '#89ddff'
+white       = '#ffffff'
+
+# Bright colors
+[colors.bright]
+black       = '#545454'
+red         = '#ff5370'
+green       = '#c3e88d'
+yellow      = '#ffcb6b'
+blue        = '#82aaff'
+magenta     = '#c792ea'
+cyan        = '#89ddff'
+white       = '#ffffff'

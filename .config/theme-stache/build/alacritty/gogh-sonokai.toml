@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Sonokai
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#2c2e34'
+foreground  = '#e2e2e3'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#2c2e34'
+cursor      = '#e2e2e3'
+
+# Selection colors
+[colors.selection]
+background  = '#e2e2e3'
+text        = '#2c2e34'
+
+# Normal colors
+[colors.normal]
+black       = '#2c2e34'
+red         = '#fc5d7c'
+green       = '#9ed072'
+yellow      = '#e7c664'
+blue        = '#f39660'
+magenta     = '#b39df3'
+cyan        = '#76cce0'
+white       = '#e2e2e3'
+
+# Bright colors
+[colors.bright]
+black       = '#7f8490'
+red         = '#fc5d7c'
+green       = '#9ed072'
+yellow      = '#e7c664'
+blue        = '#f39660'
+magenta     = '#b39df3'
+cyan        = '#76cce0'
+white       = '#e2e2e3'

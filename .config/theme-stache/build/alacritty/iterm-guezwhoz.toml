@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Guezwhoz
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1c1c1c'
+foreground  = '#d9d9d9'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#333333'
+cursor      = '#99d4b0'
+
+# Selection colors
+[colors.selection]
+background  = '#245353'
+text        = '#58d5cd'
+
+# Normal colors
+[colors.normal]
+black       = '#333333'
+red         = '#e75081'
+green       = '#79d594'
+yellow      = '#b6d073'
+blue        = '#59a0d5'
+magenta     = '#998fdf'
+cyan        = '#58d5cd'
+white       = '#d9d9d9'
+
+# Bright colors
+[colors.bright]
+black       = '#808080'
+red         = '#e75081'
+green       = '#afd6af'
+yellow      = '#d0ec85'
+blue        = '#64b1ec'
+magenta     = '#a298ec'
+cyan        = '#61ece3'
+white       = '#ececec'

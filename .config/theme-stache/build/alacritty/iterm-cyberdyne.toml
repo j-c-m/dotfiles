@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Cyberdyne
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#151144'
+foreground  = '#00ff92'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#080808'
+cursor      = '#00ff9c'
+
+# Selection colors
+[colors.selection]
+background  = '#454d95'
+text        = '#f4f4f4'
+
+# Normal colors
+[colors.normal]
+black       = '#080808'
+red         = '#ff8272'
+green       = '#00c172'
+yellow      = '#d2a700'
+blue        = '#0071cf'
+magenta     = '#ff8ffd'
+cyan        = '#6bffdc'
+white       = '#f1f1f1'
+
+# Bright colors
+[colors.bright]
+black       = '#2d2d2d'
+red         = '#ffc4bd'
+green       = '#d6fcb9'
+yellow      = '#fefdd5'
+blue        = '#c1e3fe'
+magenta     = '#ffb1fe'
+cyan        = '#e5e6fe'
+white       = '#feffff'

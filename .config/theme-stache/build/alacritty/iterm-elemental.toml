@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Elemental
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#21211c'
+foreground  = '#807973'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#3c3b30'
+cursor      = '#facb7f'
+
+# Selection colors
+[colors.selection]
+background  = '#403729'
+text        = '#f9cd77'
+
+# Normal colors
+[colors.normal]
+black       = '#3c3b30'
+red         = '#97280f'
+green       = '#479942'
+yellow      = '#7f7110'
+blue        = '#497f7d'
+magenta     = '#7e4e2e'
+cyan        = '#387f58'
+white       = '#807974'
+
+# Bright colors
+[colors.bright]
+black       = '#545444'
+red         = '#df502a'
+green       = '#60e06f'
+yellow      = '#d69827'
+blue        = '#78d8d8'
+magenta     = '#cd7c53'
+cyan        = '#58d598'
+white       = '#fff1e8'

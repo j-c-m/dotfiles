@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    One Black
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#000000'
+foreground  = '#abb2bf'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#abb2bf'
+
+# Selection colors
+[colors.selection]
+background  = '#e6e6e6'
+text        = '#000000'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#e05561'
+green       = '#8cc265'
+yellow      = '#e6b965'
+blue        = '#4aa5f0'
+magenta     = '#c162de'
+cyan        = '#42b3c2'
+white       = '#abb2bf'
+
+# Bright colors
+[colors.bright]
+black       = '#545862'
+red         = '#ff616e'
+green       = '#a5e075'
+yellow      = '#f0a45d'
+blue        = '#4dc4ff'
+magenta     = '#de73ff'
+cyan        = '#4cd1e0'
+white       = '#ffffff'

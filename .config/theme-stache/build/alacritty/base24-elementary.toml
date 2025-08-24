@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Elementary
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#181818'
+foreground  = '#c5c5c5'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#181818'
+cursor      = '#c5c5c5'
+
+# Selection colors
+[colors.selection]
+background  = '#eeeeee'
+text        = '#242424'
+
+# Normal colors
+[colors.normal]
+black       = '#181818'
+red         = '#d61b15'
+green       = '#59a413'
+yellow      = '#0855fe'
+blue        = '#053a8c'
+magenta     = '#e40038'
+cyan        = '#2594e0'
+white       = '#c5c5c5'
+
+# Bright colors
+[colors.bright]
+black       = '#737373'
+red         = '#fb1b18'
+green       = '#6ac118'
+yellow      = '#fdc70e'
+blue        = '#0855fe'
+magenta     = '#fb004f'
+cyan        = '#3ea7fc'
+white       = '#8c00eb'

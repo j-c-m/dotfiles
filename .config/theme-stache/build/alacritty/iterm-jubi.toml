@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    jubi
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#262b33'
+foreground  = '#c3d3de'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#3b3650'
+cursor      = '#c3d3de'
+
+# Selection colors
+[colors.selection]
+background  = '#5b5183'
+text        = '#1d1b2d'
+
+# Normal colors
+[colors.normal]
+black       = '#3b3650'
+red         = '#cf7b98'
+green       = '#90a94b'
+yellow      = '#6ebfc0'
+blue        = '#576ea6'
+magenta     = '#bc4f68'
+cyan        = '#75a7d2'
+white       = '#c3d3de'
+
+# Bright colors
+[colors.bright]
+black       = '#a874ce'
+red         = '#de8faa'
+green       = '#bcdd60'
+yellow      = '#86e8ea'
+blue        = '#8b9ecc'
+magenta     = '#e16b86'
+cyan        = '#b7c9ef'
+white       = '#d4e5f0'

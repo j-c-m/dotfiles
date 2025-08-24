@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Cupcake
+# Author:   Chris Kempson (http://chriskempson.com)
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#fbf1f2'
+foreground  = '#8b8198'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#fbf1f2'
+cursor      = '#8b8198'
+
+# Selection colors
+[colors.selection]
+background  = '#72677e'
+text        = '#f2f1f4'
+
+# Normal colors
+[colors.normal]
+black       = '#fbf1f2'
+red         = '#d57e85'
+green       = '#a3b367'
+yellow      = '#dcb16c'
+blue        = '#7297b9'
+magenta     = '#bb99b4'
+cyan        = '#69a9a7'
+white       = '#8b8198'
+
+# Bright colors
+[colors.bright]
+black       = '#bfb9c6'
+red         = '#d57e85'
+green       = '#a3b367'
+yellow      = '#dcb16c'
+blue        = '#7297b9'
+magenta     = '#bb99b4'
+cyan        = '#69a9a7'
+white       = '#585062'

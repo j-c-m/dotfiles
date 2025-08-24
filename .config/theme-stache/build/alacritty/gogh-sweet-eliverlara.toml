@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Sweet Eliverlara
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#282c34'
+foreground  = '#c3c7d1'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#282c34'
+cursor      = '#c3c7d1'
+
+# Selection colors
+[colors.selection]
+background  = '#c3c7d1'
+text        = '#282c34'
+
+# Normal colors
+[colors.normal]
+black       = '#282c34'
+red         = '#ed254e'
+green       = '#71f79f'
+yellow      = '#f9dc5c'
+blue        = '#7cb7ff'
+magenta     = '#c74ded'
+cyan        = '#00c1e4'
+white       = '#dcdfe4'
+
+# Bright colors
+[colors.bright]
+black       = '#282c34'
+red         = '#ed254e'
+green       = '#71f79f'
+yellow      = '#f9dc5c'
+blue        = '#7cb7ff'
+magenta     = '#c74ded'
+cyan        = '#00c1e4'
+white       = '#dcdfe4'

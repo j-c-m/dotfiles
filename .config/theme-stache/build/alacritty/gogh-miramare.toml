@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Miramare
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#2a2426'
+foreground  = '#e6d6ac'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#242021'
+cursor      = '#e6d6ac'
+
+# Selection colors
+[colors.selection]
+background  = '#e6d6ac'
+text        = '#2a2426'
+
+# Normal colors
+[colors.normal]
+black       = '#242021'
+red         = '#e68183'
+green       = '#a7c080'
+yellow      = '#d9bb80'
+blue        = '#89beba'
+magenta     = '#d3a0bc'
+cyan        = '#87c095'
+white       = '#d8caac'
+
+# Bright colors
+[colors.bright]
+black       = '#444444'
+red         = '#e39b7b'
+green       = '#a7c080'
+yellow      = '#d9bb80'
+blue        = '#89beba'
+magenta     = '#d3a0bc'
+cyan        = '#87c095'
+white       = '#e6d6ac'

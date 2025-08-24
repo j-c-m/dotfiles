@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Japanesque
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1d1d1d'
+foreground  = '#d0d2ce'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#1d1d1d'
+cursor      = '#d0d2ce'
+
+# Selection colors
+[colors.selection]
+background  = '#f9faf6'
+text        = '#343835'
+
+# Normal colors
+[colors.normal]
+black       = '#1d1d1d'
+red         = '#ce3e60'
+green       = '#7bb75b'
+yellow      = '#135879'
+blue        = '#4c99d3'
+magenta     = '#a57fc4'
+cyan        = '#389aac'
+white       = '#d0d2ce'
+
+# Bright colors
+[colors.bright]
+black       = '#80827f'
+red         = '#d18ea6'
+green       = '#767e2b'
+yellow      = '#77592e'
+blue        = '#135879'
+magenta     = '#5f4190'
+cyan        = '#76bbca'
+white       = '#b1b5ae'

@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Clrs
+# Author:   
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#ffffff'
+foreground  = '#262626'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#262626'
+
+# Selection colors
+[colors.selection]
+background  = '#262626'
+text        = '#ffffff'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#f8282a'
+green       = '#328a5d'
+yellow      = '#fa701d'
+blue        = '#135cd0'
+magenta     = '#9f00bd'
+cyan        = '#33c3c1'
+white       = '#b3b3b3'
+
+# Bright colors
+[colors.bright]
+black       = '#555753'
+red         = '#fb0416'
+green       = '#2cc631'
+yellow      = '#fdd727'
+blue        = '#1670ff'
+magenta     = '#e900b0'
+cyan        = '#3ad5ce'
+white       = '#eeeeec'

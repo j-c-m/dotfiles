@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Square
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1a1a1a'
+foreground  = '#bababa'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#1a1a1a'
+cursor      = '#bababa'
+
+# Selection colors
+[colors.selection]
+background  = '#f2f2f2'
+text        = '#050505'
+
+# Normal colors
+[colors.normal]
+black       = '#1a1a1a'
+red         = '#e9897c'
+green       = '#b6377d'
+yellow      = '#b6defb'
+blue        = '#a9cdeb'
+magenta     = '#75507b'
+cyan        = '#c9caec'
+white       = '#bababa'
+
+# Bright colors
+[colors.bright]
+black       = '#4b4b4b'
+red         = '#f99286'
+green       = '#c3f786'
+yellow      = '#fcfbcc'
+blue        = '#b6defb'
+magenta     = '#ad7fa8'
+cyan        = '#d7d9fc'
+white       = '#e2e2e2'

@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    One Half Black
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#000000'
+foreground  = '#dcdfe4'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#282c34'
+cursor      = '#dcdfe4'
+
+# Selection colors
+[colors.selection]
+background  = '#dcdfe4'
+text        = '#000000'
+
+# Normal colors
+[colors.normal]
+black       = '#282c34'
+red         = '#e06c75'
+green       = '#98c379'
+yellow      = '#e5c07b'
+blue        = '#61afef'
+magenta     = '#c678dd'
+cyan        = '#56b6c2'
+white       = '#dcdfe4'
+
+# Bright colors
+[colors.bright]
+black       = '#282c34'
+red         = '#e06c75'
+green       = '#98c379'
+yellow      = '#e5c07b'
+blue        = '#61afef'
+magenta     = '#c678dd'
+cyan        = '#56b6c2'
+white       = '#dcdfe4'

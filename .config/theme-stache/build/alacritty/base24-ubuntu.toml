@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Ubuntu
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#300a24'
+foreground  = '#b3b7b0'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#300a24'
+cursor      = '#b3b7b0'
+
+# Selection colors
+[colors.selection]
+background  = '#d3d7cf'
+text        = '#2e3436'
+
+# Normal colors
+[colors.normal]
+black       = '#300a24'
+red         = '#cc0000'
+green       = '#4e9a06'
+yellow      = '#729fcf'
+blue        = '#3465a4'
+magenta     = '#75507b'
+cyan        = '#06989a'
+white       = '#b3b7b0'
+
+# Bright colors
+[colors.bright]
+black       = '#747772'
+red         = '#ef2929'
+green       = '#8ae234'
+yellow      = '#fce94f'
+blue        = '#729fcf'
+magenta     = '#ad7fa8'
+cyan        = '#34e2e2'
+white       = '#eeeeec'

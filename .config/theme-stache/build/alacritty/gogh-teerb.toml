@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Teerb
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#262626'
+foreground  = '#d0d0d0'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#1c1c1c'
+cursor      = '#d0d0d0'
+
+# Selection colors
+[colors.selection]
+background  = '#d0d0d0'
+text        = '#262626'
+
+# Normal colors
+[colors.normal]
+black       = '#1c1c1c'
+red         = '#d68686'
+green       = '#aed686'
+yellow      = '#d7af87'
+blue        = '#86aed6'
+magenta     = '#d6aed6'
+cyan        = '#8adbb4'
+white       = '#d0d0d0'
+
+# Bright colors
+[colors.bright]
+black       = '#1c1c1c'
+red         = '#d68686'
+green       = '#aed686'
+yellow      = '#e4c9af'
+blue        = '#86aed6'
+magenta     = '#d6aed6'
+cyan        = '#b1e7dd'
+white       = '#efefef'

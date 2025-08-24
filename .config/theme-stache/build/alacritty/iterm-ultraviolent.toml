@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    UltraViolent
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#242728'
+foreground  = '#c1c1c1'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#232628'
+cursor      = '#c1c1c1'
+
+# Selection colors
+[colors.selection]
+background  = '#574b49'
+text        = '#c3c7cb'
+
+# Normal colors
+[colors.normal]
+black       = '#232628'
+red         = '#ff0090'
+green       = '#b5ff00'
+yellow      = '#fff727'
+blue        = '#47dffb'
+magenta     = '#d630ff'
+cyan        = '#0effbb'
+white       = '#e1e1e1'
+
+# Bright colors
+[colors.bright]
+black       = '#626566'
+red         = '#fb57b4'
+green       = '#deff8b'
+yellow      = '#ebdf86'
+blue        = '#7febff'
+magenta     = '#e681ff'
+cyan        = '#68fcd2'
+white       = '#f9f9f4'

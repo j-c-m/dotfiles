@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    JetBrains Darcula
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#202020'
+foreground  = '#adadad'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#ffffff'
+
+# Selection colors
+[colors.selection]
+background  = '#1a3272'
+text        = '#adadad'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#fa5355'
+green       = '#126e00'
+yellow      = '#c2c300'
+blue        = '#4581eb'
+magenta     = '#fa54ff'
+cyan        = '#33c2c1'
+white       = '#adadad'
+
+# Bright colors
+[colors.bright]
+black       = '#555555'
+red         = '#fb7172'
+green       = '#67ff4f'
+yellow      = '#ffff00'
+blue        = '#6d9df1'
+magenta     = '#fb82ff'
+cyan        = '#60d3d1'
+white       = '#eeeeee'

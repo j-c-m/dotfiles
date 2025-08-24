@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Builtin Tango Light
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#ffffff'
+foreground  = '#b3b7b0'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#ffffff'
+cursor      = '#b3b7b0'
+
+# Selection colors
+[colors.selection]
+background  = '#d3d7cf'
+text        = '#000000'
+
+# Normal colors
+[colors.normal]
+black       = '#ffffff'
+red         = '#cc0000'
+green       = '#4e9a05'
+yellow      = '#719ecf'
+blue        = '#3464a4'
+magenta     = '#74507a'
+cyan        = '#05989a'
+white       = '#b3b7b0'
+
+# Bright colors
+[colors.bright]
+black       = '#737772'
+red         = '#ef2828'
+green       = '#8ae234'
+yellow      = '#fce94e'
+blue        = '#719ecf'
+magenta     = '#ad7ea7'
+cyan        = '#34e2e2'
+white       = '#ededec'

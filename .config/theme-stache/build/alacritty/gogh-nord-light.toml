@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Nord Light
+# Author:   
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#ebeaf2'
+foreground  = '#004f7c'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#003b4e'
+cursor      = '#439ecf'
+
+# Selection colors
+[colors.selection]
+background  = '#004f7c'
+text        = '#ebeaf2'
+
+# Normal colors
+[colors.normal]
+black       = '#003b4e'
+red         = '#e64569'
+green       = '#069f5f'
+yellow      = '#dab752'
+blue        = '#439ecf'
+magenta     = '#d961dc'
+cyan        = '#00b1be'
+white       = '#b3b3b3'
+
+# Bright colors
+[colors.bright]
+black       = '#3e89a1'
+red         = '#e4859a'
+green       = '#a2cca1'
+yellow      = '#e1e387'
+blue        = '#6fbbe2'
+magenta     = '#e586e7'
+cyan        = '#96dcda'
+white       = '#dedede'

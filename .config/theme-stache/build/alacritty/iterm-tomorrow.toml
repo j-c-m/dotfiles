@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Tomorrow
+# Author:   unknown
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#ffffff'
+foreground  = '#4d4d4c'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#4c4c4c'
+
+# Selection colors
+[colors.selection]
+background  = '#d6d6d6'
+text        = '#4c4c4c'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#c82828'
+green       = '#718c00'
+yellow      = '#eab700'
+blue        = '#4171ae'
+magenta     = '#8959a8'
+cyan        = '#3e999f'
+white       = '#fffefe'
+
+# Bright colors
+[colors.bright]
+black       = '#000000'
+red         = '#c82828'
+green       = '#708b00'
+yellow      = '#e9b600'
+blue        = '#4170ae'
+magenta     = '#8958a7'
+cyan        = '#3d999f'
+white       = '#fffefe'

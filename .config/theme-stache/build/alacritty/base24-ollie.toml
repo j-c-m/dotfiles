@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Ollie
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#212024'
+foreground  = '#7e7789'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#212024'
+cursor      = '#7e7789'
+
+# Selection colors
+[colors.selection]
+background  = '#8a8dab'
+text        = '#000000'
+
+# Normal colors
+[colors.normal]
+black       = '#212024'
+red         = '#ab2e30'
+green       = '#31ab60'
+yellow      = '#4487ff'
+blue        = '#2c56ab'
+magenta     = '#af8427'
+cyan        = '#1fa5ab'
+white       = '#7e7789'
+
+# Bright colors
+[colors.bright]
+black       = '#664b46'
+red         = '#ff3d48'
+green       = '#3bff99'
+yellow      = '#ff5e1e'
+blue        = '#4487ff'
+magenta     = '#ffc21c'
+cyan        = '#1efaff'
+white       = '#5b6da7'

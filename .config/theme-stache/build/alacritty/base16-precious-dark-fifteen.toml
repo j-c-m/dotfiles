@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Precious Dark Fifteen
+# Author:   4lex4 &lt;4lex49@zoho.com&gt;
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#23262b'
+foreground  = '#bab9b6'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#23262b'
+cursor      = '#bab9b6'
+
+# Selection colors
+[colors.selection]
+background  = '#bab9b6'
+text        = '#303337'
+
+# Normal colors
+[colors.normal]
+black       = '#23262b'
+red         = '#ff8782'
+green       = '#95b659'
+yellow      = '#cfa546'
+blue        = '#66b0ef'
+magenta     = '#b799ff'
+cyan        = '#42bda7'
+white       = '#bab9b6'
+
+# Bright colors
+[colors.bright]
+black       = '#898989'
+red         = '#ff8782'
+green       = '#95b659'
+yellow      = '#cfa546'
+blue        = '#66b0ef'
+magenta     = '#b799ff'
+cyan        = '#42bda7'
+white       = '#bab9b6'

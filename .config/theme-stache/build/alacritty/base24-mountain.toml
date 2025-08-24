@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Mountain
+# Author:   Stefan Weigl-Bosker (https://github.com/sweiglbosker), based on Mountain Theme (https://github.com/mountain-theme/Mountain)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#0f0f0f'
+foreground  = '#cacaca'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#0f0f0f'
+cursor      = '#cacaca'
+
+# Selection colors
+[colors.selection]
+background  = '#e7e7e7'
+text        = '#191919'
+
+# Normal colors
+[colors.normal]
+black       = '#0f0f0f'
+red         = '#ac8a8c'
+green       = '#8aac8b'
+yellow      = '#aca98a'
+blue        = '#8f8aac'
+magenta     = '#ac8aac'
+cyan        = '#8aabac'
+white       = '#cacaca'
+
+# Bright colors
+[colors.bright]
+black       = '#393939'
+red         = '#c49ea0'
+green       = '#9ec49f'
+yellow      = '#c4c19e'
+blue        = '#a39ec4'
+magenta     = '#c49ec4'
+cyan        = '#9ec3c4'
+white       = '#f0f0f0'

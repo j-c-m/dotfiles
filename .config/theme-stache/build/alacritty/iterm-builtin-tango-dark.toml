@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Builtin Tango Dark
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#000000'
+foreground  = '#ffffff'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#ffffff'
+
+# Selection colors
+[colors.selection]
+background  = '#b4d5ff'
+text        = '#000000'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#cc0000'
+green       = '#4e9a05'
+yellow      = '#c4a000'
+blue        = '#3464a4'
+magenta     = '#74507a'
+cyan        = '#05989a'
+white       = '#d3d7cf'
+
+# Bright colors
+[colors.bright]
+black       = '#545753'
+red         = '#ef2828'
+green       = '#8ae234'
+yellow      = '#fce94e'
+blue        = '#719ecf'
+magenta     = '#ad7ea7'
+cyan        = '#34e2e2'
+white       = '#ededec'

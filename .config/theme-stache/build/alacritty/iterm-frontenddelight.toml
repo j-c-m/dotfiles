@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    FrontEndDelight
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1b1b1d'
+foreground  = '#acacac'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#242426'
+cursor      = '#cccccc'
+
+# Selection colors
+[colors.selection]
+background  = '#e96153'
+text        = '#1b1b1d'
+
+# Normal colors
+[colors.normal]
+black       = '#242426'
+red         = '#f8501a'
+green       = '#565746'
+yellow      = '#f9761d'
+blue        = '#2c70b7'
+magenta     = '#f02d4e'
+cyan        = '#3ba0a5'
+white       = '#acacac'
+
+# Bright colors
+[colors.bright]
+black       = '#5eac6c'
+red         = '#f64319'
+green       = '#74eb4c'
+yellow      = '#fcc224'
+blue        = '#3393c9'
+magenta     = '#e75e4e'
+cyan        = '#4ebce5'
+white       = '#8b735a'

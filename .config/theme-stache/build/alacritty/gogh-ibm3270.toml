@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Ibm3270
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#000000'
+foreground  = '#fdfdfd'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#222222'
+cursor      = '#fdfdfd'
+
+# Selection colors
+[colors.selection]
+background  = '#fdfdfd'
+text        = '#000000'
+
+# Normal colors
+[colors.normal]
+black       = '#222222'
+red         = '#f01818'
+green       = '#24d830'
+yellow      = '#f0d824'
+blue        = '#7890f0'
+magenta     = '#f078d8'
+cyan        = '#54e4e4'
+white       = '#a5a5a5'
+
+# Bright colors
+[colors.bright]
+black       = '#888888'
+red         = '#ef8383'
+green       = '#7ed684'
+yellow      = '#efe28b'
+blue        = '#b3bfef'
+magenta     = '#efb3e3'
+cyan        = '#9ce2e2'
+white       = '#ffffff'

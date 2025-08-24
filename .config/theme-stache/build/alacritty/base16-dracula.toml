@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Dracula
+# Author:   Jamy Golden (http://github.com/JamyGolden), based on Dracula Theme (http://github.com/dracula)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#282a36'
+foreground  = '#f8f8f2'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#282a36'
+cursor      = '#f8f8f2'
+
+# Selection colors
+[colors.selection]
+background  = '#f0f1f4'
+text        = '#363447'
+
+# Normal colors
+[colors.normal]
+black       = '#282a36'
+red         = '#ff5555'
+green       = '#50fa7b'
+yellow      = '#f1fa8c'
+blue        = '#80bfff'
+magenta     = '#ff79c6'
+cyan        = '#8be9fd'
+white       = '#f8f8f2'
+
+# Bright colors
+[colors.bright]
+black       = '#6272a4'
+red         = '#ff5555'
+green       = '#50fa7b'
+yellow      = '#f1fa8c'
+blue        = '#80bfff'
+magenta     = '#ff79c6'
+cyan        = '#8be9fd'
+white       = '#ffffff'

@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Vaughn
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#25234e'
+foreground  = '#dcdccc'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#24234f'
+cursor      = '#ff5555'
+
+# Selection colors
+[colors.selection]
+background  = '#b5d5ff'
+text        = '#000000'
+
+# Normal colors
+[colors.normal]
+black       = '#24234f'
+red         = '#705050'
+green       = '#60b48a'
+yellow      = '#dfaf8f'
+blue        = '#5555ff'
+magenta     = '#f08cc3'
+cyan        = '#8cd0d3'
+white       = '#709080'
+
+# Bright colors
+[colors.bright]
+black       = '#709080'
+red         = '#dca3a3'
+green       = '#60b48a'
+yellow      = '#f0dfaf'
+blue        = '#5555ff'
+magenta     = '#ec93d3'
+cyan        = '#93e0e3'
+white       = '#ffffff'

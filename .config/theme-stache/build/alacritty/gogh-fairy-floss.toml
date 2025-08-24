@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Fairy Floss
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#5a5475'
+foreground  = '#c2ffdf'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#42395d'
+cursor      = '#ffb8d1'
+
+# Selection colors
+[colors.selection]
+background  = '#c2ffdf'
+text        = '#5a5475'
+
+# Normal colors
+[colors.normal]
+black       = '#42395d'
+red         = '#a8757b'
+green       = '#ff857f'
+yellow      = '#e6c000'
+blue        = '#ae81ff'
+magenta     = '#716799'
+cyan        = '#c2ffdf'
+white       = '#f8f8f2'
+
+# Bright colors
+[colors.bright]
+black       = '#75507b'
+red         = '#ffb8d1'
+green       = '#f1568e'
+yellow      = '#d5a425'
+blue        = '#c5a3ff'
+magenta     = '#8077a8'
+cyan        = '#c2ffff'
+white       = '#f8f8f0'

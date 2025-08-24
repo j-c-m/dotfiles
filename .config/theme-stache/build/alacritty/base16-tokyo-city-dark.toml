@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Tokyo City Dark
+# Author:   Michaël Ball
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#171d23'
+foreground  = '#d8e2ec'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#171d23'
+cursor      = '#d8e2ec'
+
+# Selection colors
+[colors.selection]
+background  = '#f6f6f8'
+text        = '#1d252c'
+
+# Normal colors
+[colors.normal]
+black       = '#171d23'
+red         = '#f7768e'
+green       = '#9ece6a'
+yellow      = '#b7c5d3'
+blue        = '#7aa2f7'
+magenta     = '#bb9af7'
+cyan        = '#89ddff'
+white       = '#d8e2ec'
+
+# Bright colors
+[colors.bright]
+black       = '#526270'
+red         = '#f7768e'
+green       = '#9ece6a'
+yellow      = '#b7c5d3'
+blue        = '#7aa2f7'
+magenta     = '#bb9af7'
+cyan        = '#89ddff'
+white       = '#fbfbfd'

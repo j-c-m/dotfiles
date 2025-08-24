@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Ayaka
+# Author:   Ruhannn (https://github.com/ruhannn)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#36283d'
+foreground  = '#cedaeb'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#36283d'
+cursor      = '#cedaeb'
+
+# Selection colors
+[colors.selection]
+background  = '#cedaeb'
+text        = '#36283d'
+
+# Normal colors
+[colors.normal]
+black       = '#36283d'
+red         = '#71ade9'
+green       = '#ab8cae'
+yellow      = '#9ea0d3'
+blue        = '#8bb8e9'
+magenta     = '#e1b4ce'
+cyan        = '#cedaeb'
+white       = '#9098a4'
+
+# Bright colors
+[colors.bright]
+black       = '#71ade9'
+red         = '#ab8cae'
+green       = '#e59db1'
+yellow      = '#9ea0d3'
+blue        = '#8bb8e9'
+magenta     = '#e1b4ce'
+cyan        = '#cedaeb'
+white       = '#fffefe'

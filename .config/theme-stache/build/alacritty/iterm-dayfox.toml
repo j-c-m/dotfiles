@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    dayfox
+# Author:   unknown
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#f5f2ed'
+foreground  = '#3d2a5a'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#342b24'
+cursor      = '#3d2a5a'
+
+# Selection colors
+[colors.selection]
+background  = '#e7d2be'
+text        = '#3d2a5a'
+
+# Normal colors
+[colors.normal]
+black       = '#342b24'
+red         = '#a4212f'
+green       = '#396747'
+yellow      = '#ac5302'
+blue        = '#2847a9'
+magenta     = '#6e33cd'
+cyan        = '#287980'
+white       = '#f2e9e0'
+
+# Bright colors
+[colors.bright]
+black       = '#524b45'
+red         = '#b3434e'
+green       = '#577e63'
+yellow      = '#b76e28'
+blue        = '#4763b6'
+magenta     = '#8451d5'
+cyan        = '#478d92'
+white       = '#f4ebe6'

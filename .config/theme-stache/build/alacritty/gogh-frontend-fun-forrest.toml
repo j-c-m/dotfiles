@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Frontend Fun Forrest
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#251200'
+foreground  = '#dec165'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#dec165'
+
+# Selection colors
+[colors.selection]
+background  = '#dec165'
+text        = '#251200'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#d6262b'
+green       = '#919c00'
+yellow      = '#be8a13'
+blue        = '#4699a3'
+magenta     = '#8d4331'
+cyan        = '#da8213'
+white       = '#ddc265'
+
+# Bright colors
+[colors.bright]
+black       = '#7f6a55'
+red         = '#e55a1c'
+green       = '#bfc65a'
+yellow      = '#ffcb1b'
+blue        = '#7cc9cf'
+magenta     = '#d26349'
+cyan        = '#e6a96b'
+white       = '#ffeaa3'

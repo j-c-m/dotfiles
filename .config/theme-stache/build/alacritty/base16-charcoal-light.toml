@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Charcoal Light
+# Author:   Mubin Muhammad (https://github.com/mubin6th)
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#d6b891'
+foreground  = '#35291d'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#d6b891'
+cursor      = '#35291d'
+
+# Selection colors
+[colors.selection]
+background  = '#413325'
+text        = '#c0a179'
+
+# Normal colors
+[colors.normal]
+black       = '#d6b891'
+red         = '#413325'
+green       = '#120f09'
+yellow      = '#292016'
+blue        = '#120f09'
+magenta     = '#292016'
+cyan        = '#413325'
+white       = '#35291d'
+
+# Bright colors
+[colors.bright]
+black       = '#887254'
+red         = '#413325'
+green       = '#120f09'
+yellow      = '#292016'
+blue        = '#120f09'
+magenta     = '#292016'
+cyan        = '#413325'
+white       = '#d6b891'

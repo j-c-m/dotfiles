@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Breath Silverfox
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1e2229'
+foreground  = '#bbbbbb'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#1e2229'
+cursor      = '#bbbbbb'
+
+# Selection colors
+[colors.selection]
+background  = '#bbbbbb'
+text        = '#1e2229'
+
+# Normal colors
+[colors.normal]
+black       = '#1e2229'
+red         = '#ed1515'
+green       = '#44853a'
+yellow      = '#f67400'
+blue        = '#1d99f3'
+magenta     = '#9b59b6'
+cyan        = '#1abc9c'
+white       = '#fcfcfc'
+
+# Bright colors
+[colors.bright]
+black       = '#7f8c8d'
+red         = '#c0392b'
+green       = '#55a649'
+yellow      = '#fdbc4b'
+blue        = '#3daee9'
+magenta     = '#8e44ad'
+cyan        = '#16a085'
+white       = '#ffffff'

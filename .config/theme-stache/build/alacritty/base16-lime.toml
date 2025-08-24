@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    lime
+# Author:   limelier
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1a1a2f'
+foreground  = '#818175'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#1a1a2f'
+cursor      = '#818175'
+
+# Selection colors
+[colors.selection]
+background  = '#fff2d1'
+text        = '#202030'
+
+# Normal colors
+[colors.normal]
+black       = '#1a1a2f'
+red         = '#ff662a'
+green       = '#8cd97c'
+yellow      = '#ffd15e'
+blue        = '#2b926f'
+magenta     = '#1b825f'
+cyan        = '#4cad83'
+white       = '#818175'
+
+# Bright colors
+[colors.bright]
+black       = '#313140'
+red         = '#ff662a'
+green       = '#8cd97c'
+yellow      = '#ffd15e'
+blue        = '#2b926f'
+magenta     = '#1b825f'
+cyan        = '#4cad83'
+white       = '#fff8e1'

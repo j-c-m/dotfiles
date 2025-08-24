@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Base4Tone Modern N
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1a2023'
+foreground  = '#8a9da8'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#1a2023'
+cursor      = '#85826f'
+
+# Selection colors
+[colors.selection]
+background  = '#8a9da8'
+text        = '#1a2023'
+
+# Normal colors
+[colors.normal]
+black       = '#1a2023'
+red         = '#d53975'
+green       = '#a48f04'
+yellow      = '#dcc218'
+blue        = '#47b5f5'
+magenta     = '#8493f6'
+cyan        = '#c1aa15'
+white       = '#e8ebee'
+
+# Bright colors
+[colors.bright]
+black       = '#070b0d'
+red         = '#eb75a2'
+green       = '#e6ca1a'
+yellow      = '#f2e58c'
+blue        = '#bbe4fb'
+magenta     = '#a0acf8'
+cyan        = '#b1e0fb'
+white       = '#f6f8f9'

@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Red Alert
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#762423'
+foreground  = '#ffffff'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#ffffff'
+
+# Selection colors
+[colors.selection]
+background  = '#073642'
+text        = '#ffffff'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#d52e4d'
+green       = '#71be6b'
+yellow      = '#beb86b'
+blue        = '#479bed'
+magenta     = '#e878d6'
+cyan        = '#6bbeb8'
+white       = '#d6d6d6'
+
+# Bright colors
+[colors.bright]
+black       = '#262626'
+red         = '#e02453'
+green       = '#aff08b'
+yellow      = '#dfddb7'
+blue        = '#65a9f0'
+magenta     = '#ddb7df'
+cyan        = '#b7dfdd'
+white       = '#ffffff'

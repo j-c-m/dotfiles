@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Idle Toes
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#323232'
+foreground  = '#ffffff'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#323232'
+cursor      = '#ffffff'
+
+# Selection colors
+[colors.selection]
+background  = '#ffffff'
+text        = '#323232'
+
+# Normal colors
+[colors.normal]
+black       = '#323232'
+red         = '#d25252'
+green       = '#7fe173'
+yellow      = '#ffc66d'
+blue        = '#4099ff'
+magenta     = '#f680ff'
+cyan        = '#bed6ff'
+white       = '#eeeeec'
+
+# Bright colors
+[colors.bright]
+black       = '#535353'
+red         = '#f07070'
+green       = '#9dff91'
+yellow      = '#ffe48b'
+blue        = '#5eb7f7'
+magenta     = '#ff9dff'
+cyan        = '#dcf4ff'
+white       = '#ffffff'

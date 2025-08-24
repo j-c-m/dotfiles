@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    nord-wave
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#212121'
+foreground  = '#d8dee9'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#3b4252'
+cursor      = '#ebcb8b'
+
+# Selection colors
+[colors.selection]
+background  = '#d8dee9'
+text        = '#212121'
+
+# Normal colors
+[colors.normal]
+black       = '#3b4252'
+red         = '#bf616a'
+green       = '#a3be8c'
+yellow      = '#ebcb8b'
+blue        = '#81a1c1'
+magenta     = '#b48ead'
+cyan        = '#88c0d0'
+white       = '#e5e9f0'
+
+# Bright colors
+[colors.bright]
+black       = '#4c566a'
+red         = '#bf616a'
+green       = '#a3be8c'
+yellow      = '#ebcb8b'
+blue        = '#81a1c1'
+magenta     = '#b48ead'
+cyan        = '#8fbcbb'
+white       = '#eceff4'

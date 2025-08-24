@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    BlueDolphin
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#006884'
+foreground  = '#c5f1ff'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#292d3e'
+cursor      = '#ffcc00'
+
+# Selection colors
+[colors.selection]
+background  = '#2aadc9'
+text        = '#eceef0'
+
+# Normal colors
+[colors.normal]
+black       = '#292d3e'
+red         = '#ff8188'
+green       = '#b4e88d'
+yellow      = '#f4d69e'
+blue        = '#82aaff'
+magenta     = '#e8c0ff'
+cyan        = '#89ebff'
+white       = '#d0d0d0'
+
+# Bright colors
+[colors.bright]
+black       = '#434758'
+red         = '#ff8b92'
+green       = '#ddffa7'
+yellow      = '#ffe585'
+blue        = '#9cc4ff'
+magenta     = '#dcaff5'
+cyan        = '#a3f7ff'
+white       = '#fefefe'

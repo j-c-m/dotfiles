@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Breeze
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#31363b'
+foreground  = '#eff0f1'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#31363b'
+cursor      = '#eff0f1'
+
+# Selection colors
+[colors.selection]
+background  = '#eff0f1'
+text        = '#31363b'
+
+# Normal colors
+[colors.normal]
+black       = '#31363b'
+red         = '#ed1515'
+green       = '#11d116'
+yellow      = '#f67400'
+blue        = '#1d99f3'
+magenta     = '#9b59b6'
+cyan        = '#1abc9c'
+white       = '#eff0f1'
+
+# Bright colors
+[colors.bright]
+black       = '#7f8c8d'
+red         = '#c0392b'
+green       = '#1cdc9a'
+yellow      = '#fdbc4b'
+blue        = '#3daee9'
+magenta     = '#8e44ad'
+cyan        = '#16a085'
+white       = '#fcfcfc'

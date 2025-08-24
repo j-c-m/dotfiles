@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    ENCOM
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#000000'
+foreground  = '#00a595'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#bbbbbb'
+
+# Selection colors
+[colors.selection]
+background  = '#00a48c'
+text        = '#3de1c9'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#9f0000'
+green       = '#008b00'
+yellow      = '#ffcf00'
+blue        = '#0081ff'
+magenta     = '#bc00ca'
+cyan        = '#008b8b'
+white       = '#bbbbbb'
+
+# Bright colors
+[colors.bright]
+black       = '#555555'
+red         = '#ff0000'
+green       = '#00ee00'
+yellow      = '#ffff00'
+blue        = '#0000ff'
+magenta     = '#ff00ff'
+cyan        = '#00cdcd'
+white       = '#ffffff'

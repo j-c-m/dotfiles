@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    One Light
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#e7e7e9'
+foreground  = '#383a42'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#e7e7e9'
+cursor      = '#383a42'
+
+# Selection colors
+[colors.selection]
+background  = '#202227'
+text        = '#dfdfe1'
+
+# Normal colors
+[colors.normal]
+black       = '#e7e7e9'
+red         = '#ca1243'
+green       = '#50a14f'
+yellow      = '#febb2a'
+blue        = '#4078f2'
+magenta     = '#a626a4'
+cyan        = '#0184bc'
+white       = '#383a42'
+
+# Bright colors
+[colors.bright]
+black       = '#a0a1a7'
+red         = '#ec2258'
+green       = '#6db76c'
+yellow      = '#f4a701'
+blue        = '#709af5'
+magenta     = '#d02fcd'
+cyan        = '#01a7ef'
+white       = '#090a0b'

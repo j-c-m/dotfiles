@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    0x96f
+# Author:   Filip Janevski (https://0x96f.dev/theme)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#262427'
+foreground  = '#fcfcfc'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#262427'
+cursor      = '#fcfcfc'
+
+# Selection colors
+[colors.selection]
+background  = '#eae9eb'
+text        = '#3b393c'
+
+# Normal colors
+[colors.normal]
+black       = '#262427'
+red         = '#ff7272'
+green       = '#bcdf59'
+yellow      = '#ffca58'
+blue        = '#49cae4'
+magenta     = '#a093e2'
+cyan        = '#aee8f4'
+white       = '#fcfcfc'
+
+# Bright colors
+[colors.bright]
+black       = '#676567'
+red         = '#ff8787'
+green       = '#c6e472'
+yellow      = '#ffd271'
+blue        = '#64d2e8'
+magenta     = '#aea3e6'
+cyan        = '#baebf6'
+white       = '#fcfcfc'

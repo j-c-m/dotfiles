@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    seoulbones_dark
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#4a4a4a'
+foreground  = '#dddddd'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#4a4a4a'
+cursor      = '#e2e2e2'
+
+# Selection colors
+[colors.selection]
+background  = '#777777'
+text        = '#dddddd'
+
+# Normal colors
+[colors.normal]
+black       = '#4a4a4a'
+red         = '#e388a3'
+green       = '#98bd99'
+yellow      = '#ffdf9b'
+blue        = '#97bdde'
+magenta     = '#a5a6c5'
+cyan        = '#6ebdbe'
+white       = '#dddddd'
+
+# Bright colors
+[colors.bright]
+black       = '#6c6365'
+red         = '#eb99b1'
+green       = '#8fcd92'
+yellow      = '#ffe5b3'
+blue        = '#a2c8e9'
+magenta     = '#b2b3da'
+cyan        = '#6bcacb'
+white       = '#a8a8a8'

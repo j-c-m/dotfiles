@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Ryuuko
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#2b3840'
+foreground  = '#ececec'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#2b3840'
+cursor      = '#ececec'
+
+# Selection colors
+[colors.selection]
+background  = '#002731'
+text        = '#81908f'
+
+# Normal colors
+[colors.normal]
+black       = '#2b3840'
+red         = '#865e5a'
+green       = '#658f7d'
+yellow      = '#b1a88f'
+blue        = '#698d95'
+magenta     = '#b08a73'
+cyan        = '#88b2ab'
+white       = '#ececec'
+
+# Bright colors
+[colors.bright]
+black       = '#5d6f79'
+red         = '#865e5a'
+green       = '#658f7d'
+yellow      = '#b1a88f'
+blue        = '#698d95'
+magenta     = '#b08a73'
+cyan        = '#88b2ab'
+white       = '#ececec'

@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Base2Tone Cave
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#222021'
+foreground  = '#9f999b'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#222021'
+cursor      = '#996e00'
+
+# Selection colors
+[colors.selection]
+background  = '#9f999b'
+text        = '#222021'
+
+# Normal colors
+[colors.normal]
+black       = '#222021'
+red         = '#936c7a'
+green       = '#cca133'
+yellow      = '#ffcc4d'
+blue        = '#9c818b'
+magenta     = '#cca133'
+cyan        = '#d27998'
+white       = '#9f999b'
+
+# Bright colors
+[colors.bright]
+black       = '#635f60'
+red         = '#ddaf3c'
+green       = '#2f2d2e'
+yellow      = '#565254'
+blue        = '#706b6d'
+magenta     = '#f0a8c1'
+cyan        = '#c39622'
+white       = '#ffebf2'

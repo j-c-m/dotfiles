@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Ayu Dark
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#0a0e14'
+foreground  = '#b3b1ad'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#0a0e14'
+cursor      = '#e6b450'
+
+# Selection colors
+[colors.selection]
+background  = '#b3b1ad'
+text        = '#0a0e14'
+
+# Normal colors
+[colors.normal]
+black       = '#0a0e14'
+red         = '#ff3333'
+green       = '#c2d94c'
+yellow      = '#ff8f40'
+blue        = '#59c2ff'
+magenta     = '#ffee99'
+cyan        = '#95e6cb'
+white       = '#b3b1ad'
+
+# Bright colors
+[colors.bright]
+black       = '#4d5566'
+red         = '#ff3333'
+green       = '#c2d94c'
+yellow      = '#ff8f40'
+blue        = '#59c2ff'
+magenta     = '#ffee99'
+cyan        = '#95e6cb'
+white       = '#b3b1ad'

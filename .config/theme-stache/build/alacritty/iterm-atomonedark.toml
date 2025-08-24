@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    AtomOneDark
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#21252b'
+foreground  = '#abb2bf'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#21252b'
+cursor      = '#abb2bf'
+
+# Selection colors
+[colors.selection]
+background  = '#323844'
+text        = '#abb2bf'
+
+# Normal colors
+[colors.normal]
+black       = '#21252b'
+red         = '#e06c75'
+green       = '#98c379'
+yellow      = '#e5c07b'
+blue        = '#61afef'
+magenta     = '#c678dd'
+cyan        = '#56b6c2'
+white       = '#abb2bf'
+
+# Bright colors
+[colors.bright]
+black       = '#767676'
+red         = '#e06c75'
+green       = '#98c379'
+yellow      = '#e5c07b'
+blue        = '#61afef'
+magenta     = '#c678dd'
+cyan        = '#56b6c2'
+white       = '#abb2bf'

@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Shapeshifter
+# Author:   Tyler Benziger (http://tybenz.com)
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#f9f9f9'
+foreground  = '#102015'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#f9f9f9'
+cursor      = '#102015'
+
+# Selection colors
+[colors.selection]
+background  = '#040404'
+text        = '#e0e0e0'
+
+# Normal colors
+[colors.normal]
+black       = '#f9f9f9'
+red         = '#e92f2f'
+green       = '#0ed839'
+yellow      = '#dddd13'
+blue        = '#3b48e3'
+magenta     = '#f996e2'
+cyan        = '#23edda'
+white       = '#102015'
+
+# Bright colors
+[colors.bright]
+black       = '#555555'
+red         = '#e92f2f'
+green       = '#0ed839'
+yellow      = '#dddd13'
+blue        = '#3b48e3'
+magenta     = '#f996e2'
+cyan        = '#23edda'
+white       = '#000000'

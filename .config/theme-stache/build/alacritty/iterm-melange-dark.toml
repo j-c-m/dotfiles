@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Melange_dark
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#282521'
+foreground  = '#ebe0d6'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#33302b'
+cursor      = '#ebe0d6'
+
+# Selection colors
+[colors.selection]
+background  = '#ebe0d6'
+text        = '#3f3a35'
+
+# Normal colors
+[colors.normal]
+black       = '#33302b'
+red         = '#bd8183'
+green       = '#78997a'
+yellow      = '#e39a5c'
+blue        = '#7e90b1'
+magenta     = '#b380af'
+cyan        = '#7a9695'
+white       = '#c1a68e'
+
+# Bright colors
+[colors.bright]
+black       = '#857362'
+red         = '#d47766'
+green       = '#84b695'
+yellow      = '#eac06d'
+blue        = '#a3a9cd'
+magenta     = '#ce9ac1'
+cyan        = '#88b3b6'
+white       = '#ebe0d6'

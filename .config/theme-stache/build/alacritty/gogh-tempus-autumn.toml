@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Tempus Autumn
+# Author:   Protesilaos Stavrou (https://protesilaos.com)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#302420'
+foreground  = '#a9a2a6'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#302420'
+cursor      = '#a9a2a6'
+
+# Selection colors
+[colors.selection]
+background  = '#a9a2a6'
+text        = '#302420'
+
+# Normal colors
+[colors.normal]
+black       = '#302420'
+red         = '#f46f55'
+green       = '#85a400'
+yellow      = '#b09640'
+blue        = '#799aca'
+magenta     = '#df798e'
+cyan        = '#52a885'
+white       = '#a8948a'
+
+# Bright colors
+[colors.bright]
+black       = '#36302a'
+red         = '#e27e3d'
+green       = '#43aa7a'
+yellow      = '#ba9400'
+blue        = '#958fdf'
+magenta     = '#ce7dc4'
+cyan        = '#2fa6b7'
+white       = '#a9a2a6'

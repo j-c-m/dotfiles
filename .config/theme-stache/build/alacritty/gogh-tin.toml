@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Tin
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#2e2e35'
+foreground  = '#ffffff'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#ffffff'
+
+# Selection colors
+[colors.selection]
+background  = '#ffffff'
+text        = '#2e2e35'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#8d534e'
+green       = '#4e8d53'
+yellow      = '#888d4e'
+blue        = '#534e8d'
+magenta     = '#8d4e88'
+cyan        = '#4e888d'
+white       = '#ffffff'
+
+# Bright colors
+[colors.bright]
+black       = '#000000'
+red         = '#b57d78'
+green       = '#78b57d'
+yellow      = '#b0b578'
+blue        = '#7d78b5'
+magenta     = '#b578b0'
+cyan        = '#78b0b5'
+white       = '#ffffff'

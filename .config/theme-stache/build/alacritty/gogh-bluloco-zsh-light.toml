@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Bluloco Zsh Light
+# Author:   
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#f9f9f9'
+foreground  = '#383a42'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#e4e5f1'
+cursor      = '#383a42'
+
+# Selection colors
+[colors.selection]
+background  = '#383a42'
+text        = '#f9f9f9'
+
+# Normal colors
+[colors.normal]
+black       = '#e4e5f1'
+red         = '#d52753'
+green       = '#23974a'
+yellow      = '#df631c'
+blue        = '#275fe4'
+magenta     = '#823ff1'
+cyan        = '#27618d'
+white       = '#000000'
+
+# Bright colors
+[colors.bright]
+black       = '#5794de'
+red         = '#ff6480'
+green       = '#3cbc66'
+yellow      = '#c5a332'
+blue        = '#0099e1'
+magenta     = '#ce33c0'
+cyan        = '#6d93bb'
+white       = '#26272d'

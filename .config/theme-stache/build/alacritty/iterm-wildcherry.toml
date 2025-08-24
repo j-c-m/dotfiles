@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    WildCherry
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1f1626'
+foreground  = '#d9faff'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000506'
+cursor      = '#dd00ff'
+
+# Selection colors
+[colors.selection]
+background  = '#002731'
+text        = '#e3ffff'
+
+# Normal colors
+[colors.normal]
+black       = '#000506'
+red         = '#d94085'
+green       = '#2ab250'
+yellow      = '#ffd16f'
+blue        = '#883cdc'
+magenta     = '#ececec'
+cyan        = '#c1b8b7'
+white       = '#fff8dd'
+
+# Bright colors
+[colors.bright]
+black       = '#009cc9'
+red         = '#da6bab'
+green       = '#f4dba5'
+yellow      = '#eac066'
+blue        = '#2f8bb9'
+magenta     = '#ae636b'
+cyan        = '#ff919d'
+white       = '#e4838d'

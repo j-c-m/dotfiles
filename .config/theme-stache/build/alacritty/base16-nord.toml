@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Nord
+# Author:   arcticicestudio
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#2e3440'
+foreground  = '#e5e9f0'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#2e3440'
+cursor      = '#e5e9f0'
+
+# Selection colors
+[colors.selection]
+background  = '#eceff4'
+text        = '#3b4252'
+
+# Normal colors
+[colors.normal]
+black       = '#2e3440'
+red         = '#bf616a'
+green       = '#a3be8c'
+yellow      = '#ebcb8b'
+blue        = '#81a1c1'
+magenta     = '#b48ead'
+cyan        = '#88c0d0'
+white       = '#e5e9f0'
+
+# Bright colors
+[colors.bright]
+black       = '#4c566a'
+red         = '#bf616a'
+green       = '#a3be8c'
+yellow      = '#ebcb8b'
+blue        = '#81a1c1'
+magenta     = '#b48ead'
+cyan        = '#88c0d0'
+white       = '#8fbcbb'

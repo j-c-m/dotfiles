@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Chalk
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#2d2d2d'
+foreground  = '#d4d4d4'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#646464'
+cursor      = '#d4d4d4'
+
+# Selection colors
+[colors.selection]
+background  = '#d4d4d4'
+text        = '#2d2d2d'
+
+# Normal colors
+[colors.normal]
+black       = '#646464'
+red         = '#f58e8e'
+green       = '#a9d3ab'
+yellow      = '#fed37e'
+blue        = '#7aabd4'
+magenta     = '#d6add5'
+cyan        = '#79d4d5'
+white       = '#d4d4d4'
+
+# Bright colors
+[colors.bright]
+black       = '#646464'
+red         = '#f58e8e'
+green       = '#a9d3ab'
+yellow      = '#fed37e'
+blue        = '#7aabd4'
+magenta     = '#d6add5'
+cyan        = '#79d4d5'
+white       = '#d4d4d4'

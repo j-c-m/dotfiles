@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    BirdsOfParadise
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#2a1e1d'
+foreground  = '#dfdab7'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#573d25'
+cursor      = '#573d25'
+
+# Selection colors
+[colors.selection]
+background  = '#563c27'
+text        = '#dfdaba'
+
+# Normal colors
+[colors.normal]
+black       = '#573d25'
+red         = '#be2d26'
+green       = '#6ba08a'
+yellow      = '#e99c29'
+blue        = '#5a86ac'
+magenta     = '#ab80a6'
+cyan        = '#74a5ac'
+white       = '#dfdab7'
+
+# Bright colors
+[colors.bright]
+black       = '#9a6b49'
+red         = '#e84526'
+green       = '#94d7ba'
+yellow      = '#d0d04f'
+blue        = '#b8d3ed'
+magenta     = '#d09dca'
+cyan        = '#92ced6'
+white       = '#fff9d4'

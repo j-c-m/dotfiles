@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Darkside
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#222324'
+foreground  = '#bababa'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#bababa'
+
+# Selection colors
+[colors.selection]
+background  = '#bababa'
+text        = '#222324'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#e8341c'
+green       = '#68c256'
+yellow      = '#f2d42c'
+blue        = '#1c98e8'
+magenta     = '#8e69c9'
+cyan        = '#1c98e8'
+white       = '#bababa'
+
+# Bright colors
+[colors.bright]
+black       = '#000000'
+red         = '#e05a4f'
+green       = '#77b869'
+yellow      = '#efd64b'
+blue        = '#387cd3'
+magenta     = '#957bbe'
+cyan        = '#3d97e2'
+white       = '#bababa'

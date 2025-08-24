@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Unikitty
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#ff8cd9'
+foreground  = '#b9b1b8'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#ff8cd9'
+cursor      = '#b9b1b8'
+
+# Selection colors
+[colors.selection]
+background  = '#e1d6e0'
+text        = '#0c0c0c'
+
+# Normal colors
+[colors.normal]
+black       = '#ff8cd9'
+red         = '#a80f20'
+green       = '#bafc8b'
+yellow      = '#0074ea'
+blue        = '#145fcd'
+magenta     = '#ff36a2'
+cyan        = '#6bd0bc'
+white       = '#b9b1b8'
+
+# Bright colors
+[colors.bright]
+black       = '#696769'
+red         = '#d81329'
+green       = '#d2ffaf'
+yellow      = '#ffee50'
+blue        = '#0074ea'
+magenta     = '#fdd5e5'
+cyan        = '#79ebd5'
+white       = '#fff2fd'

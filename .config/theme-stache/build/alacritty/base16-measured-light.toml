@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Measured Light
+# Author:   Measured (https://measured.co)
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#fdf9f5'
+foreground  = '#292929'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#fdf9f5'
+cursor      = '#292929'
+
+# Selection colors
+[colors.selection]
+background  = '#181818'
+text        = '#f9f5f1'
+
+# Normal colors
+[colors.normal]
+black       = '#fdf9f5'
+red         = '#ac1f35'
+green       = '#0c680c'
+yellow      = '#645a00'
+blue        = '#0158ad'
+magenta     = '#6645c2'
+cyan        = '#01716f'
+white       = '#292929'
+
+# Bright colors
+[colors.bright]
+black       = '#5a5a5a'
+red         = '#ac1f35'
+green       = '#0c680c'
+yellow      = '#645a00'
+blue        = '#0158ad'
+magenta     = '#6645c2'
+cyan        = '#01716f'
+white       = '#000000'

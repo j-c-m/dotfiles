@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Mission Brogue
+# Author:   Thomas Leon Highbaugh
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#283139'
+foreground  = '#93a5b4'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#283139'
+cursor      = '#93a5b4'
+
+# Selection colors
+[colors.selection]
+background  = '#abb9c4'
+text        = '#3b4954'
+
+# Normal colors
+[colors.normal]
+black       = '#283139'
+red         = '#efa9a9'
+green       = '#8cd4b0'
+yellow      = '#e0b88a'
+blue        = '#a2c5fd'
+magenta     = '#ccb7db'
+cyan        = '#93dfec'
+white       = '#93a5b4'
+
+# Bright colors
+[colors.bright]
+black       = '#60778a'
+red         = '#f6bfbf'
+green       = '#b5e090'
+yellow      = '#fff0b2'
+blue        = '#c3d9fd'
+magenta     = '#e3c3e6'
+cyan        = '#b2f0fd'
+white       = '#e7ebee'

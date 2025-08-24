@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Hybrid
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#161718'
+foreground  = '#8f9190'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#161718'
+cursor      = '#8f9190'
+
+# Selection colors
+[colors.selection]
+background  = '#b5b8b6'
+text        = '#2a2e33'
+
+# Normal colors
+[colors.normal]
+black       = '#161718'
+red         = '#b74d50'
+green       = '#b3be5a'
+yellow      = '#4b6b88'
+blue        = '#6d90b0'
+magenta     = '#a07eab'
+cyan        = '#7fbeb3'
+white       = '#8f9190'
+
+# Bright colors
+[colors.bright]
+black       = '#434446'
+red         = '#8c2d32'
+green       = '#788331'
+yellow      = '#e5894f'
+blue        = '#4b6b88'
+magenta     = '#6e4f79'
+cyan        = '#4d7b73'
+white       = '#5a6169'

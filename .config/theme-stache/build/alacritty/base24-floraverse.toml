@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Floraverse
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#0e0c15'
+foreground  = '#c3af9d'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#0e0c15'
+cursor      = '#c3af9d'
+
+# Selection colors
+[colors.selection]
+background  = '#f3e0b8'
+text        = '#08002e'
+
+# Normal colors
+[colors.normal]
+black       = '#0e0c15'
+red         = '#64002c'
+green       = '#5d731a'
+yellow      = '#40a4cf'
+blue        = '#1d6da1'
+magenta     = '#b7077e'
+cyan        = '#42a38c'
+white       = '#c3af9d'
+
+# Bright colors
+[colors.bright]
+black       = '#634e67'
+red         = '#d02063'
+green       = '#b4ce59'
+yellow      = '#fac357'
+blue        = '#40a4cf'
+magenta     = '#f12aae'
+cyan        = '#62caa8'
+white       = '#fff5db'

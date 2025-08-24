@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Breadog
+# Author:   unknown
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#f1ebe6'
+foreground  = '#362b24'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#362b24'
+cursor      = '#362b24'
+
+# Selection colors
+[colors.selection]
+background  = '#362b24'
+text        = '#f1ebe6'
+
+# Normal colors
+[colors.normal]
+black       = '#362b24'
+red         = '#b00a00'
+green       = '#007232'
+yellow      = '#8b4b00'
+blue        = '#005cb4'
+magenta     = '#9a0097'
+cyan        = '#006a78'
+white       = '#d4c2b6'
+
+# Bright colors
+[colors.bright]
+black       = '#504237'
+red         = '#de1100'
+green       = '#008f40'
+yellow      = '#ae6000'
+blue        = '#0073e1'
+magenta     = '#c200bd'
+cyan        = '#008697'
+white       = '#e9e1d9'

@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Scarlet Protocol
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1b153c'
+foreground  = '#afafaf'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#1b153c'
+cursor      = '#afafaf'
+
+# Selection colors
+[colors.selection]
+background  = '#c7c7c7'
+text        = '#101116'
+
+# Normal colors
+[colors.normal]
+black       = '#1b153c'
+red         = '#ff0051'
+green       = '#00dc84'
+yellow      = '#6871ff'
+blue        = '#0271b6'
+magenta     = '#c930c7'
+cyan        = '#00c5c7'
+white       = '#afafaf'
+
+# Bright colors
+[colors.bright]
+black       = '#7f7f7f'
+red         = '#ff6d67'
+green       = '#5ff967'
+yellow      = '#fefb67'
+blue        = '#6871ff'
+magenta     = '#bc35eb'
+cyan        = '#5ffdff'
+white       = '#feffff'

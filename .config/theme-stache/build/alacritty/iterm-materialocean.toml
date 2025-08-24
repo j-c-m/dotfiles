@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    MaterialOcean
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#0f111a'
+foreground  = '#8f93a2'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#546e7a'
+cursor      = '#ffcc00'
+
+# Selection colors
+[colors.selection]
+background  = '#1f2233'
+text        = '#8f93a2'
+
+# Normal colors
+[colors.normal]
+black       = '#546e7a'
+red         = '#ff5370'
+green       = '#c3e88d'
+yellow      = '#ffcb6b'
+blue        = '#82aaff'
+magenta     = '#c792ea'
+cyan        = '#89ddff'
+white       = '#ffffff'
+
+# Bright colors
+[colors.bright]
+black       = '#546e7a'
+red         = '#ff5370'
+green       = '#c3e88d'
+yellow      = '#ffcb6b'
+blue        = '#82aaff'
+magenta     = '#c792ea'
+cyan        = '#89ddff'
+white       = '#ffffff'

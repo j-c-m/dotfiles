@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Colorcli
+# Author:   
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#ffffff'
+foreground  = '#005f87'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#005f87'
+
+# Selection colors
+[colors.selection]
+background  = '#005f87'
+text        = '#ffffff'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#d70000'
+green       = '#5faf00'
+yellow      = '#5faf00'
+blue        = '#005f87'
+magenta     = '#d70000'
+cyan        = '#5f5f5f'
+white       = '#e4e4e4'
+
+# Bright colors
+[colors.bright]
+black       = '#5f5f5f'
+red         = '#d70000'
+green       = '#5f5f5f'
+yellow      = '#ffff00'
+blue        = '#0087af'
+magenta     = '#0087af'
+cyan        = '#0087af'
+white       = '#ffffff'

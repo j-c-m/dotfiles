@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Argonaut
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#0d0f18'
+foreground  = '#d0d0d0'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#0d0f18'
+cursor      = '#d0d0d0'
+
+# Selection colors
+[colors.selection]
+background  = '#ffffff'
+text        = '#222222'
+
+# Normal colors
+[colors.normal]
+black       = '#0d0f18'
+red         = '#ff000f'
+green       = '#8ce00a'
+yellow      = '#0092ff'
+blue        = '#008df8'
+magenta     = '#6c43a5'
+cyan        = '#00d7eb'
+white       = '#d0d0d0'
+
+# Bright colors
+[colors.bright]
+black       = '#727272'
+red         = '#ff273f'
+green       = '#abe05a'
+yellow      = '#ffd141'
+blue        = '#0092ff'
+magenta     = '#9a5feb'
+cyan        = '#67ffef'
+white       = '#ffffff'

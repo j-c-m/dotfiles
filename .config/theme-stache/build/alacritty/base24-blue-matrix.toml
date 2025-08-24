@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Blue Matrix
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#0f1115'
+foreground  = '#afafaf'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#0f1115'
+cursor      = '#afafaf'
+
+# Selection colors
+[colors.selection]
+background  = '#c7c7c7'
+text        = '#101116'
+
+# Normal colors
+[colors.normal]
+black       = '#0f1115'
+red         = '#ff567f'
+green       = '#00ff9b'
+yellow      = '#6871ff'
+blue        = '#00b0fe'
+magenta     = '#d47bfe'
+cyan        = '#75c1fe'
+white       = '#afafaf'
+
+# Bright colors
+[colors.bright]
+black       = '#7f7f7f'
+red         = '#ff6d67'
+green       = '#5ff967'
+yellow      = '#fefb67'
+blue        = '#6871ff'
+magenta     = '#d582eb'
+cyan        = '#5ffdff'
+white       = '#feffff'

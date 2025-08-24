@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Nebula
+# Author:   Gabriel Fontes (https://github.com/Misterio77)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#22273b'
+foreground  = '#a4a6a9'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#22273b'
+cursor      = '#a4a6a9'
+
+# Selection colors
+[colors.selection]
+background  = '#c7c9cd'
+text        = '#414f60'
+
+# Normal colors
+[colors.normal]
+black       = '#22273b'
+red         = '#777abc'
+green       = '#6562a8'
+yellow      = '#4f9062'
+blue        = '#4d6bb6'
+magenta     = '#716cae'
+cyan        = '#226f68'
+white       = '#a4a6a9'
+
+# Bright colors
+[colors.bright]
+black       = '#6e6f72'
+red         = '#777abc'
+green       = '#6562a8'
+yellow      = '#4f9062'
+blue        = '#4d6bb6'
+magenta     = '#716cae'
+cyan        = '#226f68'
+white       = '#8dbdaa'

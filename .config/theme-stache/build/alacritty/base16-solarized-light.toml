@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Solarized Light
+# Author:   Ethan Schoonover (modified by aramisgithub)
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#fdf6e3'
+foreground  = '#586e75'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#fdf6e3'
+cursor      = '#586e75'
+
+# Selection colors
+[colors.selection]
+background  = '#073642'
+text        = '#eee8d5'
+
+# Normal colors
+[colors.normal]
+black       = '#fdf6e3'
+red         = '#dc322f'
+green       = '#859900'
+yellow      = '#b58900'
+blue        = '#268bd2'
+magenta     = '#6c71c4'
+cyan        = '#2aa198'
+white       = '#586e75'
+
+# Bright colors
+[colors.bright]
+black       = '#839496'
+red         = '#dc322f'
+green       = '#859900'
+yellow      = '#b58900'
+blue        = '#268bd2'
+magenta     = '#6c71c4'
+cyan        = '#2aa198'
+white       = '#002b36'

@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Base2Tone Lavender
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#201d2a'
+foreground  = '#9992b0'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#201d2a'
+cursor      = '#b042ff'
+
+# Selection colors
+[colors.selection]
+background  = '#9992b0'
+text        = '#201d2a'
+
+# Normal colors
+[colors.normal]
+black       = '#201d2a'
+red         = '#9375f5'
+green       = '#d294ff'
+yellow      = '#ecd1ff'
+blue        = '#a286fd'
+magenta     = '#d294ff'
+cyan        = '#b5a0fe'
+white       = '#9992b0'
+
+# Bright colors
+[colors.bright]
+black       = '#625a7c'
+red         = '#dba8ff'
+green       = '#2c2839'
+yellow      = '#4b455f'
+blue        = '#6e658b'
+magenta     = '#dcd2fe'
+cyan        = '#ca80ff'
+white       = '#efebff'

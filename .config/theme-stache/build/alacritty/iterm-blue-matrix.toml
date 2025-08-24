@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Blue Matrix
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#0f1115'
+foreground  = '#00a2fe'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#101116'
+cursor      = '#76ff9f'
+
+# Selection colors
+[colors.selection]
+background  = '#c1ddff'
+text        = '#000000'
+
+# Normal colors
+[colors.normal]
+black       = '#101116'
+red         = '#ff567f'
+green       = '#00ff9b'
+yellow      = '#fefc57'
+blue        = '#00b0fe'
+magenta     = '#d47bfe'
+cyan        = '#75c1fe'
+white       = '#c7c7c7'
+
+# Bright colors
+[colors.bright]
+black       = '#676767'
+red         = '#ff6d67'
+green       = '#5ff967'
+yellow      = '#fefb67'
+blue        = '#6871ff'
+magenta     = '#d582eb'
+cyan        = '#5ffdff'
+white       = '#feffff'

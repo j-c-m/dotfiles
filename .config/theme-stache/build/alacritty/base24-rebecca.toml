@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Rebecca
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#292a44'
+foreground  = '#c3c3d4'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#292a44'
+cursor      = '#c3c3d4'
+
+# Selection colors
+[colors.selection]
+background  = '#e3e2e8'
+text        = '#12131d'
+
+# Normal colors
+[colors.normal]
+black       = '#292a44'
+red         = '#dd7655'
+green       = '#04dbb4'
+yellow      = '#69bffa'
+blue        = '#7aa5ff'
+magenta     = '#be9bf8'
+cyan        = '#56d3c1'
+white       = '#c3c3d4'
+
+# Bright colors
+[colors.bright]
+black       = '#8585ac'
+red         = '#ff91cd'
+green       = '#00e9c0'
+yellow      = '#fefca8'
+blue        = '#69bffa'
+magenta     = '#c07ff8'
+cyan        = '#8bfce1'
+white       = '#f3f2f8'

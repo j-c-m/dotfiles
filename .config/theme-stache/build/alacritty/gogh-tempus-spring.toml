@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Tempus Spring
+# Author:   Protesilaos Stavrou (https://protesilaos.com)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#283a37'
+foreground  = '#b5b8b7'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#283a37'
+cursor      = '#b5b8b7'
+
+# Selection colors
+[colors.selection]
+background  = '#b5b8b7'
+text        = '#283a37'
+
+# Normal colors
+[colors.normal]
+black       = '#283a37'
+red         = '#ff8b5f'
+green       = '#5ec04d'
+yellow      = '#b0b01a'
+blue        = '#39bace'
+magenta     = '#e99399'
+cyan        = '#36c08e'
+white       = '#99afae'
+
+# Bright colors
+[colors.bright]
+black       = '#2a453d'
+red         = '#e19e00'
+green       = '#73be0d'
+yellow      = '#c6a843'
+blue        = '#70afef'
+magenta     = '#d095e2'
+cyan        = '#3cbfaf'
+white       = '#b5b8b7'

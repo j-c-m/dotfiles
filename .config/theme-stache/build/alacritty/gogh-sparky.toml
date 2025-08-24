@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Sparky
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#072b31'
+foreground  = '#f4f5f0'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#212322'
+cursor      = '#f4f5f0'
+
+# Selection colors
+[colors.selection]
+background  = '#f4f5f0'
+text        = '#072b31'
+
+# Normal colors
+[colors.normal]
+black       = '#212322'
+red         = '#ff585d'
+green       = '#78d64b'
+yellow      = '#fbdd40'
+blue        = '#4698cb'
+magenta     = '#d59ed7'
+cyan        = '#2dccd3'
+white       = '#dee6de'
+
+# Bright colors
+[colors.bright]
+black       = '#4b4f54'
+red         = '#ff7276'
+green       = '#8edd65'
+yellow      = '#f6eb61'
+blue        = '#69b3e7'
+magenta     = '#f99fc9'
+cyan        = '#00c1d5'
+white       = '#d9e1e2'

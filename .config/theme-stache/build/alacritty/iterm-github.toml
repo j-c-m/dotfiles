@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Github
+# Author:   unknown
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#f4f4f4'
+foreground  = '#3e3e3e'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#3e3e3e'
+cursor      = '#3f3f3f'
+
+# Selection colors
+[colors.selection]
+background  = '#a9c1e2'
+text        = '#535353'
+
+# Normal colors
+[colors.normal]
+black       = '#3e3e3e'
+red         = '#970b16'
+green       = '#07962a'
+yellow      = '#f8eec7'
+blue        = '#003e8a'
+magenta     = '#e94691'
+cyan        = '#89d1ec'
+white       = '#ffffff'
+
+# Bright colors
+[colors.bright]
+black       = '#666666'
+red         = '#de0000'
+green       = '#87d5a2'
+yellow      = '#f1d007'
+blue        = '#2e6cba'
+magenta     = '#ffa29f'
+cyan        = '#1cfafe'
+white       = '#ffffff'

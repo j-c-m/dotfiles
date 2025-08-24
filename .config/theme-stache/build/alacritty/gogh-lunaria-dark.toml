@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Lunaria Dark
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#36464e'
+foreground  = '#caced8'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#36464e'
+cursor      = '#caced8'
+
+# Selection colors
+[colors.selection]
+background  = '#caced8'
+text        = '#36464e'
+
+# Normal colors
+[colors.normal]
+black       = '#36464e'
+red         = '#846560'
+green       = '#809984'
+yellow      = '#a79a79'
+blue        = '#555673'
+magenta     = '#866c83'
+cyan        = '#7e98b4'
+white       = '#caced8'
+
+# Bright colors
+[colors.bright]
+black       = '#404f56'
+red         = '#bb928b'
+green       = '#bfdcc2'
+yellow      = '#f1dfb6'
+blue        = '#777798'
+magenta     = '#bf9db9'
+cyan        = '#bddcff'
+white       = '#dfe2ed'

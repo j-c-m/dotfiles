@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Mona Lisa
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#120b0d'
+foreground  = '#f7d66a'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#351b0e'
+cursor      = '#f7d66a'
+
+# Selection colors
+[colors.selection]
+background  = '#f7d66a'
+text        = '#120b0d'
+
+# Normal colors
+[colors.normal]
+black       = '#351b0e'
+red         = '#9b291c'
+green       = '#636232'
+yellow      = '#c36e28'
+blue        = '#515c5d'
+magenta     = '#9b1d29'
+cyan        = '#588056'
+white       = '#f7d75c'
+
+# Bright colors
+[colors.bright]
+black       = '#874228'
+red         = '#ff4331'
+green       = '#b4b264'
+yellow      = '#ff9566'
+blue        = '#9eb2b4'
+magenta     = '#ff5b6a'
+cyan        = '#8acd8f'
+white       = '#ffe598'

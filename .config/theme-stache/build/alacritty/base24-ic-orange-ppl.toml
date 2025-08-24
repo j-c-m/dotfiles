@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    IC-Orange-PPL
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#262626'
+foreground  = '#d9a971'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#262626'
+cursor      = '#d9a971'
+
+# Selection colors
+[colors.selection]
+background  = '#ffc88a'
+text        = '#000000'
+
+# Normal colors
+[colors.normal]
+black       = '#262626'
+red         = '#c03900'
+green       = '#a3a900'
+yellow      = '#ffbd54'
+blue        = '#bd6c00'
+magenta     = '#fb5d00'
+cyan        = '#f79400'
+white       = '#d9a971'
+
+# Bright colors
+[colors.bright]
+black       = '#8f6c41'
+red         = '#ff8b67'
+green       = '#f6ff3f'
+yellow      = '#ffe36e'
+blue        = '#ffbd54'
+magenta     = '#fc874f'
+cyan        = '#c59752'
+white       = '#f9f9fe'

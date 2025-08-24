@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Vague
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#131315'
+foreground  = '#cccccc'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#131315'
+cursor      = '#cccccc'
+
+# Selection colors
+[colors.selection]
+background  = '#868686'
+text        = '#cccccc'
+
+# Normal colors
+[colors.normal]
+black       = '#131315'
+red         = '#de6781'
+green       = '#8bb56d'
+yellow      = '#f2be7c'
+blue        = '#7d98e7'
+magenta     = '#c2c2d5'
+cyan        = '#9ab4bc'
+white       = '#cccccc'
+
+# Bright colors
+[colors.bright]
+black       = '#868686'
+red         = '#de6781'
+green       = '#8bb56d'
+yellow      = '#f2be7c'
+blue        = '#7d98e7'
+magenta     = '#c2c2d5'
+cyan        = '#9ab4bc'
+white       = '#cccccc'

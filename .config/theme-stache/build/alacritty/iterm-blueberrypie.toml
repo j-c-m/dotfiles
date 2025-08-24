@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    BlueBerryPie
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1c0b28'
+foreground  = '#babab9'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#0a4b61'
+cursor      = '#fcfad5'
+
+# Selection colors
+[colors.selection]
+background  = '#5f5f5f'
+text        = '#feffff'
+
+# Normal colors
+[colors.normal]
+black       = '#0a4b61'
+red         = '#99236d'
+green       = '#5bb0b2'
+yellow      = '#e9b8a7'
+blue        = '#90a5bc'
+magenta     = '#9d53a7'
+cyan        = '#7e82cc'
+white       = '#f0e7d5'
+
+# Bright colors
+[colors.bright]
+black       = '#1f1637'
+red         = '#c77171'
+green       = '#0a6b7e'
+yellow      = '#793188'
+blue        = '#38163d'
+magenta     = '#bc93b6'
+cyan        = '#5d5f71'
+white       = '#0a6b7e'

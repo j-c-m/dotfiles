@@ -5,6 +5,29 @@ import sys
 import os
 import subprocess
 from pathlib import Path
+import shutil
+import re
+
+def render_mustache_simple(template, context):
+    """Perform Mustache-style replacement for any {{key}} or {{key.subkey}} in context."""
+    def replace_match(match):
+        # Extract the key, stripping whitespace
+        key = match.group(1).strip()
+        # Handle nested keys like ansi-0.hex or foreground.hexterm
+        if '.' in key:
+            parts = key.split('.')
+            if len(parts) == 2:
+                main_key, sub_key = parts
+                if main_key in context and isinstance(context[main_key], dict) and sub_key in context[main_key]:
+                    return str(context[main_key][sub_key])
+        # Handle top-level keys
+        elif key in context:
+            return str(context[key])
+        # Return original match if key not found
+        return match.group(0)
+
+    # Match {{key}} or {{ key }} with optional whitespace
+    return re.sub(r'\{\{\s*([^{}]+)\s*\}\}', replace_match, template)
 
 def hex_to_rgb(hex_color):
     """Convert hex color (#RRGGBB) to RGB tuple (0-255)."""
@@ -276,6 +299,14 @@ def main(stdscr, themes):
     curses.use_default_colors()
     stdscr.timeout(-1)  # Blocking input
 
+    config_path = Path(__file__).resolve().parent / "templates" / "config.json"
+    try:
+        with open(config_path, 'r') as f:
+            config = json.load(f)
+    except Exception as e:
+        print(f"Error loading config file {config_path}: {e}")
+        return
+
     current_idx = 0
     offset = 0
     last_activated_script = None  # Track last activated theme script
@@ -314,27 +345,45 @@ def main(stdscr, themes):
             if current_idx >= offset + max_themes:
                 offset = min(len(themes) - max_themes, offset + max_themes)
         elif key == ord('a'):
-            script_path = Path(__file__).resolve().parent / "build" / "shell" / f"{themes[current_idx]['source-slug']}-{themes[current_idx]['slug']}.sh"
-            if script_path.is_file():
-                subprocess.run(["bash", str(script_path)])
-                last_activated_script = script_path  # Track activated theme
-                stdscr.redrawwin()
-                draw_ui(stdscr, themes, current_idx, offset)
-                stdscr.noutrefresh()
-                curses.doupdate()
-                stdscr.refresh()
+            try:
+                with open(themes[current_idx]['file'], 'r') as f:
+                    context = json.load(f)
+            except json.JSONDecodeError:
+                print(f"Error loading theme JSON: {themes[current_idx]['file']}")
+                continue
+            for template_key, template_config in config.items():
+                if template_key == 'shell.sh':  # Only activate shell scripts
+                    dir_name = template_config['directory']
+                    filename = render_mustache_simple(template_config['filename'], context)
+                    script_path = Path(__file__).resolve().parent / "build" / dir_name / filename
+                    if script_path.is_file():
+                        subprocess.run(["bash", str(script_path)])
+                        last_activated_script = script_path
+                        stdscr.redrawwin()
+                        draw_ui(stdscr, themes, current_idx, offset)
+                        stdscr.noutrefresh()
+                        curses.doupdate()
+                        stdscr.refresh()
+                        break
         elif key == ord('i'):
-            script_path = Path(__file__).resolve().parent / "build" / "shell" / f"{themes[current_idx]['source-slug']}-{themes[current_idx]['slug']}.sh"
-            symlink_path = Path.home() / ".shell_theme.sh"
-            if script_path.is_file():
-                try:
-                    if symlink_path.exists() or symlink_path.is_symlink():
-                        os.remove(symlink_path)
-                    os.symlink(script_path, symlink_path)
-                except (OSError, PermissionError):
-                    pass  # Silently ignore errors
-            else:
-                pass  # Silently ignore missing script
+            current_theme_dir = Path(__file__).resolve().parent / "current-theme"
+            current_theme_dir.mkdir(exist_ok=True)
+            try:
+                with open(themes[current_idx]['file'], 'r') as f:
+                    context = json.load(f)
+            except json.JSONDecodeError:
+                print(f"Error loading theme JSON: {themes[current_idx]['file']}")
+                continue
+            for template_key, template_config in config.items():
+                dir_name = template_config['directory']
+                filename = render_mustache_simple(template_config['filename'], context)
+                source_path = Path(__file__).resolve().parent / "build" / dir_name / filename
+                if source_path.is_file():
+                    target_path = current_theme_dir / template_key
+                    try:
+                        shutil.copy(source_path, target_path)
+                    except (OSError, PermissionError):
+                        pass  # Silently ignore errors
         elif key == curses.KEY_RESIZE:
             stdscr.clear()
             stdscr.redrawwin()

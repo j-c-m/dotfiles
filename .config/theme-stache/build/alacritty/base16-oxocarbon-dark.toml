@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Oxocarbon Dark
+# Author:   shaunsingh/IBM
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#161616'
+foreground  = '#f2f4f8'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#161616'
+cursor      = '#f2f4f8'
+
+# Selection colors
+[colors.selection]
+background  = '#ffffff'
+text        = '#262626'
+
+# Normal colors
+[colors.normal]
+black       = '#161616'
+red         = '#3ddbd9'
+green       = '#33b1ff'
+yellow      = '#ee5396'
+blue        = '#42be65'
+magenta     = '#be95ff'
+cyan        = '#ff7eb6'
+white       = '#f2f4f8'
+
+# Bright colors
+[colors.bright]
+black       = '#525252'
+red         = '#3ddbd9'
+green       = '#33b1ff'
+yellow      = '#ee5396'
+blue        = '#42be65'
+magenta     = '#be95ff'
+cyan        = '#ff7eb6'
+white       = '#08bdba'

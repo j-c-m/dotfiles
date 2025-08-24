@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Pico
+# Author:   PICO-8 (http://www.lexaloffle.com/pico-8.php)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#000000'
+foreground  = '#5f574f'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#5f574f'
+
+# Selection colors
+[colors.selection]
+background  = '#c2c3c7'
+text        = '#1d2b53'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#ff004d'
+green       = '#00e756'
+yellow      = '#fff024'
+blue        = '#83769c'
+magenta     = '#ff77a8'
+cyan        = '#29adff'
+white       = '#5f574f'
+
+# Bright colors
+[colors.bright]
+black       = '#008751'
+red         = '#ff004d'
+green       = '#00e756'
+yellow      = '#fff024'
+blue        = '#83769c'
+magenta     = '#ff77a8'
+cyan        = '#29adff'
+white       = '#fff1e8'

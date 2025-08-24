@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Seafoam Pastel
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#243434'
+foreground  = '#d3e7d3'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#757575'
+cursor      = '#576479'
+
+# Selection colors
+[colors.selection]
+background  = '#ffffff'
+text        = '#9e8b13'
+
+# Normal colors
+[colors.normal]
+black       = '#757575'
+red         = '#825d4d'
+green       = '#718c61'
+yellow      = '#ada16d'
+blue        = '#4d7b82'
+magenta     = '#8a7167'
+cyan        = '#719393'
+white       = '#e0e0e0'
+
+# Bright colors
+[colors.bright]
+black       = '#8a8a8a'
+red         = '#cf9379'
+green       = '#98d9aa'
+yellow      = '#fae79d'
+blue        = '#79c3cf'
+magenta     = '#d6b2a1'
+cyan        = '#ade0e0'
+white       = '#e0e0e0'

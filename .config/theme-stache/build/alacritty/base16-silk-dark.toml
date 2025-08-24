@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Silk Dark
+# Author:   Gabriel Fontes (https://github.com/Misterio77)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#0e3c46'
+foreground  = '#c7dbdd'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#0e3c46'
+cursor      = '#c7dbdd'
+
+# Selection colors
+[colors.selection]
+background  = '#cbf2f7'
+text        = '#1d494e'
+
+# Normal colors
+[colors.normal]
+black       = '#0e3c46'
+red         = '#fb6953'
+green       = '#73d8ad'
+yellow      = '#fce380'
+blue        = '#46bddd'
+magenta     = '#756b8a'
+cyan        = '#3fb2b9'
+white       = '#c7dbdd'
+
+# Bright colors
+[colors.bright]
+black       = '#587073'
+red         = '#fb6953'
+green       = '#73d8ad'
+yellow      = '#fce380'
+blue        = '#46bddd'
+magenta     = '#756b8a'
+cyan        = '#3fb2b9'
+white       = '#d2faff'

@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Flat
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1f2d3a'
+foreground  = '#1abc9c'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#2c3e50'
+cursor      = '#1abc9c'
+
+# Selection colors
+[colors.selection]
+background  = '#1abc9c'
+text        = '#1f2d3a'
+
+# Normal colors
+[colors.normal]
+black       = '#2c3e50'
+red         = '#c0392b'
+green       = '#27ae60'
+yellow      = '#f39c12'
+blue        = '#2980b9'
+magenta     = '#8e44ad'
+cyan        = '#16a085'
+white       = '#bdc3c7'
+
+# Bright colors
+[colors.bright]
+black       = '#34495e'
+red         = '#e74c3c'
+green       = '#2ecc71'
+yellow      = '#f1c40f'
+blue        = '#3498db'
+magenta     = '#9b59b6'
+cyan        = '#2aa198'
+white       = '#ecf0f1'

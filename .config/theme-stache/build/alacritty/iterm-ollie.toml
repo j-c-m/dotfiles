@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Ollie
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#212024'
+foreground  = '#8a8dae'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#5b6da7'
+
+# Selection colors
+[colors.selection]
+background  = '#1e3965'
+text        = '#8a8dab'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#ab2e30'
+green       = '#31ab60'
+yellow      = '#ab4200'
+blue        = '#2c56ab'
+magenta     = '#af8427'
+cyan        = '#1fa5ab'
+white       = '#8a8dab'
+
+# Bright colors
+[colors.bright]
+black       = '#5a3625'
+red         = '#ff3d48'
+green       = '#3bff99'
+yellow      = '#ff5e1e'
+blue        = '#4487ff'
+magenta     = '#ffc21c'
+cyan        = '#1efaff'
+white       = '#5b6da7'

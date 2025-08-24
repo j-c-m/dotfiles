@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Wez
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#000000'
+foreground  = '#aeaeae'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#aeaeae'
+
+# Selection colors
+[colors.selection]
+background  = '#cccccc'
+text        = '#000000'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#cc5555'
+green       = '#55cc55'
+yellow      = '#5555ff'
+blue        = '#5455cb'
+magenta     = '#cc55cc'
+cyan        = '#7acaca'
+white       = '#aeaeae'
+
+# Bright colors
+[colors.bright]
+black       = '#727272'
+red         = '#ff5555'
+green       = '#55ff55'
+yellow      = '#ffff55'
+blue        = '#5555ff'
+magenta     = '#ff55ff'
+cyan        = '#55ffff'
+white       = '#ffffff'

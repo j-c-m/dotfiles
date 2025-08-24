@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Rebecca
+# Author:   Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#292a44'
+foreground  = '#f1eff8'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#292a44'
+cursor      = '#f1eff8'
+
+# Selection colors
+[colors.selection]
+background  = '#ccccff'
+text        = '#663399'
+
+# Normal colors
+[colors.normal]
+black       = '#292a44'
+red         = '#a0a0c5'
+green       = '#6dfedf'
+yellow      = '#ae81ff'
+blue        = '#2de0a7'
+magenta     = '#7aa5ff'
+cyan        = '#8eaee0'
+white       = '#f1eff8'
+
+# Bright colors
+[colors.bright]
+black       = '#666699'
+red         = '#a0a0c5'
+green       = '#6dfedf'
+yellow      = '#ae81ff'
+blue        = '#2de0a7'
+magenta     = '#7aa5ff'
+cyan        = '#8eaee0'
+white       = '#53495d'

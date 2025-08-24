@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Kanagawa Dragon
+# Author:   Tommaso Laurenzi (https://github.com/rebelot)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#0d0c0c'
+foreground  = '#c5c9c5'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#0d0c0c'
+cursor      = '#c5c9c5'
+
+# Selection colors
+[colors.selection]
+background  = '#7a8382'
+text        = '#1d1c19'
+
+# Normal colors
+[colors.normal]
+black       = '#0d0c0c'
+red         = '#c4746e'
+green       = '#87a987'
+yellow      = '#c4b28a'
+blue        = '#8ba4b0'
+magenta     = '#8992a7'
+cyan        = '#8ea4a2'
+white       = '#c5c9c5'
+
+# Bright colors
+[colors.bright]
+black       = '#737c73'
+red         = '#c4746e'
+green       = '#87a987'
+yellow      = '#c4b28a'
+blue        = '#8ba4b0'
+magenta     = '#8992a7'
+cyan        = '#8ea4a2'
+white       = '#c5c9c5'

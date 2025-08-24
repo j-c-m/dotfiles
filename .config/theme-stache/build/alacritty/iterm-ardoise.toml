@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Ardoise
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1e1d1d'
+foreground  = '#eae9e9'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#2c2b2b'
+cursor      = '#f7f6f6'
+
+# Selection colors
+[colors.selection]
+background  = '#45505d'
+text        = '#f0f2f4'
+
+# Normal colors
+[colors.normal]
+black       = '#2c2b2b'
+red         = '#d2312c'
+green       = '#588b35'
+yellow      = '#fca83a'
+blue        = '#2364c2'
+magenta     = '#7232b4'
+cyan        = '#63e0b7'
+white       = '#f7f6f6'
+
+# Bright colors
+[colors.bright]
+black       = '#535252'
+red         = '#fa5752'
+green       = '#8dc251'
+yellow      = '#ffe951'
+blue        = '#6ab5f7'
+magenta     = '#be68c9'
+cyan        = '#88ffda'
+white       = '#fefdfd'

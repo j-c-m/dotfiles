@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Highway
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#212224'
+foreground  = '#c8c5c4'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#212224'
+cursor      = '#c8c5c4'
+
+# Selection colors
+[colors.selection]
+background  = '#ededed'
+text        = '#000000'
+
+# Normal colors
+[colors.normal]
+black       = '#212224'
+red         = '#cf0d17'
+green       = '#128033'
+yellow      = '#4fc2fd'
+blue        = '#006ab3'
+magenta     = '#6a2674'
+cyan        = '#384563'
+white       = '#c8c5c4'
+
+# Bright colors
+[colors.bright]
+black       = '#807672'
+red         = '#ef7d17'
+green       = '#b1d130'
+yellow      = '#fff11f'
+blue        = '#4fc2fd'
+magenta     = '#de0070'
+cyan        = '#5c4f49'
+white       = '#fefffe'

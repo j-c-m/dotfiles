@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Spaceduck
+# Author:   Guillermo Rodriguez (https://github.com/pineapplegiant), packaged by Gabriel Fontes (https://github.com/Misterio77)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#16172d'
+foreground  = '#ecf0c1'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#16172d'
+cursor      = '#ecf0c1'
+
+# Selection colors
+[colors.selection]
+background  = '#c1c3cc'
+text        = '#1b1c36'
+
+# Normal colors
+[colors.normal]
+black       = '#16172d'
+red         = '#e33400'
+green       = '#5ccc96'
+yellow      = '#f2ce00'
+blue        = '#7a5ccc'
+magenta     = '#b3a1e6'
+cyan        = '#00a3cc'
+white       = '#ecf0c1'
+
+# Bright colors
+[colors.bright]
+black       = '#686f9a'
+red         = '#e33400'
+green       = '#5ccc96'
+yellow      = '#f2ce00'
+blue        = '#7a5ccc'
+magenta     = '#b3a1e6'
+cyan        = '#00a3cc'
+white       = '#ffffff'

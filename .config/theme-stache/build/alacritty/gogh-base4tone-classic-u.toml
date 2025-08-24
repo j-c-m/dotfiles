@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Base4Tone Classic U
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#201d20'
+foreground  = '#9e949d'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#201d20'
+cursor      = '#7c7481'
+
+# Selection colors
+[colors.selection]
+background  = '#9e949d'
+text        = '#201d20'
+
+# Normal colors
+[colors.normal]
+black       = '#201d20'
+red         = '#ce672c'
+green       = '#aa52e0'
+yellow      = '#c988f2'
+blue        = '#eb75dd'
+magenta     = '#e96375'
+cyan        = '#ba6cea'
+white       = '#ede8ed'
+
+# Bright colors
+[colors.bright]
+black       = '#0d070c'
+red         = '#e78b55'
+green       = '#d19af4'
+yellow      = '#e0baf7'
+blue        = '#f8c3f2'
+magenta     = '#f17e8e'
+cyan        = '#f6b1ee'
+white       = '#f9f6f8'

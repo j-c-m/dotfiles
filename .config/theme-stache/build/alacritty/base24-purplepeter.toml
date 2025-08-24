@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Purplepeter
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#2a1a4a'
+foreground  = '#c38e69'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#2a1a4a'
+cursor      = '#c38e69'
+
+# Selection colors
+[colors.selection]
+background  = '#ffba81'
+text        = '#0a041f'
+
+# Normal colors
+[colors.normal]
+black       = '#2a1a4a'
+red         = '#ff786c'
+green       = '#98b481'
+yellow      = '#79daed'
+blue        = '#66d9ef'
+magenta     = '#e68ecd'
+cyan        = '#b98cff'
+white       = '#c38e69'
+
+# Bright colors
+[colors.bright]
+black       = '#4b3639'
+red         = '#f89f92'
+green       = '#b4bd8e'
+yellow      = '#f1e9bf'
+blue        = '#79daed'
+magenta     = '#b991d4'
+cyan        = '#a0a0d6'
+white       = '#b9aed3'

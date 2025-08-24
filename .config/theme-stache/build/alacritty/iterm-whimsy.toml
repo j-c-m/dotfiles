@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Whimsy
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#29283b'
+foreground  = '#b3b0d6'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#535178'
+cursor      = '#b3b0d6'
+
+# Selection colors
+[colors.selection]
+background  = '#3d3c58'
+text        = '#ffffff'
+
+# Normal colors
+[colors.normal]
+black       = '#535178'
+red         = '#ef6487'
+green       = '#5eca89'
+yellow      = '#fdd877'
+blue        = '#65aef7'
+magenta     = '#aa7ff0'
+cyan        = '#43c1be'
+white       = '#ffffff'
+
+# Bright colors
+[colors.bright]
+black       = '#535177'
+red         = '#ef6487'
+green       = '#5eca89'
+yellow      = '#fdd877'
+blue        = '#65aef7'
+magenta     = '#aa7ff0'
+cyan        = '#43c1be'
+white       = '#ffffff'

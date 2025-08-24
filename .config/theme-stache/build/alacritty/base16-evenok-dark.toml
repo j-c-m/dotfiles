@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Evenok Dark
+# Author:   Mekeor Melire
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#000000'
+foreground  = '#d0d0d0'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#d0d0d0'
+
+# Selection colors
+[colors.selection]
+background  = '#e0e0e0'
+text        = '#202020'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#f5708a'
+green       = '#54bc5c'
+yellow      = '#b8a300'
+blue        = '#00aff2'
+magenta     = '#9095ff'
+cyan        = '#00bab3'
+white       = '#d0d0d0'
+
+# Bright colors
+[colors.bright]
+black       = '#505050'
+red         = '#f5708a'
+green       = '#54bc5c'
+yellow      = '#b8a300'
+blue        = '#00aff2'
+magenta     = '#9095ff'
+cyan        = '#00bab3'
+white       = '#ffffff'

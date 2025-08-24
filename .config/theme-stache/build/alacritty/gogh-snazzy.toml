@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Snazzy
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#282a36'
+foreground  = '#eff0eb'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#282a36'
+cursor      = '#97979b'
+
+# Selection colors
+[colors.selection]
+background  = '#eff0eb'
+text        = '#282a36'
+
+# Normal colors
+[colors.normal]
+black       = '#282a36'
+red         = '#ff5c57'
+green       = '#5af78e'
+yellow      = '#f3f99d'
+blue        = '#57c7ff'
+magenta     = '#ff6ac1'
+cyan        = '#9aedfe'
+white       = '#f1f1f0'
+
+# Bright colors
+[colors.bright]
+black       = '#686868'
+red         = '#ff5c57'
+green       = '#5af78e'
+yellow      = '#f3f99d'
+blue        = '#57c7ff'
+magenta     = '#ff6ac1'
+cyan        = '#9aedfe'
+white       = '#eff0eb'

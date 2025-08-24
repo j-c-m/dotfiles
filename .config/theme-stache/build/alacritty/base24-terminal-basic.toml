@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Terminal Basic
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#ffffff'
+foreground  = '#a8a8a8'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#ffffff'
+cursor      = '#a8a8a8'
+
+# Selection colors
+[colors.selection]
+background  = '#bfbfbf'
+text        = '#000000'
+
+# Normal colors
+[colors.normal]
+black       = '#ffffff'
+red         = '#990000'
+green       = '#00a600'
+yellow      = '#0000ff'
+blue        = '#0000b2'
+magenta     = '#b200b2'
+cyan        = '#00a6b2'
+white       = '#a8a8a8'
+
+# Bright colors
+[colors.bright]
+black       = '#7c7c7c'
+red         = '#e50000'
+green       = '#00d900'
+yellow      = '#e5e500'
+blue        = '#0000ff'
+magenta     = '#e500e5'
+cyan        = '#00e5e5'
+white       = '#e5e5e5'

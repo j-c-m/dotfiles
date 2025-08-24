@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Wombat
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#171717'
+foreground  = '#dedacf'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#dedacf'
+
+# Selection colors
+[colors.selection]
+background  = '#dedacf'
+text        = '#171717'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#ff615a'
+green       = '#b1e969'
+yellow      = '#ebd99c'
+blue        = '#5da9f6'
+magenta     = '#e86aff'
+cyan        = '#82fff7'
+white       = '#dedacf'
+
+# Bright colors
+[colors.bright]
+black       = '#313131'
+red         = '#f58c80'
+green       = '#ddf88f'
+yellow      = '#eee5b2'
+blue        = '#a5c7ff'
+magenta     = '#ddaaff'
+cyan        = '#b7fff9'
+white       = '#ffffff'

@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Foxnightly
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#2a2a2e'
+foreground  = '#d7d7db'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#2a2a2e'
+cursor      = '#d7d7db'
+
+# Selection colors
+[colors.selection]
+background  = '#d7d7db'
+text        = '#2a2a2e'
+
+# Normal colors
+[colors.normal]
+black       = '#2a2a2e'
+red         = '#b98eff'
+green       = '#ff7de9'
+yellow      = '#729fcf'
+blue        = '#66a05b'
+magenta     = '#75507b'
+cyan        = '#acacae'
+white       = '#ffffff'
+
+# Bright colors
+[colors.bright]
+black       = '#a40000'
+red         = '#bf4040'
+green       = '#66a05b'
+yellow      = '#ffb86c'
+blue        = '#729fcf'
+magenta     = '#8f5902'
+cyan        = '#c4a000'
+white       = '#5c3566'

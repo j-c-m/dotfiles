@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    selenized-dark
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#0f3c48'
+foreground  = '#acbcbc'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#174956'
+cursor      = '#acbcbc'
+
+# Selection colors
+[colors.selection]
+background  = '#174956'
+text        = '#53d5c7'
+
+# Normal colors
+[colors.normal]
+black       = '#174956'
+red         = '#fa574f'
+green       = '#74b937'
+yellow      = '#dab32d'
+blue        = '#4594f6'
+magenta     = '#f174be'
+cyan        = '#40c7b9'
+white       = '#72898f'
+
+# Bright colors
+[colors.bright]
+black       = '#2d5b69'
+red         = '#ff665c'
+green       = '#83c746'
+yellow      = '#ebc13c'
+blue        = '#58a2ff'
+magenta     = '#ff83cc'
+cyan        = '#53d5c7'
+white       = '#cad8d9'

@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    GitLab-Light
+# Author:   unknown
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#fafaff'
+foreground  = '#303030'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#303030'
+cursor      = '#303030'
+
+# Selection colors
+[colors.selection]
+background  = '#ad95e9'
+text        = '#fafaff'
+
+# Normal colors
+[colors.normal]
+black       = '#303030'
+red         = '#a31700'
+green       = '#0a7f3d'
+yellow      = '#af551d'
+blue        = '#006cd8'
+magenta     = '#583cac'
+cyan        = '#00798a'
+white       = '#303030'
+
+# Bright colors
+[colors.bright]
+black       = '#303030'
+red         = '#a31700'
+green       = '#0a7f3d'
+yellow      = '#af551d'
+blue        = '#006cd8'
+magenta     = '#583cac'
+cyan        = '#00798a'
+white       = '#303030'

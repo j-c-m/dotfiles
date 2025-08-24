@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Jup
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#758480'
+foreground  = '#23476a'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#23476a'
+
+# Selection colors
+[colors.selection]
+background  = '#23476a'
+text        = '#758480'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#dd006f'
+green       = '#6fdd00'
+yellow      = '#dd6f00'
+blue        = '#006fdd'
+magenta     = '#6f00dd'
+cyan        = '#00dd6f'
+white       = '#f2f2f2'
+
+# Bright colors
+[colors.bright]
+black       = '#7d7d7d'
+red         = '#ff74b9'
+green       = '#b9ff74'
+yellow      = '#ffb974'
+blue        = '#74b9ff'
+magenta     = '#b974ff'
+cyan        = '#74ffb9'
+white       = '#ffffff'

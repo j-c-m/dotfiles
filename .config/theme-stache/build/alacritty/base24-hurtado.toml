@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Hurtado
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#000000'
+foreground  = '#a1a1a1'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#a1a1a1'
+
+# Selection colors
+[colors.selection]
+background  = '#cbcbcb'
+text        = '#575757'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#ff1b00'
+green       = '#a5df55'
+yellow      = '#89bdff'
+blue        = '#486387'
+magenta     = '#fc5ef0'
+cyan        = '#85e9fe'
+white       = '#a1a1a1'
+
+# Bright colors
+[colors.bright]
+black       = '#4e4e4e'
+red         = '#d41c00'
+green       = '#a5df55'
+yellow      = '#fbe749'
+blue        = '#89bdff'
+magenta     = '#bf00c0'
+cyan        = '#85e9fe'
+white       = '#dbdbdb'

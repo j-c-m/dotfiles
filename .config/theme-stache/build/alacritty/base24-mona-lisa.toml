@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Mona Lisa
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#110b0d'
+foreground  = '#dab14e'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#110b0d'
+cursor      = '#dab14e'
+
+# Selection colors
+[colors.selection]
+background  = '#f6d75c'
+text        = '#341a0d'
+
+# Normal colors
+[colors.normal]
+black       = '#110b0d'
+red         = '#9b281b'
+green       = '#626132'
+yellow      = '#9eb2b3'
+blue        = '#515b5c'
+magenta     = '#9b1d29'
+cyan        = '#588056'
+white       = '#dab14e'
+
+# Bright colors
+[colors.bright]
+black       = '#a26734'
+red         = '#ff4230'
+green       = '#b3b163'
+yellow      = '#ff9565'
+blue        = '#9eb2b3'
+magenta     = '#ff5b6a'
+cyan        = '#89cc8e'
+white       = '#ffe597'

@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Porple
+# Author:   Niek den Breeje (https://github.com/AuditeMarlow)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#292c36'
+foreground  = '#d8d8d8'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#292c36'
+cursor      = '#d8d8d8'
+
+# Selection colors
+[colors.selection]
+background  = '#e8e8e8'
+text        = '#333344'
+
+# Normal colors
+[colors.normal]
+black       = '#292c36'
+red         = '#f84547'
+green       = '#95c76f'
+yellow      = '#efa16b'
+blue        = '#8485ce'
+magenta     = '#b74989'
+cyan        = '#64878f'
+white       = '#d8d8d8'
+
+# Bright colors
+[colors.bright]
+black       = '#65568a'
+red         = '#f84547'
+green       = '#95c76f'
+yellow      = '#efa16b'
+blue        = '#8485ce'
+magenta     = '#b74989'
+cyan        = '#64878f'
+white       = '#f8f8f8'

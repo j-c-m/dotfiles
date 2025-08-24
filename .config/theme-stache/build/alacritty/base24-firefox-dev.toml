@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Firefox Dev
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#0e1011'
+foreground  = '#a5acae'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#0e1011'
+cursor      = '#a5acae'
+
+# Selection colors
+[colors.selection]
+background  = '#dcdcdc'
+text        = '#002731'
+
+# Normal colors
+[colors.normal]
+black       = '#0e1011'
+red         = '#e63853'
+green       = '#5eb83c'
+yellow      = '#006fc0'
+blue        = '#359ddf'
+magenta     = '#d75cff'
+cyan        = '#4b73a2'
+white       = '#a5acae'
+
+# Bright colors
+[colors.bright]
+black       = '#374d53'
+red         = '#e1003f'
+green       = '#1d9000'
+yellow      = '#cc9308'
+blue        = '#006fc0'
+magenta     = '#a200da'
+cyan        = '#005794'
+white       = '#e2e2e2'

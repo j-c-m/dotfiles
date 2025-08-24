@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Solarized Dark Patched
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#001e26'
+foreground  = '#c0c0b0'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#001e26'
+cursor      = '#c0c0b0'
+
+# Selection colors
+[colors.selection]
+background  = '#e9e2cb'
+text        = '#002731'
+
+# Normal colors
+[colors.normal]
+black       = '#001e26'
+red         = '#d01b24'
+green       = '#728905'
+yellow      = '#708183'
+blue        = '#2075c7'
+magenta     = '#c61b6e'
+cyan        = '#259185'
+white       = '#c0c0b0'
+
+# Bright colors
+[colors.bright]
+black       = '#6e7c7b'
+red         = '#bd3612'
+green       = '#465a61'
+yellow      = '#52676f'
+blue        = '#708183'
+magenta     = '#5856b9'
+cyan        = '#81908f'
+white       = '#fcf4dc'

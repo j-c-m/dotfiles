@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Vs Code Light+
+# Author:   
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#f9f9f9'
+foreground  = '#020202'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#020202'
+cursor      = '#020202'
+
+# Selection colors
+[colors.selection]
+background  = '#020202'
+text        = '#f9f9f9'
+
+# Normal colors
+[colors.normal]
+black       = '#020202'
+red         = '#cd3232'
+green       = '#00bc00'
+yellow      = '#a5a900'
+blue        = '#0752a8'
+magenta     = '#bc05bc'
+cyan        = '#0598bc'
+white       = '#343434'
+
+# Bright colors
+[colors.bright]
+black       = '#5e5e5e'
+red         = '#cd3333'
+green       = '#1bce1a'
+yellow      = '#adbb5b'
+blue        = '#0752a8'
+magenta     = '#c451ce'
+cyan        = '#52a8c7'
+white       = '#a6a3a6'

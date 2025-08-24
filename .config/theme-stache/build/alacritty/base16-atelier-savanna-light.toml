@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Atelier Savanna Light
+# Author:   Bram de Haan (http://atelierbramdehaan.nl)
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#ecf4ee'
+foreground  = '#526057'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#ecf4ee'
+cursor      = '#526057'
+
+# Selection colors
+[colors.selection]
+background  = '#232a25'
+text        = '#dfe7e2'
+
+# Normal colors
+[colors.normal]
+black       = '#ecf4ee'
+red         = '#b16139'
+green       = '#489963'
+yellow      = '#a07e3b'
+blue        = '#478c90'
+magenta     = '#55859b'
+cyan        = '#1c9aa0'
+white       = '#526057'
+
+# Bright colors
+[colors.bright]
+black       = '#78877d'
+red         = '#b16139'
+green       = '#489963'
+yellow      = '#a07e3b'
+blue        = '#478c90'
+magenta     = '#55859b'
+cyan        = '#1c9aa0'
+white       = '#171c19'

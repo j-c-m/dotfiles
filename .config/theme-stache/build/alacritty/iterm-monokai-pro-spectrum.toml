@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Monokai Pro Spectrum
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#212121'
+foreground  = '#f7f0ff'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#212121'
+cursor      = '#b9b6c0'
+
+# Selection colors
+[colors.selection]
+background  = '#525053'
+text        = '#f7f0ff'
+
+# Normal colors
+[colors.normal]
+black       = '#212121'
+red         = '#fb618d'
+green       = '#7bd78e'
+yellow      = '#fbe566'
+blue        = '#fc9253'
+magenta     = '#948ae2'
+cyan        = '#5ad3e5'
+white       = '#f7f0ff'
+
+# Bright colors
+[colors.bright]
+black       = '#69666c'
+red         = '#fb618d'
+green       = '#7bd78e'
+yellow      = '#fbe566'
+blue        = '#fc9253'
+magenta     = '#948ae2'
+cyan        = '#5ad3e5'
+white       = '#f7f0ff'

@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Gruvbox dark, pale
+# Author:   Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#262626'
+foreground  = '#dab997'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#262626'
+cursor      = '#dab997'
+
+# Selection colors
+[colors.selection]
+background  = '#d5c4a1'
+text        = '#3a3a3a'
+
+# Normal colors
+[colors.normal]
+black       = '#262626'
+red         = '#d75f5f'
+green       = '#afaf00'
+yellow      = '#ffaf00'
+blue        = '#83adad'
+magenta     = '#d485ad'
+cyan        = '#85ad85'
+white       = '#dab997'
+
+# Bright colors
+[colors.bright]
+black       = '#8a8a8a'
+red         = '#d75f5f'
+green       = '#afaf00'
+yellow      = '#ffaf00'
+blue        = '#83adad'
+magenta     = '#d485ad'
+cyan        = '#85ad85'
+white       = '#ebdbb2'

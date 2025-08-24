@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Synth Midnight Terminal Light
+# Author:   Michaël Ball (http://github.com/michael-ball/)
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#dddfe0'
+foreground  = '#28292a'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#dddfe0'
+cursor      = '#28292a'
+
+# Selection colors
+[colors.selection]
+background  = '#1a1b1c'
+text        = '#cfd1d2'
+
+# Normal colors
+[colors.normal]
+black       = '#dddfe0'
+red         = '#b53b50'
+green       = '#06ea61'
+yellow      = '#c9d364'
+blue        = '#03aeff'
+magenta     = '#ea5ce2'
+cyan        = '#42fff9'
+white       = '#28292a'
+
+# Bright colors
+[colors.bright]
+black       = '#a3a5a6'
+red         = '#b53b50'
+green       = '#06ea61'
+yellow      = '#c9d364'
+blue        = '#03aeff'
+magenta     = '#ea5ce2'
+cyan        = '#42fff9'
+white       = '#050608'

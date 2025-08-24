@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Unikitty Dark
+# Author:   Josh W Lewis (@joshwlewis)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#2e2a31'
+foreground  = '#bcbabe'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#2e2a31'
+cursor      = '#bcbabe'
+
+# Selection colors
+[colors.selection]
+background  = '#d8d7da'
+text        = '#4a464d'
+
+# Normal colors
+[colors.normal]
+black       = '#2e2a31'
+red         = '#d8137f'
+green       = '#17ad98'
+yellow      = '#dc8a0e'
+blue        = '#796af5'
+magenta     = '#bb60ea'
+cyan        = '#149bda'
+white       = '#bcbabe'
+
+# Bright colors
+[colors.bright]
+black       = '#838085'
+red         = '#d8137f'
+green       = '#17ad98'
+yellow      = '#dc8a0e'
+blue        = '#796af5'
+magenta     = '#bb60ea'
+cyan        = '#149bda'
+white       = '#f5f4f7'

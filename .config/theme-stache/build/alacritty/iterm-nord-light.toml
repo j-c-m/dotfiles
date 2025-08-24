@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    nord-light
+# Author:   unknown
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#e5e9f0'
+foreground  = '#414858'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#3b4251'
+cursor      = '#88c0d0'
+
+# Selection colors
+[colors.selection]
+background  = '#d8dee9'
+text        = '#4c556a'
+
+# Normal colors
+[colors.normal]
+black       = '#3b4251'
+red         = '#bf6069'
+green       = '#a3be8b'
+yellow      = '#eacb8a'
+blue        = '#81a1c1'
+magenta     = '#b48dac'
+cyan        = '#88c0d0'
+white       = '#d8dee9'
+
+# Bright colors
+[colors.bright]
+black       = '#4c556a'
+red         = '#bf6069'
+green       = '#a3be8b'
+yellow      = '#eacb8a'
+blue        = '#81a1c1'
+magenta     = '#b48dac'
+cyan        = '#8fbcbb'
+white       = '#eceff4'

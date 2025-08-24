@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Material Vivid
+# Author:   joshyrobot
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#202124'
+foreground  = '#80868b'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#202124'
+cursor      = '#80868b'
+
+# Selection colors
+[colors.selection]
+background  = '#9e9e9e'
+text        = '#27292c'
+
+# Normal colors
+[colors.normal]
+black       = '#202124'
+red         = '#f44336'
+green       = '#00e676'
+yellow      = '#ffeb3b'
+blue        = '#2196f3'
+magenta     = '#673ab7'
+cyan        = '#00bcd4'
+white       = '#80868b'
+
+# Bright colors
+[colors.bright]
+black       = '#44464d'
+red         = '#f44336'
+green       = '#00e676'
+yellow      = '#ffeb3b'
+blue        = '#2196f3'
+magenta     = '#673ab7'
+cyan        = '#00bcd4'
+white       = '#ffffff'

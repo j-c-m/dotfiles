@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Flatland
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1c1e20'
+foreground  = '#c5c6c4'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#1c1e20'
+cursor      = '#c5c6c4'
+
+# Selection colors
+[colors.selection]
+background  = '#fefffe'
+text        = '#1c1d19'
+
+# Normal colors
+[colors.normal]
+black       = '#1c1e20'
+red         = '#f18238'
+green       = '#9ed264'
+yellow      = '#61b8d0'
+blue        = '#4f96be'
+magenta     = '#695abb'
+cyan        = '#d53864'
+white       = '#c5c6c4'
+
+# Bright colors
+[colors.bright]
+black       = '#545552'
+red         = '#d12a24'
+green       = '#a7d32c'
+yellow      = '#ff8948'
+blue        = '#61b8d0'
+magenta     = '#695abb'
+cyan        = '#d53864'
+white       = '#fefffe'

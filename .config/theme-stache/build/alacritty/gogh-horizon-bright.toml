@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Horizon Bright
+# Author:   
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#fdf0ed'
+foreground  = '#1c1e26'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#16161c'
+cursor      = '#1c1e26'
+
+# Selection colors
+[colors.selection]
+background  = '#1c1e26'
+text        = '#fdf0ed'
+
+# Normal colors
+[colors.normal]
+black       = '#16161c'
+red         = '#da103f'
+green       = '#1eb980'
+yellow      = '#f6661e'
+blue        = '#26bbd9'
+magenta     = '#ee64ae'
+cyan        = '#1d8991'
+white       = '#fadad1'
+
+# Bright colors
+[colors.bright]
+black       = '#1a1c23'
+red         = '#f43e5c'
+green       = '#07da8c'
+yellow      = '#f77d26'
+blue        = '#3fc6de'
+magenta     = '#f075b7'
+cyan        = '#1eaeae'
+white       = '#fdf0ed'

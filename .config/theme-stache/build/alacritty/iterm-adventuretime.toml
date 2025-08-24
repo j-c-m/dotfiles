@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    AdventureTime
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1e1c44'
+foreground  = '#f8dbc0'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#050404'
+cursor      = '#eebf37'
+
+# Selection colors
+[colors.selection]
+background  = '#6f6a4e'
+text        = '#f2d9c3'
+
+# Normal colors
+[colors.normal]
+black       = '#050404'
+red         = '#bc0013'
+green       = '#49b117'
+yellow      = '#e6741d'
+blue        = '#0f49c6'
+magenta     = '#665992'
+cyan        = '#6fa497'
+white       = '#f8dbc0'
+
+# Bright colors
+[colors.bright]
+black       = '#4e7bbf'
+red         = '#fc5e59'
+green       = '#9dff6e'
+yellow      = '#efc11a'
+blue        = '#1896c6'
+magenta     = '#9a5952'
+cyan        = '#c8f9f3'
+white       = '#f5f4fb'

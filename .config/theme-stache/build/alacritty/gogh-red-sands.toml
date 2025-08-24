@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Red Sands
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#7a251e'
+foreground  = '#d7c9a7'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#d7c9a7'
+
+# Selection colors
+[colors.selection]
+background  = '#d7c9a7'
+text        = '#7a251e'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#ff3f00'
+green       = '#00bb00'
+yellow      = '#e7b000'
+blue        = '#0072ff'
+magenta     = '#bb00bb'
+cyan        = '#00bbbb'
+white       = '#bbbbbb'
+
+# Bright colors
+[colors.bright]
+black       = '#555555'
+red         = '#bb0000'
+green       = '#00bb00'
+yellow      = '#e7b000'
+blue        = '#0072ae'
+magenta     = '#ff55ff'
+cyan        = '#55ffff'
+white       = '#ffffff'

@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Jellybeans
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#121212'
+foreground  = '#d5d5d5'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#121212'
+cursor      = '#d5d5d5'
+
+# Selection colors
+[colors.selection]
+background  = '#dedede'
+text        = '#929292'
+
+# Normal colors
+[colors.normal]
+black       = '#121212'
+red         = '#e27373'
+green       = '#93b979'
+yellow      = '#b1d8f6'
+blue        = '#97bedc'
+magenta     = '#e1c0fa'
+cyan        = '#00988e'
+white       = '#d5d5d5'
+
+# Bright colors
+[colors.bright]
+black       = '#c5c5c5'
+red         = '#ffa1a1'
+green       = '#bddeab'
+yellow      = '#ffdca0'
+blue        = '#b1d8f6'
+magenta     = '#fbdaff'
+cyan        = '#1ab2a8'
+white       = '#ffffff'

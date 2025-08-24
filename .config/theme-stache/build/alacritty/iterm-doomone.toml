@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    DoomOne
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#282c34'
+foreground  = '#bbc2cf'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#51afef'
+
+# Selection colors
+[colors.selection]
+background  = '#42444b'
+text        = '#bbc2cf'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#ff6c6b'
+green       = '#98be65'
+yellow      = '#ecbe7b'
+blue        = '#a9a1e1'
+magenta     = '#c678dd'
+cyan        = '#51afef'
+white       = '#bbc2cf'
+
+# Bright colors
+[colors.bright]
+black       = '#000000'
+red         = '#ff6655'
+green       = '#99bb66'
+yellow      = '#ecbe7b'
+blue        = '#a9a1e1'
+magenta     = '#c678dd'
+cyan        = '#51afef'
+white       = '#bfbfbf'

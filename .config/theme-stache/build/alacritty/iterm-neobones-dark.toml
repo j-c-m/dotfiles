@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    neobones_dark
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#0e181f'
+foreground  = '#c6d5cf'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#0e181f'
+cursor      = '#ceddd7'
+
+# Selection colors
+[colors.selection]
+background  = '#3a3e3c'
+text        = '#c6d5cf'
+
+# Normal colors
+[colors.normal]
+black       = '#0e181f'
+red         = '#de6e7c'
+green       = '#90ff6b'
+yellow      = '#b77e63'
+blue        = '#8190d4'
+magenta     = '#b279a7'
+cyan        = '#66a5ad'
+white       = '#c6d5cf'
+
+# Bright colors
+[colors.bright]
+black       = '#263944'
+red         = '#e8838f'
+green       = '#a0ff85'
+yellow      = '#d68c67'
+blue        = '#92a0e2'
+magenta     = '#cf86c1'
+cyan        = '#65b8c1'
+white       = '#98a39e'

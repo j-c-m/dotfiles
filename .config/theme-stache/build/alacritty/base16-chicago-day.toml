@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Chicago Day
+# Author:   Wendell, Ryan &lt;ryanjwendell@gmail.com&gt;
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#e8f0ea'
+foreground  = '#364c40'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#e8f0ea'
+cursor      = '#364c40'
+
+# Selection colors
+[colors.selection]
+background  = '#2a3b32'
+text        = '#d1e0d7'
+
+# Normal colors
+[colors.normal]
+black       = '#e8f0ea'
+red         = '#c60c30'
+green       = '#009b3a'
+yellow      = '#968400'
+blue        = '#522398'
+magenta     = '#e27ea6'
+cyan        = '#00a1de'
+white       = '#364c40'
+
+# Bright colors
+[colors.bright]
+black       = '#8a9a91'
+red         = '#c60c30'
+green       = '#009b3a'
+yellow      = '#968400'
+blue        = '#522398'
+magenta     = '#e27ea6'
+cyan        = '#00a1de'
+white       = '#1e2a24'

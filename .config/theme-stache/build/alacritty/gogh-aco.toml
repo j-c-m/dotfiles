@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Aco
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1f1305'
+foreground  = '#b4e1fd'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#3f3f3f'
+cursor      = '#b4e1fd'
+
+# Selection colors
+[colors.selection]
+background  = '#b4e1fd'
+text        = '#1f1305'
+
+# Normal colors
+[colors.normal]
+black       = '#3f3f3f'
+red         = '#ff0883'
+green       = '#83ff08'
+yellow      = '#ff8308'
+blue        = '#0883ff'
+magenta     = '#8308ff'
+cyan        = '#08ff83'
+white       = '#bebebe'
+
+# Bright colors
+[colors.bright]
+black       = '#474747'
+red         = '#ff1e8e'
+green       = '#8eff1e'
+yellow      = '#ff8e1e'
+blue        = '#1e8eff'
+magenta     = '#8e1eff'
+cyan        = '#1eff8e'
+white       = '#c4c4c4'

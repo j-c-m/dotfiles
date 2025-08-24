@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Frontend Galaxy
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1d2837'
+foreground  = '#ffffff'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#ffffff'
+
+# Selection colors
+[colors.selection]
+background  = '#ffffff'
+text        = '#1d2837'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#f9555f'
+green       = '#21b089'
+yellow      = '#fef02a'
+blue        = '#589df6'
+magenta     = '#944d95'
+cyan        = '#1f9ee7'
+white       = '#bbbbbb'
+
+# Bright colors
+[colors.bright]
+black       = '#555555'
+red         = '#fa8c8f'
+green       = '#35bb9a'
+yellow      = '#ffff55'
+blue        = '#589df6'
+magenta     = '#e75699'
+cyan        = '#3979bc'
+white       = '#ffffff'

@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Github Light
+# Author:   Tinted Theming (https://github.com/tinted-theming)
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#eaeef2'
+foreground  = '#424a53'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#eaeef2'
+cursor      = '#424a53'
+
+# Selection colors
+[colors.selection]
+background  = '#32383f'
+text        = '#d0d7de'
+
+# Normal colors
+[colors.normal]
+black       = '#eaeef2'
+red         = '#fa4549'
+green       = '#2da44e'
+yellow      = '#bf8700'
+blue        = '#218bff'
+magenta     = '#a475f9'
+cyan        = '#339d9b'
+white       = '#424a53'
+
+# Bright colors
+[colors.bright]
+black       = '#8c959f'
+red         = '#ff8182'
+green       = '#4ac26b'
+yellow      = '#d4a72c'
+blue        = '#54aeff'
+magenta     = '#c297ff'
+cyan        = '#49bcb7'
+white       = '#1f2328'

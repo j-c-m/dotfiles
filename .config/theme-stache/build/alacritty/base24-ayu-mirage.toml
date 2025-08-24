@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Ayu Mirage
+# Author:   Tinted Theming (https://github.com/tinted-theming), Ayu Theme (https://github.com/ayu-theme)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1f2430'
+foreground  = '#cccac2'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#1f2430'
+cursor      = '#cccac2'
+
+# Selection colors
+[colors.selection]
+background  = '#d9d7ce'
+text        = '#242936'
+
+# Normal colors
+[colors.normal]
+black       = '#1f2430'
+red         = '#f28779'
+green       = '#d5ff80'
+yellow      = '#ffd173'
+blue        = '#73d0ff'
+magenta     = '#d4bfff'
+cyan        = '#95e6cb'
+white       = '#cccac2'
+
+# Bright colors
+[colors.bright]
+black       = '#4a5059'
+red         = '#ff6666'
+green       = '#87d963'
+yellow      = '#ffcc66'
+blue        = '#80b0ff'
+magenta     = '#b692ff'
+cyan        = '#5ccfe6'
+white       = '#f3f4f5'

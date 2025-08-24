@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Shades of Purple
+# Author:   Iolar Demartini Junior (http://github.com/demartini), based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1e1e3f'
+foreground  = '#c7c7c7'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#1e1e3f'
+cursor      = '#c7c7c7'
+
+# Selection colors
+[colors.selection]
+background  = '#ff77ff'
+text        = '#43d426'
+
+# Normal colors
+[colors.normal]
+black       = '#1e1e3f'
+red         = '#d90429'
+green       = '#3ad900'
+yellow      = '#ffe700'
+blue        = '#6943ff'
+magenta     = '#ff2c70'
+cyan        = '#00c5c7'
+white       = '#c7c7c7'
+
+# Bright colors
+[colors.bright]
+black       = '#808080'
+red         = '#d90429'
+green       = '#3ad900'
+yellow      = '#ffe700'
+blue        = '#6943ff'
+magenta     = '#ff2c70'
+cyan        = '#00c5c7'
+white       = '#ffffff'

@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Tango Adapted
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#fffefe'
+foreground  = '#d0d4cb'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#fffefe'
+cursor      = '#d0d4cb'
+
+# Selection colors
+[colors.selection]
+background  = '#e6eae1'
+text        = '#000000'
+
+# Normal colors
+[colors.normal]
+black       = '#fffefe'
+red         = '#ff0000'
+green       = '#59d500'
+yellow      = '#88c9ff'
+blue        = '#00a1ff'
+magenta     = '#c17ecb'
+cyan        = '#00d0d6'
+white       = '#d0d4cb'
+
+# Bright colors
+[colors.bright]
+black       = '#a4a89f'
+red         = '#ff0012'
+green       = '#93fe00'
+yellow      = '#fff021'
+blue        = '#88c9ff'
+magenta     = '#e8a6e1'
+cyan        = '#00fdff'
+white       = '#f6f6f4'

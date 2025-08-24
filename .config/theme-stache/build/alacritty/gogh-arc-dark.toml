@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Arc Dark
+# Author:   https://hesamrad.com
+# Variant:  Dark
+
+# Default colors
+[colors.primary]
+background  = '#0d1117'
+foreground  = '#9198a1'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#0d1117'
+cursor      = '#00ff00'
+
+# Selection colors
+[colors.selection]
+background  = '#9198a1'
+text        = '#0d1117'
+
+# Normal colors
+[colors.normal]
+black       = '#0d1117'
+red         = '#c32424'
+green       = '#24c391'
+yellow      = '#c3a924'
+blue        = '#2455c3'
+magenta     = '#c224c3'
+cyan        = '#24bac3'
+white       = '#e8ecf2'
+
+# Bright colors
+[colors.bright]
+black       = '#3b4d68'
+red         = '#d93030'
+green       = '#30d9a4'
+yellow      = '#d9bd30'
+blue        = '#3063d9'
+magenta     = '#d930d9'
+cyan        = '#30d1d9'
+white       = '#ffffff'

@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    OneDark Dark
+# Author:   olimorris (https://github.com/olimorris)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#000000'
+foreground  = '#abb2bf'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#abb2bf'
+
+# Selection colors
+[colors.selection]
+background  = '#b6bdca'
+text        = '#1c1f24'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#ef596f'
+green       = '#89ca78'
+yellow      = '#e5c07b'
+blue        = '#61afef'
+magenta     = '#d55fde'
+cyan        = '#2bbac5'
+white       = '#abb2bf'
+
+# Bright colors
+[colors.bright]
+black       = '#434852'
+red         = '#ef596f'
+green       = '#89ca78'
+yellow      = '#e5c07b'
+blue        = '#61afef'
+magenta     = '#d55fde'
+cyan        = '#2bbac5'
+white       = '#c8ccd4'

@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    caroline
+# Author:   ed (https://codeberg.org/ed)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1c1213'
+foreground  = '#a87569'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#1c1213'
+cursor      = '#a87569'
+
+# Selection colors
+[colors.selection]
+background  = '#c58d7b'
+text        = '#3a2425'
+
+# Normal colors
+[colors.normal]
+black       = '#1c1213'
+red         = '#c24f57'
+green       = '#806c61'
+yellow      = '#f28171'
+blue        = '#684c59'
+magenta     = '#a63650'
+cyan        = '#6b6566'
+white       = '#a87569'
+
+# Bright colors
+[colors.bright]
+black       = '#6d4745'
+red         = '#c24f57'
+green       = '#806c61'
+yellow      = '#f28171'
+blue        = '#684c59'
+magenta     = '#a63650'
+cyan        = '#6b6566'
+white       = '#e3a68c'

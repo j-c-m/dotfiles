@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Man Page
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#fef49c'
+foreground  = '#b2b2b2'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#fef49c'
+cursor      = '#b2b2b2'
+
+# Selection colors
+[colors.selection]
+background  = '#cccccc'
+text        = '#000000'
+
+# Normal colors
+[colors.normal]
+black       = '#fef49c'
+red         = '#cc0000'
+green       = '#00a600'
+yellow      = '#0000ff'
+blue        = '#0000b2'
+magenta     = '#b200b2'
+cyan        = '#00a6b2'
+white       = '#b2b2b2'
+
+# Bright colors
+[colors.bright]
+black       = '#7f7f7f'
+red         = '#e50000'
+green       = '#00d900'
+yellow      = '#e5e500'
+blue        = '#0000ff'
+magenta     = '#e500e5'
+cyan        = '#00e5e5'
+white       = '#e5e5e5'

@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Medallion
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1d1908'
+foreground  = '#cac296'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#cac296'
+
+# Selection colors
+[colors.selection]
+background  = '#cac296'
+text        = '#1d1908'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#b64c00'
+green       = '#7c8b16'
+yellow      = '#d3bd26'
+blue        = '#616bb0'
+magenta     = '#8c5a90'
+cyan        = '#916c25'
+white       = '#cac29a'
+
+# Bright colors
+[colors.bright]
+black       = '#5e5219'
+red         = '#ff9149'
+green       = '#b2ca3b'
+yellow      = '#ffe54a'
+blue        = '#acb8ff'
+magenta     = '#ffa0ff'
+cyan        = '#ffbc51'
+white       = '#fed698'

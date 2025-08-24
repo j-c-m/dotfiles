@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Black Metal (Khold)
+# Author:   metalelf0 (https://github.com/metalelf0)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#000000'
+foreground  = '#c1c1c1'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#c1c1c1'
+
+# Selection colors
+[colors.selection]
+background  = '#999999'
+text        = '#121212'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#5f8787'
+green       = '#eceee3'
+yellow      = '#974b46'
+blue        = '#888888'
+magenta     = '#999999'
+cyan        = '#aaaaaa'
+white       = '#c1c1c1'
+
+# Bright colors
+[colors.bright]
+black       = '#333333'
+red         = '#5f8787'
+green       = '#eceee3'
+yellow      = '#974b46'
+blue        = '#888888'
+magenta     = '#999999'
+cyan        = '#aaaaaa'
+white       = '#c1c1c1'

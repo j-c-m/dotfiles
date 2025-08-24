@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Ocean Dark
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1c1f27'
+foreground  = '#979cac'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#4f4f4f'
+cursor      = '#979cac'
+
+# Selection colors
+[colors.selection]
+background  = '#979cac'
+text        = '#1c1f27'
+
+# Normal colors
+[colors.normal]
+black       = '#4f4f4f'
+red         = '#af4b57'
+green       = '#afd383'
+yellow      = '#e5c079'
+blue        = '#7d90a4'
+magenta     = '#a4799d'
+cyan        = '#85a6a5'
+white       = '#eeedee'
+
+# Bright colors
+[colors.bright]
+black       = '#7b7b7b'
+red         = '#af4b57'
+green       = '#ceffab'
+yellow      = '#fffecc'
+blue        = '#b5dcfe'
+magenta     = '#fb9bfe'
+cyan        = '#dfdffd'
+white       = '#fefffe'

@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Jabuti
+# Author:   https://github.com/notusknot
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#292a37'
+foreground  = '#c0cbe3'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#292a37'
+cursor      = '#c0cbe3'
+
+# Selection colors
+[colors.selection]
+background  = '#d9e0ee'
+text        = '#343545'
+
+# Normal colors
+[colors.normal]
+black       = '#292a37'
+red         = '#ec6a88'
+green       = '#3fdaa4'
+yellow      = '#e1c697'
+blue        = '#3fc6de'
+magenta     = '#be95ff'
+cyan        = '#ff7eb6'
+white       = '#c0cbe3'
+
+# Bright colors
+[colors.bright]
+black       = '#45475d'
+red         = '#ec6a88'
+green       = '#3fdaa4'
+yellow      = '#e1c697'
+blue        = '#3fc6de'
+magenta     = '#be95ff'
+cyan        = '#ff7eb6'
+white       = '#ffffff'

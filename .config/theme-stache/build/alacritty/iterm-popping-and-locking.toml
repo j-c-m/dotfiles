@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Popping and Locking
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#181921'
+foreground  = '#ebdbb2'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#1d2021'
+cursor      = '#c7c7c7'
+
+# Selection colors
+[colors.selection]
+background  = '#ebdbb2'
+text        = '#928374'
+
+# Normal colors
+[colors.normal]
+black       = '#1d2021'
+red         = '#cc241d'
+green       = '#98971a'
+yellow      = '#d79921'
+blue        = '#458588'
+magenta     = '#b16286'
+cyan        = '#689d6a'
+white       = '#a89984'
+
+# Bright colors
+[colors.bright]
+black       = '#928374'
+red         = '#f42c3e'
+green       = '#b8bb26'
+yellow      = '#fabd2f'
+blue        = '#99c6ca'
+magenta     = '#d3869b'
+cyan        = '#7ec16e'
+white       = '#ebdbb2'

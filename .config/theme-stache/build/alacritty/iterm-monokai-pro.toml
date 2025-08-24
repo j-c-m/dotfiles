@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Monokai Pro
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#2c2a2e'
+foreground  = '#fbfbfa'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#2c2a2e'
+cursor      = '#c1c0c0'
+
+# Selection colors
+[colors.selection]
+background  = '#5b585b'
+text        = '#fbfbfa'
+
+# Normal colors
+[colors.normal]
+black       = '#2c2a2e'
+red         = '#ff6187'
+green       = '#a8db75'
+yellow      = '#ffd766'
+blue        = '#fb9866'
+magenta     = '#ab9cf1'
+cyan        = '#78dbe8'
+white       = '#fbfbfa'
+
+# Bright colors
+[colors.bright]
+black       = '#717071'
+red         = '#ff6187'
+green       = '#a8db75'
+yellow      = '#ffd766'
+blue        = '#fb9866'
+magenta     = '#ab9cf1'
+cyan        = '#78dbe8'
+white       = '#fbfbfa'

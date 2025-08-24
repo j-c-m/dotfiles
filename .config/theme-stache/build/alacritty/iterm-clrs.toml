@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    CLRS
+# Author:   unknown
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#ffffff'
+foreground  = '#262626'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#6fd2fc'
+
+# Selection colors
+[colors.selection]
+background  = '#6fd2fc'
+text        = '#031630'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#f72729'
+green       = '#32895c'
+yellow      = '#f96f1c'
+blue        = '#125ccf'
+magenta     = '#9f00bc'
+cyan        = '#32c2c0'
+white       = '#b2b2b2'
+
+# Bright colors
+[colors.bright]
+black       = '#545753'
+red         = '#fb0416'
+green       = '#2cc631'
+yellow      = '#fcd627'
+blue        = '#156ffe'
+magenta     = '#e800b0'
+cyan        = '#39d5ce'
+white       = '#ededec'

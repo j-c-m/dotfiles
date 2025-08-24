@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Atelier Plateau
+# Author:   Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/plateau)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1b1818'
+foreground  = '#7e7777'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#1b1818'
+cursor      = '#7e7777'
+
+# Selection colors
+[colors.selection]
+background  = '#7e7777'
+text        = '#1b1818'
+
+# Normal colors
+[colors.normal]
+black       = '#1b1818'
+red         = '#ca4949'
+green       = '#4b8b8b'
+yellow      = '#a06e3b'
+blue        = '#7272ca'
+magenta     = '#8464c4'
+cyan        = '#5485b6'
+white       = '#8a8585'
+
+# Bright colors
+[colors.bright]
+black       = '#655d5d'
+red         = '#b45a3c'
+green       = '#4b8b8b'
+yellow      = '#a06e3b'
+blue        = '#7272ca'
+magenta     = '#8464c4'
+cyan        = '#5485b6'
+white       = '#f4ecec'

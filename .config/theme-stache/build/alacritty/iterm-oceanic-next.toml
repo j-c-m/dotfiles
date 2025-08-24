@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Oceanic-Next
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#152b34'
+foreground  = '#c0c4cd'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#152b34'
+cursor      = '#c0c4cd'
+
+# Selection colors
+[colors.selection]
+background  = '#4f5a65'
+text        = '#c0c4cd'
+
+# Normal colors
+[colors.normal]
+black       = '#152b34'
+red         = '#eb5f66'
+green       = '#99c693'
+yellow      = '#fac762'
+blue        = '#6698cb'
+magenta     = '#c493c4'
+cyan        = '#5fb2b2'
+white       = '#fefefe'
+
+# Bright colors
+[colors.bright]
+black       = '#65727d'
+red         = '#eb5f66'
+green       = '#99c693'
+yellow      = '#fac762'
+blue        = '#6698cb'
+magenta     = '#c493c4'
+cyan        = '#5fb2b2'
+white       = '#fefefe'

@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    iTerm2 Tango Light
+# Author:   unknown
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#fffeff'
+foreground  = '#000000'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#000000'
+
+# Selection colors
+[colors.selection]
+background  = '#c1ddff'
+text        = '#000000'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#d71e00'
+green       = '#5da602'
+yellow      = '#cfad00'
+blue        = '#417ab3'
+magenta     = '#88658d'
+cyan        = '#00a7aa'
+white       = '#dbded8'
+
+# Bright colors
+[colors.bright]
+black       = '#676965'
+red         = '#f44135'
+green       = '#98e342'
+yellow      = '#fcea60'
+blue        = '#83afd8'
+magenta     = '#bc93b6'
+cyan        = '#37e5e7'
+white       = '#f1f1ef'

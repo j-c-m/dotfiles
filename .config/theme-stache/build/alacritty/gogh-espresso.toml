@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Espresso
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#323232'
+foreground  = '#ffffff'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#353535'
+cursor      = '#ffffff'
+
+# Selection colors
+[colors.selection]
+background  = '#ffffff'
+text        = '#323232'
+
+# Normal colors
+[colors.normal]
+black       = '#353535'
+red         = '#d25252'
+green       = '#a5c261'
+yellow      = '#ffc66d'
+blue        = '#6c99bb'
+magenta     = '#d197d9'
+cyan        = '#bed6ff'
+white       = '#eeeeec'
+
+# Bright colors
+[colors.bright]
+black       = '#535353'
+red         = '#f00c0c'
+green       = '#c2e075'
+yellow      = '#e1e48b'
+blue        = '#8ab7d9'
+magenta     = '#efb5f7'
+cyan        = '#dcf4ff'
+white       = '#ffffff'

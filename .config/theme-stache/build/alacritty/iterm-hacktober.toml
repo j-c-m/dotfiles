@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Hacktober
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#141414'
+foreground  = '#c9c9c9'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#191918'
+cursor      = '#c9c9c9'
+
+# Selection colors
+[colors.selection]
+background  = '#141414'
+text        = '#c9c9c9'
+
+# Normal colors
+[colors.normal]
+black       = '#191918'
+red         = '#b34538'
+green       = '#587744'
+yellow      = '#d08949'
+blue        = '#206ec5'
+magenta     = '#864651'
+cyan        = '#ac9166'
+white       = '#f1eee7'
+
+# Bright colors
+[colors.bright]
+black       = '#2c2b2a'
+red         = '#b33323'
+green       = '#42824a'
+yellow      = '#c75a22'
+blue        = '#5389c5'
+magenta     = '#e795a5'
+cyan        = '#ebc587'
+white       = '#ffffff'

@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Arc Light
+# Author:   https://hesamrad.com
+# Variant:  Light
+
+# Default colors
+[colors.primary]
+background  = '#e8ecf2'
+foreground  = '#333333'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#0d1117'
+cursor      = '#00ff00'
+
+# Selection colors
+[colors.selection]
+background  = '#333333'
+text        = '#e8ecf2'
+
+# Normal colors
+[colors.normal]
+black       = '#0d1117'
+red         = '#c32424'
+green       = '#24c391'
+yellow      = '#c3a924'
+blue        = '#2455c3'
+magenta     = '#c224c3'
+cyan        = '#24bac3'
+white       = '#e8ecf2'
+
+# Bright colors
+[colors.bright]
+black       = '#3b4d68'
+red         = '#be2323'
+green       = '#23be8d'
+yellow      = '#bea423'
+blue        = '#2351be'
+magenta     = '#be23be'
+cyan        = '#23b6be'
+white       = '#ffffff'

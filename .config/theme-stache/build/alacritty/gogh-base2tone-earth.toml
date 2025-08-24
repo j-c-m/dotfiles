@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Base2Tone Earth
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#322d29'
+foreground  = '#b5a9a1'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#322d29'
+cursor      = '#9c8349'
+
+# Selection colors
+[colors.selection]
+background  = '#b5a9a1'
+text        = '#322d29'
+
+# Normal colors
+[colors.normal]
+black       = '#322d29'
+red         = '#816d5f'
+green       = '#d9b154'
+yellow      = '#fcc440'
+blue        = '#88786d'
+magenta     = '#d9b154'
+cyan        = '#967e6e'
+white       = '#b5a9a1'
+
+# Bright colors
+[colors.bright]
+black       = '#6a5f58'
+red         = '#e6b84d'
+green       = '#3f3a37'
+yellow      = '#5b534d'
+blue        = '#796b63'
+magenta     = '#dfb99f'
+cyan        = '#cda956'
+white       = '#fff3eb'

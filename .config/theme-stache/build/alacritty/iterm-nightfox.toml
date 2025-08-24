@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    nightfox
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#192230'
+foreground  = '#cccdce'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#393b44'
+cursor      = '#cccdce'
+
+# Selection colors
+[colors.selection]
+background  = '#2a3b51'
+text        = '#cccdce'
+
+# Normal colors
+[colors.normal]
+black       = '#393b44'
+red         = '#c94f6d'
+green       = '#81b199'
+yellow      = '#dac073'
+blue        = '#709bd6'
+magenta     = '#9c79d6'
+cyan        = '#63ccce'
+white       = '#dfdfe0'
+
+# Bright colors
+[colors.bright]
+black       = '#57585f'
+red         = '#d06883'
+green       = '#8eb9a3'
+yellow      = '#e0c988'
+blue        = '#85abdc'
+magenta     = '#b9a1e1'
+cyan        = '#7ad5d6'
+white       = '#e3e3e4'

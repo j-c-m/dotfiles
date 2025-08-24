@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Oceanic Material
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1c262b'
+foreground  = '#989898'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#1c262b'
+cursor      = '#989898'
+
+# Selection colors
+[colors.selection]
+background  = '#a4a4a4'
+text        = '#000000'
+
+# Normal colors
+[colors.normal]
+black       = '#1c262b'
+red         = '#ee2a29'
+green       = '#3fa33f'
+yellow      = '#53a4f3'
+blue        = '#1d80ef'
+magenta     = '#8800a0'
+cyan        = '#16aec9'
+white       = '#989898'
+
+# Bright colors
+[colors.bright]
+black       = '#818181'
+red         = '#dc5b60'
+green       = '#70be71'
+yellow      = '#fef063'
+blue        = '#53a4f3'
+magenta     = '#a94dbb'
+cyan        = '#42c6d9'
+white       = '#fffefe'

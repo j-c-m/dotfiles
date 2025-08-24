@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Primer Dark
+# Author:   Jimmy Lin
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#010409'
+foreground  = '#b1bac4'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#010409'
+cursor      = '#b1bac4'
+
+# Selection colors
+[colors.selection]
+background  = '#c9d1d9'
+text        = '#21262d'
+
+# Normal colors
+[colors.normal]
+black       = '#010409'
+red         = '#ff7b72'
+green       = '#3fb950'
+yellow      = '#d29922'
+blue        = '#58a6ff'
+magenta     = '#f778ba'
+cyan        = '#a5d6ff'
+white       = '#b1bac4'
+
+# Bright colors
+[colors.bright]
+black       = '#484f58'
+red         = '#ff7b72'
+green       = '#3fb950'
+yellow      = '#d29922'
+blue        = '#58a6ff'
+magenta     = '#f778ba'
+cyan        = '#a5d6ff'
+white       = '#f0f6fc'

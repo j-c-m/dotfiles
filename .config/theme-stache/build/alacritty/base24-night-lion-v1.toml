@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Night Lion V1
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#000000'
+foreground  = '#a1a1a1'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#a1a1a1'
+
+# Selection colors
+[colors.selection]
+background  = '#bbbbbb'
+text        = '#4c4c4c'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#bb0000'
+green       = '#5ede8f'
+yellow      = '#5555ff'
+blue        = '#266ad7'
+magenta     = '#bb00bb'
+cyan        = '#00d9df'
+white       = '#a1a1a1'
+
+# Bright colors
+[colors.bright]
+black       = '#6e6e6e'
+red         = '#ff5555'
+green       = '#55ff55'
+yellow      = '#ffff55'
+blue        = '#5555ff'
+magenta     = '#ff55ff'
+cyan        = '#55ffff'
+white       = '#ffffff'

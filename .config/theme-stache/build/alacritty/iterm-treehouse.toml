@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Treehouse
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#191919'
+foreground  = '#776b53'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#321200'
+cursor      = '#fac814'
+
+# Selection colors
+[colors.selection]
+background  = '#776b53'
+text        = '#fac800'
+
+# Normal colors
+[colors.normal]
+black       = '#321200'
+red         = '#b1270e'
+green       = '#44a900'
+yellow      = '#a9810b'
+blue        = '#578499'
+magenta     = '#96363c'
+cyan        = '#b2591d'
+white       = '#776b53'
+
+# Bright colors
+[colors.bright]
+black       = '#423625'
+red         = '#ed5c20'
+green       = '#55f237'
+yellow      = '#f1b731'
+blue        = '#85cfec'
+magenta     = '#e04b5a'
+cyan        = '#f07d14'
+white       = '#ffc800'

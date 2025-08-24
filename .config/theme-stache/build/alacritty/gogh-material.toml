@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Material
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1e282c'
+foreground  = '#c3c7d1'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#073641'
+cursor      = '#657b83'
+
+# Selection colors
+[colors.selection]
+background  = '#c3c7d1'
+text        = '#1e282c'
+
+# Normal colors
+[colors.normal]
+black       = '#073641'
+red         = '#eb606b'
+green       = '#c3e88d'
+yellow      = '#f7eb95'
+blue        = '#80cbc3'
+magenta     = '#ff2490'
+cyan        = '#aeddff'
+white       = '#ffffff'
+
+# Bright colors
+[colors.bright]
+black       = '#002b36'
+red         = '#eb606b'
+green       = '#c3e88d'
+yellow      = '#f7eb95'
+blue        = '#7dc6bf'
+magenta     = '#6c71c3'
+cyan        = '#34434d'
+white       = '#ffffff'

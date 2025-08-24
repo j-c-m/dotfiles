@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    lovelace
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1d1f28'
+foreground  = '#fdfdfd'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#282a36'
+cursor      = '#c574dd'
+
+# Selection colors
+[colors.selection]
+background  = '#c1ddff'
+text        = '#000000'
+
+# Normal colors
+[colors.normal]
+black       = '#282a36'
+red         = '#f37f97'
+green       = '#5adecd'
+yellow      = '#f2a272'
+blue        = '#8897f4'
+magenta     = '#c574dd'
+cyan        = '#79e6f3'
+white       = '#fdfdfd'
+
+# Bright colors
+[colors.bright]
+black       = '#414458'
+red         = '#ff4971'
+green       = '#18e3c8'
+yellow      = '#ff8037'
+blue        = '#556fff'
+magenta     = '#b043d1'
+cyan        = '#3fdcee'
+white       = '#bebec1'

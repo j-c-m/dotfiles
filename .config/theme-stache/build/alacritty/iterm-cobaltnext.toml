@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    CobaltNext
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#152b34'
+foreground  = '#d6deea'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#fec54c'
+
+# Selection colors
+[colors.selection]
+background  = '#4b5b67'
+text        = '#fefefe'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#fe517b'
+green       = '#8bc88e'
+yellow      = '#fec54c'
+blue        = '#409dd3'
+magenta     = '#cba3c7'
+cyan        = '#37b5b4'
+white       = '#d6deea'
+
+# Bright colors
+[colors.bright]
+black       = '#61737f'
+red         = '#e37d8a'
+green       = '#baddbb'
+yellow      = '#fedc90'
+blue        = '#7abfeb'
+magenta     = '#f3cbef'
+cyan        = '#83e4e3'
+white       = '#fefefe'

@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Nighty
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#2f2f2f'
+foreground  = '#dfdfdf'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#373d48'
+cursor      = '#dfdfdf'
+
+# Selection colors
+[colors.selection]
+background  = '#dfdfdf'
+text        = '#2f2f2f'
+
+# Normal colors
+[colors.normal]
+black       = '#373d48'
+red         = '#9b3e46'
+green       = '#095b32'
+yellow      = '#808020'
+blue        = '#1d3e6f'
+magenta     = '#823065'
+cyan        = '#3a7458'
+white       = '#828282'
+
+# Bright colors
+[colors.bright]
+black       = '#5c6370'
+red         = '#d0555f'
+green       = '#119955'
+yellow      = '#dfe048'
+blue        = '#4674b8'
+magenta     = '#ed86c9'
+cyan        = '#70d2a4'
+white       = '#dfdfdf'

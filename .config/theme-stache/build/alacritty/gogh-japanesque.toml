@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Japanesque
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1e1e1e'
+foreground  = '#f7f6ec'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#343935'
+cursor      = '#f7f6ec'
+
+# Selection colors
+[colors.selection]
+background  = '#f7f6ec'
+text        = '#1e1e1e'
+
+# Normal colors
+[colors.normal]
+black       = '#343935'
+red         = '#cf3f61'
+green       = '#7bb75b'
+yellow      = '#e9b32a'
+blue        = '#4c9ad4'
+magenta     = '#a57fc4'
+cyan        = '#389aad'
+white       = '#fafaf6'
+
+# Bright colors
+[colors.bright]
+black       = '#595b59'
+red         = '#d18fa6'
+green       = '#767f2c'
+yellow      = '#78592f'
+blue        = '#135979'
+magenta     = '#604291'
+cyan        = '#76bbca'
+white       = '#b2b5ae'

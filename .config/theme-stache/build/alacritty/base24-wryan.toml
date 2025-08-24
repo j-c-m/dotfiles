@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Wryan
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#101010'
+foreground  = '#768488'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#101010'
+cursor      = '#768488'
+
+# Selection colors
+[colors.selection]
+background  = '#899ca1'
+text        = '#333333'
+
+# Normal colors
+[colors.normal]
+black       = '#101010'
+red         = '#8c4665'
+green       = '#287373'
+yellow      = '#477ab3'
+blue        = '#395573'
+magenta     = '#5e468c'
+cyan        = '#31658c'
+white       = '#768488'
+
+# Bright colors
+[colors.bright]
+black       = '#505456'
+red         = '#bf4d80'
+green       = '#53a6a6'
+yellow      = '#9e9ecb'
+blue        = '#477ab3'
+magenta     = '#7e62b3'
+cyan        = '#6096bf'
+white       = '#c0c0c0'

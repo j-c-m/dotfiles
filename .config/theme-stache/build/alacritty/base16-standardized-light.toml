@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    standardized-light
+# Author:   ali (https://github.com/ali-githb/base16-standardized-scheme)
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#ffffff'
+foreground  = '#444444'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#ffffff'
+cursor      = '#444444'
+
+# Selection colors
+[colors.selection]
+background  = '#333333'
+text        = '#eeeeee'
+
+# Normal colors
+[colors.normal]
+black       = '#ffffff'
+red         = '#d03e3e'
+green       = '#31861f'
+yellow      = '#ad8200'
+blue        = '#3173c5'
+magenta     = '#9e57c2'
+cyan        = '#00998f'
+white       = '#444444'
+
+# Bright colors
+[colors.bright]
+black       = '#767676'
+red         = '#d03e3e'
+green       = '#31861f'
+yellow      = '#ad8200'
+blue        = '#3173c5'
+magenta     = '#9e57c2'
+cyan        = '#00998f'
+white       = '#222222'

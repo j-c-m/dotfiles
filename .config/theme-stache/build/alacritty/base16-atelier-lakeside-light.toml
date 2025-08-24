@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Atelier Lakeside Light
+# Author:   Bram de Haan (http://atelierbramdehaan.nl)
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#ebf8ff'
+foreground  = '#516d7b'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#ebf8ff'
+cursor      = '#516d7b'
+
+# Selection colors
+[colors.selection]
+background  = '#1f292e'
+text        = '#c1e4f6'
+
+# Normal colors
+[colors.normal]
+black       = '#ebf8ff'
+red         = '#d22d72'
+green       = '#568c3b'
+yellow      = '#8a8a0f'
+blue        = '#257fad'
+magenta     = '#6b6bb8'
+cyan        = '#2d8f6f'
+white       = '#516d7b'
+
+# Bright colors
+[colors.bright]
+black       = '#7195a8'
+red         = '#d22d72'
+green       = '#568c3b'
+yellow      = '#8a8a0f'
+blue        = '#257fad'
+magenta     = '#6b6bb8'
+cyan        = '#2d8f6f'
+white       = '#161b1d'

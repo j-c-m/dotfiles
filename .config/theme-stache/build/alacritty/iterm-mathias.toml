@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Mathias
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#000000'
+foreground  = '#bbbbbb'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#bbbbbb'
+
+# Selection colors
+[colors.selection]
+background  = '#555555'
+text        = '#f2f2f2'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#e52222'
+green       = '#a6e32d'
+yellow      = '#fc951e'
+blue        = '#c48dff'
+magenta     = '#fa2573'
+cyan        = '#67d9f0'
+white       = '#f2f2f2'
+
+# Bright colors
+[colors.bright]
+black       = '#555555'
+red         = '#ff5555'
+green       = '#55ff55'
+yellow      = '#ffff55'
+blue        = '#5555ff'
+magenta     = '#ff55ff'
+cyan        = '#55ffff'
+white       = '#ffffff'

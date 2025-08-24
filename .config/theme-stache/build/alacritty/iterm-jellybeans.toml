@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Jellybeans
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#121212'
+foreground  = '#dedede'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#929292'
+cursor      = '#ffa460'
+
+# Selection colors
+[colors.selection]
+background  = '#474e91'
+text        = '#f3f3f3'
+
+# Normal colors
+[colors.normal]
+black       = '#929292'
+red         = '#e27373'
+green       = '#93b979'
+yellow      = '#ffba7b'
+blue        = '#97bedc'
+magenta     = '#e1c0fa'
+cyan        = '#00988e'
+white       = '#dedede'
+
+# Bright colors
+[colors.bright]
+black       = '#bdbdbd'
+red         = '#ffa1a1'
+green       = '#bddeab'
+yellow      = '#ffdca0'
+blue        = '#b1d8f6'
+magenta     = '#fbdaff'
+cyan        = '#1ab2a8'
+white       = '#ffffff'

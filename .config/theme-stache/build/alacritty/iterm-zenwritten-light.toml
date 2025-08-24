@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    zenwritten_light
+# Author:   unknown
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#eeeeee'
+foreground  = '#353535'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#eeeeee'
+cursor      = '#353535'
+
+# Selection colors
+[colors.selection]
+background  = '#d7d7d7'
+text        = '#353535'
+
+# Normal colors
+[colors.normal]
+black       = '#eeeeee'
+red         = '#a8334c'
+green       = '#4f6c31'
+yellow      = '#944926'
+blue        = '#286386'
+magenta     = '#88507c'
+cyan        = '#3b8992'
+white       = '#353535'
+
+# Bright colors
+[colors.bright]
+black       = '#c6c3c3'
+red         = '#94253e'
+green       = '#3f5a21'
+yellow      = '#803c1b'
+blue        = '#1c5573'
+magenta     = '#7b3b70'
+cyan        = '#2b747c'
+white       = '#5c5c5c'

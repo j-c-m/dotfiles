@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Da One Sea
+# Author:   NNB (https://github.com/NNBnh)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#22273d'
+foreground  = '#ffffff'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#22273d'
+cursor      = '#ffffff'
+
+# Selection colors
+[colors.selection]
+background  = '#ffffff'
+text        = '#374059'
+
+# Normal colors
+[colors.normal]
+black       = '#22273d'
+red         = '#fa7883'
+green       = '#98c379'
+yellow      = '#ff9470'
+blue        = '#6bb8ff'
+magenta     = '#e799ff'
+cyan        = '#8af5ff'
+white       = '#ffffff'
+
+# Bright colors
+[colors.bright]
+black       = '#878d96'
+red         = '#fa7883'
+green       = '#98c379'
+yellow      = '#ff9470'
+blue        = '#6bb8ff'
+magenta     = '#e799ff'
+cyan        = '#8af5ff'
+white       = '#ffffff'

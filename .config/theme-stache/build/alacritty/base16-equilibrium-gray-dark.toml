@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Equilibrium Gray Dark
+# Author:   Carlo Abelli
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#111111'
+foreground  = '#ababab'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#111111'
+cursor      = '#ababab'
+
+# Selection colors
+[colors.selection]
+background  = '#c6c6c6'
+text        = '#1b1b1b'
+
+# Normal colors
+[colors.normal]
+black       = '#111111'
+red         = '#f04339'
+green       = '#7f8b00'
+yellow      = '#bb8801'
+blue        = '#008dd1'
+magenta     = '#6a7fd2'
+cyan        = '#00948b'
+white       = '#ababab'
+
+# Bright colors
+[colors.bright]
+black       = '#777777'
+red         = '#f04339'
+green       = '#7f8b00'
+yellow      = '#bb8801'
+blue        = '#008dd1'
+magenta     = '#6a7fd2'
+cyan        = '#00948b'
+white       = '#e2e2e2'

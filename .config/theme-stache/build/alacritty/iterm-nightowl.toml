@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    NightOwl
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#011627'
+foreground  = '#d6deeb'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#011627'
+cursor      = '#7e57c2'
+
+# Selection colors
+[colors.selection]
+background  = '#5f7e97'
+text        = '#dee4ee'
+
+# Normal colors
+[colors.normal]
+black       = '#011627'
+red         = '#ef5350'
+green       = '#22da6e'
+yellow      = '#addb67'
+blue        = '#82aaff'
+magenta     = '#c792ea'
+cyan        = '#21c7a8'
+white       = '#ffffff'
+
+# Bright colors
+[colors.bright]
+black       = '#575656'
+red         = '#ef5350'
+green       = '#22da6e'
+yellow      = '#ffeb95'
+blue        = '#82aaff'
+magenta     = '#c792ea'
+cyan        = '#7fdbca'
+white       = '#ffffff'

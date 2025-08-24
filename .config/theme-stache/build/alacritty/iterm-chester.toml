@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Chester
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#2c3643'
+foreground  = '#ffffff'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#080200'
+cursor      = '#b4b1b1'
+
+# Selection colors
+[colors.selection]
+background  = '#67747c'
+text        = '#ffffff'
+
+# Normal colors
+[colors.normal]
+black       = '#080200'
+red         = '#fa5e5b'
+green       = '#16c98d'
+yellow      = '#ffc83f'
+blue        = '#288ad6'
+magenta     = '#d34590'
+cyan        = '#28ddde'
+white       = '#e7e7e7'
+
+# Bright colors
+[colors.bright]
+black       = '#6f6b67'
+red         = '#fa5e5b'
+green       = '#16c98d'
+yellow      = '#feef6d'
+blue        = '#278ad6'
+magenta     = '#d34590'
+cyan        = '#27dede'
+white       = '#ffffff'

@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Doom Peacock
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#2b2a27'
+foreground  = '#ecdfcd'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#1c1f24'
+cursor      = '#9c9c9d'
+
+# Selection colors
+[colors.selection]
+background  = '#a60033'
+text        = '#fefefe'
+
+# Normal colors
+[colors.normal]
+black       = '#1c1f24'
+red         = '#cb4b16'
+green       = '#26a6a6'
+yellow      = '#bcd42a'
+blue        = '#2a6bc5'
+magenta     = '#a9a1e1'
+cyan        = '#5699af'
+white       = '#ede0ce'
+
+# Bright colors
+[colors.bright]
+black       = '#2b2a27'
+red         = '#ff5d38'
+green       = '#98be65'
+yellow      = '#e5f871'
+blue        = '#51afef'
+magenta     = '#c678dd'
+cyan        = '#46d9ff'
+white       = '#dfdfdf'

@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Violet Dark
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1b1d1f'
+foreground  = '#a7a59f'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#1b1d1f'
+cursor      = '#a7a59f'
+
+# Selection colors
+[colors.selection]
+background  = '#c8c5bc'
+text        = '#56595c'
+
+# Normal colors
+[colors.normal]
+black       = '#1b1d1f'
+red         = '#c94c22'
+green       = '#85981c'
+yellow      = '#2075c7'
+blue        = '#2e8bce'
+magenta     = '#d13a82'
+cyan        = '#32a198'
+white       = '#a7a59f'
+
+# Bright colors
+[colors.bright]
+black       = '#656767'
+red         = '#bd3612'
+green       = '#728903'
+yellow      = '#a57704'
+blue        = '#2075c7'
+magenta     = '#c61b6e'
+cyan        = '#259185'
+white       = '#c8c5bd'

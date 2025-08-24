@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Grass
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#13773d'
+foreground  = '#fff0a5'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#fff0a5'
+
+# Selection colors
+[colors.selection]
+background  = '#fff0a5'
+text        = '#13773d'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#bb0000'
+green       = '#00bb00'
+yellow      = '#e7b000'
+blue        = '#0000a3'
+magenta     = '#950062'
+cyan        = '#00bbbb'
+white       = '#bbbbbb'
+
+# Bright colors
+[colors.bright]
+black       = '#555555'
+red         = '#bb0000'
+green       = '#00bb00'
+yellow      = '#e7b000'
+blue        = '#0000bb'
+magenta     = '#ff55ff'
+cyan        = '#55ffff'
+white       = '#ffffff'

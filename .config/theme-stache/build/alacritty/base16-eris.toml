@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    eris
+# Author:   ed (https://codeberg.org/ed)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#0a0920'
+foreground  = '#606bac'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#0a0920'
+cursor      = '#606bac'
+
+# Selection colors
+[colors.selection]
+background  = '#7986c5'
+text        = '#13133a'
+
+# Normal colors
+[colors.normal]
+black       = '#0a0920'
+red         = '#f768a3'
+green       = '#faaea2'
+yellow      = '#faaea2'
+blue        = '#258fc4'
+magenta     = '#f768a3'
+cyan        = '#258fc4'
+white       = '#606bac'
+
+# Bright colors
+[colors.bright]
+black       = '#333773'
+red         = '#f768a3'
+green       = '#faaea2'
+yellow      = '#faaea2'
+blue        = '#258fc4'
+magenta     = '#f768a3'
+cyan        = '#258fc4'
+white       = '#9aaae5'

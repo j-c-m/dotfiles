@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    IRIX Console
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#0c0b0b'
+foreground  = '#f2f2f2'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#191919'
+cursor      = '#c7c7c7'
+
+# Selection colors
+[colors.selection]
+background  = '#c1ddff'
+text        = '#000000'
+
+# Normal colors
+[colors.normal]
+black       = '#191919'
+red         = '#d42426'
+green       = '#36a226'
+yellow      = '#c19c27'
+blue        = '#0738e1'
+magenta     = '#911f9c'
+cyan        = '#4496de'
+white       = '#cccbcb'
+
+# Bright colors
+[colors.bright]
+black       = '#767575'
+red         = '#f34e59'
+green       = '#44c730'
+yellow      = '#f9f1a7'
+blue        = '#3f78ff'
+magenta     = '#c21ba2'
+cyan        = '#6ed7d6'
+white       = '#f2f1f1'

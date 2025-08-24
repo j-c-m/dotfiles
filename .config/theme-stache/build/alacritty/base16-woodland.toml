@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Woodland
+# Author:   Jay Cornwall (https://jcornwall.com)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#231e18'
+foreground  = '#cabcb1'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#231e18'
+cursor      = '#cabcb1'
+
+# Selection colors
+[colors.selection]
+background  = '#d7c8bc'
+text        = '#302b25'
+
+# Normal colors
+[colors.normal]
+black       = '#231e18'
+red         = '#d35c5c'
+green       = '#b7ba53'
+yellow      = '#e0ac16'
+blue        = '#88a4d3'
+magenta     = '#bb90e2'
+cyan        = '#6eb958'
+white       = '#cabcb1'
+
+# Bright colors
+[colors.bright]
+black       = '#9d8b70'
+red         = '#d35c5c'
+green       = '#b7ba53'
+yellow      = '#e0ac16'
+blue        = '#88a4d3'
+magenta     = '#bb90e2'
+cyan        = '#6eb958'
+white       = '#e4d4c8'

@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Material
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#eaeaea'
+foreground  = '#c3c3c3'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#eaeaea'
+cursor      = '#c3c3c3'
+
+# Selection colors
+[colors.selection]
+background  = '#eeeeee'
+text        = '#212121'
+
+# Normal colors
+[colors.normal]
+black       = '#eaeaea'
+red         = '#b7141e'
+green       = '#457b23'
+yellow      = '#53a4f3'
+blue        = '#134eb2'
+magenta     = '#550087'
+cyan        = '#0e707c'
+white       = '#c3c3c3'
+
+# Bright colors
+[colors.bright]
+black       = '#6d6d6d'
+red         = '#e83a3f'
+green       = '#7aba39'
+yellow      = '#fee92e'
+blue        = '#53a4f3'
+magenta     = '#a94dbb'
+cyan        = '#26bad1'
+white       = '#d8d8d8'

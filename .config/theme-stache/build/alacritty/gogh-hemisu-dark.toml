@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Hemisu Dark
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#000000'
+foreground  = '#ffffff'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#444444'
+cursor      = '#baffaa'
+
+# Selection colors
+[colors.selection]
+background  = '#ffffff'
+text        = '#000000'
+
+# Normal colors
+[colors.normal]
+black       = '#444444'
+red         = '#ff0054'
+green       = '#b1d630'
+yellow      = '#9d895e'
+blue        = '#67bee3'
+magenta     = '#b576bc'
+cyan        = '#569a9f'
+white       = '#ededed'
+
+# Bright colors
+[colors.bright]
+black       = '#777777'
+red         = '#d65e75'
+green       = '#baffaa'
+yellow      = '#ece1c8'
+blue        = '#9fd3e5'
+magenta     = '#deb3df'
+cyan        = '#b6e0e5'
+white       = '#ffffff'

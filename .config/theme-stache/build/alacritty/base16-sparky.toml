@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Sparky
+# Author:   Leila Sother (https://github.com/mixcoac)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#072b31'
+foreground  = '#f4f5f0'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#072b31'
+cursor      = '#f4f5f0'
+
+# Selection colors
+[colors.selection]
+background  = '#f5f5f1'
+text        = '#00313c'
+
+# Normal colors
+[colors.normal]
+black       = '#072b31'
+red         = '#ff585d'
+green       = '#78d64b'
+yellow      = '#fbdd40'
+blue        = '#4698cb'
+magenta     = '#d59ed7'
+cyan        = '#2dccd3'
+white       = '#f4f5f0'
+
+# Bright colors
+[colors.bright]
+black       = '#003b49'
+red         = '#ff585d'
+green       = '#78d64b'
+yellow      = '#fbdd40'
+blue        = '#4698cb'
+magenta     = '#d59ed7'
+cyan        = '#2dccd3'
+white       = '#ffffff'

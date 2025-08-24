@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Duotone Dark
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1f1c27'
+foreground  = '#b6a0ff'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#1f1c27'
+cursor      = '#ff9738'
+
+# Selection colors
+[colors.selection]
+background  = '#353146'
+text        = '#b6a2ff'
+
+# Normal colors
+[colors.normal]
+black       = '#1f1c27'
+red         = '#d8393d'
+green       = '#2dcc72'
+yellow      = '#d8b76e'
+blue        = '#ffc183'
+magenta     = '#dd8d40'
+cyan        = '#2388ff'
+white       = '#b6a0ff'
+
+# Bright colors
+[colors.bright]
+black       = '#353146'
+red         = '#d8393d'
+green       = '#2dcc72'
+yellow      = '#d8b76e'
+blue        = '#ffc183'
+magenta     = '#dd8d40'
+cyan        = '#2388ff'
+white       = '#e9e4ff'

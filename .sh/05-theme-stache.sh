@@ -1,18 +1,13 @@
 THEME_STACHE="${HOME}/.config/theme-stache"         # Directory for theme-stache
-DEFAULT_THEME="iterm-spacegray-eighties"            # Default theme name
 THEME_STACHE_BIN="${HOME}/bin/theme-stache"         # Path to theme-stache binary symlink
-
-if [[ ! -f ${HOME}/.shell_theme.sh ]]; then
-    ln -sf "${THEME_STACHE}/build/shell/${DEFAULT_THEME}.sh" "${HOME}/.shell_theme.sh"
-fi
 
 if [[ ! -f $THEME_STACHE_BIN ]]; then
     mkdir -p "${HOME}/bin"
     ln -sf "${THEME_STACHE}/theme-stache.py" "$THEME_STACHE_BIN"
 fi
 
-function reset_theme() {
-    [[ -f ${HOME}/.shell_theme.sh ]] && source "${HOME}/.shell_theme.sh"
+function source_theme() {
+    [[ -f ${THEME_STACHE}/current-theme/shell.sh ]] && source "${THEME_STACHE}/current-theme/shell.sh"
 }
 
 function precmd_reset_theme() {
@@ -32,6 +27,6 @@ fi
 
 alias reset="command reset && reset_theme"
 
-reset_theme
+source_theme
 
-unset THEME_STACHE DEFAULT_THEME THEME_STACHE_BIN
+unset THEME_STACHE_BIN

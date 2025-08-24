@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Fruit Soda
+# Author:   jozip
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#f1ecf1'
+foreground  = '#515151'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#f1ecf1'
+cursor      = '#515151'
+
+# Selection colors
+[colors.selection]
+background  = '#474545'
+text        = '#e0dee0'
+
+# Normal colors
+[colors.normal]
+black       = '#f1ecf1'
+red         = '#fe3e31'
+green       = '#47f74c'
+yellow      = '#f7e203'
+blue        = '#2931df'
+magenta     = '#611fce'
+cyan        = '#0f9cfd'
+white       = '#515151'
+
+# Bright colors
+[colors.bright]
+black       = '#b5b4b6'
+red         = '#fe3e31'
+green       = '#47f74c'
+yellow      = '#f7e203'
+blue        = '#2931df'
+magenta     = '#611fce'
+cyan        = '#0f9cfd'
+white       = '#2d2c2c'

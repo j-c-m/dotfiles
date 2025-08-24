@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Doom One
+# Author:   Henrik Lissner
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#21242b'
+foreground  = '#5b6268'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#1b2229'
+cursor      = '#5b6268'
+
+# Selection colors
+[colors.selection]
+background  = '#5b6268'
+text        = '#21242b'
+
+# Normal colors
+[colors.normal]
+black       = '#1b2229'
+red         = '#ff6c6b'
+green       = '#98be65'
+yellow      = '#ecbe7b'
+blue        = '#2257a0'
+magenta     = '#a9a1e1'
+cyan        = '#5699af'
+white       = '#5b6268'
+
+# Bright colors
+[colors.bright]
+black       = '#3f444a'
+red         = '#da8548'
+green       = '#4db5bd'
+yellow      = '#ecbe7b'
+blue        = '#51afef'
+magenta     = '#c678dd'
+cyan        = '#46d9ff'
+white       = '#bbc2cf'

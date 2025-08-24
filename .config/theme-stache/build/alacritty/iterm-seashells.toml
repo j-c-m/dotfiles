@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    SeaShells
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#08131a'
+foreground  = '#deb88d'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#17384c'
+cursor      = '#fca02f'
+
+# Selection colors
+[colors.selection]
+background  = '#1e4862'
+text        = '#fee3cd'
+
+# Normal colors
+[colors.normal]
+black       = '#17384c'
+red         = '#d15023'
+green       = '#027c9b'
+yellow      = '#fca02f'
+blue        = '#1e4950'
+magenta     = '#68d3f1'
+cyan        = '#50a3b5'
+white       = '#deb88d'
+
+# Bright colors
+[colors.bright]
+black       = '#424b52'
+red         = '#d38677'
+green       = '#618c98'
+yellow      = '#fdd29e'
+blue        = '#1bbcdd'
+magenta     = '#bbe3ee'
+cyan        = '#86abb3'
+white       = '#fee3cd'

@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Windows NT
+# Author:   Fergus Collins (https://github.com/ferguscollins)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#000000'
+foreground  = '#c0c0c0'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#c0c0c0'
+
+# Selection colors
+[colors.selection]
+background  = '#e0e0e0'
+text        = '#2a2a2a'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#ff0000'
+green       = '#00ff00'
+yellow      = '#ffff00'
+blue        = '#0000ff'
+magenta     = '#ff00ff'
+cyan        = '#00ffff'
+white       = '#c0c0c0'
+
+# Bright colors
+[colors.bright]
+black       = '#808080'
+red         = '#ff0000'
+green       = '#00ff00'
+yellow      = '#ffff00'
+blue        = '#0000ff'
+magenta     = '#ff00ff'
+cyan        = '#00ffff'
+white       = '#ffffff'

@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Hardcore
+# Author:   Chris Caller
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#212121'
+foreground  = '#cdcdcd'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#212121'
+cursor      = '#cdcdcd'
+
+# Selection colors
+[colors.selection]
+background  = '#e5e5e5'
+text        = '#303030'
+
+# Normal colors
+[colors.normal]
+black       = '#212121'
+red         = '#f92672'
+green       = '#a6e22e'
+yellow      = '#e6db74'
+blue        = '#66d9ef'
+magenta     = '#9e6ffe'
+cyan        = '#708387'
+white       = '#cdcdcd'
+
+# Bright colors
+[colors.bright]
+black       = '#4a4a4a'
+red         = '#f92672'
+green       = '#a6e22e'
+yellow      = '#e6db74'
+blue        = '#66d9ef'
+magenta     = '#9e6ffe'
+cyan        = '#708387'
+white       = '#ffffff'

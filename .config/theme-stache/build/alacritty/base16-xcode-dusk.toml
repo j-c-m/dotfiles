@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    XCode Dusk
+# Author:   Elsa Gonsiorowski (https://github.com/gonsie)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#282b35'
+foreground  = '#939599'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#282b35'
+cursor      = '#939599'
+
+# Selection colors
+[colors.selection]
+background  = '#a9aaae'
+text        = '#3d4048'
+
+# Normal colors
+[colors.normal]
+black       = '#282b35'
+red         = '#b21889'
+green       = '#df0002'
+yellow      = '#438288'
+blue        = '#790ead'
+magenta     = '#b21889'
+cyan        = '#00a0be'
+white       = '#939599'
+
+# Bright colors
+[colors.bright]
+black       = '#686a71'
+red         = '#b21889'
+green       = '#df0002'
+yellow      = '#438288'
+blue        = '#790ead'
+magenta     = '#b21889'
+cyan        = '#00a0be'
+white       = '#bebfc2'

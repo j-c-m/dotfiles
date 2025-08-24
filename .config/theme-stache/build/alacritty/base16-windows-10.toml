@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Windows 10
+# Author:   Fergus Collins (https://github.com/ferguscollins)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#0c0c0c'
+foreground  = '#cccccc'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#0c0c0c'
+cursor      = '#cccccc'
+
+# Selection colors
+[colors.selection]
+background  = '#dfdfdf'
+text        = '#2f2f2f'
+
+# Normal colors
+[colors.normal]
+black       = '#0c0c0c'
+red         = '#e74856'
+green       = '#16c60c'
+yellow      = '#f9f1a5'
+blue        = '#3b78ff'
+magenta     = '#b4009e'
+cyan        = '#61d6d6'
+white       = '#cccccc'
+
+# Bright colors
+[colors.bright]
+black       = '#767676'
+red         = '#e74856'
+green       = '#16c60c'
+yellow      = '#f9f1a5'
+blue        = '#3b78ff'
+magenta     = '#b4009e'
+cyan        = '#61d6d6'
+white       = '#f2f2f2'

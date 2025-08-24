@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Paul Millr
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#000000'
+foreground  = '#a5a5a5'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#a5a5a5'
+
+# Selection colors
+[colors.selection]
+background  = '#bbbbbb'
+text        = '#2a2a2a'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#ff0000'
+green       = '#79ff0f'
+yellow      = '#709aed'
+blue        = '#386bd7'
+magenta     = '#b349be'
+cyan        = '#66ccff'
+white       = '#a5a5a5'
+
+# Bright colors
+[colors.bright]
+black       = '#7b7b7b'
+red         = '#ff0080'
+green       = '#66ff66'
+yellow      = '#f3d64e'
+blue        = '#709aed'
+magenta     = '#db67e6'
+cyan        = '#79dff2'
+white       = '#ffffff'

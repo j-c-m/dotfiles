@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Oxocarbon Light
+# Author:   shaunsingh/IBM
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#f2f4f8'
+foreground  = '#393939'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#f2f4f8'
+cursor      = '#393939'
+
+# Selection colors
+[colors.selection]
+background  = '#525252'
+text        = '#dde1e6'
+
+# Normal colors
+[colors.normal]
+black       = '#f2f4f8'
+red         = '#ff7eb6'
+green       = '#0f62fe'
+yellow      = '#ff6f00'
+blue        = '#42be65'
+magenta     = '#be95ff'
+cyan        = '#673ab7'
+white       = '#393939'
+
+# Bright colors
+[colors.bright]
+black       = '#161616'
+red         = '#ff7eb6'
+green       = '#0f62fe'
+yellow      = '#ff6f00'
+blue        = '#42be65'
+magenta     = '#be95ff'
+cyan        = '#673ab7'
+white       = '#08bdba'

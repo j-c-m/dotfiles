@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Humanoid light
+# Author:   Thomas (tasmo) Friese
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#f8f8f2'
+foreground  = '#232629'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#f8f8f2'
+cursor      = '#232629'
+
+# Selection colors
+[colors.selection]
+background  = '#2f3337'
+text        = '#efefe9'
+
+# Normal colors
+[colors.normal]
+black       = '#f8f8f2'
+red         = '#b0151a'
+green       = '#388e3c'
+yellow      = '#ffb627'
+blue        = '#0082c9'
+magenta     = '#700f98'
+cyan        = '#008e8e'
+white       = '#232629'
+
+# Bright colors
+[colors.bright]
+black       = '#c0c0bd'
+red         = '#b0151a'
+green       = '#388e3c'
+yellow      = '#ffb627'
+blue        = '#0082c9'
+magenta     = '#700f98'
+cyan        = '#008e8e'
+white       = '#070708'

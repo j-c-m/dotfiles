@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Paraiso Dark
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#2f1e2e'
+foreground  = '#a39e9b'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#2f1e2e'
+cursor      = '#a39e9b'
+
+# Selection colors
+[colors.selection]
+background  = '#a39e9b'
+text        = '#2f1e2e'
+
+# Normal colors
+[colors.normal]
+black       = '#2f1e2e'
+red         = '#ef6155'
+green       = '#48b685'
+yellow      = '#fec418'
+blue        = '#06b6ef'
+magenta     = '#815ba4'
+cyan        = '#5bc4bf'
+white       = '#a39e9b'
+
+# Bright colors
+[colors.bright]
+black       = '#776e71'
+red         = '#ef6155'
+green       = '#48b685'
+yellow      = '#fec418'
+blue        = '#06b6ef'
+magenta     = '#815ba4'
+cyan        = '#5bc4bf'
+white       = '#e7e9db'

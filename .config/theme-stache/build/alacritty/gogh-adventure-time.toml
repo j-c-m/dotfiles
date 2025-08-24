@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Adventure Time
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1f1d45'
+foreground  = '#f8dcc0'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#050404'
+cursor      = '#f8dcc0'
+
+# Selection colors
+[colors.selection]
+background  = '#f8dcc0'
+text        = '#1f1d45'
+
+# Normal colors
+[colors.normal]
+black       = '#050404'
+red         = '#bd0013'
+green       = '#4ab118'
+yellow      = '#e7741e'
+blue        = '#0f4ac6'
+magenta     = '#665993'
+cyan        = '#70a598'
+white       = '#f8dcc0'
+
+# Bright colors
+[colors.bright]
+black       = '#4e7cbf'
+red         = '#fc5f5a'
+green       = '#9eff6e'
+yellow      = '#efc11a'
+blue        = '#1997c6'
+magenta     = '#9b5953'
+cyan        = '#c8faf4'
+white       = '#f6f5fb'

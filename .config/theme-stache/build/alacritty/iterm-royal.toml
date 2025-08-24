@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Royal
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#100814'
+foreground  = '#504868'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#241f2a'
+cursor      = '#514965'
+
+# Selection colors
+[colors.selection]
+background  = '#1e1d2a'
+text        = '#a492cc'
+
+# Normal colors
+[colors.normal]
+black       = '#241f2a'
+red         = '#90274b'
+green       = '#23801c'
+yellow      = '#b49d27'
+blue        = '#6480af'
+magenta     = '#664d96'
+cyan        = '#8aaabd'
+white       = '#514965'
+
+# Bright colors
+[colors.bright]
+black       = '#312d3c'
+red         = '#d4346c'
+green       = '#2cd845'
+yellow      = '#fde83a'
+blue        = '#8fb9f9'
+magenta     = '#a479e2'
+cyan        = '#abd3eb'
+white       = '#9d8bbd'

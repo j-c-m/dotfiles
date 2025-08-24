@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Havn Daggry
+# Author:   unknown
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#f7f9fb'
+foreground  = '#3a4a7a'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#1f2841'
+cursor      = '#226b4f'
+
+# Selection colors
+[colors.selection]
+background  = '#cfe8dd'
+text        = '#303c63'
+
+# Normal colors
+[colors.normal]
+black       = '#1f2841'
+red         = '#985247'
+green       = '#567059'
+yellow      = '#be6a00'
+blue        = '#39567d'
+magenta     = '#7b5b96'
+cyan        = '#925780'
+white       = '#d6dbeb'
+
+# Bright colors
+[colors.bright]
+black       = '#1f2841'
+red         = '#cc4a35'
+green       = '#719678'
+yellow      = '#feb133'
+blue        = '#6089c0'
+magenta     = '#7c7295'
+cyan        = '#a9859d'
+white       = '#d6dbeb'

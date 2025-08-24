@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Gruvbox Material Light, Medium
+# Author:   Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#fbf1c7'
+foreground  = '#654735'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#fbf1c7'
+cursor      = '#654735'
+
+# Selection colors
+[colors.selection]
+background  = '#3c3836'
+text        = '#f2e5bc'
+
+# Normal colors
+[colors.normal]
+black       = '#fbf1c7'
+red         = '#c14a4a'
+green       = '#6c782e'
+yellow      = '#b47109'
+blue        = '#45707a'
+magenta     = '#945e80'
+cyan        = '#4c7a5d'
+white       = '#654735'
+
+# Bright colors
+[colors.bright]
+black       = '#bdae93'
+red         = '#c14a4a'
+green       = '#6c782e'
+yellow      = '#b47109'
+blue        = '#45707a'
+magenta     = '#945e80'
+cyan        = '#4c7a5d'
+white       = '#282828'

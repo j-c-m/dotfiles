@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    PaperColor Light
+# Author:   Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#eeeeee'
+foreground  = '#444444'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#eeeeee'
+cursor      = '#444444'
+
+# Selection colors
+[colors.selection]
+background  = '#005f87'
+text        = '#af0000'
+
+# Normal colors
+[colors.normal]
+black       = '#eeeeee'
+red         = '#bcbcbc'
+green       = '#8700af'
+yellow      = '#d70087'
+blue        = '#d75f00'
+magenta     = '#005faf'
+cyan        = '#d75f00'
+white       = '#444444'
+
+# Bright colors
+[colors.bright]
+black       = '#5f8700'
+red         = '#bcbcbc'
+green       = '#8700af'
+yellow      = '#d70087'
+blue        = '#d75f00'
+magenta     = '#005faf'
+cyan        = '#d75f00'
+white       = '#878787'

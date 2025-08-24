@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    NightLion v1
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#000000'
+foreground  = '#bbbbbb'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#4c4c4c'
+cursor      = '#bbbbbb'
+
+# Selection colors
+[colors.selection]
+background  = '#b4d5ff'
+text        = '#000000'
+
+# Normal colors
+[colors.normal]
+black       = '#4c4c4c'
+red         = '#bb0000'
+green       = '#5ede8f'
+yellow      = '#f2f067'
+blue        = '#266ad7'
+magenta     = '#bb00bb'
+cyan        = '#00d9df'
+white       = '#bbbbbb'
+
+# Bright colors
+[colors.bright]
+black       = '#555555'
+red         = '#ff5555'
+green       = '#55ff55'
+yellow      = '#ffff55'
+blue        = '#5555ff'
+magenta     = '#ff55ff'
+cyan        = '#55ffff'
+white       = '#ffffff'

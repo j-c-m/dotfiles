@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Night Owlish Light
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#ffffff'
+foreground  = '#7a8181'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#ffffff'
+cursor      = '#7a8181'
+
+# Selection colors
+[colors.selection]
+background  = '#7a8181'
+text        = '#011627'
+
+# Normal colors
+[colors.normal]
+black       = '#ffffff'
+red         = '#d3423e'
+green       = '#2aa298'
+yellow      = '#5ca7e4'
+blue        = '#4876d6'
+magenta     = '#403f53'
+cyan        = '#08916a'
+white       = '#7a8181'
+
+# Bright colors
+[colors.bright]
+black       = '#7a8181'
+red         = '#f76e6e'
+green       = '#49d0c5'
+yellow      = '#dac26b'
+blue        = '#5ca7e4'
+magenta     = '#697098'
+cyan        = '#00c990'
+white       = '#989fb1'

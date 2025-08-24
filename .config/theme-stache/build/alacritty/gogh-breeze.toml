@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Breeze
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#232627'
+foreground  = '#fcfcfc'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#232627'
+cursor      = '#fcfcfc'
+
+# Selection colors
+[colors.selection]
+background  = '#fcfcfc'
+text        = '#232627'
+
+# Normal colors
+[colors.normal]
+black       = '#232627'
+red         = '#ed1515'
+green       = '#11d116'
+yellow      = '#f67400'
+blue        = '#1d99f3'
+magenta     = '#9b59b6'
+cyan        = '#1abc9c'
+white       = '#fcfcfc'
+
+# Bright colors
+[colors.bright]
+black       = '#7f8c8d'
+red         = '#c0392b'
+green       = '#1cdc9a'
+yellow      = '#fdbc4b'
+blue        = '#3daee9'
+magenta     = '#8e44ad'
+cyan        = '#16a085'
+white       = '#ffffff'

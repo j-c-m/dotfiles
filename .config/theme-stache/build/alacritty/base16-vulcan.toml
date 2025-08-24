@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    vulcan
+# Author:   Andrey Varfolomeev
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#041523'
+foreground  = '#5b778c'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#041523'
+cursor      = '#5b778c'
+
+# Selection colors
+[colors.selection]
+background  = '#333238'
+text        = '#122339'
+
+# Normal colors
+[colors.normal]
+black       = '#041523'
+red         = '#818591'
+green       = '#977d7c'
+yellow      = '#adb4b9'
+blue        = '#977d7c'
+magenta     = '#9198a3'
+cyan        = '#977d7c'
+white       = '#5b778c'
+
+# Bright colors
+[colors.bright]
+black       = '#7a5759'
+red         = '#818591'
+green       = '#977d7c'
+yellow      = '#adb4b9'
+blue        = '#977d7c'
+magenta     = '#9198a3'
+cyan        = '#977d7c'
+white       = '#214d68'

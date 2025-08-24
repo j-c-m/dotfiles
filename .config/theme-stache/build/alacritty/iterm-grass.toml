@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Grass
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#13773c'
+foreground  = '#fff0a5'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#8c2800'
+
+# Selection colors
+[colors.selection]
+background  = '#b64926'
+text        = '#ffffff'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#bb0000'
+green       = '#00bb00'
+yellow      = '#e7b000'
+blue        = '#0000a3'
+magenta     = '#950061'
+cyan        = '#00bbbb'
+white       = '#bbbbbb'
+
+# Bright colors
+[colors.bright]
+black       = '#555555'
+red         = '#bb0000'
+green       = '#00bb00'
+yellow      = '#e7b000'
+blue        = '#0000bb'
+magenta     = '#ff55ff'
+cyan        = '#55ffff'
+white       = '#ffffff'

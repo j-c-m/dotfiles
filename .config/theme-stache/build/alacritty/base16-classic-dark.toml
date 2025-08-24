@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Classic Dark
+# Author:   Jason Heeris (http://heeris.id.au)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#151515'
+foreground  = '#d0d0d0'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#151515'
+cursor      = '#d0d0d0'
+
+# Selection colors
+[colors.selection]
+background  = '#e0e0e0'
+text        = '#202020'
+
+# Normal colors
+[colors.normal]
+black       = '#151515'
+red         = '#ac4142'
+green       = '#90a959'
+yellow      = '#f4bf75'
+blue        = '#6a9fb5'
+magenta     = '#aa759f'
+cyan        = '#75b5aa'
+white       = '#d0d0d0'
+
+# Bright colors
+[colors.bright]
+black       = '#505050'
+red         = '#ac4142'
+green       = '#90a959'
+yellow      = '#f4bf75'
+blue        = '#6a9fb5'
+magenta     = '#aa759f'
+cyan        = '#75b5aa'
+white       = '#f5f5f5'

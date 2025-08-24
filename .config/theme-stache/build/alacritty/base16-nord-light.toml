@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Nord Light
+# Author:   threddast, based on fuxialexander&#x27;s doom-nord-light-theme (Doom Emacs)
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#e5e9f0'
+foreground  = '#2e3440'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#e5e9f0'
+cursor      = '#2e3440'
+
+# Selection colors
+[colors.selection]
+background  = '#3b4252'
+text        = '#c2d0e7'
+
+# Normal colors
+[colors.normal]
+black       = '#e5e9f0'
+red         = '#99324b'
+green       = '#4f894c'
+yellow      = '#9a7500'
+blue        = '#3b6ea8'
+magenta     = '#97365b'
+cyan        = '#398eac'
+white       = '#2e3440'
+
+# Bright colors
+[colors.bright]
+black       = '#aebacf'
+red         = '#99324b'
+green       = '#4f894c'
+yellow      = '#9a7500'
+blue        = '#3b6ea8'
+magenta     = '#97365b'
+cyan        = '#398eac'
+white       = '#29838d'

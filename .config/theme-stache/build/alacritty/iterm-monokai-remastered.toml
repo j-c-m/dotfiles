@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Monokai Remastered
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#0b0b0b'
+foreground  = '#d8d8d8'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#191919'
+cursor      = '#fc971e'
+
+# Selection colors
+[colors.selection]
+background  = '#343434'
+text        = '#fffefe'
+
+# Normal colors
+[colors.normal]
+black       = '#191919'
+red         = '#f3005f'
+green       = '#97e023'
+yellow      = '#fd971f'
+blue        = '#9c64fe'
+magenta     = '#f3005f'
+cyan        = '#57d1ea'
+white       = '#c4c4b5'
+
+# Bright colors
+[colors.bright]
+black       = '#615e4b'
+red         = '#f3005f'
+green       = '#97e023'
+yellow      = '#dfd561'
+blue        = '#9c64fe'
+magenta     = '#f3005f'
+cyan        = '#57d1ea'
+white       = '#f6f6ee'

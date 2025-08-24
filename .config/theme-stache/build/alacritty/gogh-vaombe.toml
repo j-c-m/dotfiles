@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Vaombe
+# Author:   Daniel Perez (https://www.github.com/sysaloe)
+# Variant:  Dark
+
+# Default colors
+[colors.primary]
+background  = '#010a08'
+foreground  = '#f5fffd'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#111413'
+cursor      = '#9df5e2'
+
+# Selection colors
+[colors.selection]
+background  = '#f5fffd'
+text        = '#010a08'
+
+# Normal colors
+[colors.normal]
+black       = '#111413'
+red         = '#8f3232'
+green       = '#3b5c3b'
+yellow      = '#7a6322'
+blue        = '#28405c'
+magenta     = '#46285c'
+cyan        = '#346666'
+white       = '#d1d1d1'
+
+# Bright colors
+[colors.bright]
+black       = '#212927'
+red         = '#b84242'
+green       = '#57a355'
+yellow      = '#dbbb60'
+blue        = '#5183b8'
+magenta     = '#935fb8'
+cyan        = '#51b8b0'
+white       = '#f5fffd'

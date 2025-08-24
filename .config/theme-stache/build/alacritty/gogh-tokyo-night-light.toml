@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Tokyo Night Light
+# Author:   
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#d5d6db'
+foreground  = '#565a6e'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#0f0f14'
+cursor      = '#565a6e'
+
+# Selection colors
+[colors.selection]
+background  = '#565a6e'
+text        = '#d5d6db'
+
+# Normal colors
+[colors.normal]
+black       = '#0f0f14'
+red         = '#8c4351'
+green       = '#485e30'
+yellow      = '#8f5e15'
+blue        = '#34548a'
+magenta     = '#5a4a78'
+cyan        = '#0f4b6e'
+white       = '#343b58'
+
+# Bright colors
+[colors.bright]
+black       = '#9699a3'
+red         = '#8c4351'
+green       = '#485e30'
+yellow      = '#8f5e15'
+blue        = '#34548a'
+magenta     = '#5a4a78'
+cyan        = '#0f4b6e'
+white       = '#343b58'

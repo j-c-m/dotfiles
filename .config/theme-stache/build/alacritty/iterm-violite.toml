@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    violite
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#241b36'
+foreground  = '#edf4f5'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#241b36'
+cursor      = '#edf4f5'
+
+# Selection colors
+[colors.selection]
+background  = '#49376d'
+text        = '#edf4f5'
+
+# Normal colors
+[colors.normal]
+black       = '#241b36'
+red         = '#ec7878'
+green       = '#78ecb3'
+yellow      = '#ece278'
+blue        = '#a878ec'
+magenta     = '#ec78ec'
+cyan        = '#78ecec'
+white       = '#edf4f5'
+
+# Bright colors
+[colors.bright]
+black       = '#49376d'
+red         = '#ef8f8f'
+green       = '#9eefbe'
+yellow      = '#efe78f'
+blue        = '#b68fef'
+magenta     = '#ef8fcf'
+cyan        = '#9eefef'
+white       = '#f7fafb'

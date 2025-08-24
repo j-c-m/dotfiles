@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Purpledream
+# Author:   malet
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#100510'
+foreground  = '#ddd0dd'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#100510'
+cursor      = '#ddd0dd'
+
+# Selection colors
+[colors.selection]
+background  = '#eee0ee'
+text        = '#302030'
+
+# Normal colors
+[colors.normal]
+black       = '#100510'
+red         = '#ff1d0d'
+green       = '#14cc64'
+yellow      = '#f000a0'
+blue        = '#00a0f0'
+magenta     = '#b000d0'
+cyan        = '#0075b0'
+white       = '#ddd0dd'
+
+# Bright colors
+[colors.bright]
+black       = '#605060'
+red         = '#ff1d0d'
+green       = '#14cc64'
+yellow      = '#f000a0'
+blue        = '#00a0f0'
+magenta     = '#b000d0'
+cyan        = '#0075b0'
+white       = '#fff0ff'

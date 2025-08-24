@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Catppuccin Frappe
+# Author:   https://github.com/catppuccin/catppuccin
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#303446'
+foreground  = '#c6d0f5'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#303446'
+cursor      = '#c6d0f5'
+
+# Selection colors
+[colors.selection]
+background  = '#f2d5cf'
+text        = '#292c3c'
+
+# Normal colors
+[colors.normal]
+black       = '#303446'
+red         = '#e78284'
+green       = '#a6d189'
+yellow      = '#e5c890'
+blue        = '#8caaee'
+magenta     = '#ca9ee6'
+cyan        = '#81c8be'
+white       = '#c6d0f5'
+
+# Bright colors
+[colors.bright]
+black       = '#51576d'
+red         = '#ea999c'
+green       = '#a6d189'
+yellow      = '#f2d5cf'
+blue        = '#85c1dc'
+magenta     = '#f4b8e4'
+cyan        = '#99d1db'
+white       = '#babbf1'

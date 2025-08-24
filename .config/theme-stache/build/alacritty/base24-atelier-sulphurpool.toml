@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Atelier Sulphurpool
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#202746'
+foreground  = '#8c92ac'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#202746'
+cursor      = '#8c92ac'
+
+# Selection colors
+[colors.selection]
+background  = '#979db4'
+text        = '#202746'
+
+# Normal colors
+[colors.normal]
+black       = '#202746'
+red         = '#c94922'
+green       = '#ac9739'
+yellow      = '#898ea4'
+blue        = '#3d8fd1'
+magenta     = '#6679cc'
+cyan        = '#22a2c9'
+white       = '#8c92ac'
+
+# Bright colors
+[colors.bright]
+black       = '#767d9c'
+red         = '#c76b29'
+green       = '#293256'
+yellow      = '#5e6687'
+blue        = '#898ea4'
+magenta     = '#dfe2f1'
+cyan        = '#9c637a'
+white       = '#f5f7ff'

@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Base2Tone Sea
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1d262f'
+foreground  = '#a1aab5'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#1d262f'
+cursor      = '#067953'
+
+# Selection colors
+[colors.selection]
+background  = '#a1aab5'
+text        = '#1d262f'
+
+# Normal colors
+[colors.normal]
+black       = '#1d262f'
+red         = '#34659d'
+green       = '#0fc78a'
+yellow      = '#47ebb4'
+blue        = '#57718e'
+magenta     = '#0fc78a'
+cyan        = '#6e9bcf'
+white       = '#a1aab5'
+
+# Bright colors
+[colors.bright]
+black       = '#4a5f78'
+red         = '#14e19d'
+green       = '#27323f'
+yellow      = '#405368'
+blue        = '#738191'
+magenta     = '#afd4fe'
+cyan        = '#0db57d'
+white       = '#ebf4ff'

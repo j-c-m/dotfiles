@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Zenburn
+# Author:   elnawe
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#383838'
+foreground  = '#dcdccc'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#383838'
+cursor      = '#dcdccc'
+
+# Selection colors
+[colors.selection]
+background  = '#c0c0c0'
+text        = '#404040'
+
+# Normal colors
+[colors.normal]
+black       = '#383838'
+red         = '#dca3a3'
+green       = '#5f7f5f'
+yellow      = '#e0cf9f'
+blue        = '#7cb8bb'
+magenta     = '#dc8cc3'
+cyan        = '#93e0e3'
+white       = '#dcdccc'
+
+# Bright colors
+[colors.bright]
+black       = '#6f6f6f'
+red         = '#dca3a3'
+green       = '#5f7f5f'
+yellow      = '#e0cf9f'
+blue        = '#7cb8bb'
+magenta     = '#dc8cc3'
+cyan        = '#93e0e3'
+white       = '#ffffff'

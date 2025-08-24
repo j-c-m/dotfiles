@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Base2Tone Morning
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#232834'
+foreground  = '#8d95a5'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#232834'
+cursor      = '#594212'
+
+# Selection colors
+[colors.selection]
+background  = '#8d95a5'
+text        = '#232834'
+
+# Normal colors
+[colors.normal]
+black       = '#232834'
+red         = '#1659df'
+green       = '#b29762'
+yellow      = '#e5ddcd'
+blue        = '#3d75e6'
+magenta     = '#b29762'
+cyan        = '#728fcb'
+white       = '#8d95a5'
+
+# Bright colors
+[colors.bright]
+black       = '#656e81'
+red         = '#c6b28b'
+green       = '#31363f'
+yellow      = '#4f5664'
+blue        = '#707a8f'
+magenta     = '#b7c9eb'
+cyan        = '#9a7c42'
+white       = '#dee6f7'

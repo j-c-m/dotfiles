@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Bluloco Dark
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1e2027'
+foreground  = '#b1bac9'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#1e2027'
+cursor      = '#b1bac9'
+
+# Selection colors
+[colors.selection]
+background  = '#ccd5e4'
+text        = '#494f5c'
+
+# Normal colors
+[colors.normal]
+black       = '#1e2027'
+red         = '#f71041'
+green       = '#23974a'
+yellow      = '#189ffd'
+blue        = '#285afe'
+magenta     = '#8c62fd'
+cyan        = '#366f99'
+white       = '#b1bac9'
+
+# Bright colors
+[colors.bright]
+black       = '#7b8494'
+red         = '#fb496d'
+green       = '#37bc58'
+yellow      = '#f6bd47'
+blue        = '#189ffd'
+magenta     = '#fb57f6'
+cyan        = '#4fabad'
+white       = '#fefefe'

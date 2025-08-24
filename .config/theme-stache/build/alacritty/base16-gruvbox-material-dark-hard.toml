@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Gruvbox Material Dark, Hard
+# Author:   Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#202020'
+foreground  = '#ddc7a1'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#202020'
+cursor      = '#ddc7a1'
+
+# Selection colors
+[colors.selection]
+background  = '#ebdbb2'
+text        = '#2a2827'
+
+# Normal colors
+[colors.normal]
+black       = '#202020'
+red         = '#ea6962'
+green       = '#a9b665'
+yellow      = '#d8a657'
+blue        = '#7daea3'
+magenta     = '#d3869b'
+cyan        = '#89b482'
+white       = '#ddc7a1'
+
+# Bright colors
+[colors.bright]
+black       = '#5a524c'
+red         = '#ea6962'
+green       = '#a9b665'
+yellow      = '#d8a657'
+blue        = '#7daea3'
+magenta     = '#d3869b'
+cyan        = '#89b482'
+white       = '#fbf1c7'

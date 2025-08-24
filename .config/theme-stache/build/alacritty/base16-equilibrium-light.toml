@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Equilibrium Light
+# Author:   Carlo Abelli
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#f5f0e7'
+foreground  = '#43474e'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#f5f0e7'
+cursor      = '#43474e'
+
+# Selection colors
+[colors.selection]
+background  = '#2c3138'
+text        = '#e7e2d9'
+
+# Normal colors
+[colors.normal]
+black       = '#f5f0e7'
+red         = '#d02023'
+green       = '#637200'
+yellow      = '#9d6f00'
+blue        = '#0073b5'
+magenta     = '#4e66b6'
+cyan        = '#007a72'
+white       = '#43474e'
+
+# Bright colors
+[colors.bright]
+black       = '#73777f'
+red         = '#d02023'
+green       = '#637200'
+yellow      = '#9d6f00'
+blue        = '#0073b5'
+magenta     = '#4e66b6'
+cyan        = '#007a72'
+white       = '#181c22'

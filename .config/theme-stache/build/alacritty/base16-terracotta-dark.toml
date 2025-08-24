@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Terracotta Dark
+# Author:   Alexander Rossell Hayes (https://github.com/rossellhayes)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#241d1a'
+foreground  = '#b8a59d'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#241d1a'
+cursor      = '#b8a59d'
+
+# Selection colors
+[colors.selection]
+background  = '#cabbb5'
+text        = '#362b27'
+
+# Normal colors
+[colors.normal]
+black       = '#241d1a'
+red         = '#f6998f'
+green       = '#b6c68a'
+yellow      = '#ffc37a'
+blue        = '#b0a4c3'
+magenta     = '#d8a2b0'
+cyan        = '#c0bcdb'
+white       = '#b8a59d'
+
+# Bright colors
+[colors.bright]
+black       = '#594740'
+red         = '#f6998f'
+green       = '#b6c68a'
+yellow      = '#ffc37a'
+blue        = '#b0a4c3'
+magenta     = '#d8a2b0'
+cyan        = '#c0bcdb'
+white       = '#dcd2ce'

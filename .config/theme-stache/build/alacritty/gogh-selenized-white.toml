@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Selenized White
+# Author:   
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#ffffff'
+foreground  = '#474747'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#ebebeb'
+cursor      = '#282828'
+
+# Selection colors
+[colors.selection]
+background  = '#474747'
+text        = '#ffffff'
+
+# Normal colors
+[colors.normal]
+black       = '#ebebeb'
+red         = '#d6000c'
+green       = '#1d9700'
+yellow      = '#c49700'
+blue        = '#0064e4'
+magenta     = '#dd0f9d'
+cyan        = '#00ad9c'
+white       = '#878787'
+
+# Bright colors
+[colors.bright]
+black       = '#cdcdcd'
+red         = '#bf0000'
+green       = '#008400'
+yellow      = '#af8500'
+blue        = '#0054cf'
+magenta     = '#c7008b'
+cyan        = '#009a8a'
+white       = '#282828'

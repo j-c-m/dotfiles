@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Blue Moon Light
+# Author:   kyazdani42 (https://github.com/kyazdani42/blue-moon)
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#32374d'
+foreground  = '#fbfbfb'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#292d3e'
+cursor      = '#fbfbfb'
+
+# Selection colors
+[colors.selection]
+background  = '#fbfbfb'
+text        = '#32374d'
+
+# Normal colors
+[colors.normal]
+black       = '#292d3e'
+red         = '#d06179'
+green       = '#d0e7d0'
+yellow      = '#cfcfbf'
+blue        = '#959dcb'
+magenta     = '#a9a3db'
+cyan        = '#89bbdd'
+white       = '#ffffff'
+
+# Bright colors
+[colors.bright]
+black       = '#292d3e'
+red         = '#d06179'
+green       = '#d0e7d0'
+yellow      = '#cfcfbf'
+blue        = '#959dcb'
+magenta     = '#a9a3db'
+cyan        = '#89bbdd'
+white       = '#ffffff'

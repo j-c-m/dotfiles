@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Linux VT
+# Author:   j-c-m (https://github.com/j-c-m/)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#000000'
+foreground  = '#aaaaaa'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#aaaaaa'
+
+# Selection colors
+[colors.selection]
+background  = '#cccccc'
+text        = '#333333'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#aa0000'
+green       = '#00aa00'
+yellow      = '#ffff55'
+blue        = '#5555ff'
+magenta     = '#ff55ff'
+cyan        = '#00aaaa'
+white       = '#aaaaaa'
+
+# Bright colors
+[colors.bright]
+black       = '#555555'
+red         = '#aa0000'
+green       = '#00aa00'
+yellow      = '#ffff55'
+blue        = '#5555ff'
+magenta     = '#ff55ff'
+cyan        = '#00aaaa'
+white       = '#ffffff'

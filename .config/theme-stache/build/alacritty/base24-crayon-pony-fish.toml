@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Crayon Pony Fish
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#140607'
+foreground  = '#5d484e'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#140607'
+cursor      = '#5d484e'
+
+# Selection colors
+[colors.selection]
+background  = '#685259'
+text        = '#2a1a1c'
+
+# Normal colors
+[colors.normal]
+black       = '#140607'
+red         = '#90002a'
+green       = '#579523'
+yellow      = '#cfc9ff'
+blue        = '#8b87af'
+magenta     = '#682e50'
+cyan        = '#e8a766'
+white       = '#5d484e'
+
+# Bright colors
+[colors.bright]
+black       = '#473438'
+red         = '#c5245c'
+green       = '#8dff56'
+yellow      = '#c7371d'
+blue        = '#cfc9ff'
+magenta     = '#fb6cb9'
+cyan        = '#ffceae'
+white       = '#af949d'

@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Breeze
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#31363b'
+foreground  = '#d3d7d8'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#31363b'
+cursor      = '#d3d7d8'
+
+# Selection colors
+[colors.selection]
+background  = '#eff0f1'
+text        = '#31363b'
+
+# Normal colors
+[colors.normal]
+black       = '#31363b'
+red         = '#ed1515'
+green       = '#11d116'
+yellow      = '#3daee9'
+blue        = '#1d99f3'
+magenta     = '#9b59b6'
+cyan        = '#1abc9c'
+white       = '#d3d7d8'
+
+# Bright colors
+[colors.bright]
+black       = '#9ba5a6'
+red         = '#c0392b'
+green       = '#1cdc9a'
+yellow      = '#fdbc4b'
+blue        = '#3daee9'
+magenta     = '#8e44ad'
+cyan        = '#16a085'
+white       = '#fcfcfc'

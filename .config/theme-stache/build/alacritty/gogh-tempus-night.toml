@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Tempus Night
+# Author:   Protesilaos Stavrou (https://protesilaos.com)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1a1a1a'
+foreground  = '#e0e0e0'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#1a1a1a'
+cursor      = '#e0e0e0'
+
+# Selection colors
+[colors.selection]
+background  = '#e0e0e0'
+text        = '#1a1a1a'
+
+# Normal colors
+[colors.normal]
+black       = '#1a1a1a'
+red         = '#ff929f'
+green       = '#5fc940'
+yellow      = '#c5b300'
+blue        = '#5fb8ff'
+magenta     = '#ef91df'
+cyan        = '#1dc5c3'
+white       = '#c4bdaf'
+
+# Bright colors
+[colors.bright]
+black       = '#242536'
+red         = '#f69d6a'
+green       = '#88c400'
+yellow      = '#d7ae00'
+blue        = '#8cb4f0'
+magenta     = '#de99f0'
+cyan        = '#00ca9a'
+white       = '#e0e0e0'

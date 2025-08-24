@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Highway
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#222225'
+foreground  = '#ededed'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#ededed'
+
+# Selection colors
+[colors.selection]
+background  = '#ededed'
+text        = '#222225'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#d00e18'
+green       = '#138034'
+yellow      = '#ffcb3e'
+blue        = '#006bb3'
+magenta     = '#6b2775'
+cyan        = '#384564'
+white       = '#ededed'
+
+# Bright colors
+[colors.bright]
+black       = '#5d504a'
+red         = '#f07e18'
+green       = '#b1d130'
+yellow      = '#fff120'
+blue        = '#4fc2fd'
+magenta     = '#de0071'
+cyan        = '#5d504a'
+white       = '#ffffff'

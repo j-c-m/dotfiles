@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Zenburn
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#3a3a3a'
+foreground  = '#dcdccc'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#333333'
+cursor      = '#dcdccc'
+
+# Selection colors
+[colors.selection]
+background  = '#dcdccc'
+text        = '#3a3a3a'
+
+# Normal colors
+[colors.normal]
+black       = '#333333'
+red         = '#cc9393'
+green       = '#efef87'
+yellow      = '#ffd7a7'
+blue        = '#c3bf97'
+magenta     = '#bca3a3'
+cyan        = '#93b3a3'
+white       = '#f0efd0'
+
+# Bright colors
+[colors.bright]
+black       = '#757575'
+red         = '#dfaf87'
+green       = '#ffff87'
+yellow      = '#ffcfaf'
+blue        = '#d7d7af'
+magenta     = '#d7afaf'
+cyan        = '#93bea3'
+white       = '#dcdccc'

@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Horizon Light
+# Author:   Michaël Ball (http://github.com/michael-ball/)
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#fdf0ed'
+foreground  = '#403c3d'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#fdf0ed'
+cursor      = '#403c3d'
+
+# Selection colors
+[colors.selection]
+background  = '#302c2d'
+text        = '#fadad1'
+
+# Normal colors
+[colors.normal]
+black       = '#fdf0ed'
+red         = '#f7939b'
+green       = '#94e1b0'
+yellow      = '#fbe0d9'
+blue        = '#da103f'
+magenta     = '#1d8991'
+cyan        = '#dc3318'
+white       = '#403c3d'
+
+# Bright colors
+[colors.bright]
+black       = '#bdb3b1'
+red         = '#f7939b'
+green       = '#94e1b0'
+yellow      = '#fbe0d9'
+blue        = '#da103f'
+magenta     = '#1d8991'
+cyan        = '#dc3318'
+white       = '#201c1d'

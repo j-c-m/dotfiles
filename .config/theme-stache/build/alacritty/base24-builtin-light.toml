@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Builtin Light
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#ffffff'
+foreground  = '#a1a1a1'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#ffffff'
+cursor      = '#a1a1a1'
+
+# Selection colors
+[colors.selection]
+background  = '#bbbbbb'
+text        = '#000000'
+
+# Normal colors
+[colors.normal]
+black       = '#ffffff'
+red         = '#bb0000'
+green       = '#00bb00'
+yellow      = '#5555ff'
+blue        = '#0000bb'
+magenta     = '#bb00bb'
+cyan        = '#00bbbb'
+white       = '#a1a1a1'
+
+# Bright colors
+[colors.bright]
+black       = '#6e6e6e'
+red         = '#ff5555'
+green       = '#55ff55'
+yellow      = '#ffff55'
+blue        = '#5555ff'
+magenta     = '#ff55ff'
+cyan        = '#55ffff'
+white       = '#ffffff'

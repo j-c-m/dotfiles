@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Base2Tone Mall
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1e1e1f'
+foreground  = '#97959d'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#1e1e1f'
+cursor      = '#3692e2'
+
+# Selection colors
+[colors.selection]
+background  = '#97959d'
+text        = '#1e1e1f'
+
+# Normal colors
+[colors.normal]
+black       = '#1e1e1f'
+red         = '#a17efc'
+green       = '#75bfff'
+yellow      = '#b3dbff'
+blue        = '#b294ff'
+magenta     = '#75bfff'
+cyan        = '#c5adff'
+white       = '#97959d'
+
+# Bright colors
+[colors.bright]
+black       = '#5e5c60'
+red         = '#8ac8ff'
+green       = '#2b2b2c'
+yellow      = '#515053'
+blue        = '#6a686e'
+magenta     = '#e5dbff'
+cyan        = '#69b5f7'
+white       = '#f4f0ff'

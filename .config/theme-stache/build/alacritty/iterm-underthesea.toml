@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    UnderTheSea
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#001015'
+foreground  = '#fffefe'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#022026'
+cursor      = '#49fcd5'
+
+# Selection colors
+[colors.selection]
+background  = '#415554'
+text        = '#4dffd9'
+
+# Normal colors
+[colors.normal]
+black       = '#022026'
+red         = '#b12f2c'
+green       = '#00a940'
+yellow      = '#58809c'
+blue        = '#449985'
+magenta     = '#00599c'
+cyan        = '#5c7e19'
+white       = '#405554'
+
+# Bright colors
+[colors.bright]
+black       = '#374350'
+red         = '#ff4242'
+green       = '#2aea5e'
+yellow      = '#8dd3fd'
+blue        = '#61d4b9'
+magenta     = '#1298ff'
+cyan        = '#98cf28'
+white       = '#58fad6'

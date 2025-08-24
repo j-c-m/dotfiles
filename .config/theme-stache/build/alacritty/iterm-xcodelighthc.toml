@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    xcodelighthc
+# Author:   unknown
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#ffffff'
+foreground  = '#000000'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#b4d8fd'
+cursor      = '#000000'
+
+# Selection colors
+[colors.selection]
+background  = '#b4d8fd'
+text        = '#000000'
+
+# Normal colors
+[colors.normal]
+black       = '#b4d8fd'
+red         = '#ad1805'
+green       = '#355d61'
+yellow      = '#78492a'
+blue        = '#0058a1'
+magenta     = '#9c2191'
+cyan        = '#703daa'
+white       = '#000000'
+
+# Bright colors
+[colors.bright]
+black       = '#8a99a6'
+red         = '#ad1805'
+green       = '#174145'
+yellow      = '#78492a'
+blue        = '#003f73'
+magenta     = '#9c2191'
+cyan        = '#441ea1'
+white       = '#000000'

@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Broadcast
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#2b2b2b'
+foreground  = '#cbcbcb'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#2b2b2b'
+cursor      = '#cbcbcb'
+
+# Selection colors
+[colors.selection]
+background  = '#ffffff'
+text        = '#000000'
+
+# Normal colors
+[colors.normal]
+black       = '#2b2b2b'
+red         = '#da4939'
+green       = '#519f50'
+yellow      = '#9fcef0'
+blue        = '#6d9cbe'
+magenta     = '#d0d0ff'
+cyan        = '#6e9cbe'
+white       = '#cbcbcb'
+
+# Bright colors
+[colors.bright]
+black       = '#656565'
+red         = '#ff7b6b'
+green       = '#83d182'
+yellow      = '#ffff7c'
+blue        = '#9fcef0'
+magenta     = '#ffffff'
+cyan        = '#a0cef0'
+white       = '#ffffff'

@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Rosé Pine Moon
+# Author:   Emilia Dunfelt &lt;edun@dunfelt.se&gt;
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#232136'
+foreground  = '#e0def4'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#232136'
+cursor      = '#e0def4'
+
+# Selection colors
+[colors.selection]
+background  = '#e0def4'
+text        = '#2a273f'
+
+# Normal colors
+[colors.normal]
+black       = '#232136'
+red         = '#eb6f92'
+green       = '#3e8fb0'
+yellow      = '#ea9a97'
+blue        = '#c4a7e7'
+magenta     = '#f6c177'
+cyan        = '#9ccfd8'
+white       = '#e0def4'
+
+# Bright colors
+[colors.bright]
+black       = '#6e6a86'
+red         = '#eb6f92'
+green       = '#3e8fb0'
+yellow      = '#ea9a97'
+blue        = '#c4a7e7'
+magenta     = '#f6c177'
+cyan        = '#9ccfd8'
+white       = '#56526e'

@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Atelier Heath Light
+# Author:   Bram de Haan (http://atelierbramdehaan.nl)
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#f7f3f7'
+foreground  = '#695d69'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#f7f3f7'
+cursor      = '#695d69'
+
+# Selection colors
+[colors.selection]
+background  = '#292329'
+text        = '#d8cad8'
+
+# Normal colors
+[colors.normal]
+black       = '#f7f3f7'
+red         = '#ca402b'
+green       = '#918b3b'
+yellow      = '#bb8a35'
+blue        = '#516aec'
+magenta     = '#7b59c0'
+cyan        = '#159393'
+white       = '#695d69'
+
+# Bright colors
+[colors.bright]
+black       = '#9e8f9e'
+red         = '#ca402b'
+green       = '#918b3b'
+yellow      = '#bb8a35'
+blue        = '#516aec'
+magenta     = '#7b59c0'
+cyan        = '#159393'
+white       = '#1b181b'

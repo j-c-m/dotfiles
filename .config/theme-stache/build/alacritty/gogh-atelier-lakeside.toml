@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Atelier Lakeside
+# Author:   Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/lakeside)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#161b1d'
+foreground  = '#7195a8'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#161b1d'
+cursor      = '#7195a8'
+
+# Selection colors
+[colors.selection]
+background  = '#7195a8'
+text        = '#161b1d'
+
+# Normal colors
+[colors.normal]
+black       = '#161b1d'
+red         = '#d22d72'
+green       = '#568c3b'
+yellow      = '#8a8a0f'
+blue        = '#257fad'
+magenta     = '#6b6bb8'
+cyan        = '#2d8f6f'
+white       = '#7ea2b4'
+
+# Bright colors
+[colors.bright]
+black       = '#5a7b8c'
+red         = '#935c25'
+green       = '#568c3b'
+yellow      = '#8a8a0f'
+blue        = '#257fad'
+magenta     = '#6b6bb8'
+cyan        = '#2d8f6f'
+white       = '#ebf8ff'

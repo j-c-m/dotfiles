@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Zenburn
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#3f3f3f'
+foreground  = '#c1c9b9'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#3f3f3f'
+cursor      = '#c1c9b9'
+
+# Selection colors
+[colors.selection]
+background  = '#dcdccc'
+text        = '#4d4d4d'
+
+# Normal colors
+[colors.normal]
+black       = '#3f3f3f'
+red         = '#705050'
+green       = '#60b48a'
+yellow      = '#94bff3'
+blue        = '#506070'
+magenta     = '#dc8cc3'
+cyan        = '#8cd0d3'
+white       = '#c1c9b9'
+
+# Bright colors
+[colors.bright]
+black       = '#8ba393'
+red         = '#dca3a3'
+green       = '#c3bf9f'
+yellow      = '#e0cf9f'
+blue        = '#94bff3'
+magenta     = '#ec93d3'
+cyan        = '#93e0e3'
+white       = '#ffffff'

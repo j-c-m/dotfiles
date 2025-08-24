@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Fun Forrest
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#241200'
+foreground  = '#c5ab60'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#241200'
+cursor      = '#c5ab60'
+
+# Selection colors
+[colors.selection]
+background  = '#ddc165'
+text        = '#000000'
+
+# Normal colors
+[colors.normal]
+black       = '#241200'
+red         = '#d5252b'
+green       = '#909b00'
+yellow      = '#7cc9ce'
+blue        = '#4698a2'
+magenta     = '#8c4231'
+cyan        = '#d98112'
+white       = '#c5ab60'
+
+# Bright colors
+[colors.bright]
+black       = '#957f58'
+red         = '#e4591b'
+green       = '#bfc659'
+yellow      = '#ffca1b'
+blue        = '#7cc9ce'
+magenta     = '#d16349'
+cyan        = '#e6a96b'
+white       = '#ffe9a3'

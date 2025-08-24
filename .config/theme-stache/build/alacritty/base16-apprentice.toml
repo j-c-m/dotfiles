@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Apprentice
+# Author:   romainl
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#262626'
+foreground  = '#5f5f87'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#262626'
+cursor      = '#5f5f87'
+
+# Selection colors
+[colors.selection]
+background  = '#5f8787'
+text        = '#af5f5f'
+
+# Normal colors
+[colors.normal]
+black       = '#262626'
+red         = '#444444'
+green       = '#ffffaf'
+yellow      = '#87af87'
+blue        = '#8787af'
+magenta     = '#5fafaf'
+cyan        = '#87afd7'
+white       = '#5f5f87'
+
+# Bright colors
+[colors.bright]
+black       = '#87875f'
+red         = '#444444'
+green       = '#ffffaf'
+yellow      = '#87af87'
+blue        = '#8787af'
+magenta     = '#5fafaf'
+cyan        = '#87afd7'
+white       = '#6c6c6c'

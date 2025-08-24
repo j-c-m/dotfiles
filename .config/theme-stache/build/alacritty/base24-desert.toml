@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Desert
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#333333'
+foreground  = '#cdbb9b'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#333333'
+cursor      = '#cdbb9b'
+
+# Selection colors
+[colors.selection]
+background  = '#f5deb3'
+text        = '#4d4d4d'
+
+# Normal colors
+[colors.normal]
+black       = '#333333'
+red         = '#ff2b2b'
+green       = '#98fb98'
+yellow      = '#87ceff'
+blue        = '#cd853f'
+magenta     = '#ffdead'
+cyan        = '#ffa0a0'
+white       = '#cdbb9b'
+
+# Bright colors
+[colors.bright]
+black       = '#7d776c'
+red         = '#ff5555'
+green       = '#55ff55'
+yellow      = '#ffff55'
+blue        = '#87ceff'
+magenta     = '#ff55ff'
+cyan        = '#ffd700'
+white       = '#ffffff'

@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Solarized Dark Higher Contrast
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#001e26'
+foreground  = '#aec2ba'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#001e26'
+cursor      = '#aec2ba'
+
+# Selection colors
+[colors.selection]
+background  = '#e9e2cb'
+text        = '#002731'
+
+# Normal colors
+[colors.normal]
+black       = '#001e26'
+red         = '#d01b24'
+green       = '#6bbe6c'
+yellow      = '#178dc7'
+blue        = '#2075c7'
+magenta     = '#c61b6e'
+cyan        = '#259185'
+white       = '#aec2ba'
+
+# Bright colors
+[colors.bright]
+black       = '#3a8298'
+red         = '#f4153b'
+green       = '#50ee84'
+yellow      = '#b17e28'
+blue        = '#178dc7'
+magenta     = '#e14d8e'
+cyan        = '#00b29e'
+white       = '#fcf4dc'

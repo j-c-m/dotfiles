@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Paper
+# Author:   
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#f2eede'
+foreground  = '#000000'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#000000'
+
+# Selection colors
+[colors.selection]
+background  = '#000000'
+text        = '#f2eede'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#cc3e28'
+green       = '#216609'
+yellow      = '#b58900'
+blue        = '#1e6fcc'
+magenta     = '#5c21a5'
+cyan        = '#158c86'
+white       = '#aaaaaa'
+
+# Bright colors
+[colors.bright]
+black       = '#555555'
+red         = '#cc3e28'
+green       = '#216609'
+yellow      = '#b58900'
+blue        = '#1e6fcc'
+magenta     = '#5c21a5'
+cyan        = '#158c86'
+white       = '#aaaaaa'

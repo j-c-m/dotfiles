@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Horizon-Bright
+# Author:   unknown
+# Variant:  light
+
+# Default colors
+[colors.primary]
+background  = '#fdefec'
+foreground  = '#16151c'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#16151c'
+cursor      = '#f9cdc2'
+
+# Selection colors
+[colors.selection]
+background  = '#f9cdc2'
+text        = '#16151c'
+
+# Normal colors
+[colors.normal]
+black       = '#16151c'
+red         = '#fc4676'
+green       = '#00d693'
+yellow      = '#feb38e'
+blue        = '#00bedc'
+magenta     = '#fe57b0'
+cyan        = '#00e6e4'
+white       = '#feefec'
+
+# Bright colors
+[colors.bright]
+black       = '#191c23'
+red         = '#fe5f87'
+green       = '#00dda0'
+yellow      = '#fec0a2'
+blue        = '#00c9e1'
+magenta     = '#fe6bb9'
+cyan        = '#07e9e7'
+white       = '#fef2ef'

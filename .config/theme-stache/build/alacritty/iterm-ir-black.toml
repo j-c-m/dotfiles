@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    IR_Black
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#000000'
+foreground  = '#f1f1f1'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#4f4f4f'
+cursor      = '#7f7f7f'
+
+# Selection colors
+[colors.selection]
+background  = '#b4d5ff'
+text        = '#000000'
+
+# Normal colors
+[colors.normal]
+black       = '#4f4f4f'
+red         = '#fa6c5f'
+green       = '#a8fe60'
+yellow      = '#fffeb6'
+blue        = '#96cafd'
+magenta     = '#fa72fc'
+cyan        = '#c6c4fd'
+white       = '#eeedee'
+
+# Bright colors
+[colors.bright]
+black       = '#7b7b7b'
+red         = '#fcb6af'
+green       = '#ceffab'
+yellow      = '#fffecc'
+blue        = '#b5dcfe'
+magenta     = '#fb9bfe'
+cyan        = '#dfdffd'
+white       = '#fefffe'

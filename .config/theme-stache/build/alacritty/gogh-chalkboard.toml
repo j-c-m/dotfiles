@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Chalkboard
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#29262f'
+foreground  = '#d9e6f2'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#d9e6f2'
+
+# Selection colors
+[colors.selection]
+background  = '#d9e6f2'
+text        = '#29262f'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#c37372'
+green       = '#72c373'
+yellow      = '#c2c372'
+blue        = '#7372c3'
+magenta     = '#c372c2'
+cyan        = '#72c2c3'
+white       = '#d9d9d9'
+
+# Bright colors
+[colors.bright]
+black       = '#323232'
+red         = '#dbaaaa'
+green       = '#aadbaa'
+yellow      = '#dadbaa'
+blue        = '#aaaadb'
+magenta     = '#dbaada'
+cyan        = '#aadadb'
+white       = '#ffffff'

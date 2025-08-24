@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Later This Evening
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#212121'
+foreground  = '#3e3f3f'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#212121'
+cursor      = '#3e3f3f'
+
+# Selection colors
+[colors.selection]
+background  = '#3b3c3c'
+text        = '#2b2b2b'
+
+# Normal colors
+[colors.normal]
+black       = '#212121'
+red         = '#d35a5f'
+green       = '#afba66'
+yellow      = '#6599d5'
+blue        = '#a0b9d5'
+magenta     = '#bf92d5'
+cyan        = '#91beb6'
+white       = '#3e3f3f'
+
+# Bright colors
+[colors.bright]
+black       = '#424545'
+red         = '#d3222e'
+green       = '#aabb39'
+yellow      = '#e4bd39'
+blue        = '#6599d5'
+magenta     = '#aa52d5'
+cyan        = '#5fbfad'
+white       = '#c0c2c2'

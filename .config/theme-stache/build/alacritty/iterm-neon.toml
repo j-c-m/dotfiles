@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Neon
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#14161a'
+foreground  = '#00fffc'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#c7c7c7'
+
+# Selection colors
+[colors.selection]
+background  = '#0012ff'
+text        = '#08d1cf'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#ff3045'
+green       = '#5ff974'
+yellow      = '#fffc7e'
+blue        = '#0208cb'
+magenta     = '#f923e6'
+cyan        = '#00fffc'
+white       = '#c7c7c7'
+
+# Bright colors
+[colors.bright]
+black       = '#676767'
+red         = '#ff5a5a'
+green       = '#75ff87'
+yellow      = '#fffc95'
+blue        = '#3b40ca'
+magenta     = '#f15ae4'
+cyan        = '#88fffd'
+white       = '#fffefe'

@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Apple System Colors
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1e1e1e'
+foreground  = '#ffffff'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#1a1a1a'
+cursor      = '#98989d'
+
+# Selection colors
+[colors.selection]
+background  = '#3f638b'
+text        = '#ffffff'
+
+# Normal colors
+[colors.normal]
+black       = '#1a1a1a'
+red         = '#cb372e'
+green       = '#26a339'
+yellow      = '#ccab08'
+blue        = '#0769cb'
+magenta     = '#9646be'
+cyan        = '#479ec1'
+white       = '#98989d'
+
+# Bright colors
+[colors.bright]
+black       = '#464646'
+red         = '#ff453a'
+green       = '#32d74b'
+yellow      = '#ffd60a'
+blue        = '#0a84ff'
+magenta     = '#bf5af2'
+cyan        = '#75d5ff'
+white       = '#ffffff'

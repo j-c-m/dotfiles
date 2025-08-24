@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Shel
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#2a201f'
+foreground  = '#4882cd'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#2c2423'
+cursor      = '#4882cd'
+
+# Selection colors
+[colors.selection]
+background  = '#4882cd'
+text        = '#2a201f'
+
+# Normal colors
+[colors.normal]
+black       = '#2c2423'
+red         = '#ab2463'
+green       = '#6ca323'
+yellow      = '#ab6423'
+blue        = '#2c64a2'
+magenta     = '#6c24a2'
+cyan        = '#2ca363'
+white       = '#918988'
+
+# Bright colors
+[colors.bright]
+black       = '#918988'
+red         = '#f588b9'
+green       = '#c2ee86'
+yellow      = '#f5ba86'
+blue        = '#8fbaec'
+magenta     = '#c288ec'
+cyan        = '#8feeb9'
+white       = '#f5eeec'

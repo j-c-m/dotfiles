@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Tokyo Night Storm
+# Author:   Michaël Ball
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#24283b'
+foreground  = '#a9b1d6'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#24283b'
+cursor      = '#a9b1d6'
+
+# Selection colors
+[colors.selection]
+background  = '#cbccd1'
+text        = '#16161e'
+
+# Normal colors
+[colors.normal]
+black       = '#24283b'
+red         = '#c0caf5'
+green       = '#9ece6a'
+yellow      = '#0db9d7'
+blue        = '#2ac3de'
+magenta     = '#bb9af7'
+cyan        = '#b4f9f8'
+white       = '#a9b1d6'
+
+# Bright colors
+[colors.bright]
+black       = '#444b6a'
+red         = '#c0caf5'
+green       = '#9ece6a'
+yellow      = '#0db9d7'
+blue        = '#2ac3de'
+magenta     = '#bb9af7'
+cyan        = '#b4f9f8'
+white       = '#d5d6db'

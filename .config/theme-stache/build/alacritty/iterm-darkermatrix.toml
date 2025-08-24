@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    darkermatrix
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#070c0e'
+foreground  = '#28380d'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#091013'
+cursor      = '#373a26'
+
+# Selection colors
+[colors.selection]
+background  = '#0f191c'
+text        = '#00ff87'
+
+# Normal colors
+[colors.normal]
+black       = '#091013'
+red         = '#002e18'
+green       = '#6fa64c'
+yellow      = '#595900'
+blue        = '#00cb6b'
+magenta     = '#412a4d'
+cyan        = '#125459'
+white       = '#002e19'
+
+# Bright colors
+[colors.bright]
+black       = '#333333'
+red         = '#00381d'
+green       = '#90d762'
+yellow      = '#e2e500'
+blue        = '#00ff87'
+magenta     = '#412a4d'
+cyan        = '#176c73'
+white       = '#00381e'

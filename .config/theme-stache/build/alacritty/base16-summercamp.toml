@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    summercamp
+# Author:   zoe firi (zoefiri.github.io)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1c1810'
+foreground  = '#736e55'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#1c1810'
+cursor      = '#736e55'
+
+# Selection colors
+[colors.selection]
+background  = '#bab696'
+text        = '#2a261c'
+
+# Normal colors
+[colors.normal]
+black       = '#1c1810'
+red         = '#e35142'
+green       = '#5ceb5a'
+yellow      = '#f2ff27'
+blue        = '#489bf0'
+magenta     = '#ff8080'
+cyan        = '#5aebbc'
+white       = '#736e55'
+
+# Bright colors
+[colors.bright]
+black       = '#504b38'
+red         = '#e35142'
+green       = '#5ceb5a'
+yellow      = '#f2ff27'
+blue        = '#489bf0'
+magenta     = '#ff8080'
+cyan        = '#5aebbc'
+white       = '#f8f5de'

@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    IC_Green_PPL
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#2c2c2c'
+foreground  = '#e0f1dc'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#014401'
+cursor      = '#46f96b'
+
+# Selection colors
+[colors.selection]
+background  = '#116b41'
+text        = '#e0f1dc'
+
+# Normal colors
+[colors.normal]
+black       = '#014401'
+red         = '#fe2635'
+green       = '#41a638'
+yellow      = '#76a830'
+blue        = '#2ec3b9'
+magenta     = '#50a096'
+cyan        = '#3ca078'
+white       = '#e6fef2'
+
+# Bright colors
+[colors.bright]
+black       = '#025c02'
+red         = '#b4fa5c'
+green       = '#aefa86'
+yellow      = '#dafa87'
+blue        = '#2efaeb'
+magenta     = '#50fafa'
+cyan        = '#3cfac8'
+white       = '#e0f1dc'

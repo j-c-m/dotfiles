@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Space Gray Eighties Dull
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#212121'
+foreground  = '#9a9fa6'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#212121'
+cursor      = '#9a9fa6'
+
+# Selection colors
+[colors.selection]
+background  = '#b2b8c2'
+text        = '#15171c'
+
+# Normal colors
+[colors.normal]
+black       = '#212121'
+red         = '#b14956'
+green       = '#91b377'
+yellow      = '#5485c0'
+blue        = '#7b8fa4'
+magenta     = '#a5779e'
+cyan        = '#7fcccb'
+white       = '#9a9fa6'
+
+# Bright colors
+[colors.bright]
+black       = '#6c6d70'
+red         = '#ec5f67'
+green       = '#88e985'
+yellow      = '#fdc253'
+blue        = '#5485c0'
+magenta     = '#bf83c0'
+cyan        = '#58c2c0'
+white       = '#ffffff'

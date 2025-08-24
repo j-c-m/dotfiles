@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    DimmedMonokai
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1e1e1e'
+foreground  = '#b8bcb9'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#3a3c43'
+cursor      = '#f83d19'
+
+# Selection colors
+[colors.selection]
+background  = '#292c31'
+text        = '#b8bcb9'
+
+# Normal colors
+[colors.normal]
+black       = '#3a3c43'
+red         = '#be3e48'
+green       = '#869a3a'
+yellow      = '#c4a535'
+blue        = '#4e76a1'
+magenta     = '#855b8d'
+cyan        = '#568ea3'
+white       = '#b8bcb9'
+
+# Bright colors
+[colors.bright]
+black       = '#888987'
+red         = '#fb001e'
+green       = '#0e712e'
+yellow      = '#c37033'
+blue        = '#176ce3'
+magenta     = '#fb0067'
+cyan        = '#2d6f6c'
+white       = '#fcffb8'

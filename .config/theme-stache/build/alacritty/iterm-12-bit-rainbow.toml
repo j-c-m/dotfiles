@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    12-bit Rainbow
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#040404'
+foreground  = '#feffff'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#dfd000'
+
+# Selection colors
+[colors.selection]
+background  = '#606060'
+text        = '#ffffff'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#a02f4f'
+green       = '#40d080'
+yellow      = '#df8f40'
+blue        = '#2f60b0'
+magenta     = '#602f8f'
+cyan        = '#008fbf'
+white       = '#daded8'
+
+# Bright colors
+[colors.bright]
+black       = '#675656'
+red         = '#bf6060'
+green       = '#8fd04f'
+yellow      = '#dfd000'
+blue        = '#00b0bf'
+magenta     = '#800f6f'
+cyan        = '#20b0bf'
+white       = '#ffffff'

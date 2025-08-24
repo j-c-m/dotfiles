@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Nocturnal Winter
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#0d0d17'
+foreground  = '#dcdcdc'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#0d0d17'
+cursor      = '#dcdcdc'
+
+# Selection colors
+[colors.selection]
+background  = '#fbfbfb'
+text        = '#4c4c4c'
+
+# Normal colors
+[colors.normal]
+black       = '#0d0d17'
+red         = '#f12d52'
+green       = '#08cd7d'
+yellow      = '#6095fe'
+blue        = '#3081df'
+magenta     = '#fe2a6c'
+cyan        = '#09c87a'
+white       = '#dcdcdc'
+
+# Bright colors
+[colors.bright]
+black       = '#9e9e9e'
+red         = '#f16c85'
+green       = '#0ae78d'
+yellow      = '#fefb67'
+blue        = '#6095fe'
+magenta     = '#ff78a2'
+cyan        = '#0ae78d'
+white       = '#ffffff'

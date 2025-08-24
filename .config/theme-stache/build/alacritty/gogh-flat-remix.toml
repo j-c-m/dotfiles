@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Flat Remix
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#272a34'
+foreground  = '#ffffff'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#1f2229'
+cursor      = '#ffffff'
+
+# Selection colors
+[colors.selection]
+background  = '#ffffff'
+text        = '#272a34'
+
+# Normal colors
+[colors.normal]
+black       = '#1f2229'
+red         = '#d41919'
+green       = '#5ebdab'
+yellow      = '#fea44c'
+blue        = '#367bf0'
+magenta     = '#bf2e5d'
+cyan        = '#49aee6'
+white       = '#e6e6e6'
+
+# Bright colors
+[colors.bright]
+black       = '#8c42ab'
+red         = '#ec0101'
+green       = '#47d4b9'
+yellow      = '#ff8a18'
+blue        = '#277fff'
+magenta     = '#d71655'
+cyan        = '#05a1f7'
+white       = '#ffffff'

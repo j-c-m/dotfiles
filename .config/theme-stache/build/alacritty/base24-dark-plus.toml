@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Dark Plus
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#0e0e0e'
+foreground  = '#c5c5c5'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#0e0e0e'
+cursor      = '#c5c5c5'
+
+# Selection colors
+[colors.selection]
+background  = '#e5e5e5'
+text        = '#000000'
+
+# Normal colors
+[colors.normal]
+black       = '#0e0e0e'
+red         = '#cd3131'
+green       = '#0dbc79'
+yellow      = '#3b8eea'
+blue        = '#2472c8'
+magenta     = '#bc3fbc'
+cyan        = '#11a8cd'
+white       = '#c5c5c5'
+
+# Bright colors
+[colors.bright]
+black       = '#858585'
+red         = '#f14c4c'
+green       = '#23d18b'
+yellow      = '#f5f543'
+blue        = '#3b8eea'
+magenta     = '#d670d6'
+cyan        = '#29b8db'
+white       = '#e5e5e5'

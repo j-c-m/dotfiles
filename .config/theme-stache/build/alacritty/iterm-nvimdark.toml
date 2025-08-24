@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    NvimDark
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#14161b'
+foreground  = '#e0e2ea'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#07080d'
+cursor      = '#9b9ea4'
+
+# Selection colors
+[colors.selection]
+background  = '#4f5258'
+text        = '#e0e2ea'
+
+# Normal colors
+[colors.normal]
+black       = '#07080d'
+red         = '#ffc0b9'
+green       = '#b3f6c0'
+yellow      = '#fce094'
+blue        = '#a6dbff'
+magenta     = '#ffcaff'
+cyan        = '#8cf8f7'
+white       = '#eef1f8'
+
+# Bright colors
+[colors.bright]
+black       = '#4f5258'
+red         = '#ffc0b9'
+green       = '#b3f6c0'
+yellow      = '#fce094'
+blue        = '#a6dbff'
+magenta     = '#ffcaff'
+cyan        = '#8cf8f7'
+white       = '#eef1f8'

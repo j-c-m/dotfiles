@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    terafox
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#152528'
+foreground  = '#e6eaea'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#2f3239'
+cursor      = '#e6eaea'
+
+# Selection colors
+[colors.selection]
+background  = '#283d3f'
+text        = '#e6eaea'
+
+# Normal colors
+[colors.normal]
+black       = '#2f3239'
+red         = '#e85b51'
+green       = '#7aa3a1'
+yellow      = '#fda37e'
+blue        = '#5a92aa'
+magenta     = '#ad5b7b'
+cyan        = '#a1ccd7'
+white       = '#eaeaea'
+
+# Bright colors
+[colors.bright]
+black       = '#4e5157'
+red         = '#ea736a'
+green       = '#8eb1ae'
+yellow      = '#fdb191'
+blue        = '#72a3b7'
+magenta     = '#b8738f'
+cyan        = '#aed4de'
+white       = '#ededed'

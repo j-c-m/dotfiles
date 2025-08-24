@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    CyberpunkScarletProtocol
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#0f1116'
+foreground  = '#e31950'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#101016'
+cursor      = '#76fe9f'
+
+# Selection colors
+[colors.selection]
+background  = '#c1ddfe'
+text        = '#000000'
+
+# Normal colors
+[colors.normal]
+black       = '#101016'
+red         = '#fe0050'
+green       = '#00db83'
+yellow      = '#faf844'
+blue        = '#0170b6'
+magenta     = '#c930c7'
+cyan        = '#00c5c7'
+white       = '#c7c7c7'
+
+# Bright colors
+[colors.bright]
+black       = '#676767'
+red         = '#fe6d67'
+green       = '#5ff967'
+yellow      = '#fefb67'
+blue        = '#6871fe'
+magenta     = '#bc35eb'
+cyan        = '#5ffdfe'
+white       = '#fefefe'

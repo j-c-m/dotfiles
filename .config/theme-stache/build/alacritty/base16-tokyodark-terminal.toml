@@ -1,0 +1,41 @@
+# Source:   base16
+# Theme:    Tokyodark Terminal
+# Author:   Tiagovla (https://github.com/tiagovla/)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#11121d'
+foreground  = '#a0a8cd'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#11121d'
+cursor      = '#a0a8cd'
+
+# Selection colors
+[colors.selection]
+background  = '#a0a8cd'
+text        = '#1a1b2a'
+
+# Normal colors
+[colors.normal]
+black       = '#11121d'
+red         = '#ee6d85'
+green       = '#95c561'
+yellow      = '#d7a65f'
+blue        = '#7199ee'
+magenta     = '#a485dd'
+cyan        = '#38a89d'
+white       = '#a0a8cd'
+
+# Bright colors
+[colors.bright]
+black       = '#282c34'
+red         = '#ee6d85'
+green       = '#95c561'
+yellow      = '#d7a65f'
+blue        = '#7199ee'
+magenta     = '#a485dd'
+cyan        = '#38a89d'
+white       = '#a0a8cd'

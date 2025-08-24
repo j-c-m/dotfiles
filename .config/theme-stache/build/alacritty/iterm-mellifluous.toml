@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    Mellifluous
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1a1a1a'
+foreground  = '#dadada'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#1a1a1a'
+cursor      = '#bfad9e'
+
+# Selection colors
+[colors.selection]
+background  = '#2d2d2d'
+text        = '#c0af8c'
+
+# Normal colors
+[colors.normal]
+black       = '#1a1a1a'
+red         = '#d29393'
+green       = '#b3b393'
+yellow      = '#cbaa89'
+blue        = '#a8a1be'
+magenta     = '#b39fb0'
+cyan        = '#c0af8c'
+white       = '#dadada'
+
+# Bright colors
+[colors.bright]
+black       = '#5b5b5b'
+red         = '#c95954'
+green       = '#828040'
+yellow      = '#a6794c'
+blue        = '#5a6599'
+magenta     = '#9c6995'
+cyan        = '#74a39e'
+white       = '#ffffff'

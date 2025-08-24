@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Purple People Eater
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#161b22'
+foreground  = '#c9d1d9'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#0d1117'
+cursor      = '#c9d1d9'
+
+# Selection colors
+[colors.selection]
+background  = '#c9d1d9'
+text        = '#161b22'
+
+# Normal colors
+[colors.normal]
+black       = '#0d1117'
+red         = '#e34c26'
+green       = '#238636'
+yellow      = '#ed9a51'
+blue        = '#a5d6ff'
+magenta     = '#6eb0e8'
+cyan        = '#c09aeb'
+white       = '#c9d1d9'
+
+# Bright colors
+[colors.bright]
+black       = '#0d1117'
+red         = '#ff7b72'
+green       = '#3bab4a'
+yellow      = '#ffa657'
+blue        = '#a5d6ff'
+magenta     = '#79c0ff'
+cyan        = '#b694df'
+white       = '#c9d1d9'

@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    VibrantInk
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#000000'
+foreground  = '#ffffff'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#878787'
+cursor      = '#ffffff'
+
+# Selection colors
+[colors.selection]
+background  = '#b4d5ff'
+text        = '#000000'
+
+# Normal colors
+[colors.normal]
+black       = '#878787'
+red         = '#ff6600'
+green       = '#ccff04'
+yellow      = '#ffcc00'
+blue        = '#44b3cc'
+magenta     = '#9933cc'
+cyan        = '#44b3cc'
+white       = '#f5f5f5'
+
+# Bright colors
+[colors.bright]
+black       = '#555555'
+red         = '#ff0000'
+green       = '#00ff00'
+yellow      = '#ffff00'
+blue        = '#0000ff'
+magenta     = '#ff00ff'
+cyan        = '#00ffff'
+white       = '#e5e5e5'

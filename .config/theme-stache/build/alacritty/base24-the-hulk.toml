@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    The Hulk
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#1b1d1e'
+foreground  = '#b6b6b1'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#1b1d1e'
+cursor      = '#b6b6b1'
+
+# Selection colors
+[colors.selection]
+background  = '#d8d8d0'
+text        = '#1b1d1e'
+
+# Normal colors
+[colors.normal]
+black       = '#1b1d1e'
+red         = '#259d1a'
+green       = '#13ce2f'
+yellow      = '#4f6a95'
+blue        = '#2424f4'
+magenta     = '#641e73'
+cyan        = '#378ca9'
+white       = '#b6b6b1'
+
+# Bright colors
+[colors.bright]
+black       = '#727473'
+red         = '#8dff2a'
+green       = '#48ff76'
+yellow      = '#3afe15'
+blue        = '#4f6a95'
+magenta     = '#72579d'
+cyan        = '#3f85a5'
+white       = '#e5e5e0'

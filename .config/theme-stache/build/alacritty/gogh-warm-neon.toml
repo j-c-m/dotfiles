@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Warm Neon
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#404040'
+foreground  = '#afdab6'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#afdab6'
+
+# Selection colors
+[colors.selection]
+background  = '#afdab6'
+text        = '#404040'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#e24346'
+green       = '#39b13a'
+yellow      = '#dae145'
+blue        = '#4261c5'
+magenta     = '#f920fb'
+cyan        = '#2abbd4'
+white       = '#d0b8a3'
+
+# Bright colors
+[colors.bright]
+black       = '#fefcfc'
+red         = '#e97071'
+green       = '#9cc090'
+yellow      = '#ddda7a'
+blue        = '#7b91d6'
+magenta     = '#f674ba'
+cyan        = '#5ed1e5'
+white       = '#d8c8bb'

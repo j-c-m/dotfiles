@@ -1,0 +1,41 @@
+# Source:   gogh
+# Theme:    Sat
+# Author:   
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#758480'
+foreground  = '#23476a'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#000000'
+cursor      = '#23476a'
+
+# Selection colors
+[colors.selection]
+background  = '#23476a'
+text        = '#758480'
+
+# Normal colors
+[colors.normal]
+black       = '#000000'
+red         = '#dd0007'
+green       = '#07dd00'
+yellow      = '#ddd600'
+blue        = '#0007dd'
+magenta     = '#d600dd'
+cyan        = '#00ddd6'
+white       = '#f2f2f2'
+
+# Bright colors
+[colors.bright]
+black       = '#7d7d7d'
+red         = '#ff7478'
+green       = '#78ff74'
+yellow      = '#fffa74'
+blue        = '#7478ff'
+magenta     = '#fa74ff'
+cyan        = '#74fffa'
+white       = '#ffffff'

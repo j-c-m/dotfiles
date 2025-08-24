@@ -1,0 +1,41 @@
+# Source:   iterm
+# Theme:    FishTank
+# Author:   unknown
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#222436'
+foreground  = '#eceffd'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#03063c'
+cursor      = '#fdcd5e'
+
+# Selection colors
+[colors.selection]
+background  = '#fcf6e8'
+text        = '#222436'
+
+# Normal colors
+[colors.normal]
+black       = '#03063c'
+red         = '#c60049'
+green       = '#abf157'
+yellow      = '#fdcd5e'
+blue        = '#525fb8'
+magenta     = '#976f81'
+cyan        = '#968662'
+white       = '#eceffc'
+
+# Bright colors
+[colors.bright]
+black       = '#6c5a30'
+red         = '#d94a8a'
+green       = '#daffa8'
+yellow      = '#fee6a8'
+blue        = '#b1bdf9'
+magenta     = '#fda4cc'
+cyan        = '#a4bc86'
+white       = '#f6ffec'

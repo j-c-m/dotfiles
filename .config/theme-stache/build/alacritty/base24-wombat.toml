@@ -1,0 +1,41 @@
+# Source:   base24
+# Theme:    Wombat
+# Author:   FredHappyface (https://github.com/fredHappyface)
+# Variant:  dark
+
+# Default colors
+[colors.primary]
+background  = '#171717'
+foreground  = '#b2afa6'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#171717'
+cursor      = '#b2afa6'
+
+# Selection colors
+[colors.selection]
+background  = '#ded9ce'
+text        = '#000000'
+
+# Normal colors
+[colors.normal]
+black       = '#171717'
+red         = '#ff605a'
+green       = '#b1e869'
+yellow      = '#a5c7ff'
+blue        = '#5da9f6'
+magenta     = '#e86aff'
+cyan        = '#82fff6'
+white       = '#b2afa6'
+
+# Bright colors
+[colors.bright]
+black       = '#5c5b58'
+red         = '#f58b7f'
+green       = '#dcf88f'
+yellow      = '#eee5b2'
+blue        = '#a5c7ff'
+magenta     = '#ddaaff'
+cyan        = '#b6fff9'
+white       = '#fefffe'
