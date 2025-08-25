@@ -1,0 +1,19 @@
+#!/bin/dash
+
+# Get last non-minimized Ghostty window in the current space
+ghostty_win=$(yabai -m query --windows --space | jq -r '[.[] | select(.app=="Ghostty" and .["is-minimized"]==false) | .id][-1]')
+
+# Create window if needed, otherwise focus last window
+if [ "$ghostty_win" = "null" ]; then
+    osascript <<EOF
+tell application "Ghostty"
+    if it is running then
+        tell application "System Events" to tell process "Ghostty" to click menu item "New Window" of menu "File" of menu bar 1
+    else
+        activate
+    end if
+end tell
+EOF
+else
+    yabai -m window "$ghostty_win" --focus
+fi

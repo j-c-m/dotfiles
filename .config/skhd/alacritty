@@ -1,19 +1,14 @@
 #!/bin/dash
 
-# Get the current space ID
-current_space=$(yabai -m query --spaces --space | jq '.index')
+# Get last non-minimized Alacritty window in the current space
+alacritty_win=$(yabai -m query --windows --space | jq -r '[.[] | select(.app=="alacritty" and .["is-minimized"]==false) | .id][-1]')
 
-# Query yabai for all non-minimized Alacritty windows in the current space
-alacritty_windows=$(yabai -m query --windows | jq --argjson space "$current_space" '[.[] | select(.app == "alacritty" and .["is-minimized"] == false and .space == $space)]')
-
-# Check if any non-minimized Alacritty windows exist in the current space
-if [ "$(echo "$alacritty_windows" | jq 'length')" -gt 0 ]; then
-    # Get the ID of the last non-minimized Alacritty window
-    last_window_id=$(echo "$alacritty_windows" | jq '.[-1].id')
-    # Focus the last non-minimized Alacritty window
-    yabai -m window "$last_window_id" --focus
+# Create window if needed, otherwise focus last window
+if [ "$alacritty_win" = "null" ]; then
+    LABEL="pid$$"
+    yabai -m signal --add event=window_created label="$LABEL" app="^alacritty$" \
+     action="yabai -m window \$YABAI_WINDOW_ID --focus && yabai -m signal --remove $LABEL" \
+     && /opt/homebrew/bin/alacritty msg create-window || /opt/homebrew/bin/alacritty
 else
-    # Execute the provided command to create a new Alacritty window
-    (LABEL="pid$$" && yabai -m signal --add event="window_created" label="$LABEL" app="^alacritty$" action="yabai -m window \$YABAI_WINDOW_ID --focus && yabai -m signal --remove $LABEL") && (/opt/homebrew/bin/alacritty msg create-window || /opt/homebrew/bin/alacritty)
+    yabai -m window "$alacritty_win" --focus
 fi
-
