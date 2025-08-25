@@ -9,9 +9,7 @@ if [ "$ghostty_win" = "null" ]; then
     yabai -m signal --add event=window_created label="$LABEL" app="^Ghostty$" \
      action="yabai -m window \$YABAI_WINDOW_ID --focus && yabai -m signal --remove $LABEL" \
     && osascript <<EOF
-tell application "Ghostty"
-    tell application "System Events" to tell process "Ghostty" to click menu item "New Window" of menu "File" of menu bar 1
-end tell
+tell application "System Events" to tell process "Ghostty" to click menu item "New Window" of menu "File" of menu bar 1
 EOF
 else
     yabai -m window "$ghostty_win" --focus
