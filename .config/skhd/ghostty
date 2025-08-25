@@ -9,9 +9,8 @@ if [ "$ghostty_win" = "null" ]; then
 tell application "Ghostty"
     if it is running then
         tell application "System Events" to tell process "Ghostty" to click menu item "New Window" of menu "File" of menu bar 1
-    else
-        activate
     end if
+    activate
 end tell
 EOF
 else
