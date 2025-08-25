@@ -1,0 +1,14 @@
+#!/bin/dash
+
+# Get last non-minimized Kitty window in the current space
+kitty_win=$(yabai -m query --windows --space | jq -r '[.[] | select(.app=="kitty" and .["is-minimized"]==false) | .id][-1]')
+
+# Create window if needed, otherwise focus last window
+if [ "$kitty_win" = "null" ]; then
+    LABEL="pid$$"
+    yabai -m signal --add event=window_created label="$LABEL" app="^kitty$" \
+     action="yabai -m window \$YABAI_WINDOW_ID --focus && yabai -m signal --remove $LABEL" \
+     && /opt/homebrew/bin/kitty -1 -d ${HOME}
+else
+    yabai -m window "$kitty_win" --focus
+fi
