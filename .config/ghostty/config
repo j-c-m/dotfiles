@@ -35,8 +35,8 @@ font-family = Hack
 font-size = 18
 background-opacity = 0.95
 
-window-height = 33
-window-width = 100
+window-width = 133
+window-height = 42
 window-step-resize = true
 
 shell-integration-features = no-cursor
