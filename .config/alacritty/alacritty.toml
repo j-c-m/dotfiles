@@ -8,11 +8,6 @@ resize_increments = true
 normal = { family = "Hack", style = "Regular" }
 size = 18
 offset = { x = 1, y = 0 }
-[mouse]
-bindings = [
- { mouse = "Right", action = "Paste" },
- { mouse = "Middle", action = "ExpandSelection" },
-]
 
 [selection]
 save_to_clipboard = true
