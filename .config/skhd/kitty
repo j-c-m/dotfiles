@@ -5,6 +5,7 @@ kitty_win=$(yabai -m query --windows --space | jq -r '[.[] | select(.app=="kitty
 
 # Create window if needed, otherwise focus last window
 if [ "$kitty_win" = "null" ]; then
+    unset SHELL
     LABEL="pid$$"
     yabai -m signal --add event=window_created label="$LABEL" app="^kitty$" \
      action="yabai -m window \$YABAI_WINDOW_ID --focus && yabai -m signal --remove $LABEL" \
