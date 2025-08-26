@@ -411,13 +411,13 @@ if __name__ == "__main__":
             sys.exit(1)
         print(f"Loaded {len(themes)} themes from {directory}.")
         last_activated_script = curses.wrapper(main, themes)
-        # Run the last activated script or fallback to ~/.shell_theme.sh
+        # Run the last activated script or fallback to the current theme
         if last_activated_script:
             subprocess.run(["bash", str(last_activated_script)])
         else:
-            symlink_path = Path.home() / ".shell_theme.sh"
-            if symlink_path.is_file():
-                subprocess.run(["bash", str(symlink_path)])
+            current_theme_sh = Path(__file__).resolve().parent / "current-theme" / "shell.sh"
+            if current_theme_sh.is_file():
+                subprocess.run(["bash", str(current_theme_sh)])
     else:
         print(f"Invalid path: {directory}. Provide a directory containing JSON files.")
         sys.exit(1)
