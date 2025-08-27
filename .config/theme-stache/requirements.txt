@@ -1,5 +1,0 @@
-pyyaml
-pystache
-pyjson
-pathlib
-unidecode
