@@ -11,3 +11,4 @@ rm -f $HOME/.sh/01-alacritty.sh
 rm -f $HOME/.shell_theme.sh
 rm -rf $HOME/.config/theme-stache
 rm -f $HOME/.sh/05-theme-stache.sh
+rm -f $HOME/bin/theme-stache
