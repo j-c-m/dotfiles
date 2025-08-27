@@ -9,3 +9,5 @@ rm -rf $HOME/.config/base16-shell
 [ -L "$HOME/.base16_theme" ] && rm "$HOME/.base16_theme"
 rm -f $HOME/.sh/01-alacritty.sh
 rm -f $HOME/.shell_theme.sh
+rm -rf $HOME/.config/theme-stache
+rm -f $HOME/.sh/05-theme-stache.sh
