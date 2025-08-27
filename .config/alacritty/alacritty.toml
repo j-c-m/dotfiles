@@ -14,3 +14,46 @@ save_to_clipboard = true
 
 [hints]
 enabled = []
+
+# Source:   iterm
+# Theme:    SpaceGray Eighties
+# Author:   unknown
+# Variant:  dark
+# (MODIFIED, 8, fg,bg,selection)
+
+# Default colors
+[colors.primary]
+background  = '#2c2c2c'
+foreground  = '#cccccc'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text        = '#15171c'
+cursor      = '#bbbbbb'
+
+# Selection colors
+[colors.selection]
+background  = '#e0e0e0'
+text        = '#2c2c2c'
+
+# Normal colors
+[colors.normal]
+black       = '#15171c'
+red         = '#ec5f67'
+green       = '#80a763'
+yellow      = '#fdc253'
+blue        = '#5485c0'
+magenta     = '#bf83c0'
+cyan        = '#57c2c0'
+white       = '#eeece7'
+
+# Bright colors
+[colors.bright]
+black       = '#999999'
+red         = '#ff6973'
+green       = '#93d393'
+yellow      = '#ffd156'
+blue        = '#4d83d0'
+magenta     = '#ff55ff'
+cyan        = '#83e8e4'
+white       = '#ffffff'
