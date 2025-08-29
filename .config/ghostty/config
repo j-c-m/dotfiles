@@ -35,8 +35,8 @@ font-family = Hack
 font-size = 18
 background-opacity = 1
 
-window-width = 133
-window-height = 42
+window-width = 105
+window-height = 35
 window-step-resize = true
 
 theme = SpaceGray Eighties
