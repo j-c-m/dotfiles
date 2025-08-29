@@ -19,12 +19,12 @@ enabled = []
 # Theme:    SpaceGray Eighties
 # Author:   unknown
 # Variant:  dark
-# (MODIFIED, 8, fg,bg,selection)
+# (MODIFIED, 3, 8, fg,selection)
 
 # Default colors
 [colors.primary]
-background  = '#2c2c2c'
-foreground  = '#cccccc'
+background  = '#222222'
+foreground  = '#bdbaae'
 
 # Colors the cursor will use if `custom_cursor_colors` is true
 [colors.cursor]
@@ -34,27 +34,27 @@ cursor      = '#bbbbbb'
 # Selection colors
 [colors.selection]
 background  = '#e0e0e0'
-text        = '#2c2c2c'
+text        = '#222222'
 
 # Normal colors
 [colors.normal]
 black       = '#15171c'
 red         = '#ec5f67'
-green       = '#80a763'
-#yellow      = '#fdc253'
+green       = '#81a764'
+#yellow      = '#fec254'
 yellow      = '#d3a03e'
-blue        = '#5485c0'
-magenta     = '#bf83c0'
-cyan        = '#57c2c0'
-white       = '#eeece7'
+blue        = '#5486c0'
+magenta     = '#bf83c1'
+cyan        = '#57c2c1'
+white       = '#efece7'
 
 # Bright colors
 [colors.bright]
 black       = '#999999'
 red         = '#ff6973'
-green       = '#93d393'
-yellow      = '#ffd156'
-blue        = '#4d83d0'
+green       = '#93d493'
+yellow      = '#ffd256'
+blue        = '#4d84d1'
 magenta     = '#ff55ff'
-cyan        = '#83e8e4'
+cyan        = '#83e9e4'
 white       = '#ffffff'
