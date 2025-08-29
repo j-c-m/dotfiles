@@ -24,7 +24,7 @@ enabled = []
 # Default colors
 [colors.primary]
 background  = '#222222'
-foreground  = '#bdbaae'
+foreground  = '#cccccc'
 
 # Colors the cursor will use if `custom_cursor_colors` is true
 [colors.cursor]
