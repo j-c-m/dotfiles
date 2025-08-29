@@ -33,7 +33,7 @@
 # resize-overlay-duration = 4s 200ms
 font-family = Hack
 font-size = 18
-background-opacity = 0.95
+background-opacity = 1
 
 window-width = 133
 window-height = 42
