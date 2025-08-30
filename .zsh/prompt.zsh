@@ -6,7 +6,7 @@ function update_prompt() {
 
 
     PROMPT='[%B%*%b] %D{%a %b %d} \
-[%F{6}%~${GP}%f]:\
+[%F{6}%30<..<%~%<<${GP}%f]:\
 %(!.%F{9}.%F{15})%K{4}%n@%m%k%f
 %(!.#.$) '
 
