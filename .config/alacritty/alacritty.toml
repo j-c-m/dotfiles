@@ -5,7 +5,7 @@ option_as_alt = "Both"
 resize_increments = true
 
 [font]
-normal = { family = "Hack", style = "Regular" }
+normal = { family = "JetBrains Mono", style = "Regular" }
 size = 18
 offset = { x = 1, y = 0 }
 
