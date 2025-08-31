@@ -1,4 +1,4 @@
-VERSION=0.0.33
+VERSION=0.0.34
 
 check_and_upgrade_dotfiles() {
     if [ -z "$ZSH_VERSION" ]; then
@@ -44,8 +44,6 @@ function upgrade_dotfiles() {
         TAR=gtar
     fi
 
-    echo removing theme-stache build...
-    rm -r $HOME/.config/theme-stache/build
     echo removing vim themes...
     rm -r $HOME/.vim/colors
 
