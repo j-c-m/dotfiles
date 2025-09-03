@@ -16,7 +16,7 @@ cmd - f6 : yabai -m space --focus 6
 ctrl + cmd - y : ~/.config/skhd/ghostty
 ctrl + cmd - k : ~/.config/skhd/kitty
 ctrl + cmd - t : ~/.config/skhd/terminal
-ctrl + cmd - a : ~/.config/skhd/alacritty
+#ctrl + cmd - a : ~/.config/skhd/alacritty
 #ctrl + cmd - t : osascript -e 'tell application "iTerm" to create window with default profile' \
 #    -e 'activate application "iTerm"'
 
