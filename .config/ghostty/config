@@ -34,6 +34,7 @@
 font-family = JetBrains Mono
 font-size = 18
 background-opacity = 1
+adjust-cell-height = -1
 
 window-width = 105
 window-height = 35
@@ -54,6 +55,8 @@ copy-on-select = clipboard
 
 quit-after-last-window-closed = true
 quit-after-last-window-closed-delay = 1m
+
+keybind = shift+enter=text:\n
 
 # defaults below
 
