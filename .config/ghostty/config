@@ -58,7 +58,3 @@ quit-after-last-window-closed-delay = 1m
 
 keybind = shift+enter=text:\n
 
-# defaults below
-
-bold-is-bright = false
-selection-invert-fg-bg = false
