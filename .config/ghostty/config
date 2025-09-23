@@ -44,8 +44,12 @@ theme = SpaceGray Eighties
 palette = 3=#d3a03e
 palette = 8=#999999
 foreground = #cccccc
-selection-background = #e0e0e0
-selection-foreground = #222222
+#selection-background = #e0e0e0
+#selection-foreground = #222222
+selection-foreground = cell-background
+selection-background = cell-foreground
+cursor-color = cell-foreground
+cursor-text = cell-background
 
 shell-integration-features = no-cursor
 cursor-style = block
