@@ -1,3 +1,8 @@
+if command -v starship &>/dev/null; then
+    eval "$(starship init zsh)"
+    return
+fi
+
 setopt PROMPT_SUBST
 
 # primary prompt (standard color)

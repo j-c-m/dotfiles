@@ -32,7 +32,7 @@
 # # Just for example:
 # resize-overlay-duration = 4s 200ms
 font-family = JetBrains Mono
-font-size = 18
+font-size = 19
 background-opacity = 1
 adjust-cell-height = -1
 
@@ -61,4 +61,3 @@ quit-after-last-window-closed = true
 quit-after-last-window-closed-delay = 1m
 
 keybind = shift+enter=text:\r
-
