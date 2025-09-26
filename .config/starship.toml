@@ -7,13 +7,16 @@ $git_state\
 $git_status\
 $cmd_duration\
 $line_break\
-$python\
 $character"""
 
 add_newline = false
 
+[line_break]
+disabled = true
+
 [directory]
 style = "blue"
+truncation_symbol = "../"
 
 [character]
 success_symbol = "[❯](none)"
