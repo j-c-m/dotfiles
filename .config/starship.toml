@@ -26,7 +26,10 @@ disabled = true
 
 [directory]
 format = '[$path]($style) '
+repo_root_format = '[$repo_root]($repo_root_style)[$path]($style):'
 style = "bright-blue"
+before_repo_root_style = 'bright-black'
+repo_root_style = 'bright-blue'
 truncation_symbol = "../"
 
 [character]
@@ -55,7 +58,8 @@ style = "bright-black"
 
 [cmd_duration]
 format = "[$duration]($style) "
-style = "yellow"
+style = "purple"
+show_milliseconds = false
 
 [python]
 format = "[$virtualenv]($style) "
