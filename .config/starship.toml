@@ -12,7 +12,7 @@ $character"""
 add_newline = false
 
 [username]
-format = ' [$user]($style)'
+format = '[$user]($style)'
 style_user = 'fg:white'
 style_root = 'fg:red'
 
