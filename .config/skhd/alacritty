@@ -9,7 +9,7 @@ if [ "$alacritty_win" = "null" ]; then
     LABEL="pid$$"
     yabai -m signal --add event=window_created label="$LABEL" app="^alacritty$" \
      action="yabai -m window \$YABAI_WINDOW_ID --focus && yabai -m signal --remove $LABEL" \
-     && /opt/homebrew/bin/alacritty msg create-window || /opt/homebrew/bin/alacritty
+     && /opt/homebrew/bin/alacritty msg create-window > /dev/null 2>&1 || /opt/homebrew/bin/alacritty
 else
     yabai -m window "$alacritty_win" --focus
 fi
