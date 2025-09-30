@@ -26,16 +26,6 @@ enabled = []
 background  = '#222222'
 foreground  = '#cccccc'
 
-# Colors the cursor will use if `custom_cursor_colors` is true
-[colors.cursor]
-text        = '#15171c'
-cursor      = '#bbbbbb'
-
-# Selection colors
-[colors.selection]
-background  = '#e0e0e0'
-text        = '#222222'
-
 # Normal colors
 [colors.normal]
 black       = '#15171c'
