@@ -1,0 +1,13 @@
+[include]
+        path = ~/.config/git/config-private
+[core]
+        excludesfile = ~/.config/git/ignore
+[alias]
+        co = checkout
+        br = branch
+        ci = commit
+        st = status
+[pull]
+        rebase = true
+[init]
+        defaultBranch = master
