@@ -20,9 +20,9 @@ ctrl + cmd - t : ~/.config/skhd/terminal
 #ctrl + cmd - t : osascript -e 'tell application "iTerm" to create window with default profile' \
 #    -e 'activate application "iTerm"'
 
-ctrl + cmd - g : open -a "Microsoft Edge.app" -n
+ctrl + cmd - e : open -a "Microsoft Edge.app" -n
 #ctrl + cmd - g : open -a "Google Chrome.app" -n
-ctrl + cmd - s : osascript -e 'tell application "Safari" to make new document' \
-    -e 'activate application "Safari"'
+ctrl + cmd - g : ~/.config/skhd/safari
+ctrl + cmd - s : ~/.config/skhd/safari
 
 ctrl + cmd - m : open -a "Mail.app"

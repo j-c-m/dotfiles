@@ -1,0 +1,11 @@
+#!/bin/dash
+
+osascript <<EOF
+try
+    tell application "Safari"
+        make new document
+    end tell
+on error
+    do shell script "open -a Safari"
+end try
+EOF
