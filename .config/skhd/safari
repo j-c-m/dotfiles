@@ -4,6 +4,7 @@ osascript <<EOF
 try
     tell application "Safari"
         make new document
+        activate
     end tell
 on error
     do shell script "open -a Safari"
