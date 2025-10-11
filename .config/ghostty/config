@@ -15,11 +15,9 @@ window-step-resize = true
 
 theme = SpaceGray Eighties
 palette = 3=#d3a03e
-palette = 8=#999999
+palette = 8=#888888
 foreground = #cccccc
 background = #111111
-#selection-background = #e0e0e0
-#selection-foreground = #222222
 selection-foreground = cell-background
 selection-background = cell-foreground
 cursor-color = cell-foreground
