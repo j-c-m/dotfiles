@@ -1,7 +1,8 @@
 #!/bin/dash
 
 # Get last non-minimized Alacritty window in the current space
-alacritty_win=$(yabai -m query --windows --space | jq -r '[.[] | select(.app=="Alacritty" and .["is-minimized"]==false) | .id][-1]')
+alacritty_win=$(yabai -m query --windows --space | jq -r '[.[] | select(.app | ascii_downcase == "alacritty" and .["is-minimized"]==false) | .id][-1]')
+
 
 # Create window if needed, otherwise focus last window
 if [ "$alacritty_win" = "null" ]; then
