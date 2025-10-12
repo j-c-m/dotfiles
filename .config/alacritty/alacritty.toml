@@ -3,6 +3,7 @@ dimensions = { columns = 105, lines = 35 }
 opacity = 1
 option_as_alt = "Both"
 resize_increments = true
+decorations_theme_variant = "dark"
 
 [font]
 normal = { family = "JetBrains Mono", style = "Regular" }
