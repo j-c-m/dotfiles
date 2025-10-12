@@ -12,6 +12,7 @@ adjust-cell-height = -1
 window-width = 105
 window-height = 35
 window-step-resize = true
+window-save-state = never
 
 theme = SpaceGray Eighties
 palette = 3=#d3a03e
