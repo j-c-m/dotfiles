@@ -6,7 +6,7 @@ ghostty_win=$(yabai -m query --windows --space | jq -r '[.[] | select((.app | as
 # Create window if needed, otherwise focus last window
 if [ "$ghostty_win" = "null" ]; then
     LABEL="pid$$"
-    yabai -m signal --add event=window_created label="$LABEL" app="^Ghostty$" \
+    yabai -m signal --add event=window_created label="$LABEL" app="^[Gg]hostty$" \
      action="yabai -m window \$YABAI_WINDOW_ID --focus && yabai -m signal --remove $LABEL" \
     && osascript <<EOF
 tell application "Ghostty"

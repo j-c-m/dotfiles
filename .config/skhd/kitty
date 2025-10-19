@@ -7,7 +7,7 @@ kitty_win=$(yabai -m query --windows --space | jq -r '[.[] | select((.app | asci
 if [ "$kitty_win" = "null" ]; then
     unset SHELL
     LABEL="pid$$"
-    yabai -m signal --add event=window_created label="$LABEL" app="^kitty$" \
+    yabai -m signal --add event=window_created label="$LABEL" app="^[Kk]itty$" \
      action="yabai -m window \$YABAI_WINDOW_ID --focus && yabai -m signal --remove $LABEL" \
      && /opt/homebrew/bin/kitty -1 -d ${HOME}
 else
