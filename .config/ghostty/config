@@ -5,6 +5,7 @@
 # Additionally, each config option is also explained in detail
 # on Ghostty's website, at https://ghostty.org/docs/config.
 font-family = JetBrains Mono
+font-family-bold = JetBrains Mono ExtraBold
 font-size = 19
 background-opacity = 1
 adjust-cell-height = -1
@@ -19,6 +20,7 @@ palette = 3=#d3a03e
 palette = 8=#888888
 foreground = #cccccc
 background = #111111
+
 selection-foreground = cell-background
 selection-background = cell-foreground
 cursor-color = cell-foreground
