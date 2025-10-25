@@ -19,7 +19,7 @@ theme = SpaceGray Eighties
 palette = 3=#d3a03e
 palette = 8=#888888
 foreground = #cccccc
-background = #111111
+background = #000000
 
 selection-foreground = cell-background
 selection-background = cell-foreground

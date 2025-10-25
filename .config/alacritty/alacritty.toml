@@ -1,5 +1,6 @@
 [window]
 dimensions = { columns = 105, lines = 35 }
+padding = { x = 2, y = 2 }
 opacity = 1
 option_as_alt = "Both"
 resize_increments = true
@@ -24,7 +25,7 @@ enabled = []
 
 # Default colors
 [colors.primary]
-background  = '#111111'
+background  = '#000000'
 foreground  = '#cccccc'
 
 # Normal colors
