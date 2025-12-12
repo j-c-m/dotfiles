@@ -15,7 +15,7 @@ window-height = 35
 window-step-resize = true
 window-save-state = never
 
-theme = SpaceGray Eighties
+theme = Spacegray Eighties
 palette = 3=#d3a03e
 palette = 8=#888888
 foreground = #cccccc
