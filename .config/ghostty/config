@@ -8,7 +8,7 @@ font-family = JetBrains Mono
 font-family-bold = JetBrains Mono ExtraBold
 font-size = 19
 background-opacity = 1
-adjust-cell-height = -1
+adjust-cell-width = 1
 
 window-width = 105
 window-height = 35
