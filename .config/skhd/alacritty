@@ -12,5 +12,5 @@ if [ "$alacritty_win" = "null" ]; then
      action="yabai -m window \$YABAI_WINDOW_ID --focus && yabai -m signal --remove $LABEL" \
      && /opt/homebrew/bin/alacritty msg create-window > /dev/null 2>&1 || /opt/homebrew/bin/alacritty
 else
-    yabai -m window "$alacritty_win" --focus
+    yabai -m window "$alacritty_win" --focus || /opt/homebrew/bin/alacritty msg create-window
 fi

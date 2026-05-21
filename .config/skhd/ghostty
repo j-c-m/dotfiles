@@ -10,5 +10,5 @@ if [ "$ghostty_win" = "null" ]; then
      action="yabai -m window \$YABAI_WINDOW_ID --focus && yabai -m signal --remove $LABEL" \
     && osascript -e 'tell application "Ghostty" to new window' > /dev/null 2>&1
 else
-    yabai -m window "$ghostty_win" --focus
+    yabai -m window "$ghostty_win" --focus || osascript -e 'tell application "Ghostty" to new window'
 fi

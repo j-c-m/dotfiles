@@ -11,5 +11,5 @@ if [ "$kitty_win" = "null" ]; then
      action="yabai -m window \$YABAI_WINDOW_ID --focus && yabai -m signal --remove $LABEL" \
      && /opt/homebrew/bin/kitty -1 -d ${HOME}
 else
-    yabai -m window "$kitty_win" --focus
+    yabai -m window "$kitty_win" --focus || /opt/homebrew/bin/kitty -1 -d ${HOME}
 fi
