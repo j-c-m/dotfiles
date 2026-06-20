@@ -1,10 +1,17 @@
-# don't put duplicate lines in the history. See bash(1) for more options
-# ... or force ignoredups and ignorespace
+HISTFILE=~/.bash_history
+HISTSIZE=100000
+HISTFILESIZE=100000
+HISTTIMEFORMAT='%F %T '
+
+# ignore consecutive dups; don't save commands prefixed with a space
 HISTCONTROL=ignoredups:ignorespace
 
-# append to the history file, don't overwrite it
 shopt -s histappend
+shopt -s histverify
 
-# for setting history length see HISTSIZE and HISTFILESIZE in bash(1)
-HISTSIZE=1000
-HISTFILESIZE=5000
+# append after each command and pick up history from other sessions
+__sync_history() {
+    history -a
+    history -n
+}
+PROMPT_COMMAND="${PROMPT_COMMAND:+$PROMPT_COMMAND; }__sync_history"
