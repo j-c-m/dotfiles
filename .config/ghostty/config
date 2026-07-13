@@ -6,7 +6,7 @@
 # on Ghostty's website, at https://ghostty.org/docs/config.
 font-family = JetBrains Mono
 font-family-bold = JetBrains Mono ExtraBold
-font-size = 19
+font-size = 20
 background-opacity = 1
 adjust-cell-width = 1
 
@@ -14,6 +14,8 @@ window-width = 105
 window-height = 35
 window-step-resize = true
 window-save-state = never
+
+scrollback-limit = 100000000
 
 theme = Spacegray Eighties
 palette = 3=#d3a03e
