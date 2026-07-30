@@ -1,4 +1,4 @@
-VERSION=0.0.42
+VERSION=0.0.43
 
 check_and_upgrade_dotfiles() {
     if [ -z "$ZSH_VERSION" ]; then
