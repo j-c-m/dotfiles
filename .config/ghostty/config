@@ -39,5 +39,5 @@ clipboard-write = allow
 quit-after-last-window-closed = true
 quit-after-last-window-closed-delay = 1m
 
-keybind = shift+enter=text:\r
+keybind = shift+enter=text:\n
 keybind = super+f=write_screen_file:open
