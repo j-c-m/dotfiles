@@ -33,6 +33,8 @@ cursor-style = block
 cursor-style-blink = false
 
 copy-on-select = clipboard
+clipboard-read = allow
+clipboard-write = allow
 
 quit-after-last-window-closed = true
 quit-after-last-window-closed-delay = 1m
