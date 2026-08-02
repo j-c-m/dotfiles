@@ -12,6 +12,4 @@ rm -f $HOME/.shell_theme.sh
 rm -rf $HOME/.config/theme-stache
 rm -f $HOME/.sh/05-theme-stache.sh
 rm -f $HOME/bin/theme-stache
-# vendored terminfo/termcap retired; use system DB or 01-term.sh fallback
 rm -f $HOME/.termcap
-rm -rf $HOME/.terminfo
