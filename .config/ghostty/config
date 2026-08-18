@@ -17,16 +17,35 @@ window-save-state = never
 
 scrollback-limit = 100000000
 
-theme = Spacegray Eighties
-palette = 3=#d3a03e
+# Theme:    Eighties Black
+# Mode:     dark
+# Source:   Chris Kempson (http://chriskempson.com)
+
+palette = 0=#111111
+palette = 1=#ee4549
+palette = 2=#59b259
+palette = 3=#c86131
+palette = 4=#3773af
+palette = 5=#b259b2
+palette = 6=#37afaf
+palette = 7=#cccccc
 palette = 8=#888888
-foreground = #cccccc
+palette = 9=#f2777a
+palette = 10=#99cc99
+palette = 11=#ffcc66
+palette = 12=#6699cc
+palette = 13=#cc99cc
+palette = 14=#66cccc
+palette = 15=#f2f0ec
+
 background = #000000
+foreground = #cccccc
+
+cursor-color = cell-foreground
+cursor-text = cell-background
 
 selection-foreground = cell-background
 selection-background = cell-foreground
-cursor-color = cell-foreground
-cursor-text = cell-background
 
 shell-integration-features = no-cursor
 cursor-style = block

@@ -17,36 +17,41 @@ save_to_clipboard = true
 [hints]
 enabled = []
 
-# Source:   iterm
-# Theme:    SpaceGray Eighties
-# Author:   unknown
-# Variant:  dark
-# (MODIFIED, 3, 8, fg,selection)
+# Theme:    Eighties Black
+# Mode:     dark
+# Source:   Chris Kempson (http://chriskempson.com)
 
 # Default colors
 [colors.primary]
 background  = '#000000'
 foreground  = '#cccccc'
 
+[colors.cursor]
+text        = 'CellBackground'
+cursor      = 'CellForeground'
+
+[colors.selection]
+text        = 'CellBackground'
+background  = 'CellForeground'
+
 # Normal colors
 [colors.normal]
-black       = '#15171c'
-red         = '#ec5f67'
-green       = '#81a764'
-#yellow      = '#fec254'
-yellow      = '#d3a03e'
-blue        = '#5486c0'
-magenta     = '#bf83c1'
-cyan        = '#57c2c1'
-white       = '#efece7'
+black       = '#111111'
+red         = '#ee4549'
+green       = '#59b259'
+yellow      = '#c86131'
+blue        = '#3773af'
+magenta     = '#b259b2'
+cyan        = '#37afaf'
+white       = '#cccccc'
 
 # Bright colors
 [colors.bright]
 black       = '#888888'
-red         = '#ff6973'
-green       = '#93d493'
-yellow      = '#ffd256'
-blue        = '#4d84d1'
-magenta     = '#ff55ff'
-cyan        = '#83e9e4'
-white       = '#ffffff'
+red         = '#f2777a'
+green       = '#99cc99'
+yellow      = '#ffcc66'
+blue        = '#6699cc'
+magenta     = '#cc99cc'
+cyan        = '#66cccc'
+white       = '#f2f0ec'
