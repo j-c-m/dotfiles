@@ -66,8 +66,52 @@ colorscheme ansi-dim
 set pastetoggle=<F2>
 set number
 
+set clipboard=unnamedplus
 if has('clipboard')
-  set clipboard=unnamed,autoselect
+  set clipboard+=autoselect
+endif
+
+if !empty(globpath(&packpath, 'pack/*/opt/osc52'))
+  packadd osc52
+endif
+if exists('v:clipproviders') && has_key(v:clipproviders, 'osc52')
+  set clipmethod+=osc52
+
+  " clipboard-providers ignore autoselect; copy Visual to + (OSC 52;c)
+  function! s:Osc52Autoselect() abort
+    if v:clipmethod !=# 'osc52'
+      return
+    endif
+    if mode() =~# "^[vV\<C-v>]"
+      let l:type = mode()
+      let l:a = getpos('v')
+      let l:b = getpos('.')
+    else
+      let l:type = visualmode()
+      let l:a = getpos("'<")
+      let l:b = getpos("'>")
+    endif
+    if empty(l:type) || l:a[1] < 1 || l:b[1] < 1
+      return
+    endif
+    let l:lines = getregion(l:a, l:b, {'type': l:type})
+    if empty(l:lines)
+      return
+    endif
+    let l:payload = l:type . "\n" . join(l:lines, "\n")
+    if l:payload ==# get(s:, 'osc52_last', '')
+      return
+    endif
+    let s:osc52_last = l:payload
+    call setreg('+', l:lines, l:type)
+  endfunction
+
+  xnoremap <silent> <LeftRelease> <LeftRelease><Cmd>call <SID>Osc52Autoselect()<CR>
+  augroup Osc52Autoselect
+    autocmd!
+    autocmd ModeChanged [vV\x16]*:* call s:Osc52Autoselect()
+    autocmd FocusLost * if mode() =~# "^[vV\<C-v>]" | call s:Osc52Autoselect() | endif
+  augroup END
 endif
 
 if has('mouse')
