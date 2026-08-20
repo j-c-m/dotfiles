@@ -66,8 +66,13 @@ colorscheme ansi-dim
 set pastetoggle=<F2>
 set number
 
-set clipboard=unnamed,autoselect
-set mouse=a
+if has('clipboard')
+  set clipboard=unnamed,autoselect
+endif
+
+if has('mouse')
+  set mouse=a
+endif
 
 " Function to detect indentation style
 function! DetectIndent()
