@@ -118,52 +118,42 @@ if has('mouse')
   set mouse=a
 endif
 
-" Function to detect indentation style
-function! DetectIndent()
-  " Check the first 1000 lines for indentation patterns
-  let l:lines = getline(1, 1000)
-  let l:has_tabs = 0
-  let l:has_spaces = 0
-  let l:indent_size = 0
-  let l:lnum = 1
+function! DetectIndent() abort
+  let l:tabs = 0
+  let l:spaces = 0
+  let l:two = 0
+  let l:four = 0
+  let l:prev = -1
 
-  " Enable syntax highlighting if not already enabled
-  if !exists('b:current_syntax')
-    silent! syntax enable
-  endif
-
-  " Analyze lines for tabs or spaces
-  for l:line in l:lines
-    let l:is_comment = synIDattr(synID(l:lnum, 1, 1), 'name') =~? 'comment'
-    if !l:is_comment
-      if l:line =~ '^\t\+'
-        let l:has_tabs += 1
-      elseif l:line =~ '^\s\+'
-        let l:has_spaces += 1
-        " Estimate indent size (count spaces at start)
-        let l:spaces = matchstr(l:line, '^\s\+')
-        let l:count = len(l:spaces)
-        if l:count > 0 && (l:indent_size == 0 || l:count < l:indent_size)
-          let l:indent_size = l:count
+  for l:line in getline(1, 200)
+    if l:line =~# '^\s*$' || l:line =~# '^\s*\%(//\|/\*\|\*\|#\|"\|--\)'
+      continue
+    endif
+    if l:line =~# '^\t'
+      let l:tabs += 1
+      let l:prev = -1
+    elseif l:line =~# '^ '
+      let l:spaces += 1
+      let l:n = len(matchstr(l:line, '^ *'))
+      if l:prev >= 0 && l:n > l:prev
+        let l:d = l:n - l:prev
+        if l:d == 2 && (l:prev == 0 || l:prev % 4 != 0)
+          let l:two += 1
+        elseif l:d == 4
+          let l:four += 1
         endif
       endif
+      let l:prev = l:n
+    else
+      let l:prev = 0
     endif
-    let l:lnum += 1
   endfor
 
-  " Set indentation based on findings
-  if l:has_tabs > l:has_spaces
-    setlocal noexpandtab
-    setlocal tabstop=4 shiftwidth=4
-  elseif l:has_spaces
+  if l:tabs > 0 && l:tabs >= l:spaces
+    setlocal noexpandtab tabstop=4 shiftwidth=4 softtabstop=-1
+  elseif l:spaces > 0
+    let l:sw = l:two > l:four ? 2 : 4
     setlocal expandtab
-    if l:indent_size > 0
-      let l:ts = l:indent_size <= 8 ? l:indent_size : 2
-      let l:ts = l:ts >= 2 ? l:ts : 2
-      execute 'setlocal tabstop=' . l:ts
-      execute 'setlocal shiftwidth=' . l:ts
-    else
-      setlocal tabstop=2 shiftwidth=2
-    endif
+    execute 'setlocal tabstop=' . l:sw 'shiftwidth=' . l:sw 'softtabstop=-1'
   endif
 endfunction
