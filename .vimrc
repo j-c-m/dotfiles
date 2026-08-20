@@ -66,6 +66,9 @@ colorscheme ansi-dim
 set pastetoggle=<F2>
 set number
 
+set clipboard=unnamed,autoselect
+set mouse=a
+
 " Function to detect indentation style
 function! DetectIndent()
   " Check the first 1000 lines for indentation patterns
