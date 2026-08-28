@@ -116,6 +116,7 @@ endif
 
 if has('mouse')
   set mouse=a
+  set ttymouse=sgr
 endif
 
 function! DetectIndent() abort
