@@ -8,7 +8,7 @@ decorations_theme_variant = "dark"
 
 [font]
 normal = { family = "JetBrains Mono", style = "Regular" }
-#size = 20
+size = 20
 offset = { x = 1, y = 0 }
 
 [selection]
