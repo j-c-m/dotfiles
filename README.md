@@ -3,6 +3,17 @@ dotfiles
 
 Just my dotfiles
 
+On Omarchy, do not extract into `$HOME`. Clone and run the allowlist linker instead:
+
+```
+git clone https://github.com/j-c-m/dotfiles.git ~/dev/dotfiles
+~/dev/dotfiles/install.sh
+```
+
+`--dry-run` prints the plan. `--force` backs up a conflicting dest and replaces it.
+
+Elsewhere, the old tarball install is fine:
+
 ```
 function _install_dotfiles() {
     local TAR
