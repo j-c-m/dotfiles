@@ -53,6 +53,11 @@ COMMON=(
     .sh/pager.sh
 )
 
+# Omarchy-only overlays (unix/macOS already get these via .bash/).
+OMARCHY=(
+    .bash/history.bash
+)
+
 # Non-Omarchy Unix: take over the login shell and editors.
 UNIX=(
     .bashrc
@@ -139,6 +144,7 @@ link() {
 paths=("${COMMON[@]}")
 if is_omarchy; then
     echo "profile: omarchy (allowlist)"
+    paths+=("${OMARCHY[@]}")
 else
     paths+=("${UNIX[@]}")
     if is_darwin; then
