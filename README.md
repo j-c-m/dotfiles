@@ -3,7 +3,7 @@ dotfiles
 
 Just my dotfiles
 
-On Omarchy, do not extract into `$HOME`. Clone and run the allowlist linker instead:
+On Omarchy, do not extract into `$HOME`. Clone and run the allowlist linker instead. That profile also links Hyprland and Omarchy shell overlays; stock templates stay with the package.
 
 ```
 git clone https://github.com/j-c-m/dotfiles.git ~/dev/dotfiles

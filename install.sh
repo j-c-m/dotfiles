@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 # Link this repo into $HOME. Never extracts a tarball into $HOME.
 #
-# Omarchy: only files that do not fight Hyprland/theme/shell ownership.
+# Omarchy: personal overlays plus files Omarchy does not own.
+# Stock hypr/theme/shell templates stay with the package.
 # Elsewhere: shells, terminals, nvim, tmux, git config as well.
 # macOS also gets yabai/skhd.
 #
@@ -56,6 +57,15 @@ COMMON=(
 # Omarchy-only overlays (unix/macOS already get these via .bash/).
 OMARCHY=(
     .bash/history.bash
+    .config/hypr/bindings.lua
+    .config/hypr/input.lua
+    .config/hypr/looknfeel.lua
+    .config/hypr/monitors.lua
+    .config/hypr/scripts/workspace-layout-cycle
+    .config/omarchy/shell.json
+    .config/omarchy/themed/Omarchy.sublime-color-scheme.tpl
+    .config/omarchy/hooks/font-set.d/sublime
+    .config/omarchy/hooks/theme-set.d/sublime
 )
 
 # Non-Omarchy Unix: take over the login shell and editors.

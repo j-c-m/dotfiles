@@ -1,0 +1,40 @@
+#!/bin/bash
+# Cycle the current workspace: master -> dwindle -> scrolling -> master
+# Omarchy's SUPER+L toggle only knows dwindle/scrolling, so master was a trap.
+
+ACTIVE_WORKSPACE=$(hyprctl activeworkspace -j | jq -r '.id')
+[[ $ACTIVE_WORKSPACE =~ ^-?[0-9]+$ ]] || exit 1
+CURRENT_LAYOUT=$(hyprctl activeworkspace -j | jq -r '.tiledLayout')
+LAYOUTS_DIR="$HOME/.local/state/omarchy/workspace-layouts"
+LAYOUT_FILE="$LAYOUTS_DIR/$ACTIVE_WORKSPACE.lua"
+
+case "$CURRENT_LAYOUT" in
+  master) NEW_LAYOUT=dwindle ;;
+  dwindle) NEW_LAYOUT=scrolling ;;
+  *) NEW_LAYOUT=master ;;
+esac
+
+mkdir -p "$LAYOUTS_DIR"
+printf 'hl.workspace_rule({ workspace = "%s", layout = "%s" })\n' "$ACTIVE_WORKSPACE" "$NEW_LAYOUT" >"$LAYOUT_FILE"
+
+hyprctl eval "hl.workspace_rule({ workspace = \"$ACTIVE_WORKSPACE\", layout = \"$NEW_LAYOUT\" })" >/dev/null 2>&1 ||
+  hyprctl keyword workspace "$ACTIVE_WORKSPACE, layout:$NEW_LAYOUT"
+
+if [[ $NEW_LAYOUT == master ]]; then
+  # Match looknfeel.lua: center on wide screens, left on this laptop.
+  ORIENT=$(hyprctl getoption master:orientation -j | jq -r '.str')
+  MFACT=$(hyprctl getoption master:mfact -j | jq -r '.float')
+  case "$ORIENT" in
+    left) MSG=orientationleft ;;
+    right) MSG=orientationright ;;
+    top) MSG=orientationtop ;;
+    bottom) MSG=orientationbottom ;;
+    *) MSG=orientationcenter ;;
+  esac
+  hyprctl eval "hl.dispatch(hl.dsp.layout(\"$MSG\"))" >/dev/null
+  if [[ $MFACT =~ ^[0-9.]+$ ]]; then
+    hyprctl eval "hl.dispatch(hl.dsp.layout(\"mfact exact $MFACT\"))" >/dev/null
+  fi
+fi
+
+omarchy-notification-send -g 󱂬 "Workspace layout set to $NEW_LAYOUT"
