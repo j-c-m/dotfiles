@@ -131,6 +131,55 @@ end
 
 local grouping = false
 
+-- Group tab bar is shown only when a group has more than one window
+-- (`group.groupbar.disable_when_only`). Hide the Omarchy menu bar then.
+local bar_off_flag = (os.getenv("HOME") or "") .. "/.local/state/omarchy/toggles/bar-off"
+local menu_bar_sync_pending = false
+
+local function menu_bar_is_hidden()
+  local file = io.open(bar_off_flag, "r")
+  if not file then
+    return false
+  end
+  file:close()
+  return true
+end
+
+local function workspace_shows_groupbar(ws)
+  if not ws then
+    return false
+  end
+  for _, win in ipairs(ws:get_windows() or {}) do
+    if win.mapped and win.group and (win.group.size or 0) > 1 then
+      return true
+    end
+  end
+  return false
+end
+
+local function sync_menu_bar()
+  local ws = hl.get_active_special_workspace() or hl.get_active_workspace()
+  local hide = workspace_shows_groupbar(ws)
+  if menu_bar_is_hidden() == hide then
+    return
+  end
+  -- omarchy-toggle-bar on/off sets the bar-off flag, not bar visibility.
+  hl.exec_cmd(hide and "omarchy-toggle-bar on" or "omarchy-toggle-bar off")
+end
+
+local function schedule_menu_bar_sync()
+  if menu_bar_sync_pending then
+    return
+  end
+  menu_bar_sync_pending = true
+  hl.timer(function()
+    menu_bar_sync_pending = false
+    sync_menu_bar()
+  end, { timeout = 40, type = "oneshot" })
+end
+
+o.sync_menu_bar_for_groups = schedule_menu_bar_sync
+
 -- On this laptop, keep tiled windows in one tab group so the master is full size.
 local function group_tiled_windows(ws)
   if grouping or not ws or ws.special then
@@ -164,6 +213,7 @@ local function group_tiled_windows(ws)
     end
   end
   grouping = false
+  schedule_menu_bar_sync()
 end
 
 local function group_narrow_workspaces()
@@ -219,7 +269,11 @@ end
 
 apply_master_layout()
 group_narrow_workspaces()
-hl.on("monitor.focused", apply_master_layout)
+schedule_menu_bar_sync()
+hl.on("monitor.focused", function()
+  apply_master_layout()
+  schedule_menu_bar_sync()
+end)
 hl.on("monitor.layout_changed", function()
   apply_master_layout()
   group_narrow_workspaces()
@@ -227,13 +281,21 @@ end)
 hl.on("config.reloaded", function()
   apply_master_layout()
   group_narrow_workspaces()
+  schedule_menu_bar_sync()
 end)
-hl.on("workspace.active", apply_master_layout)
+hl.on("workspace.active", function()
+  apply_master_layout()
+  schedule_menu_bar_sync()
+end)
 hl.on("window.open", function(win)
   if win and win.workspace then
     group_tiled_windows(win.workspace)
   end
+  schedule_menu_bar_sync()
 end)
+hl.on("window.close", schedule_menu_bar_sync)
+hl.on("window.destroy", schedule_menu_bar_sync)
 hl.on("window.move_to_workspace", function(_, ws)
   group_tiled_windows(ws)
+  schedule_menu_bar_sync()
 end)

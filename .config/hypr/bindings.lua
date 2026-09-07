@@ -15,6 +15,29 @@
 -- Add a new binding.
 -- o.bind("SUPER + SHIFT + R", "SSH", "alacritty -e ssh your-server")
 
+local function with_menu_bar_sync(dispatcher)
+  return function()
+    hl.dispatch(dispatcher)
+    if o.sync_menu_bar_for_groups then
+      o.sync_menu_bar_for_groups()
+    end
+  end
+end
+
+-- Grouping keys also hide/show the menu bar when the group tab bar appears.
+hl.unbind("SUPER + G")
+hl.unbind("SUPER + ALT + G")
+hl.unbind("SUPER + ALT + LEFT")
+hl.unbind("SUPER + ALT + RIGHT")
+hl.unbind("SUPER + ALT + UP")
+hl.unbind("SUPER + ALT + DOWN")
+o.bind("SUPER + G", "Toggle window grouping", with_menu_bar_sync(hl.dsp.group.toggle()))
+o.bind("SUPER + ALT + G", "Move active window out of group", with_menu_bar_sync(hl.dsp.window.move({ out_of_group = true })))
+o.bind("SUPER + ALT + LEFT", "Move window to group on left", with_menu_bar_sync(hl.dsp.window.move({ into_group = "l" })))
+o.bind("SUPER + ALT + RIGHT", "Move window to group on right", with_menu_bar_sync(hl.dsp.window.move({ into_group = "r" })))
+o.bind("SUPER + ALT + UP", "Move window to group on top", with_menu_bar_sync(hl.dsp.window.move({ into_group = "u" })))
+o.bind("SUPER + ALT + DOWN", "Move window to group on bottom", with_menu_bar_sync(hl.dsp.window.move({ into_group = "d" })))
+
 -- On this laptop, windows are tabbed. Super+M cycles tabs.
 -- If there is no group, keep the old master swap for the ultrawide.
 o.bind("SUPER + M", "Next tab", function()
