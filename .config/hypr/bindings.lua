@@ -84,3 +84,11 @@ o.bind(
   os.getenv("HOME") .. "/.local/bin/omarchy-webapp-handler-icloud-mail compose",
   { release = true }
 )
+
+-- Apple Music instead of Spotify (was Music).
+hl.unbind("SUPER + SHIFT + M")
+o.bind(
+  "SUPER + SHIFT + M",
+  "Music",
+  "omarchy-launch-or-focus-webapp 'Apple Music' 'https://music.apple.com/us/home'"
+)
