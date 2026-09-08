@@ -36,7 +36,7 @@
 -- https://wiki.hypr.land/Configuring/Basics/Variables/#layout
 hl.config({
   general = {
-    layout = "master",
+    layout = "monocle",
   },
 
   master = {
@@ -56,12 +56,7 @@ hl.config({
   },
 
   group = {
-    auto_group = true,
-    group_on_movetoworkspace = true,
-    groupbar = {
-      -- One-window groups should look like a normal tiled window.
-      disable_when_only = true,
-    },
+    auto_group = false,
   },
 })
 
@@ -77,6 +72,8 @@ hl.config({
 -- Monitor width/height are physical pixels; reserved and gaps are logical.
 local MIN_SIDE = 400
 local LEFT_MFACT = 0.85
+-- Diagonal inches from EDID. Master at or above this; monocle below.
+local MASTER_MIN_INCHES = 20
 
 local function css_side(box, side)
   if type(box) == "number" then
@@ -88,7 +85,7 @@ local function css_side(box, side)
   return box[side] or 0
 end
 
-local applying_master = false
+local applying = false
 
 local function monitor_work_area(mon)
   if not mon or not mon.scale or mon.scale <= 0 then
@@ -119,114 +116,38 @@ local function monitor_work_area(mon)
   return work_w, work_h, border
 end
 
--- Wide enough for a 3:2 master plus two usable side stacks.
+local function monitor_inches(mon)
+  local w = tonumber(mon and mon.physical_width) or 0
+  local h = tonumber(mon and mon.physical_height) or 0
+  if w <= 0 or h <= 0 then
+    return 0
+  end
+  return math.sqrt(w * w + h * h) / 25.4
+end
+
 local function monitor_is_wide(mon)
-  local work_w, work_h, border = monitor_work_area(mon)
-  if not work_w then
-    return false
-  end
-  local slot_w = ((work_h - (2 * border)) * 3 / 2) + (2 * border)
-  return (slot_w + (2 * MIN_SIDE)) <= work_w
+  return monitor_inches(mon) >= MASTER_MIN_INCHES
 end
 
-local grouping = false
-
--- Group tab bar is shown only when a group has more than one window
--- (`group.groupbar.disable_when_only`). Hide the Omarchy menu bar then.
-local bar_off_flag = (os.getenv("HOME") or "") .. "/.local/state/omarchy/toggles/bar-off"
-local menu_bar_sync_pending = false
-
-local function menu_bar_is_hidden()
-  local file = io.open(bar_off_flag, "r")
-  if not file then
-    return false
-  end
-  file:close()
-  return true
-end
-
-local function workspace_shows_groupbar(ws)
-  if not ws then
-    return false
-  end
-  for _, win in ipairs(ws:get_windows() or {}) do
-    if win.mapped and win.group and (win.group.size or 0) > 1 then
-      return true
-    end
-  end
-  return false
-end
-
-local function sync_menu_bar()
-  local ws = hl.get_active_special_workspace() or hl.get_active_workspace()
-  local hide = workspace_shows_groupbar(ws)
-  if menu_bar_is_hidden() == hide then
+local function apply_default_layout(ws)
+  if not ws or ws.special or not ws.monitor then
     return
   end
-  -- omarchy-toggle-bar on/off sets the bar-off flag, not bar visibility.
-  hl.exec_cmd(hide and "omarchy-toggle-bar on" or "omarchy-toggle-bar off")
+  local want = monitor_is_wide(ws.monitor) and "master" or "monocle"
+  local cur = ws.tiled_layout
+  if cur == want or (cur ~= "master" and cur ~= "monocle") then
+    return
+  end
+  hl.workspace_rule({ workspace = tostring(ws.id), layout = want })
 end
 
-local function schedule_menu_bar_sync()
-  if menu_bar_sync_pending then
-    return
-  end
-  menu_bar_sync_pending = true
-  hl.timer(function()
-    menu_bar_sync_pending = false
-    sync_menu_bar()
-  end, { timeout = 40, type = "oneshot" })
-end
-
-o.sync_menu_bar_for_groups = schedule_menu_bar_sync
-
--- On this laptop, keep tiled windows in one tab group so the master is full size.
-local function group_tiled_windows(ws)
-  if grouping or not ws or ws.special then
-    return
-  end
-  if monitor_is_wide(ws.monitor) then
-    return
-  end
-
-  local tiled = {}
-  for _, win in ipairs(ws:get_windows() or {}) do
-    if not win.floating and win.mapped then
-      tiled[#tiled + 1] = win
-    end
-  end
-  if #tiled == 0 then
-    return
-  end
-
-  grouping = true
-  local group = tiled[1].group
-  if not group then
-    hl.dispatch(hl.dsp.group.toggle({ window = tiled[1] }))
-    group = tiled[1].group
-  end
-  if group then
-    for i = 2, #tiled do
-      if tiled[i].group ~= group then
-        group:add(tiled[i])
-      end
-    end
-  end
-  grouping = false
-  schedule_menu_bar_sync()
-end
-
-local function group_narrow_workspaces()
+local function apply_all_default_layouts()
   for _, ws in ipairs(hl.get_workspaces() or {}) do
-    group_tiled_windows(ws)
+    apply_default_layout(ws)
   end
 end
 
-local function apply_master_layout()
-  if applying_master then
-    return
-  end
-
+local function apply_master_geometry()
   local mon = hl.get_active_monitor()
   local work_w, work_h, border = monitor_work_area(mon)
   if not work_w then
@@ -248,7 +169,6 @@ local function apply_master_layout()
     mfact = 0.85
   end
 
-  applying_master = true
   hl.config({
     master = {
       mfact = mfact,
@@ -264,38 +184,33 @@ local function apply_master_layout()
     hl.dispatch(hl.dsp.layout(center_ok and "orientationcenter" or "orientationleft"))
     hl.dispatch(hl.dsp.layout(string.format("mfact exact %.4f", mfact)))
   end
-  applying_master = false
 end
 
-apply_master_layout()
-group_narrow_workspaces()
-schedule_menu_bar_sync()
-hl.on("monitor.focused", function()
-  apply_master_layout()
-  schedule_menu_bar_sync()
+local function apply_layout(ws)
+  if applying then
+    return
+  end
+  applying = true
+  if ws then
+    apply_default_layout(ws)
+  else
+    apply_all_default_layouts()
+  end
+  apply_master_geometry()
+  applying = false
+end
+
+apply_layout()
+hl.on("workspace.created", apply_layout)
+hl.on("workspace.move_to_monitor", apply_layout)
+hl.on("workspace.active", apply_master_geometry)
+hl.on("monitor.focused", apply_master_geometry)
+hl.on("monitor.added", function()
+  apply_layout()
 end)
 hl.on("monitor.layout_changed", function()
-  apply_master_layout()
-  group_narrow_workspaces()
+  apply_layout()
 end)
 hl.on("config.reloaded", function()
-  apply_master_layout()
-  group_narrow_workspaces()
-  schedule_menu_bar_sync()
-end)
-hl.on("workspace.active", function()
-  apply_master_layout()
-  schedule_menu_bar_sync()
-end)
-hl.on("window.open", function(win)
-  if win and win.workspace then
-    group_tiled_windows(win.workspace)
-  end
-  schedule_menu_bar_sync()
-end)
-hl.on("window.close", schedule_menu_bar_sync)
-hl.on("window.destroy", schedule_menu_bar_sync)
-hl.on("window.move_to_workspace", function(_, ws)
-  group_tiled_windows(ws)
-  schedule_menu_bar_sync()
+  apply_layout()
 end)

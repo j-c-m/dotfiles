@@ -15,47 +15,45 @@
 -- Add a new binding.
 -- o.bind("SUPER + SHIFT + R", "SSH", "alacritty -e ssh your-server")
 
-local function with_menu_bar_sync(dispatcher)
-  return function()
-    hl.dispatch(dispatcher)
-    if o.sync_menu_bar_for_groups then
-      o.sync_menu_bar_for_groups()
-    end
-  end
-end
-
--- Grouping keys also hide/show the menu bar when the group tab bar appears.
-hl.unbind("SUPER + G")
-hl.unbind("SUPER + ALT + G")
-hl.unbind("SUPER + ALT + LEFT")
-hl.unbind("SUPER + ALT + RIGHT")
-hl.unbind("SUPER + ALT + UP")
-hl.unbind("SUPER + ALT + DOWN")
-o.bind("SUPER + G", "Toggle window grouping", with_menu_bar_sync(hl.dsp.group.toggle()))
-o.bind("SUPER + ALT + G", "Move active window out of group", with_menu_bar_sync(hl.dsp.window.move({ out_of_group = true })))
-o.bind("SUPER + ALT + LEFT", "Move window to group on left", with_menu_bar_sync(hl.dsp.window.move({ into_group = "l" })))
-o.bind("SUPER + ALT + RIGHT", "Move window to group on right", with_menu_bar_sync(hl.dsp.window.move({ into_group = "r" })))
-o.bind("SUPER + ALT + UP", "Move window to group on top", with_menu_bar_sync(hl.dsp.window.move({ into_group = "u" })))
-o.bind("SUPER + ALT + DOWN", "Move window to group on bottom", with_menu_bar_sync(hl.dsp.window.move({ into_group = "d" })))
-
--- On this laptop, windows are tabbed. Super+M cycles tabs.
--- If there is no group, keep the old master swap for the ultrawide.
-o.bind("SUPER + M", "Next tab", function()
-  local win = hl.get_active_window()
-  if win and win.group and (win.group.size or 0) > 1 then
-    hl.dispatch(hl.dsp.group.next())
-    return
-  end
-
+-- Super+M cycles the monocle stack, or swaps with master.
+o.bind("SUPER + M", "Next window in stack", function()
   local workspace = hl.get_active_special_workspace() or hl.get_active_workspace()
-  if not workspace or workspace.tiled_layout ~= "master" then
+  if not workspace then
     return
   end
-  hl.dispatch(hl.dsp.layout("swapwithmaster master"))
+  if workspace.tiled_layout == "monocle" then
+    hl.dispatch(hl.dsp.layout("cyclenext"))
+    return
+  end
+  if workspace.tiled_layout == "master" then
+    hl.dispatch(hl.dsp.layout("swapwithmaster master"))
+  end
 end)
 
--- SUPER+L was Omarchy's dwindle/scrolling toggle, which could not return
--- to master. Cycle all three instead.
+-- Alt+Tab does not cycle monocle windows unless the layout dispatcher is used.
+hl.unbind("ALT + TAB")
+hl.unbind("ALT + SHIFT + TAB")
+o.bind("ALT + TAB", "Focus on next window", function()
+  local workspace = hl.get_active_special_workspace() or hl.get_active_workspace()
+  if workspace and workspace.tiled_layout == "monocle" then
+    hl.dispatch(hl.dsp.layout("cyclenext"))
+  else
+    hl.dispatch(hl.dsp.window.cycle_next())
+  end
+  hl.dispatch(hl.dsp.window.bring_to_top())
+end)
+o.bind("ALT + SHIFT + TAB", "Focus on previous window", function()
+  local workspace = hl.get_active_special_workspace() or hl.get_active_workspace()
+  if workspace and workspace.tiled_layout == "monocle" then
+    hl.dispatch(hl.dsp.layout("cycleprev"))
+  else
+    hl.dispatch(hl.dsp.window.cycle_next({ next = false }))
+  end
+  hl.dispatch(hl.dsp.window.bring_to_top())
+end)
+
+-- SUPER+L was Omarchy's dwindle/scrolling toggle. Cycle master, dwindle,
+-- scrolling, and monocle instead.
 hl.unbind("SUPER + L")
 o.bind("SUPER + L", "Cycle workspace layout", os.getenv("HOME") .. "/.config/hypr/scripts/workspace-layout-cycle")
 

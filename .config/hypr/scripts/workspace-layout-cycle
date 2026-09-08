@@ -1,6 +1,6 @@
 #!/bin/bash
-# Cycle the current workspace: master -> dwindle -> scrolling -> master
-# Omarchy's SUPER+L toggle only knows dwindle/scrolling, so master was a trap.
+# Cycle the current workspace: master -> dwindle -> scrolling -> monocle -> master
+# Default layout is monocle. Omarchy's SUPER+L toggle only knows dwindle/scrolling.
 
 ACTIVE_WORKSPACE=$(hyprctl activeworkspace -j | jq -r '.id')
 [[ $ACTIVE_WORKSPACE =~ ^-?[0-9]+$ ]] || exit 1
@@ -11,6 +11,7 @@ LAYOUT_FILE="$LAYOUTS_DIR/$ACTIVE_WORKSPACE.lua"
 case "$CURRENT_LAYOUT" in
   master) NEW_LAYOUT=dwindle ;;
   dwindle) NEW_LAYOUT=scrolling ;;
+  scrolling) NEW_LAYOUT=monocle ;;
   *) NEW_LAYOUT=master ;;
 esac
 
