@@ -3,6 +3,7 @@
 hl.config({
   input = {
     accel_profile = "flat",
+    kb_options = "compose:caps,shift:both_capslock_cancel,altwin:swap_alt_win",
     touchpad = {
       natural_scroll = true
     }
