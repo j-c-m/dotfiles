@@ -73,7 +73,7 @@ hl.config({
 local MIN_SIDE = 400
 local LEFT_MFACT = 0.85
 -- Diagonal inches from EDID. Master at or above this; monocle below.
-local MASTER_MIN_INCHES = 20
+local MASTER_MIN_INCHES = 15
 
 local function css_side(box, side)
   if type(box) == "number" then
