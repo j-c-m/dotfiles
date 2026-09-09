@@ -61,3 +61,4 @@ quit-after-last-window-closed-delay = 1m
 
 keybind = shift+enter=text:\n
 keybind = super+e=write_screen_file:open
+keybind = ctrl+shift+n=new_window
