@@ -13,3 +13,8 @@ rm -rf $HOME/.config/theme-stache
 rm -f $HOME/.sh/05-theme-stache.sh
 rm -f $HOME/bin/theme-stache
 rm -f $HOME/.termcap
+rm -f $HOME/.config/skhd/alacritty
+rm -f $HOME/.config/skhd/ghostty
+rm -f $HOME/.config/skhd/kitty
+rm -f $HOME/.config/skhd/safari
+rm -f $HOME/.config/skhd/terminal
