@@ -36,7 +36,7 @@
 -- https://wiki.hypr.land/Configuring/Basics/Variables/#layout
 hl.config({
   general = {
-    layout = "monocle",
+    layout = "master",
   },
 
   master = {
@@ -71,9 +71,7 @@ hl.config({
 -- Size and place the master column for the focused monitor.
 -- Monitor width/height are physical pixels; reserved and gaps are logical.
 local MIN_SIDE = 400
-local LEFT_MFACT = 0.85
--- Diagonal inches from EDID. Master at or above this; monocle below.
-local MASTER_MIN_INCHES = 15
+local LEFT_MFACT = 0.90
 
 local function css_side(box, side)
   if type(box) == "number" then
@@ -85,7 +83,7 @@ local function css_side(box, side)
   return box[side] or 0
 end
 
-local applying = false
+local applying_master = false
 
 local function monitor_work_area(mon)
   if not mon or not mon.scale or mon.scale <= 0 then
@@ -116,38 +114,11 @@ local function monitor_work_area(mon)
   return work_w, work_h, border
 end
 
-local function monitor_inches(mon)
-  local w = tonumber(mon and mon.physical_width) or 0
-  local h = tonumber(mon and mon.physical_height) or 0
-  if w <= 0 or h <= 0 then
-    return 0
-  end
-  return math.sqrt(w * w + h * h) / 25.4
-end
-
-local function monitor_is_wide(mon)
-  return monitor_inches(mon) >= MASTER_MIN_INCHES
-end
-
-local function apply_default_layout(ws)
-  if not ws or ws.special or not ws.monitor then
+local function apply_master_layout()
+  if applying_master then
     return
   end
-  local want = monitor_is_wide(ws.monitor) and "master" or "monocle"
-  local cur = ws.tiled_layout
-  if cur == want or (cur ~= "master" and cur ~= "monocle") then
-    return
-  end
-  hl.workspace_rule({ workspace = tostring(ws.id), layout = want })
-end
 
-local function apply_all_default_layouts()
-  for _, ws in ipairs(hl.get_workspaces() or {}) do
-    apply_default_layout(ws)
-  end
-end
-
-local function apply_master_geometry()
   local mon = hl.get_active_monitor()
   local work_w, work_h, border = monitor_work_area(mon)
   if not work_w then
@@ -165,10 +136,11 @@ local function apply_master_geometry()
   end
   if mfact < 0.35 then
     mfact = 0.35
-  elseif mfact > 0.85 then
-    mfact = 0.85
+  elseif mfact > 0.90 then
+    mfact = 0.90
   end
 
+  applying_master = true
   hl.config({
     master = {
       mfact = mfact,
@@ -184,33 +156,11 @@ local function apply_master_geometry()
     hl.dispatch(hl.dsp.layout(center_ok and "orientationcenter" or "orientationleft"))
     hl.dispatch(hl.dsp.layout(string.format("mfact exact %.4f", mfact)))
   end
+  applying_master = false
 end
 
-local function apply_layout(ws)
-  if applying then
-    return
-  end
-  applying = true
-  if ws then
-    apply_default_layout(ws)
-  else
-    apply_all_default_layouts()
-  end
-  apply_master_geometry()
-  applying = false
-end
-
-apply_layout()
-hl.on("workspace.created", apply_layout)
-hl.on("workspace.move_to_monitor", apply_layout)
-hl.on("workspace.active", apply_master_geometry)
-hl.on("monitor.focused", apply_master_geometry)
-hl.on("monitor.added", function()
-  apply_layout()
-end)
-hl.on("monitor.layout_changed", function()
-  apply_layout()
-end)
-hl.on("config.reloaded", function()
-  apply_layout()
-end)
+apply_master_layout()
+hl.on("monitor.focused", apply_master_layout)
+hl.on("monitor.layout_changed", apply_master_layout)
+hl.on("config.reloaded", apply_master_layout)
+hl.on("workspace.active", apply_master_layout)

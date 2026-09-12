@@ -15,45 +15,15 @@
 -- Add a new binding.
 -- o.bind("SUPER + SHIFT + R", "SSH", "alacritty -e ssh your-server")
 
--- Super+M cycles the monocle stack, or swaps with master.
-o.bind("SUPER + M", "Next window in stack", function()
+o.bind("SUPER + M", "Swap with master", function()
   local workspace = hl.get_active_special_workspace() or hl.get_active_workspace()
-  if not workspace then
-    return
-  end
-  if workspace.tiled_layout == "monocle" then
-    hl.dispatch(hl.dsp.layout("cyclenext"))
-    return
-  end
-  if workspace.tiled_layout == "master" then
+  if workspace and workspace.tiled_layout == "master" then
     hl.dispatch(hl.dsp.layout("swapwithmaster master"))
   end
 end)
 
--- Alt+Tab does not cycle monocle windows unless the layout dispatcher is used.
-hl.unbind("ALT + TAB")
-hl.unbind("ALT + SHIFT + TAB")
-o.bind("ALT + TAB", "Focus on next window", function()
-  local workspace = hl.get_active_special_workspace() or hl.get_active_workspace()
-  if workspace and workspace.tiled_layout == "monocle" then
-    hl.dispatch(hl.dsp.layout("cyclenext"))
-  else
-    hl.dispatch(hl.dsp.window.cycle_next())
-  end
-  hl.dispatch(hl.dsp.window.bring_to_top())
-end)
-o.bind("ALT + SHIFT + TAB", "Focus on previous window", function()
-  local workspace = hl.get_active_special_workspace() or hl.get_active_workspace()
-  if workspace and workspace.tiled_layout == "monocle" then
-    hl.dispatch(hl.dsp.layout("cycleprev"))
-  else
-    hl.dispatch(hl.dsp.window.cycle_next({ next = false }))
-  end
-  hl.dispatch(hl.dsp.window.bring_to_top())
-end)
-
 -- SUPER+L was Omarchy's dwindle/scrolling toggle. Cycle master, dwindle,
--- scrolling, and monocle instead.
+-- and scrolling instead.
 hl.unbind("SUPER + L")
 o.bind("SUPER + L", "Cycle workspace layout", os.getenv("HOME") .. "/.config/hypr/scripts/workspace-layout-cycle")
 
