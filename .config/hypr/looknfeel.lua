@@ -151,8 +151,9 @@ local function apply_master_layout()
 
   -- Orientation and mfact stick per-workspace; the global values only
   -- cover new workspaces. Apply both to the current master workspace.
+  -- layoutmsg orientation* unfullscreens the focused window.
   local workspace = hl.get_active_special_workspace() or hl.get_active_workspace()
-  if workspace and workspace.tiled_layout == "master" then
+  if workspace and workspace.tiled_layout == "master" and not workspace.has_fullscreen then
     hl.dispatch(hl.dsp.layout(center_ok and "orientationcenter" or "orientationleft"))
     hl.dispatch(hl.dsp.layout(string.format("mfact exact %.4f", mfact)))
   end
