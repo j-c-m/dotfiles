@@ -5,7 +5,7 @@ cmd - 4 : yabai -m space --focus 4
 cmd - 5 : yabai -m space --focus 5
 cmd - 6 : yabai -m space --focus 6
 
-cmd - return : osascript -e 'tell application "Ghostty" to new window'
+cmd - return : osascript -e 'tell application "Ghostty" to new window activate'
 
 cmd + shift - return : osascript -e 'tell application "Safari.app" to make new document activate'
 cmd + shift - b : osascript -e 'tell application "Safari.app" to make new document activate'
@@ -20,7 +20,7 @@ cmd + shift - x : open -a X
 cmd + shift - y : open -a YouTube
 
 ctrl + cmd - k : env -u SHELL kitty --single-instance --directory="${HOME}"
-ctrl + cmd - t : osascript -e 'tell application "Ghostty" to new window'
+ctrl + cmd - t : osascript -e 'tell application "Ghostty" to new window activate'
 ctrl + cmd - j : alacritty msg create-window || env -u SHELL alacritty
 #ctrl + cmd - t : osascript -e 'tell application "iTerm" to create window with default profile' \
 #    -e 'activate application "iTerm"'
