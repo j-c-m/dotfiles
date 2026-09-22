@@ -60,6 +60,11 @@ hl.config({
   },
 })
 
+-- One visible window on a workspace has no border and no gaps.
+-- Two or more keep general.border_size (2), gaps_out (10), and gaps_in (5).
+o.window({ workspace = "w[v1]" }, { border_size = 0 })
+hl.workspace_rule({ workspace = "w[v1]", gaps_out = 0, gaps_in = 0 })
+
 -- https://wiki.hypr.land/Configuring/Layouts/Scrolling-Layout/
 -- hl.config({
 --   scrolling = {
