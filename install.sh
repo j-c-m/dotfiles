@@ -60,7 +60,6 @@ OMARCHY=(
     .config/hypr/bindings.lua
     .config/hypr/input.lua
     .config/hypr/looknfeel.lua
-    .config/hypr/monitors.lua
     .config/hypr/scripts/workspace-layout-cycle
     .config/omarchy/shell.json
     .config/omarchy/plugins/jmiller.workspaces
