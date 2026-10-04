@@ -29,7 +29,7 @@ function _install_dotfiles() {
         return 1
     fi
 
-    TAR="${TAR} -xvzf - --no-same-owner  --no-same-permissions --strip-components 1 --exclude={README.md,LICENSE}"
+    TAR="${TAR} -xvzf - --no-same-owner  --no-same-permissions --strip-components 1 --exclude={install.sh,README.md,LICENSE}"
 
     if type -p curl &> /dev/null; then
         FETCH="curl -k -L https://github.com/j-c-m/dotfiles/tarball/master"
