@@ -1,14 +1,52 @@
 -- Keep only your personal input overrides here. Uncommented settings below
 -- replace Omarchy's defaults.
+
+-- Physical Alt is Super, and physical Win is Alt, except while Dota 2 is
+-- focused. The game gets the keys in their printed positions.
+local kb_options = "compose:caps,shift:both_capslock_cancel"
+local kb_options_desktop = kb_options .. ",altwin:swap_alt_win"
+
 hl.config({
   input = {
     accel_profile = "flat",
-    kb_options = "compose:caps,shift:both_capslock_cancel,altwin:swap_alt_win",
+    kb_options = kb_options_desktop,
     touchpad = {
       natural_scroll = true
     }
   }
 })
+
+local dota_classes = {
+  dota2 = true,
+  ["dota2.exe"] = true,
+  steam_app_570 = true,
+}
+
+local function window_is_dota(window)
+  if not window then
+    return false
+  end
+
+  return dota_classes[window.class] or dota_classes[window.initial_class] or false
+end
+
+local dota_keymap = false
+
+local function sync_dota_keymap()
+  local dota = window_is_dota(hl.get_active_window())
+  if dota == dota_keymap then
+    return
+  end
+
+  dota_keymap = dota
+  hl.config({
+    ["input.kb_options"] = dota and kb_options or kb_options_desktop,
+  })
+end
+
+hl.on("window.active", sync_dota_keymap)
+hl.on("window.class", sync_dota_keymap)
+sync_dota_keymap()
 -- Keyboard layout and options.
 -- See https://wiki.hypr.land/Configuring/Basics/Variables/#input
 -- hl.config({
