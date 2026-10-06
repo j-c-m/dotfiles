@@ -53,10 +53,43 @@ o.bind(
   { release = true }
 )
 
+-- iCloud Calendar instead of HEY (was Calendar).
+-- The pattern is the Edge --app class (msedge-www.icloud.com__calendar_-Default).
+-- A title match also hits other windows that mention iCloud Calendar.
+hl.unbind("SUPER + SHIFT + C")
+o.bind(
+  "SUPER + SHIFT + C",
+  "iCloud Calendar",
+  "omarchy-launch-or-focus-webapp 'icloud.com__calendar_' 'https://www.icloud.com/calendar/'"
+)
+
 -- Apple Music instead of Spotify (was Music).
+-- The pattern is the Edge --app class (msedge-music.apple.com__us_home-Default).
+-- The URL has no trailing slash, so the class has no trailing underscore.
+-- A title match also hits other windows that mention Apple Music.
 hl.unbind("SUPER + SHIFT + M")
 o.bind(
   "SUPER + SHIFT + M",
   "Music",
-  "omarchy-launch-or-focus-webapp 'Apple Music' 'https://music.apple.com/us/home'"
+  "omarchy-launch-or-focus-webapp 'music.apple.com__us_home' 'https://music.apple.com/us/home'"
 )
+
+-- iCloud Photos instead of Google Photos.
+-- The pattern is the Edge --app class (msedge-www.icloud.com__photos_-Default).
+-- A title match also hits other windows that mention iCloud Photos.
+hl.unbind("SUPER + SHIFT + P")
+o.bind(
+  "SUPER + SHIFT + P",
+  "iCloud Photos",
+  "omarchy-launch-or-focus-webapp 'icloud.com__photos_' 'https://www.icloud.com/photos/'"
+)
+
+-- Grok on Super+Shift+A (was ChatGPT). ChatGPT moves to Super+Shift+Alt+A (was Grok).
+hl.unbind("SUPER + SHIFT + A")
+hl.unbind("SUPER + SHIFT + ALT + A")
+o.bind("SUPER + SHIFT + A", "Grok", { webapp = "https://grok.com" })
+o.bind("SUPER + SHIFT + ALT + A", "ChatGPT", { webapp = "https://chatgpt.com" })
+
+-- Google instead of Signal.
+hl.unbind("SUPER + SHIFT + G")
+o.bind("SUPER + SHIFT + G", "Google", { webapp = "https://www.google.com" })
