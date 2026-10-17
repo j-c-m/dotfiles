@@ -64,6 +64,7 @@ OMARCHY=(
     .config/omarchy/shell.json
     .config/omarchy/plugins/jmiller.workspaces
     .config/omarchy/themed/Omarchy.sublime-color-scheme.tpl
+    .config/omarchy/themed/vscode-theme.json.tpl
     .config/omarchy/hooks/font-set.d/sublime
     .config/omarchy/hooks/theme-set.d/sublime
 )
