@@ -93,3 +93,9 @@ o.bind("SUPER + SHIFT + ALT + A", "ChatGPT", { webapp = "https://chatgpt.com" })
 -- Google instead of Signal.
 hl.unbind("SUPER + SHIFT + G")
 o.bind("SUPER + SHIFT + G", "Google", { webapp = "https://www.google.com" })
+
+-- Super+Shift+S takes a screenshot (merged upstream, omacom/omarchy#8827).
+-- Remove this block once it is the system default.
+hl.unbind("SUPER + SHIFT + S")
+o.bind("SUPER + SHIFT + S", "Screenshot", "omarchy-capture-screenshot")
+o.bind("SUPER + SHIFT + ALT + S", "Google Maps", { webapp = "https://maps.google.com/", focus = true })
