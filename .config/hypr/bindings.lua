@@ -94,6 +94,11 @@ o.bind("SUPER + SHIFT + ALT + A", "ChatGPT", { webapp = "https://chatgpt.com" })
 hl.unbind("SUPER + SHIFT + G")
 o.bind("SUPER + SHIFT + G", "Google", { webapp = "https://www.google.com" })
 
+-- Ctrl+Alt+Q (Hyprland SUPER+CTRL+Q; the key labeled Alt is Super) locks
+-- instead of opening the calculator. XF86Calculator still opens omacalc.
+hl.unbind("SUPER + CTRL + Q")
+o.bind("SUPER + CTRL + Q", "Lock system", "omarchy-system-lock")
+
 -- Super+Shift+S takes a screenshot (merged upstream, omacom/omarchy#8827).
 -- Remove this block once it is the system default.
 hl.unbind("SUPER + SHIFT + S")
