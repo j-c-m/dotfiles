@@ -22,10 +22,11 @@ o.bind("SUPER + M", "Swap with master", function()
   end
 end)
 
--- SUPER+L was Omarchy's dwindle/scrolling toggle. Cycle master, dwindle,
--- and scrolling instead.
+-- SUPER+L locks. The layout cycle (master, dwindle, scrolling) moves to SUPER+N.
+-- Stock SUPER+L was the dwindle/scrolling toggle.
 hl.unbind("SUPER + L")
-o.bind("SUPER + L", "Cycle workspace layout", os.getenv("HOME") .. "/.config/hypr/scripts/workspace-layout-cycle")
+o.bind("SUPER + L", "Lock system", "omarchy-system-lock")
+o.bind("SUPER + N", "Cycle workspace layout", os.getenv("HOME") .. "/.config/hypr/scripts/workspace-layout-cycle")
 
 -- Change an existing binding by unbinding it first, then binding the key again.
 -- This example changes SUPER+SPACE from the launcher to the Omarchy root menu.
