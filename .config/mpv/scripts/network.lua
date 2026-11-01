@@ -130,9 +130,14 @@ local function macos_flags(path)
     end
     local ffi = macos_ffi
     local buf = ffi.new("struct mpv_statfs")
-    local ok, rc = pcall(ffi.C.mpv_statfs_inode64, path, buf)
+    -- ffi.C.symbol resolves on index, so the index must sit inside pcall.
+    local ok, rc = pcall(function()
+        return ffi.C.mpv_statfs_inode64(path, buf)
+    end)
     if not ok then
-        ok, rc = pcall(ffi.C.mpv_statfs, path, buf)
+        ok, rc = pcall(function()
+            return ffi.C.mpv_statfs(path, buf)
+        end)
     end
     if not ok then
         mp.msg.warn("statfs symbol is missing")
@@ -416,8 +421,11 @@ local function update()
         return
     end
     local resolved = resolve_path(path)
-    local network = platform() == "darwin" and macos_is_network(resolved) or linux_is_network(resolved)
-    publish(network, resolved)
+    if platform() == "darwin" then
+        publish(macos_is_network(resolved), resolved)
+        return
+    end
+    publish(linux_is_network(resolved), resolved)
 end
 
 mp.add_hook("on_load", 50, update)
